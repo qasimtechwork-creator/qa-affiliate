@@ -272,7 +272,7 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
              radial-gradient(520px 300px at 96% 88%,rgba(212,175,55,.20),transparent 70%),
              radial-gradient(380px 240px at 88% 8%,rgba(150,110,255,.14),transparent 70%)}
 /* 3D depth petals: near = big + blurred + fast, far = small + slow */
-.cat-fx{position:absolute;inset:0;z-index:2;pointer-events:none;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,#000 0%,#000 42%,transparent 66%);mask-image:linear-gradient(90deg,#000 0%,#000 42%,transparent 66%)}
+.cat-fx{position:absolute;inset:0;z-index:2;pointer-events:none;overflow:hidden;-webkit-mask-image:linear-gradient(90deg,#000 0%,#000 38%,transparent 58%);mask-image:linear-gradient(90deg,#000 0%,#000 38%,transparent 58%)}
 .fx-petal{position:absolute;top:-40px;border-radius:62% 38% 55% 45%/48% 55% 45% 52%;opacity:0;animation:fx-fall linear infinite}
 .fx-petal.d1{filter:blur(2.5px)}
 .fx-petal.d2{filter:blur(.8px)}
