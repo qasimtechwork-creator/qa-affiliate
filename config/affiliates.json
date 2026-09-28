@@ -2,10 +2,11 @@
   "_comment": "Central affiliate merchant configuration. Product pages NEVER hardcode affiliate links — every CTA resolves through data/products.json -> merchant key -> this file. To go live: replace url_template placeholders with your real affiliate-tagged URLs and set enabled=true.",
   "merchants": {
     "aliexpress": {
+      "_comment": "Tracking ID 'default'. Tracked links are per-product short links (https://s.click.aliexpress.com/e/_<code>) generated via the portal Link Generator (Tools > Link Generator) or tools/aliexpress_import.py via the Open Platform API. There is no URL-template affiliate tag for AliExpress.",
       "disclosure_short": "QA Affiliate may earn a commission on qualifying AliExpress purchases.",
       "enabled": false,
       "name": "AliExpress",
-      "url_template": "https://www.aliexpress.com/item/EXAMPLE.html?aff_id=YOUR-AFFILIATE-ID"
+      "url_template": "https://s.click.aliexpress.com/e/_TRACKING-CODE"
     },
     "amazon": {
       "_comment": "Set enabled=true and paste your SiteStripe / Associates tagged URL template. {product_url} is replaced per product.",

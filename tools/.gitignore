@@ -1,0 +1,3 @@
+# Never commit AliExpress API secrets.
+.alix_secrets.json
+aliexpress_import_output.json
