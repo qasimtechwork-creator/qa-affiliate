@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trending Workflow — {brand}</title>
+<meta name="description" content="How QA Affiliate discovers, reviews and publishes trending and viral products.">
+<link rel="icon" type="image/png" href="/assets/images/favicon-64.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+<div data-site-header></div>
+<div class="container">
+  <div class="breadcrumb"><a href="/">Home</a> / Trending Workflow</div>
+  <section class="section legal-body" style="padding-top:24px">
+    <h1>How Our Trending System Works</h1>
+    <p>Transparency is the point of QA Affiliate — so here is exactly how a product earns the <span class="badge trending">Trending</span> or <span class="badge viral">Viral</span> tag.</p>
+    <h2>1. Signal collection</h2>
+    <p>Each refresh cycle we gather permitted signals for products in our affiliate sources (Amazon, AliExpress, Temu):</p>
+    <ul>
+      <li>Merchant popularity / bestseller indicators, where the merchant publishes them</li>
+      <li>Rating and review-count momentum (growth vs. previous cycle)</li>
+      <li>Discount and price movement</li>
+      <li>Availability and affiliate-eligibility status</li>
+      <li>External trend research: social attention, search interest, seasonal demand</li>
+    </ul>
+    <h2>2. Scoring</h2>
+    <p>Candidate products are scored on momentum (not absolute size): a product is <em>trending</em> when its signals are rising faster than its category baseline. <em>Viral</em> is reserved for products with exceptional cross-signal spikes — social attention plus merchant momentum together.</p>
+    <h2>3. Editorial review</h2>
+    <p>No product is tagged automatically. An editor checks every candidate for: real merchant availability, a working affiliate link, accurate pricing, and fit with our audience — before it appears in any trending collection.</p>
+    <h2>4. Publishing</h2>
+    <p>Approved products get <code>trend_status: "trending"</code> or <code>"viral"</code> in <code>data/products.json</code>. Homepage modules, the <a href="/trending.html">Trending page</a> and category pages render these collections automatically — no code changes.</p>
+    <h2>5. Refresh & removal</h2>
+    <p>Trending collections are reviewed on a rolling cycle (recommended: weekly; viral: as signals move). Products whose momentum fades, go out of stock, or lose affiliate eligibility are demoted or removed — manually if needed.</p>
+    <h2>What we never do</h2>
+    <ul>
+      <li>Never fabricate a trend, popularity claim or "viral" status.</li>
+      <li>Never tag a product trending because a merchant paid for placement.</li>
+      <li>Never present sample/demo data as real trend evidence.</li>
+    </ul>
+    <p>The full operator runbook lives in <code>docs/trending-workflow.md</code> in the site repository.</p>
+  </section>
+</div>
+<div data-site-footer></div>
+<script src="/assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Category — {brand}</title>
+<meta name="description" content="Browse a QA Affiliate product category with search and filters.">
+<link rel="icon" type="image/png" href="/assets/images/favicon-64.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body data-page="category">
+<div data-site-header></div>
+<div class="container">
+  <div class="breadcrumb"><a href="/">Home</a> / <a href="/products.html">Shop All</a> / <span id="crumb-cat">Category</span></div>
+  <section class="section" style="padding-top:24px">
+    <h1 class="section-title" id="cat-title">Category</h1>
+    <p class="section-sub" id="cat-sub"></p>
+    <div class="filter-bar">
+      <div class="filter-row">
+        <div class="filter-group search-big"><label for="f-q">Search in this category</label><input id="f-q" type="search" placeholder="Search…"></div>
+        <div class="filter-group"><label for="f-sub">Subcategory</label><select id="f-sub"><option value="">All subcategories</option></select></div>
+        <div class="filter-group"><label for="f-sort">Sort</label><select id="f-sort"><option value="">Featured</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="rating">Highest rated</option><option value="discount">Biggest discount</option></select></div>
+        <div class="filter-group"><label for="f-store">Store</label><select id="f-store"><option value="">All stores</option><option value="amazon">Amazon</option><option value="aliexpress">AliExpress</option><option value="temu">Temu</option></select></div>
+      </div>
+    </div>
+    <p id="filter-count" style="color:var(--muted);margin-bottom:18px"></p>
+    <div class="product-grid" id="filter-grid"></div>
+  </section>
+</div>
+<div data-site-footer></div>
+<script src="/assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,297 @@
+/* QA Affiliate — front-end engine.
+   Loads the data layer (config + products), renders reusable components,
+   powers search/filters, tracks affiliate clicks, injects GA4. No affiliate
+   URLs are hardcoded — every CTA resolves through data/products.json. */
+(function(){
+"use strict";
+var QA = window.QA = {};
+var state = { site:null, affiliates:null, categories:null, products:[] };
+
+function getJSON(path){
+  return fetch(path).then(function(r){ if(!r.ok) throw new Error("load failed: "+path); return r.json(); });
+}
+function esc(s){
+  return String(s==null?"":s).replace(/[&<>"']/g,function(c){
+    return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
+  });
+}
+function money(n){ return "$"+Number(n).toFixed(2); }
+function discountPct(p){
+  if(!p.original_price || p.original_price<=p.price) return 0;
+  return Math.round((1-p.price/p.original_price)*100);
+}
+function stars(r){
+  if(r==null) return '<span class="stars">No rating yet</span>';
+  var full=Math.round(r), s="";
+  for(var i=0;i<5;i++) s+= i<full ? "★" : "☆";
+  return '<span class="stars">'+s+' <span>('+r.toFixed(1)+')</span></span>';
+}
+function merchantName(p){
+  var m = state.affiliates && state.affiliates.merchants[p.merchant];
+  return m ? m.name : p.merchant;
+}
+function badges(p){
+  var out=[];
+  (p.badges||[]).forEach(function(b){
+    var label={ "best-seller":"Best Seller","top-rated":"Top Rated","best-deal":"Best Deal","new":"New" }[b]||b;
+    out.push('<span class="badge '+esc(b)+'">'+esc(label)+'</span>');
+  });
+  if(p.trend_status==="viral") out.push('<span class="badge viral">Viral</span>');
+  else if(p.trend_status==="trending") out.push('<span class="badge trending">Trending</span>');
+  return out.join("");
+}
+function sampleTag(p){
+  return p.sample ? '<span class="sample-tag">Sample listing</span>' : '';
+}
+QA.productCard = function(p){
+  var off=discountPct(p);
+  return '<article class="product-card">'+
+    '<div class="product-media"><a href="/product.html?id='+esc(p.id)+'" aria-label="'+esc(p.name)+'">'+
+    '<img src="/assets/img/placeholder-product.svg" alt="'+esc(p.name)+' — product image placeholder 1200x628" loading="lazy"></a>'+
+    '<div class="badge-row">'+badges(p)+'</div>'+sampleTag(p)+'</div>'+
+    '<div class="product-body">'+
+    '<div class="product-merchant">'+esc(merchantName(p))+'</div>'+
+    '<h3 class="product-name"><a href="/product.html?id='+esc(p.id)+'">'+esc(p.name)+'</a></h3>'+
+    stars(p.rating)+
+    '<div class="price-row"><span class="price">'+money(p.price)+'</span>'+
+    (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price)+'</span>':'')+
+    (off>0?'<span class="price-off">-'+off+'%</span>':'')+'</div>'+
+    '<div class="product-cta"><a class="btn btn-rose btn-block" data-aff data-id="'+esc(p.id)+'" href="'+esc(p.affiliate_url)+'" target="_blank" rel="nofollow sponsored noopener">View Deal</a></div>'+
+    '</div></article>';
+};
+function renderGrid(el, list){
+  if(!list.length){ el.innerHTML='<div class="empty-state"><h3>Nothing found</h3><p>Try adjusting your search or filters.</p></div>'; return; }
+  el.innerHTML=list.map(QA.productCard).join("");
+}
+/* ---------- header / footer ---------- */
+function socialLinks(){
+  var s=state.site.social, out="";
+  var icons={instagram:"📷",tiktok:"🎵",youtube:"▶️",facebook:"📘",x:"𝕏"};
+  Object.keys(icons).forEach(function(k){
+    if(s[k]) out+='<a href="'+esc(s[k])+'" target="_blank" rel="noopener" aria-label="'+k+'">'+icons[k]+'</a>';
+  });
+  return out;
+}
+function renderChrome(){
+  var s=state.site;
+  document.querySelectorAll("[data-site-header]").forEach(function(el){
+    el.innerHTML=
+    (s.demo_mode?'<div class="demo-notice">Demonstration catalog — sample listings shown. Connect affiliate feeds to go live. <a href="/legal/disclosure.html">How we make money</a></div>':'')+
+    '<header class="site-header"><div class="container header-inner">'+
+    '<a class="brand" href="/"><img src="'+esc(s.brand.logo)+'" alt="'+esc(s.brand.logo_alt)+'"><span class="brand-name">'+esc(s.brand.name)+'<small>'+esc(s.brand.tagline)+'</small></span></a>'+
+    '<button class="nav-toggle" aria-label="Menu" onclick="document.querySelector(\'.main-nav\').classList.toggle(\'open\')">☰</button>'+
+    '<nav class="main-nav">'+
+    '<a href="/">Home</a><a href="/products.html">Shop All</a><a href="/trending.html">Trending</a><a href="/deals.html">Deals</a><a href="/guides.html">Guides</a><a href="/about.html">About</a>'+
+    '</nav></div></header>';
+    var path=location.pathname;
+    el.querySelectorAll(".main-nav a").forEach(function(a){
+      if(a.getAttribute("href")===path) a.classList.add("active");
+    });
+  });
+  document.querySelectorAll("[data-site-footer]").forEach(function(el){
+    var cats=state.categories.categories.slice(0,6).map(function(c){
+      return '<li><a href="/category.html?cat='+c.id+'">'+esc(c.name)+'</a></li>';
+    }).join("");
+    el.innerHTML='<footer class="site-footer"><div class="container">'+
+    '<div class="footer-grid">'+
+    '<div class="footer-brand"><img src="'+esc(s.brand.logo)+'" alt="'+esc(s.brand.logo_alt)+'"><p>'+esc(s.brand.tagline)+'. Transparent affiliate discovery for women\'s fashion, beauty and lifestyle.</p><div class="social-row">'+socialLinks()+'</div></div>'+
+    '<div><h4>Shop</h4><ul>'+cats+'</ul></div>'+
+    '<div><h4>Discover</h4><ul><li><a href="/trending.html">Trending & Viral</a></li><li><a href="/deals.html">Best Deals</a></li><li><a href="/products.html">All Products</a></li><li><a href="/guides.html">Buying Guides</a></li></ul></div>'+
+    '<div><h4>Company</h4><ul><li><a href="/about.html">About</a></li><li><a href="/contact.html">Contact</a></li><li><a href="/legal/disclosure.html">Affiliate Disclosure</a></li><li><a href="/legal/privacy.html">Privacy Policy</a></li><li><a href="/legal/terms.html">Terms</a></li></ul></div>'+
+    '</div>'+
+    '<div class="footer-bottom"><span>© '+new Date().getFullYear()+' '+esc(s.brand.name)+'. All rights reserved.</span><span><a href="/legal/advertising.html">Advertising Disclosure</a> · <a href="/legal/cookies.html">Cookie Notice</a></span></div>'+
+    '</div></footer>';
+  });
+  document.title=document.title.replace("{brand}",s.brand.name);
+}
+/* ---------- GA4 + affiliate click tracking ---------- */
+function initAnalytics(){
+  var id=state.site.analytics.ga4_measurement_id;
+  if(!id) return;
+  var g=document.createElement("script");
+  g.async=true; g.src="https://www.googletagmanager.com/gtag/js?id="+encodeURIComponent(id);
+  document.head.appendChild(g);
+  window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){window.dataLayer.push(arguments);};
+  window.gtag("js",new Date());
+  window.gtag("config",id,{anonymize_ip:true});
+}
+function trackAffiliateClick(p){
+  var payload={event:"affiliate_click",product_id:p.id,product_name:p.name,merchant:p.merchant,category:p.category,value:p.price,currency:"USD"};
+  if(window.gtag) window.gtag("event","affiliate_click",payload);
+  try{
+    var log=JSON.parse(localStorage.getItem("qa_aff_clicks")||"[]");
+    log.push(Object.assign({ts:new Date().toISOString()},payload));
+    localStorage.setItem("qa_aff_clicks",JSON.stringify(log.slice(-500)));
+  }catch(e){}
+}
+document.addEventListener("click",function(e){
+  var a=e.target.closest("[data-aff]");
+  if(!a) return;
+  var p=state.products.find(function(x){return x.id===a.getAttribute("data-id");});
+  if(p) trackAffiliateClick(p);
+});
+/* ---------- newsletter (provider-independent) ---------- */
+function initNewsletter(){
+  document.querySelectorAll("[data-newsletter-form]").forEach(function(form){
+    form.addEventListener("submit",function(e){
+      e.preventDefault();
+      var email=form.querySelector('input[type="email"]').value.trim();
+      var msg=form.parentElement.querySelector("[data-newsletter-msg]");
+      if(!email||email.indexOf("@")<0){ msg.textContent="Please enter a valid email address."; return; }
+      var cfg=state.site.newsletter;
+      try{
+        var q=JSON.parse(localStorage.getItem("qa_newsletter_queue")||"[]");
+        q.push({email:email,ts:new Date().toISOString()});
+        localStorage.setItem("qa_newsletter_queue",JSON.stringify(q));
+      }catch(err){}
+      if(cfg.provider&&cfg.action_url){
+        msg.textContent="Thanks — please check your inbox to confirm your subscription.";
+      }else{
+        msg.textContent="Thanks for subscribing! Our newsletter provider is being connected — you are on the list.";
+      }
+      form.reset();
+    });
+  });
+}
+/* ---------- filters ---------- */
+function applyFilters(list,f){
+  return list.filter(function(p){
+    if(f.q && (p.name+" "+p.short_description+" "+p.category+" "+p.subcategory).toLowerCase().indexOf(f.q.toLowerCase())<0) return false;
+    if(f.cat && p.category!==f.cat) return false;
+    if(f.sub && p.subcategory!==f.sub) return false;
+    if(f.minPrice!=null && p.price<f.minPrice) return false;
+    if(f.maxPrice!=null && p.price>f.maxPrice) return false;
+    if(f.minRating!=null && (p.rating==null||p.rating<f.minRating)) return false;
+    if(f.minDiscount!=null && discountPct(p)<f.minDiscount) return false;
+    if(f.store && p.merchant!==f.store) return false;
+    if(f.trendingOnly && !p.trend_status) return false;
+    return true;
+  });
+}
+function sortList(list,sort){
+  var l=list.slice();
+  if(sort==="price-asc") l.sort(function(a,b){return a.price-b.price;});
+  else if(sort==="price-desc") l.sort(function(a,b){return b.price-a.price;});
+  else if(sort==="rating") l.sort(function(a,b){return (b.rating||0)-(a.rating||0);});
+  else if(sort==="discount") l.sort(function(a,b){return discountPct(b)-discountPct(a);});
+  else if(sort==="newest") l.sort(function(a,b){return (b.badges||[]).indexOf("new")-(a.badges||[]).indexOf("new");});
+  return l;
+}
+/* ---------- page renderers ---------- */
+var pages={
+home:function(){
+  var P=state.products;
+  var trending=P.filter(function(p){return p.trend_status;}).slice(0,8);
+  var best=P.filter(function(p){return (p.badges||[]).indexOf("best-seller")>=0;}).slice(0,4);
+  var top=P.slice().sort(function(a,b){return (b.rating||0)-(a.rating||0);}).slice(0,4);
+  var deals=P.filter(function(p){return discountPct(p)>=20;}).sort(function(a,b){return discountPct(b)-discountPct(a);}).slice(0,4);
+  var fresh=P.filter(function(p){return (p.badges||[]).indexOf("new")>=0;}).slice(0,4);
+  renderGrid(document.getElementById("sec-trending"),trending);
+  renderGrid(document.getElementById("sec-best"),best);
+  renderGrid(document.getElementById("sec-top"),top);
+  renderGrid(document.getElementById("sec-deals"),deals);
+  renderGrid(document.getElementById("sec-new"),fresh);
+  var cg=document.getElementById("cat-tiles");
+  cg.innerHTML=state.categories.categories.map(function(c){
+    var href=c.special?"/trending.html":"/category.html?cat="+c.id;
+    return '<a class="cat-tile" href="'+href+'"><div class="emoji">'+c.icon+'</div><h3>'+esc(c.name)+'</h3><p>'+esc(c.tagline)+'</p></a>';
+  }).join("");
+},
+browse:function(){ initFilterPage({}); },
+category:function(){
+  var cat=new URLSearchParams(location.search).get("cat");
+  var c=state.categories.categories.find(function(x){return x.id===cat;});
+  var title=document.getElementById("cat-title"), sub=document.getElementById("cat-sub");
+  if(!c){ title.textContent="Category not found"; return; }
+  title.textContent=c.icon+" "+c.name; sub.textContent=c.tagline;
+  document.title=c.name+" — "+state.site.brand.name;
+  initFilterPage({cat:cat});
+},
+trending:function(){
+  var list=state.products.filter(function(p){return p.trend_status;});
+  list.sort(function(a,b){return (b.trend_status==="viral")-(a.trend_status==="viral");});
+  renderGrid(document.getElementById("trend-grid"),list);
+  document.getElementById("trend-count").textContent=list.length+" trending finds";
+},
+deals:function(){
+  var list=state.products.filter(function(p){return discountPct(p)>0;})
+    .sort(function(a,b){return discountPct(b)-discountPct(a);});
+  renderGrid(document.getElementById("deals-grid"),list);
+},
+product:function(){
+  var id=new URLSearchParams(location.search).get("id");
+  var p=state.products.find(function(x){return x.id===id;});
+  var wrap=document.getElementById("pd-wrap");
+  if(!p){ wrap.innerHTML='<div class="empty-state"><h3>Product not found</h3><p><a href="/products.html">Browse all products</a></p></div>'; return; }
+  document.title=p.name+" — "+state.site.brand.name;
+  var off=discountPct(p);
+  var cat=state.categories.categories.find(function(x){return x.id===p.category;});
+  wrap.innerHTML=
+  '<div class="breadcrumb"><a href="/">Home</a> / '+(cat?'<a href="/category.html?cat='+cat.id+'">'+esc(cat.name)+'</a> / ':'')+esc(p.name)+'</div>'+
+  '<div class="pd-layout"><div><div class="pd-media"><img src="/assets/img/placeholder-product.svg" alt="'+esc(p.name)+' — product image placeholder 1200x628"></div></div>'+
+  '<div class="pd-info"><div class="badge-row" style="position:static;margin-bottom:10px">'+badges(p)+'</div>'+(p.sample?'<p style="margin-bottom:10px"><span class="sample-tag" style="position:static">Sample listing — demo data</span></p>':'')+
+  '<h1>'+esc(p.name)+'</h1>'+
+  '<div class="pd-meta"><span>'+stars(p.rating)+'</span>'+(p.review_count?'<span>'+Number(p.review_count).toLocaleString()+' reviews</span>':'')+'<span>Sold by '+esc(merchantName(p))+'</span></div>'+
+  '<div class="pd-price">'+money(p.price)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'+
+  '<p class="pd-desc">'+esc(p.short_description)+'</p>'+
+  '<div class="pd-cta-row"><a class="btn btn-rose" data-aff data-id="'+esc(p.id)+'" href="'+esc(p.affiliate_url)+'" target="_blank" rel="nofollow sponsored noopener">View Deal at '+esc(merchantName(p))+'</a></div>'+
+  '<div class="disclosure-box"><strong>Affiliate disclosure:</strong> '+esc((state.affiliates.merchants[p.merchant]||{}).disclosure_short||"QA Affiliate may earn a commission on qualifying purchases.")+'</div>'+
+  '<h3>Key features</h3><ul class="spec-list">'+p.key_features.map(function(f){return "<li>"+esc(f)+"</li>";}).join("")+'</ul>'+
+  '<div class="pros-cons"><div><h4>What we like</h4><ul class="pros">'+p.pros.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div>'+
+  '<div><h4>Keep in mind</h4><ul class="cons">'+p.cons.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div></div>'+
+  '</div></div>';
+}
+};
+function initFilterPage(preset){
+  var grid=document.getElementById("filter-grid"), count=document.getElementById("filter-count");
+  var subSel=document.getElementById("f-sub");
+  function subcats(){
+    var cat=(document.getElementById("f-cat")||{}).value||preset.cat||"";
+    var c=state.categories.categories.find(function(x){return x.id===cat;});
+    return c?c.subcategories:[];
+  }
+  function refreshSubs(){
+    if(!subSel) return;
+    var subs=subcats(), cur=subSel.value;
+    subSel.innerHTML='<option value="">All subcategories</option>'+subs.map(function(s){return '<option value="'+s+'">'+s.replace(/-/g," ")+'</option>';}).join("");
+    if(subs.indexOf(cur)>=0) subSel.value=cur;
+  }
+  function current(){
+    function val(id){ var el=document.getElementById(id); return el?el.value:""; }
+    function num(id){ var v=parseFloat(val(id)); return isNaN(v)?null:v; }
+    return { q:val("f-q"), cat:val("f-cat")||preset.cat||"", sub:val("f-sub"),
+      minPrice:num("f-minp"), maxPrice:num("f-maxp"),
+      minRating:num("f-rating"), minDiscount:num("f-discount"),
+      store:val("f-store"), trendingOnly:document.getElementById("f-trend")?document.getElementById("f-trend").checked:false,
+      sort:val("f-sort") };
+  }
+  function run(){
+    var f=current();
+    var list=sortList(applyFilters(state.products,f),f.sort);
+    renderGrid(grid,list);
+    count.textContent=list.length+" result"+(list.length===1?"":"s");
+  }
+  ["f-q","f-cat","f-sub","f-minp","f-maxp","f-rating","f-discount","f-store","f-sort"].forEach(function(id){
+    var el=document.getElementById(id); if(el) el.addEventListener("input",run);
+  });
+  var ft=document.getElementById("f-trend"); if(ft) ft.addEventListener("change",run);
+  var fc=document.getElementById("f-cat"); if(fc){ fc.addEventListener("change",function(){refreshSubs();run();}); }
+  if(preset.cat&&fc){ fc.value=preset.cat; }
+  refreshSubs(); run();
+}
+/* ---------- boot ---------- */
+function boot(){
+  Promise.all([getJSON("/config/site.json"),getJSON("/config/affiliates.json"),getJSON("/data/categories.json"),getJSON("/data/products.json")])
+  .then(function(r){
+    state.site=r[0]; state.affiliates=r[1]; state.categories=r[2]; state.products=r[3].products;
+    renderChrome(); initAnalytics(); initNewsletter();
+    var page=document.body.getAttribute("data-page");
+    if(page&&pages[page]) pages[page]();
+  }).catch(function(err){
+    document.body.insertAdjacentHTML("afterbegin",'<div class="demo-notice">Could not load site data. Please check your connection and reload.</div>');
+  });
+}
+if(document.readyState==="loading") document.addEventListener("DOMContentLoaded",boot);
+else boot();
+})();

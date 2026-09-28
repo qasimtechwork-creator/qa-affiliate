@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shop All Products — {brand}</title>
+<meta name="description" content="Search and filter the full QA Affiliate catalog: women's fashion, beauty, skincare, jewelry and more.">
+<link rel="icon" type="image/png" href="/assets/images/favicon-64.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body data-page="browse">
+<div data-site-header></div>
+<div class="container">
+  <div class="breadcrumb"><a href="/">Home</a> / Shop All</div>
+  <section class="section" style="padding-top:24px">
+    <h1 class="section-title">Shop All Products</h1>
+    <p class="section-sub">Search and filter the complete catalog.</p>
+    <div class="filter-bar">
+      <div class="filter-row">
+        <div class="filter-group search-big"><label for="f-q">Search</label><input id="f-q" type="search" placeholder="Search products…"></div>
+        <div class="filter-group"><label for="f-cat">Category</label><select id="f-cat"><option value="">All categories</option><option value="fashion">Fashion & Clothing</option><option value="shoes">Shoes & Footwear</option><option value="jewelry">Jewelry</option><option value="bags">Bags & Handbags</option><option value="beauty">Beauty & Cosmetics</option><option value="skincare">Skincare</option><option value="hair">Hair Care & Styling</option><option value="accessories">Women's Accessories</option><option value="lingerie">Lingerie & Underwear</option><option value="fitness">Fitness & Lifestyle</option></select></div>
+        <div class="filter-group"><label for="f-sub">Subcategory</label><select id="f-sub"><option value="">All subcategories</option></select></div>
+        <div class="filter-group"><label for="f-sort">Sort</label><select id="f-sort"><option value="">Featured</option><option value="price-asc">Price: low to high</option><option value="price-desc">Price: high to low</option><option value="rating">Highest rated</option><option value="discount">Biggest discount</option><option value="newest">Newest</option></select></div>
+      </div>
+      <div class="filter-row" style="margin-top:14px">
+        <div class="filter-group"><label for="f-minp">Min price</label><input id="f-minp" type="number" min="0" placeholder="0"></div>
+        <div class="filter-group"><label for="f-maxp">Max price</label><input id="f-maxp" type="number" min="0" placeholder="Any"></div>
+        <div class="filter-group"><label for="f-rating">Min rating</label><select id="f-rating"><option value="">Any</option><option value="4.5">4.5+</option><option value="4">4.0+</option><option value="3.5">3.5+</option></select></div>
+        <div class="filter-group"><label for="f-discount">Min discount</label><select id="f-discount"><option value="">Any</option><option value="20">20%+</option><option value="30">30%+</option><option value="40">40%+</option></select></div>
+        <div class="filter-group"><label for="f-store">Store</label><select id="f-store"><option value="">All stores</option><option value="amazon">Amazon</option><option value="aliexpress">AliExpress</option><option value="temu">Temu</option></select></div>
+        <div class="filter-group"><label for="f-trend">Trending</label><input id="f-trend" type="checkbox" style="width:22px;height:22px;margin-top:8px"></div>
+      </div>
+    </div>
+    <p id="filter-count" style="color:var(--muted);margin-bottom:18px"></p>
+    <div class="product-grid" id="filter-grid"></div>
+  </section>
+</div>
+<div data-site-footer></div>
+<script src="/assets/js/app.js"></script>
+</body>
+</html>

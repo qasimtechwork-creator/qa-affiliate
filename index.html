@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{brand} — Discover Trending Women's Products</title>
+<meta name="description" content="QA Affiliate discovers trending women's fashion, beauty, skincare and lifestyle products across top merchants — with transparent affiliate pricing.">
+<meta property="og:title" content="QA Affiliate — Discover Trending Women's Products">
+<meta property="og:description" content="Trending women's fashion, beauty, skincare and lifestyle finds, curated and transparent.">
+<meta property="og:type" content="website">
+<link rel="icon" type="image/png" href="/assets/images/favicon-64.png">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/main.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"QA Affiliate","description":"Women's product discovery and affiliate platform","potentialAction":{"@type":"SearchAction","target":"/products.html?q={query}","query-input":"required name=query"}}
+</script>
+</head>
+<body data-page="home">
+<div data-site-header></div>
+
+<section class="hero">
+  <div class="container">
+    <h1>Discover women's products <em>worth your money.</em></h1>
+    <p>Trending fashion, beauty, skincare and lifestyle finds — researched, compared and linked transparently to trusted merchants.</p>
+    <div class="hero-cta">
+      <a class="btn btn-gold" href="/trending.html">Shop Trending Now</a>
+      <a class="btn btn-ghost" href="/products.html">Browse Everything</a>
+    </div>
+    <div class="hero-stats">
+      <div><strong>11</strong><span>Curated categories</span></div>
+      <div><strong>3</strong><span>Merchant partners</span></div>
+      <div><strong>100%</strong><span>Transparent affiliate links</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Shop by Category</h2>
+    <p class="section-sub">Eleven curated departments covering the complete women's product ecosystem.</p>
+    <div class="cat-grid" id="cat-tiles"></div>
+  </div>
+</section>
+
+<section class="section" style="background:#fff;border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+  <div class="container">
+    <h2 class="section-title">🔥 Trending & Viral Right Now</h2>
+    <p class="section-sub">Products gaining real attention across our merchant partners and trend research.</p>
+    <div class="product-grid" id="sec-trending"></div>
+    <p style="margin-top:20px"><a class="btn btn-ghost" style="color:var(--ink);border-color:var(--line)" href="/trending.html">View all trending</a></p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2 class="section-title">Best Sellers</h2>
+    <p class="section-sub">Consistently popular picks from across the catalog.</p>
+    <div class="product-grid" id="sec-best"></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="container">
+    <h2 class="section-title">Top Rated</h2>
+    <p class="section-sub">The highest-rated finds in the collection.</p>
+    <div class="product-grid" id="sec-top"></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="container">
+    <h2 class="section-title">Best Deals</h2>
+    <p class="section-sub">Real discounts of 20% or more — verified against listed prices.</p>
+    <div class="product-grid" id="sec-deals"></div>
+    <p style="margin-top:20px"><a class="btn btn-ghost" style="color:var(--ink);border-color:var(--line)" href="/deals.html">View all deals</a></p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="container">
+    <h2 class="section-title">New Arrivals</h2>
+    <p class="section-sub">Fresh additions to the QA Affiliate collection.</p>
+    <div class="product-grid" id="sec-new"></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0">
+  <div class="container">
+    <h2 class="section-title">Buying Guides</h2>
+    <p class="section-sub">Original editorial guides to help you buy with confidence.</p>
+    <div class="guide-grid">
+      <a class="guide-card" href="/guides/glass-skin-routine.html">
+        <img src="/assets/img/placeholder-product.svg" alt="Buying guide hero placeholder 1200x628">
+        <div class="pad"><h3>The Glass-Skin Routine: A Beginner's Buying Guide</h3><p>How to build a simple, effective skincare routine — and what to look for in each step.</p></div>
+      </a>
+      <a class="guide-card" href="/guides/capsule-wardrobe.html">
+        <img src="/assets/img/placeholder-product.svg" alt="Buying guide hero placeholder 1200x628">
+        <div class="pad"><h3>Build a 12-Piece Capsule Wardrobe</h3><p>Twelve versatile pieces, dozens of outfits — a practical guide to buying less and wearing more.</p></div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <section class="newsletter">
+    <h2>Never miss a trending find</h2>
+    <p>Join the QA Affiliate newsletter for trending products, viral finds and the best deals — once a week, no spam.</p>
+    <form class="news-form" data-newsletter-form>
+      <input type="email" placeholder="Your email address" required aria-label="Email address">
+      <button class="btn btn-gold" type="submit">Subscribe</button>
+    </form>
+    <p class="news-note" data-newsletter-msg></p>
+    <p class="news-note">Unsubscribe anytime. We never sell your data. See our <a href="/legal/privacy.html" style="text-decoration:underline">Privacy Policy</a>.</p>
+  </section>
+
+  <div class="trust-strip">
+    <div class="trust-card"><h4>🔍 Researched, not random</h4><p>Every collection is built from merchant data, ratings and editorial review — never paid placement.</p></div>
+    <div class="trust-card"><h4>💛 Transparent earnings</h4><p>We may earn a commission when you buy through our links. It never changes what you pay. <a href="/legal/disclosure.html" style="text-decoration:underline">Learn more</a>.</p></div>
+    <div class="trust-card"><h4>⚡ Refreshed regularly</h4><p>Trending collections, prices and deals are reviewed and updated on a rolling schedule.</p></div>
+  </div>
+</div>
+
+<div data-site-footer></div>
+<script src="/assets/js/app.js"></script>
+</body>
+</html>
