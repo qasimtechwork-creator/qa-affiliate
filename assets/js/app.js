@@ -314,6 +314,22 @@ category:function(){
   var bi=document.getElementById("cat-banner-img"), bf=document.getElementById("cat-banner-fallback");
   if(bi){ bi.src="/assets/images/categories/banners/"+c.id+".gif"; bi.alt=c.name; }
   if(bf){ bf.src="/assets/images/categories/banners/"+c.id+".jpg"; bf.alt=c.name; }
+  /* 3D parallax: banner bg drifts slightly, foreground petals drift more */
+  (function(){
+    var banner=document.querySelector(".cat-banner"); if(!banner) return;
+    if(window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    if(window.matchMedia("(hover: none)").matches) return;
+    var bg=banner.querySelector(".cat-banner-bg"), fx=banner.querySelector(".cat-fx");
+    banner.addEventListener("mousemove",function(e){
+      var r=banner.getBoundingClientRect();
+      var dx=(e.clientX-r.left)/r.width-0.5, dy=(e.clientY-r.top)/r.height-0.5;
+      if(bg) bg.style.transform="translate3d("+(-dx*14)+"px,"+(-dy*10)+"px,0) scale(1.04)";
+      if(fx) fx.style.transform="translate3d("+(dx*26)+"px,"+(dy*18)+"px,0)";
+    });
+    banner.addEventListener("mouseleave",function(){
+      if(bg) bg.style.transform=""; if(fx) fx.style.transform="";
+    });
+  })();
   var descEl=document.getElementById("cat-desc");
   if(descEl&&c.description) descEl.textContent=c.description;
   var rg=document.getElementById("cat-guides");

@@ -266,6 +266,35 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
 .cat-banner-title{font-family:var(--font-display);font-size:clamp(2rem,4.6vw,3.2rem);color:#FFF7EA;display:flex;align-items:center;gap:14px;text-shadow:0 2px 20px rgba(0,0,0,.55)}
 .cat-banner-sub{color:var(--gold);font-size:1.05rem;margin-top:10px;font-weight:600}
 .cat-banner-desc{color:#DCCBB9;max-width:640px;margin-top:12px;line-height:1.65}
+/* colorful corner glows over the banner */
+.cat-banner::after{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;
+  background:radial-gradient(420px 260px at 8% 12%,rgba(255,92,138,.20),transparent 70%),
+             radial-gradient(520px 300px at 96% 88%,rgba(212,175,55,.20),transparent 70%),
+             radial-gradient(380px 240px at 88% 8%,rgba(150,110,255,.14),transparent 70%)}
+/* 3D depth petals: near = big + blurred + fast, far = small + slow */
+.cat-fx{position:absolute;inset:0;z-index:2;pointer-events:none;overflow:hidden}
+.fx-petal{position:absolute;top:-40px;border-radius:62% 38% 55% 45%/48% 55% 45% 52%;opacity:0;animation:fx-fall linear infinite}
+.fx-petal.d1{filter:blur(2.5px)}
+.fx-petal.d2{filter:blur(.8px)}
+.fx-petal.d3{filter:blur(0)}
+.fx-petal.c-red{background:#E0264F}.fx-petal.c-white{background:#FFF4E2}
+.fx-petal.c-gold{background:#F2C14E}.fx-petal.c-pink{background:#FF7BAC}
+.fx-petal:nth-child(1){left:6%;width:34px;height:26px;animation-duration:11s;animation-delay:0s}
+.fx-petal:nth-child(2){left:18%;width:16px;height:12px;animation-duration:16s;animation-delay:2s}
+.fx-petal:nth-child(3){left:33%;width:10px;height:8px;animation-duration:21s;animation-delay:5s}
+.fx-petal:nth-child(4){left:48%;width:30px;height:23px;animation-duration:12s;animation-delay:1s}
+.fx-petal:nth-child(5){left:62%;width:15px;height:11px;animation-duration:17s;animation-delay:4s}
+.fx-petal:nth-child(6){left:76%;width:9px;height:7px;animation-duration:22s;animation-delay:3s}
+.fx-petal:nth-child(7){left:88%;width:36px;height:27px;animation-duration:10s;animation-delay:6s}
+.fx-petal:nth-child(8){left:94%;width:14px;height:10px;animation-duration:18s;animation-delay:7s}
+@keyframes fx-fall{
+  0%{transform:translate3d(0,-40px,0) rotate(0deg);opacity:0}
+  8%{opacity:.85}
+  85%{opacity:.7}
+  100%{transform:translate3d(-90px,460px,0) rotate(320deg);opacity:0}
+}
+/* parallax targets */
+.cat-banner-bg,.cat-fx{transition:transform .25s ease-out;will-change:transform}
 @media(max-width:900px){
   .cat-banner-inner{padding:44px 0 52px}
   .cat-banner-bg img{object-position:72% center}
@@ -321,6 +350,7 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
 }
 @media (prefers-reduced-motion:reduce){
   .petal,.brand img,.brand::after{animation:none!important}
+  .fx-petal{animation:none!important;display:none}
   .hero-bg .gif-anim{display:none}
   .hero-bg .gif-fallback{display:block}
 }
