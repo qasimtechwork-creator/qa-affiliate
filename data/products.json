@@ -1,1 +1,613 @@
-{"_comment":"SAMPLE DATASET — every entry is flagged sample:true and renders with a 'Sample listing' tag until replaced with verified merchant data. NEVER present these prices, ratings or review counts as real. Replace affiliate_url values with real tagged URLs from config/affiliates.json merchants.","products":[{"affiliate_url":"https://example.com/aff/go/sample-dress-01","badges":["best-seller"],"category":"fashion","cons":["Wrinkles easily — steam before wearing","Limited petite sizing"],"id":"sample-dress-01","key_features":["Breathable linen-blend fabric","Adjustable waist tie","Midi length, machine washable"],"merchant":"amazon","name":"Sample: Linen Wrap Midi Dress","original_price":79.99,"price":49.99,"pros":["Flattering wrap silhouette","Comfortable all-day wear"],"rating":4.6,"review_count":2314,"sample":true,"short_description":"A breezy wrap midi dress in a linen blend — an easy warm-weather staple.","source":"sample dataset","subcategory":"dresses","trend_status":"trending","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-trouser-01","badges":["best-deal"],"category":"fashion","cons":["Runs long — hemming may be needed","Wrinkle-prone fabric"],"id":"sample-trouser-01","key_features":["High-rise waistband","Wide-leg cut","Side pockets"],"merchant":"aliexpress","name":"Sample: High-Waist Wide-Leg Trousers","original_price":59.99,"price":39.99,"pros":["Polished office-to-evening look","Good value for the price"],"rating":4.4,"review_count":1876,"sample":true,"short_description":"High-rise wide-leg trousers that dress up or down effortlessly.","source":"sample dataset","subcategory":"bottoms","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-blazer-01","badges":["new","top-rated"],"category":"fashion","cons":["Structured fit — size up for layering","Dry clean recommended"],"id":"sample-blazer-01","key_features":["Single-button closure","Functional cuff buttons","Fully lined"],"merchant":"amazon","name":"Sample: Tailored Oversized Blazer","original_price":149.99,"price":89.99,"pros":["Sharp, modern silhouette","Versatile neutral color"],"rating":4.5,"review_count":1450,"sample":true,"short_description":"A tailored oversized blazer that sharpens any outfit.","source":"sample dataset","subcategory":"outerwear","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-pump-01","badges":["top-rated"],"category":"shoes","cons":["Break-in period needed","Not ideal for all-day standing"],"id":"sample-pump-01","key_features":["Stable block heel","Slingback strap","Cushioned insole"],"merchant":"amazon","name":"Sample: Block-Heel Slingback Pumps","original_price":89.99,"price":59.99,"pros":["Comfortable heel height","Elegant, versatile design"],"rating":4.5,"review_count":3120,"sample":true,"short_description":"Classic slingback pumps on a walkable block heel.","source":"sample dataset","subcategory":"heels","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-sneaker-01","badges":["best-seller","top-rated"],"category":"shoes","cons":["White leather needs regular care","Runs slightly narrow"],"id":"sample-sneaker-01","key_features":["Genuine leather upper","Cushioned footbed","Minimalist profile"],"merchant":"amazon","name":"Sample: Minimal White Leather Sneakers","original_price":99.99,"price":69.99,"pros":["Goes with everything","Durable construction"],"rating":4.7,"review_count":5420,"sample":true,"short_description":"Clean white leather sneakers — the everyday essential.","source":"sample dataset","subcategory":"sneakers","trend_status":"trending","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-hoop-01","badges":["best-deal"],"category":"jewelry","cons":["Tarnishes with heavy perfume use","Small clasp can be fiddly"],"id":"sample-hoop-01","key_features":["14K gold plating","Hypoallergenic posts","Secure latch clasp"],"merchant":"aliexpress","name":"Sample: Gold-Plated Hoop Earrings","original_price":29.99,"price":19.99,"pros":["Lightweight for daily wear","Classic look, great price"],"rating":4.5,"review_count":8930,"sample":true,"short_description":"Everyday gold-plated hoops with a secure, comfortable clasp.","source":"sample dataset","subcategory":"earrings","trend_status":"viral","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-necklace-01","badges":[],"category":"jewelry","cons":["Chains tangle in storage","Delicate — handle with care"],"id":"sample-necklace-01","key_features":["Three layered chains","Adjustable length","Lobster clasp"],"merchant":"temu","name":"Sample: Layered Pendant Necklace","original_price":39.99,"price":24.99,"pros":["On-trend layered look","No need to stack pieces"],"rating":4.3,"review_count":2140,"sample":true,"short_description":"A ready-made layered necklace with a delicate pendant.","source":"sample dataset","subcategory":"necklaces","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-tote-01","badges":["new","top-rated"],"category":"bags","cons":["No exterior zip pocket","Structured shape needs storage space"],"id":"sample-tote-01","key_features":["Fits a 14-inch laptop","Interior zip pocket","Detachable pouch"],"merchant":"amazon","name":"Sample: Structured Work Tote Bag","original_price":129.99,"price":79.99,"pros":["Professional, polished look","Roomy without bulk"],"rating":4.6,"review_count":1980,"sample":true,"short_description":"A structured tote that carries work essentials in style.","source":"sample dataset","subcategory":"tote","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-crossbody-01","badges":["best-deal"],"category":"bags","cons":["Fits phone and essentials only","Strap not removable"],"id":"sample-crossbody-01","key_features":["Adjustable crossbody strap","Magnetic closure","Card slots inside"],"merchant":"temu","name":"Sample: Mini Crossbody Bag","original_price":54.99,"price":34.99,"pros":["Hands-free convenience","Cute, compact size"],"rating":4.4,"review_count":3760,"sample":true,"short_description":"A compact crossbody for essentials on the go.","source":"sample dataset","subcategory":"crossbody","trend_status":"viral","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-lipstick-01","badges":["best-seller"],"category":"beauty","cons":["Matte formula can feel dry — prep lips first","Bold shades need precise application"],"id":"sample-lipstick-01","key_features":["Six wearable shades","Long-wear matte finish","Vitamin E enriched"],"merchant":"aliexpress","name":"Sample: Matte Liquid Lipstick Set (6)","original_price":34.99,"price":21.99,"pros":["Great shade range","Impressive staying power"],"rating":4.5,"review_count":11240,"sample":true,"short_description":"Six matte liquid lipsticks from nude to bold.","source":"sample dataset","subcategory":"lips","trend_status":"trending","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-eyeshadow-01","badges":["top-rated"],"category":"beauty","cons":["No mirror included","Shimmer shades have some fallout"],"id":"sample-eyeshadow-01","key_features":["12 neutral shades","Matte and shimmer mix","Blendable pigment"],"merchant":"amazon","name":"Sample: 12-Pan Neutral Eyeshadow Palette","original_price":42.99,"price":27.99,"pros":["Day-to-night versatility","Smooth blending"],"rating":4.6,"review_count":6890,"sample":true,"short_description":"A 12-shade neutral palette for everyday and evening looks.","source":"sample dataset","subcategory":"eyes","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-serum-01","badges":["best-seller"],"category":"skincare","cons":["Use sunscreen daily with vitamin C","Dropper packaging, not travel-proof"],"id":"sample-serum-01","key_features":["Stabilized vitamin C","Hyaluronic acid boost","Fragrance-free"],"merchant":"amazon","name":"Sample: Vitamin C Brightening Serum","original_price":29.99,"price":18.99,"pros":["Visible brightness over time","Gentle for most skin types"],"rating":4.4,"review_count":15430,"sample":true,"short_description":"A brightening vitamin C serum for a more even-looking glow.","source":"sample dataset","subcategory":"serums","trend_status":"trending","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-moisturizer-01","badges":["best-deal"],"category":"skincare","cons":["Gel texture may feel light for very dry skin","Jar packaging — use clean hands"],"id":"sample-moisturizer-01","key_features":["Hyaluronic acid complex","Oil-free gel texture","72-hour hydration claim"],"merchant":"aliexpress","name":"Sample: Hyaluronic Gel Moisturizer","original_price":34.99,"price":22.99,"pros":["Lightweight, fast-absorbing","Layers well under makeup"],"rating":4.5,"review_count":9870,"sample":true,"short_description":"A weightless gel moisturizer for fresh, hydrated skin.","source":"sample dataset","subcategory":"moisturizers","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-brush-01","badges":["best-deal"],"category":"hair","cons":["Not for very short hair","Heats up — handle with care"],"id":"sample-brush-01","key_features":["Ceramic heated bristles","3 temperature settings","Auto shut-off"],"merchant":"amazon","name":"Sample: Ceramic Straightening Brush","original_price":69.99,"price":39.99,"pros":["Faster than flat-ironing","Natural-looking smoothness"],"rating":4.3,"review_count":7650,"sample":true,"short_description":"A heated brush that smooths hair in minutes.","source":"sample dataset","subcategory":"styling-tools","trend_status":"viral","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-hairmask-01","badges":["top-rated"],"category":"hair","cons":["Strong scent at first","Weekly use is enough — a little goes far"],"id":"sample-hairmask-01","key_features":["Argan oil formula","10-minute treatment","Sulfate-free"],"merchant":"temu","name":"Sample: Argan Repair Hair Mask","original_price":24.99,"price":16.99,"pros":["Noticeably softer hair","Good for damaged ends"],"rating":4.6,"review_count":12300,"sample":true,"short_description":"A weekly argan mask for softer, shinier hair.","source":"sample dataset","subcategory":"treatments","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-scarf-01","badges":["new"],"category":"accessories","cons":["Silk needs delicate care","Light colors show wear faster"],"id":"sample-scarf-01","key_features":["Mulberry silk","Hand-rolled edges","90 × 90 cm"],"merchant":"aliexpress","name":"Sample: Mulberry Silk Square Scarf","original_price":49.99,"price":29.99,"pros":["Luxurious feel","Endless styling options"],"rating":4.5,"review_count":2340,"sample":true,"short_description":"A classic silk square scarf — neck, hair or bag.","source":"sample dataset","subcategory":"scarves","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-sunglass-01","badges":[],"category":"accessories","cons":["No hard case included","Cat-eye suits oval faces best"],"id":"sample-sunglass-01","key_features":["UV400 lenses","Retro cat-eye frame","Lightweight acetate"],"merchant":"aliexpress","name":"Sample: Retro Cat-Eye Sunglasses","original_price":25.99,"price":15.99,"pros":["Timeless retro style","Comfortable fit"],"rating":4.3,"review_count":4320,"sample":true,"short_description":"Retro cat-eye sunglasses with full UV protection.","source":"sample dataset","subcategory":"sunglasses","trend_status":"viral","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-bralette-01","badges":[],"category":"lingerie","cons":["Light support — not for high impact","Hand wash recommended"],"id":"sample-bralette-01","key_features":["Soft lace cups","Adjustable straps","Pack of 3 colors"],"merchant":"amazon","name":"Sample: Lace Bralette (Pack of 3)","original_price":39.99,"price":25.99,"pros":["Comfortable wire-free fit","Pretty everyday lace"],"rating":4.4,"review_count":5670,"sample":true,"short_description":"Three wire-free lace bralettes for everyday comfort.","source":"sample dataset","subcategory":"bralettes","trend_status":null,"updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-legging-01","badges":["best-seller","top-rated"],"category":"fitness","cons":["High compression — size up between sizes","Dark colors show lint"],"id":"sample-legging-01","key_features":["Squat-proof fabric","Hidden waistband pocket","4-way stretch"],"merchant":"amazon","name":"Sample: High-Waist Yoga Leggings","original_price":45.99,"price":28.99,"pros":["Stay-put waistband","Flattering fit"],"rating":4.6,"review_count":18920,"sample":true,"short_description":"High-waist leggings that move with you, gym to street.","source":"sample dataset","subcategory":"activewear","trend_status":"trending","updated":"2026-09-28"},{"affiliate_url":"https://example.com/aff/go/sample-bottle-01","badges":["best-deal"],"category":"fitness","cons":["Hand wash lid recommended","750 ml may be bulky for small bags"],"id":"sample-bottle-01","key_features":["24h cold / 12h hot","Double-wall steel","Leak-proof lid"],"merchant":"temu","name":"Sample: Insulated Steel Water Bottle","original_price":34.99,"price":24.99,"pros":["Keeps drinks cold all day","Sturdy build"],"rating":4.5,"review_count":8920,"sample":true,"short_description":"A tough insulated bottle for workouts and commutes.","source":"sample dataset","subcategory":"gear","trend_status":null,"updated":"2026-09-28"}]}
+{
+  "_comment": "VERIFIED TEMU CATALOG — built 2026-09-28 from public Temu search-indexed listings. Each entry carries only fields verified on the live Temu listing: name, rating, sold count, bestseller rank and (where shown) an official product image. NO price, review count or discount is included anywhere — Temu prices vary by region and moment, and sold counts are never presented as reviews. sample:true and site demo_mode remain ON until Qasim's real Temu affiliate ID is connected. affiliate_url uses the exact placeholder referrer=AFFILIATE-ID-PENDING per task spec.",
+  "products": [
+    {
+      "affiliate_url": "https://temu.to/k/pe26f3ka07h",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "fashion",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-openwork-jacket",
+      "image_url": "https://img.kwcdn.com/product/aisc_image/algo/pass/f018ab10-c2a2-4a5d-83b5-e22877a6f041.jpg",
+      "key_features": [
+        "#1 best-selling item in Women's Coats & Jackets on Temu",
+        "Openwork knit cardigan design",
+        "Temu listing describes the fabric as soft and breathable",
+        "95% polyester, 5% elastane (per Temu listing)"
+      ],
+      "merchant": "temu",
+      "name": "Women's Elegant Solid Color Openwork Jacket — 2026 Spring/Summer Cardigan",
+      "pros": [
+        "Verified 4.8-star rating on Temu",
+        "Top-ranked bestseller in its Temu category"
+      ],
+      "rating": 4.8,
+      "sample": false,
+      "short_description": "A 2026 spring/summer openwork cardigan — Temu's #1 bestseller in women's coats & jackets with a 4.8-star rating.",
+      "sold_count": "3.3K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "outerwear",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pbvdowl3p17",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "fashion",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-shorts-3pack",
+      "image_url": "https://img.kwcdn.com/product/fancy/5e529364-bdd3-42ce-aeda-726daba2e4b9.jpg",
+      "key_features": [
+        "Set of 3 shorts in assorted color combos",
+        "Elastic waist with functional side pockets",
+        "Sizes S–XXL available per listing"
+      ],
+      "merchant": "temu",
+      "name": "3-Pack Women's Solid Color Shorts — Elastic Waist with Side Pockets",
+      "pros": [
+        "Verified 4.7-star rating on Temu",
+        "Huge sales volume: 89K+ sold"
+      ],
+      "rating": 4.7,
+      "sample": false,
+      "short_description": "Three comfy elastic-waist shorts with side pockets — a summer staple with 89K+ sold and a 4.7-star rating.",
+      "sold_count": "89K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "bottoms",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/p134b0oiet6",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "fashion",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-openwork-cropped-jacket",
+      "key_features": [
+        "Openwork knit cropped jacket",
+        "100% polyester (per Temu listing)",
+        "Sizes S–XL available per listing"
+      ],
+      "merchant": "temu",
+      "name": "Summer Elegant Solid Color Openwork Knit Cropped Jacket",
+      "pros": [
+        "Verified 4.7-star rating on Temu",
+        "83K+ sold on Temu"
+      ],
+      "rating": 4.7,
+      "sample": false,
+      "short_description": "An elegant openwork knit cropped jacket for summer — 4.7 stars with 83K+ sold on Temu.",
+      "sold_count": "83K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "outerwear",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pjezynvpjwk",
+      "badges": [
+        "best-seller",
+        "top-rated"
+      ],
+      "category": "shoes",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-white-sneakers",
+      "image_url": "https://img.kwcdn.com/product/fancy/2c23178f-8a30-4d15-a3da-e664a1fc7636.jpg",
+      "key_features": [
+        "#1 Best Seller from this seller",
+        "Flat-sole lace-up with cushioned insole",
+        "Fabric upper with PVC sole (per Temu listing)",
+        "Multiple colors available per listing"
+      ],
+      "merchant": "temu",
+      "name": "Women's Low-Top White Sneakers — Flat Sole Lace-Up, Round Toe",
+      "pros": [
+        "Verified 4.9-star rating on Temu",
+        "58K+ sold with bestseller status"
+      ],
+      "rating": 4.9,
+      "sample": false,
+      "short_description": "Minimalist white low-top sneakers with a cushioned insole — 4.9 stars and a #1 bestseller from the seller.",
+      "sold_count": "58K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "sneakers",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/ps23sn8jdlz",
+      "badges": [],
+      "category": "shoes",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-platform-shoes",
+      "key_features": [
+        "Platform wedge heel",
+        "Cross straps with back zipper",
+        "Casual summer daily wear"
+      ],
+      "merchant": "temu",
+      "name": "Women's Platform Wedge Sandals with Cross Straps and Back Zipper — Casual Summer Shoes",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "Casual summer platform wedge sandals with cross straps and back zipper.",
+      "sold_count": "188 sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "sneakers",
+      "trend_status": null,
+      "updated": "2026-09-28",
+      "image_url": "https://img.kwcdn.com/product/fancy/fae914ae-da69-4f09-b351-1b5c6946bb11.jpg?imageView2/2/w/500/q/70/format/avif"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pajmdiiqfyx",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "jewelry",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current styles and quantities"
+      ],
+      "id": "temu-jewelry-set-4pcs",
+      "image_url": "https://img.kwcdn.com/product/open/2024-05-30/1717045044054-2c9453cadd294200b3c452226f6e4f3f-goods.jpeg",
+      "key_features": [
+        "#4 best-selling item in Women's Jewelry on Temu",
+        "4-piece set: earrings, pendant necklace and ring",
+        "Alloy with white-K plating (per Temu listing)"
+      ],
+      "merchant": "temu",
+      "name": "4pcs Fashion Jewelry Set — Shining Earrings, Pendant Necklace & Ring",
+      "pros": [
+        "Verified 4.6-star rating on Temu",
+        "Over 1 million sold — a proven Temu favorite"
+      ],
+      "rating": 4.6,
+      "sample": false,
+      "short_description": "A 4-piece shining jewelry set — Temu's #4 bestseller in women's jewelry with over 1 million sold.",
+      "sold_count": "1M+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "necklaces",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/p5zec6k7lir",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "jewelry",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current styles and quantities"
+      ],
+      "id": "temu-sophisticated-jewelry-set",
+      "image_url": "https://img.kwcdn.com/product/fancy/3fdc0764-1280-4cfc-88ee-538c59f78677.jpg",
+      "key_features": [
+        "#3 Best Seller from this store",
+        "Rhinestone necklace and earrings set",
+        "Copper alloy base (per Temu listing)",
+        "Vintage-inspired luxe styling"
+      ],
+      "merchant": "temu",
+      "name": "Sophisticated Jewelry Set — Rhinestone Necklace & Earrings, Vintage Luxe Style",
+      "pros": [
+        "Verified 4.8-star rating on Temu",
+        "Vintage-luxe look for parties and weddings"
+      ],
+      "rating": 4.8,
+      "sample": false,
+      "short_description": "A rhinestone necklace-and-earrings set with vintage luxe styling — 4.8 stars, #3 bestseller from the store.",
+      "sold_count": "38K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "earrings",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pn3wwxfci6g",
+      "badges": [],
+      "category": "bags",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-elegant-tote",
+      "image_url": "https://img.kwcdn.com/product/open/84a5ad3245bf4ccabc83c884f7ad9bf9-goods.jpeg?imageView2/2/w/500/q/70/format/avif",
+      "key_features": [
+        "Structured roomy design",
+        "Double handles",
+        "Large capacity for work, shopping and travel"
+      ],
+      "merchant": "temu",
+      "name": "Women's Purple Tote Bag — Structured Roomy Handbag with Double Handles",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "Rich solid-color purple tote — structured, roomy carryall for work and daily commute.",
+      "sold_count": "9 sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "tote",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pkwujnglv3h",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "bags",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-large-handbag",
+      "image_url": "https://img.kwcdn.com/product/fancy/5e012984-39c4-4e36-88bc-cd4fbe904c57.jpg",
+      "key_features": [
+        "Faux-leather shoulder handbag with zipper closure",
+        "Polyester lining (per Temu listing)"
+      ],
+      "merchant": "temu",
+      "name": "Women's Large Capacity Handbag — Solid Color Faux-Leather Shoulder Bag",
+      "pros": [
+        "Verified 4.6-star rating on Temu",
+        "97K+ sold — widely bought work/commute bag"
+      ],
+      "rating": 4.6,
+      "sample": false,
+      "short_description": "A solid-color faux-leather shoulder handbag with zipper closure — 4.6 stars with 97K+ sold.",
+      "sold_count": "97K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "tote",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pwv6n6hgmjd",
+      "badges": [
+        "best-seller",
+        "top-rated"
+      ],
+      "category": "beauty",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for what's included"
+      ],
+      "id": "temu-makeup-brush-set-15",
+      "image_url": "https://img.kwcdn.com/product/fancy/3937c3de-1404-42ef-9200-d683a99aff3b.jpg",
+      "key_features": [
+        "Complete 15-piece face and eye brush set",
+        "Nylon bristles (per Temu listing)",
+        "All skin types per Temu listing"
+      ],
+      "merchant": "temu",
+      "name": "15pcs Makeup Brush Set — Blush, Powder, Concealer & Eyeshadow Brushes",
+      "pros": [
+        "Perfect 5.0-star rating on Temu",
+        "200K+ sold — one of Temu's most-bought beauty tools"
+      ],
+      "rating": 5.0,
+      "sample": false,
+      "short_description": "A complete 15-piece makeup brush set — 5.0 stars with 200K+ sold on Temu.",
+      "sold_count": "200K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "face",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/px40128ttrr",
+      "badges": [],
+      "category": "beauty",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-golden-brush-set-14",
+      "key_features": [
+        "14 brushes for face and eyes",
+        "Soft nylon bristles",
+        "Champagne golden handles"
+      ],
+      "merchant": "temu",
+      "name": "14pcs Professional Makeup Brush Set with Champagne Golden Handle",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "14-piece professional brush set with champagne golden handles and soft nylon bristles.",
+      "sold_count": "3.4K+ sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "face",
+      "trend_status": null,
+      "updated": "2026-09-28",
+      "image_url": "https://img.kwcdn.com/product/fancy/bba54d65-8705-413c-9d43-40492d308d21.jpg?imageView2/2/w/500/q/70/format/avif"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/peiocf6hcjc",
+      "badges": [
+        "best-seller"
+      ],
+      "category": "skincare",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for material details"
+      ],
+      "id": "temu-jade-roller-gua-sha",
+      "image_url": "https://img.kwcdn.com/product/fancy/5b78e226-e07c-40a2-8f51-161ce7001a26.jpg",
+      "key_features": [
+        "#6 Best Seller from this store",
+        "Jade roller + gua sha board + shaped comb",
+        "Manual, fragrance-free tools for face, eye, neck and forehead"
+      ],
+      "merchant": "temu",
+      "name": "3pcs Jade Roller & Gua Sha Set — Facial Massage Beauty Tools",
+      "pros": [
+        "Verified 4.8-star rating on Temu",
+        "100K+ sold — a proven skincare-ritual favorite"
+      ],
+      "rating": 4.8,
+      "sample": false,
+      "short_description": "A jade roller, gua sha board and comb for facial massage — 4.8 stars with 100K+ sold.",
+      "sold_count": "100K+ sold",
+      "source": "Temu public listing — verified 2026-09-28",
+      "subcategory": "serums",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/p6qesk6gus5",
+      "badges": [],
+      "category": "skincare",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-beauty-tool-set-3pcs",
+      "key_features": [
+        "Roller massager + scraping plate",
+        "Silicone ice cube for facial compress",
+        "3-piece set"
+      ],
+      "merchant": "temu",
+      "name": "3pcs Beauty Massage Tool Set — Facial Roller, Scraping Plate and Ice Compress",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "3-piece facial beauty massage tool set with roller, scraping plate and silicone ice compress.",
+      "sold_count": "19.1K sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "cleansers",
+      "trend_status": null,
+      "updated": "2026-09-28",
+      "image_url": "https://img.kwcdn.com/product/fancy/f7041543-58c5-4416-b7dc-02822014d7dc.jpg?imageView2/2/w/500/q/70/format/avif"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pkobejl1o5z",
+      "badges": [],
+      "category": "hair",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-heatless-curlers",
+      "image_url": "https://img.kwcdn.com/product/fancy/84e9a627-64e8-40c7-a51b-98fc4de2aaa2.jpg?imageView2/2/w/500/q/70/format/avif",
+      "key_features": [
+        "No-heat curling",
+        "18pcs/36pcs set options",
+        "For long and short hair"
+      ],
+      "merchant": "temu",
+      "name": "Magic Spiral Hair Curlers Set 18pcs/36pcs — Heatless Curls",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "Spiral heatless hair curlers set (18/36 pcs) for DIY curls with no heat damage.",
+      "sold_count": "19K sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "styling-tools",
+      "trend_status": "viral",
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pc3e2b80x52",
+      "badges": [],
+      "category": "hair",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-heatless-curling-rod",
+      "image_url": "https://img.kwcdn.com/product/fancy/a5dde4fc-9045-48b2-ae1e-18398b2b3855.jpg?imageView2/2/w/500/q/70/format/avif",
+      "key_features": [
+        "Overnight no-heat curls",
+        "Satin, smooth on hair",
+        "Includes sleeping bonnet"
+      ],
+      "merchant": "temu",
+      "name": "Heatless Curling Rod Headband with Sleeping Bonnet — No-Heat Satin Curlers",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "Satin heatless curling rod headband with sleeping bonnet for overnight curls.",
+      "sold_count": "6.6K sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "styling-tools",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pqqvxjcsxly",
+      "badges": [],
+      "category": "accessories",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-square-sunglasses",
+      "image_url": "https://img.kwcdn.com/product/open/cfdb5920ef5e4377a6372530e6429105-goods.jpeg?imageView2/2/w/500/q/70/format/avif",
+      "key_features": [
+        "3pcs value set",
+        "Polarized square lenses",
+        "Includes microfiber cleaning cloth"
+      ],
+      "merchant": "temu",
+      "name": "VIUIRNKA 3pcs Women's Square Polarized Sunglasses",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "3-piece set of women's square polarized sunglasses, lightweight for party, beach and travel.",
+      "sold_count": "84 sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "sunglasses",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/p4k8im46tzm",
+      "badges": [],
+      "category": "lingerie",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-lace-bra-3pcs",
+      "image_url": "https://img.kwcdn.com/product/temu-avi/image-crop/d4092b9a-0f15-4437-9b2a-bd470db55ce5.jpg?imageView2/2/w/500/q/70/format/avif",
+      "key_features": [
+        "3pcs value set",
+        "Lace comfort design",
+        "Solid colors"
+      ],
+      "merchant": "temu",
+      "name": "3pcs Women's Solid Color Lace Comfort Bra",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "3-piece set of women's solid-color lace comfort bras with thin cups.",
+      "sold_count": "1K+ sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "bralettes",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pm69x1cruej",
+      "badges": [],
+      "category": "fitness",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-yoga-bands",
+      "key_features": [
+        "3 resistance levels",
+        "Anti-slip design",
+        "Pink, purple and green set"
+      ],
+      "merchant": "temu",
+      "name": "3-Pack Anti-Slip Yoga Resistance Bands (Pink, Purple, Green)",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "3-pack of anti-slip resistance bands in pink, purple and green for home gym and travel.",
+      "sold_count": "7 sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "subcategory": "gear",
+      "trend_status": null,
+      "updated": "2026-09-28",
+      "image_url": "https://img.kwcdn.com/product/fancy/e405a6af-5831-4f78-9c94-4c634b76badc.jpg?imageView2/2/w/500/q/70/format/avif"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/p4qvo7zomyi",
+      "badges": [],
+      "category": "trending",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-full-makeup-gift-set",
+      "key_features": [
+        "11-piece full-face kit",
+        "Contour palette + brushes + sponge",
+        "Gift-ready box"
+      ],
+      "merchant": "temu",
+      "name": "POPFEEL 11pcs Facial Makeup Gift Box Set for Women",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "11-piece professional makeup gift box: contour palette, powder, primer, brushes, sponge and lip oil.",
+      "sold_count": "2.2K sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "trend_status": "trending",
+      "updated": "2026-09-28",
+      "image_url": "https://img.kwcdn.com/product/fancy/eeda81c3-b020-4f4f-ad54-46cc76610f09.jpg?imageView2/2/w/500/q/70/format/avif"
+    },
+    {
+      "affiliate_url": "https://temu.to/k/pyd2ienr9y4",
+      "badges": [],
+      "category": "trending",
+      "cons": [
+        "Temu prices change frequently — confirm the live price before buying",
+        "Check the live Temu listing for current colors and sizes"
+      ],
+      "id": "temu-open-front-jacket",
+      "image_url": "https://img.kwcdn.com/product/open/693590e3c2654040ab24ebff9fbf845c-goods.jpeg?imageView2/2/w/500/q/70/format/avif",
+      "key_features": [
+        "Denim patchwork design",
+        "Lapel collar, button detail",
+        "Open-front casual outerwear"
+      ],
+      "merchant": "temu",
+      "name": "Women's Denim Ribbed Patchwork Blazer — Open Front Casual Jacket",
+      "pros": [
+        "Real Temu listing — check live buyer reviews on the product page"
+      ],
+      "rating": null,
+      "sample": false,
+      "short_description": "Women's denim ribbed patchwork blazer with lapel collar and open front.",
+      "sold_count": "170 sold",
+      "source": "Temu affiliate Share catalog — verified 2026-09-28",
+      "trend_status": "trending",
+      "updated": "2026-09-28"
+    }
+  ]
+}

@@ -16,32 +16,75 @@
   <div class="breadcrumb"><a href="/">Home</a> / Contact</div>
   <section class="section" style="padding-top:24px">
     <h1 class="section-title">Contact Us</h1>
-    <p class="section-sub">Brand partnerships, product suggestions, or questions about how QA Affiliate works — we'd love to hear from you.</p>
-    <div class="contact-form">
-      <form id="contact-form">
-        <label for="c-name">Your name</label>
-        <input id="c-name" required>
-        <label for="c-email">Your email</label>
-        <input id="c-email" type="email" required>
-        <label for="c-topic">Topic</label>
-        <select id="c-topic"><option>General question</option><option>Brand partnership</option><option>Product suggestion</option><option>Affiliate program inquiry</option><option>Something else</option></select>
-        <label for="c-msg">Message</label>
-        <textarea id="c-msg" rows="5" required></textarea>
-        <button class="btn btn-rose" type="submit" style="margin-top:18px">Send Message</button>
-        <p class="form-msg" id="contact-msg"></p>
-      </form>
+    <p class="section-sub">Brand partnerships, product suggestions, or questions about how QA Affiliate works — we'd love to hear from you. Many common questions are answered on our <a href="/faq.html" style="text-decoration:underline">FAQ page</a>.</p>
+    <div class="about-layout" style="grid-template-columns:1fr 1fr;margin-top:8px">
+      <div class="contact-form">
+        <form id="contact-form">
+          <label for="c-name">Your name</label>
+          <input id="c-name" required autocomplete="name">
+          <label for="c-email">Your email</label>
+          <input id="c-email" type="email" required autocomplete="email">
+          <label for="c-topic">Topic</label>
+          <select id="c-topic"><option>General question</option><option>Brand partnership</option><option>Product suggestion</option><option>Affiliate program inquiry</option><option>Something else</option></select>
+          <label for="c-msg">Message</label>
+          <textarea id="c-msg" rows="5" required></textarea>
+          <button class="btn btn-rose" type="submit" style="margin-top:18px">Send Message</button>
+          <p class="form-msg" id="contact-msg"></p>
+          <p class="form-note" id="contact-note" style="color:var(--muted);font-size:.85rem"></p>
+        </form>
+      </div>
+      <div>
+        <h2 style="font-size:1.3rem;margin-bottom:10px">What happens next</h2>
+        <ul style="margin:0 0 18px 22px;color:#463A40">
+          <li style="margin:8px 0">Once our inbox is connected, we read every message and typically reply within <strong>two business days</strong>.</li>
+          <li style="margin:8px 0"><strong>Product suggestions:</strong> tell us the product name and merchant — if it fits our research criteria, we'll consider it for a future collection.</li>
+          <li style="margin:8px 0"><strong>Brand partnerships:</strong> include your brand, website and what you have in mind. Note that we never sell placement in our collections.</li>
+        </ul>
+        <h2 style="font-size:1.3rem;margin-bottom:10px">Prefer email?</h2>
+        <p style="color:#463A40">Our professional inbox is being set up — please use the form for now and check back soon.</p>
+        <div class="disclosure-box" style="margin-top:22px"><strong>Order support:</strong> purchases happen on the merchant's website, so shipping, tracking and returns are handled by the merchant. For order issues, please contact the merchant's customer service directly.</div>
+      </div>
     </div>
-    <p style="margin-top:22px;color:var(--muted)">Prefer email? Reach us at <a href="mailto:hello@yourdomain.com" style="text-decoration:underline">hello@yourdomain.com</a></p>
   </section>
 </div>
 <div data-site-footer></div>
 <script src="/assets/js/app.js"></script>
 <script>
-document.getElementById("contact-form").addEventListener("submit",function(e){
-  e.preventDefault();
-  document.getElementById("contact-msg").textContent="Thanks for reaching out! We typically reply within 2 business days.";
-  e.target.reset();
-});
+/* Honest contact handling: no backend is configured. If a real inbox address is
+   configured, compose via the visitor's email app; otherwise say so plainly. */
+(function(){
+  var form=document.getElementById("contact-form");
+  var msg=document.getElementById("contact-msg");
+  var note=document.getElementById("contact-note");
+  function getContact(){
+    return fetch("/config/site.json").then(function(r){return r.json();}).then(function(cfg){return cfg.contact||{};});
+  }
+  getContact().then(function(contact){
+    if(contact.email_placeholder||!contact.email){
+      note.textContent="Note: our contact inbox is being connected — messages can't be delivered just yet.";
+    }
+  }).catch(function(){});
+  form.addEventListener("submit",function(e){
+    e.preventDefault();
+    var name=document.getElementById("c-name").value.trim();
+    var email=document.getElementById("c-email").value.trim();
+    var topic=document.getElementById("c-topic").value;
+    var body=document.getElementById("c-msg").value.trim();
+    getContact().then(function(contact){
+      if(contact.email_placeholder||!contact.email){
+        msg.textContent="Thanks for writing! Our contact inbox is being connected, so your message can't be delivered just yet. Please check back soon.";
+        return;
+      }
+      var subject="QA Affiliate contact — "+topic+" (from "+name+")";
+      var text="Name: "+name+"\nEmail: "+email+"\nTopic: "+topic+"\n\n"+body;
+      window.location.href="mailto:"+contact.email+"?subject="+encodeURIComponent(subject)+"&body="+encodeURIComponent(text);
+      msg.textContent="Your email app is opening with your message ready — just press send. We typically reply within two business days.";
+      form.reset();
+    }).catch(function(){
+      msg.textContent="Something went wrong — please try again in a moment.";
+    });
+  });
+})();
 </script>
 </body>
 </html>

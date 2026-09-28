@@ -16,9 +16,22 @@ function esc(s){
   });
 }
 function money(n){ return "$"+Number(n).toFixed(2); }
+function hasPrice(p){ return p && p.price!=null && !isNaN(Number(p.price)); }
 function discountPct(p){
-  if(!p.original_price || p.original_price<=p.price) return 0;
+  if(!hasPrice(p) || !p.original_price || p.original_price<=p.price) return 0;
   return Math.round((1-p.price/p.original_price)*100);
+}
+function priceRow(p){
+  if(hasPrice(p)){
+    var off=discountPct(p);
+    return '<div class="price-row"><span class="price">'+money(p.price)+'</span>'+
+      (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price)+'</span>':'')+
+      (off>0?'<span class="price-off">-'+off+'%</span>':'')+'</div>';
+  }
+  return '<div class="price-row"><span class="price-na">Price varies — see live Temu deal</span></div>';
+}
+function soldNote(p){
+  return p.sold_count ? '<div class="sold-note">'+esc(p.sold_count)+' on Temu</div>' : '';
 }
 function stars(r){
   if(r==null) return '<span class="stars">No rating yet</span>';
@@ -29,6 +42,10 @@ function stars(r){
 function merchantName(p){
   var m = state.affiliates && state.affiliates.merchants[p.merchant];
   return m ? m.name : p.merchant;
+}
+function categoryName(id){
+  var c = state.categories && state.categories.categories.find(function(x){return x.id===id;});
+  return c ? c.name : id;
 }
 function badges(p){
   var out=[];
@@ -43,19 +60,27 @@ function badges(p){
 function sampleTag(p){
   return p.sample ? '<span class="sample-tag">Sample listing</span>' : '';
 }
+/* Branded fallback for products with no merchant image: never a fake/AI photo. */
+function imgFallback(p){
+  var cat=categoryName(p.category);
+  return '<div class="img-unavailable" role="img" aria-label="'+esc(p.name)+' — merchant image unavailable">'+
+    '<span class="iu-mono">QA</span>'+
+    '<span class="iu-title">'+esc(cat||"QA Affiliate")+'</span>'+
+    '<span class="iu-sub">Merchant image unavailable — see the live listing for photos</span></div>';
+}
 QA.productCard = function(p){
-  var off=discountPct(p);
+  var img=p.image_url ?
+    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" loading="lazy">' :
+    imgFallback(p);
   return '<article class="product-card">'+
     '<div class="product-media"><a href="/product.html?id='+esc(p.id)+'" aria-label="'+esc(p.name)+'">'+
-    '<img src="/assets/img/placeholder-product.svg" alt="'+esc(p.name)+' — product image placeholder 1200x628" loading="lazy"></a>'+
+    img+'</a>'+
     '<div class="badge-row">'+badges(p)+'</div>'+sampleTag(p)+'</div>'+
     '<div class="product-body">'+
     '<div class="product-merchant">'+esc(merchantName(p))+'</div>'+
     '<h3 class="product-name"><a href="/product.html?id='+esc(p.id)+'">'+esc(p.name)+'</a></h3>'+
-    stars(p.rating)+
-    '<div class="price-row"><span class="price">'+money(p.price)+'</span>'+
-    (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price)+'</span>':'')+
-    (off>0?'<span class="price-off">-'+off+'%</span>':'')+'</div>'+
+    stars(p.rating)+soldNote(p)+
+    priceRow(p)+
     '<div class="product-cta"><a class="btn btn-rose btn-block" data-aff data-id="'+esc(p.id)+'" href="'+esc(p.affiliate_url)+'" target="_blank" rel="nofollow sponsored noopener">View Deal</a></div>'+
     '</div></article>';
 };
@@ -97,7 +122,7 @@ function renderChrome(){
     '<div class="footer-brand"><img src="'+esc(s.brand.logo)+'" alt="'+esc(s.brand.logo_alt)+'"><p>'+esc(s.brand.tagline)+'. Transparent affiliate discovery for women\'s fashion, beauty and lifestyle.</p><div class="social-row">'+socialLinks()+'</div></div>'+
     '<div><h4>Shop</h4><ul>'+cats+'</ul></div>'+
     '<div><h4>Discover</h4><ul><li><a href="/trending.html">Trending & Viral</a></li><li><a href="/deals.html">Best Deals</a></li><li><a href="/products.html">All Products</a></li><li><a href="/guides.html">Buying Guides</a></li></ul></div>'+
-    '<div><h4>Company</h4><ul><li><a href="/about.html">About</a></li><li><a href="/contact.html">Contact</a></li><li><a href="/legal/disclosure.html">Affiliate Disclosure</a></li><li><a href="/legal/privacy.html">Privacy Policy</a></li><li><a href="/legal/terms.html">Terms</a></li></ul></div>'+
+    '<div><h4>Company</h4><ul><li><a href="/about.html">About</a></li><li><a href="/contact.html">Contact</a></li><li><a href="/faq.html">FAQ</a></li><li><a href="/legal/disclosure.html">Affiliate Disclosure</a></li><li><a href="/legal/privacy.html">Privacy Policy</a></li><li><a href="/legal/terms.html">Terms</a></li></ul></div>'+
     '</div>'+
     '<div class="footer-bottom"><span>© '+new Date().getFullYear()+' '+esc(s.brand.name)+'. All rights reserved.</span><span><a href="/legal/advertising.html">Advertising Disclosure</a> · <a href="/legal/cookies.html">Cookie Notice</a></span></div>'+
     '</div></footer>';
@@ -131,26 +156,45 @@ document.addEventListener("click",function(e){
   var p=state.products.find(function(x){return x.id===a.getAttribute("data-id");});
   if(p) trackAffiliateClick(p);
 });
-/* ---------- newsletter (provider-independent) ---------- */
+/* ---------- promo links (config-driven, never hardcoded in HTML) ---------- */
+function initPromoLinks(){
+  var promos=(state.site&&state.site.promotions)||{};
+  document.querySelectorAll("[data-promo]").forEach(function(a){
+    var url=promos[a.getAttribute("data-promo")];
+    if(url) a.setAttribute("href",url);
+  });
+}
+/* ---------- canonical URL ---------- */
+function setCanonical(){
+  var base=(state.site&&state.site.domain&&state.site.domain.canonical)||"";
+  if(!base) return;
+  var href=base.replace(/\/$/,"")+location.pathname+location.search;
+  var link=document.querySelector('link[rel="canonical"]');
+  if(!link){ link=document.createElement("link"); link.setAttribute("rel","canonical"); document.head.appendChild(link); }
+  link.setAttribute("href",href);
+}
+/* ---------- newsletter (provider-independent, honest state) ---------- */
 function initNewsletter(){
   document.querySelectorAll("[data-newsletter-form]").forEach(function(form){
+    var cfg=(state.site&&state.site.newsletter)||{};
+    var msg=form.parentElement.querySelector("[data-newsletter-msg]");
+    if(!cfg.provider||!cfg.action_url){
+      /* No provider connected: do not collect emails or imply a subscription happened. */
+      var input=form.querySelector('input[type="email"]');
+      if(input) input.disabled=true;
+      var btn=form.querySelector('button[type="submit"]');
+      if(btn) btn.disabled=true;
+      if(msg) msg.textContent="Our newsletter launches soon — we're connecting our email provider. Check back shortly!";
+      return;
+    }
     form.addEventListener("submit",function(e){
       e.preventDefault();
       var email=form.querySelector('input[type="email"]').value.trim();
-      var msg=form.parentElement.querySelector("[data-newsletter-msg]");
       if(!email||email.indexOf("@")<0){ msg.textContent="Please enter a valid email address."; return; }
-      var cfg=state.site.newsletter;
-      try{
-        var q=JSON.parse(localStorage.getItem("qa_newsletter_queue")||"[]");
-        q.push({email:email,ts:new Date().toISOString()});
-        localStorage.setItem("qa_newsletter_queue",JSON.stringify(q));
-      }catch(err){}
-      if(cfg.provider&&cfg.action_url){
-        msg.textContent="Thanks — please check your inbox to confirm your subscription.";
-      }else{
-        msg.textContent="Thanks for subscribing! Our newsletter provider is being connected — you are on the list.";
-      }
-      form.reset();
+      msg.textContent="Subscribing…";
+      fetch(cfg.action_url,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({email:email})})
+        .then(function(r){ if(!r.ok) throw new Error("bad response"); msg.textContent="Thanks — please check your inbox to confirm your subscription."; form.reset(); })
+        .catch(function(){ msg.textContent="Something went wrong — please try again in a moment."; });
     });
   });
 }
@@ -160,8 +204,8 @@ function applyFilters(list,f){
     if(f.q && (p.name+" "+p.short_description+" "+p.category+" "+p.subcategory).toLowerCase().indexOf(f.q.toLowerCase())<0) return false;
     if(f.cat && p.category!==f.cat) return false;
     if(f.sub && p.subcategory!==f.sub) return false;
-    if(f.minPrice!=null && p.price<f.minPrice) return false;
-    if(f.maxPrice!=null && p.price>f.maxPrice) return false;
+    if(f.minPrice!=null && hasPrice(p) && p.price<f.minPrice) return false;
+    if(f.maxPrice!=null && hasPrice(p) && p.price>f.maxPrice) return false;
     if(f.minRating!=null && (p.rating==null||p.rating<f.minRating)) return false;
     if(f.minDiscount!=null && discountPct(p)<f.minDiscount) return false;
     if(f.store && p.merchant!==f.store) return false;
@@ -171,27 +215,40 @@ function applyFilters(list,f){
 }
 function sortList(list,sort){
   var l=list.slice();
-  if(sort==="price-asc") l.sort(function(a,b){return a.price-b.price;});
-  else if(sort==="price-desc") l.sort(function(a,b){return b.price-a.price;});
+  if(sort==="price-asc") l.sort(function(a,b){return (a.price==null?Infinity:+a.price)-(b.price==null?Infinity:+b.price);});
+  else if(sort==="price-desc") l.sort(function(a,b){return (b.price==null?-Infinity:+b.price)-(a.price==null?-Infinity:+a.price);});
   else if(sort==="rating") l.sort(function(a,b){return (b.rating||0)-(a.rating||0);});
   else if(sort==="discount") l.sort(function(a,b){return discountPct(b)-discountPct(a);});
   else if(sort==="newest") l.sort(function(a,b){return (b.badges||[]).indexOf("new")-(a.badges||[]).indexOf("new");});
   return l;
 }
 /* ---------- page renderers ---------- */
+var GUIDES={
+ "glass-skin-routine":{title:"The Glass-Skin Routine: A Beginner's Buying Guide",url:"/guides/glass-skin-routine.html",desc:"How to build a simple, effective skincare routine — and what to look for in each step."},
+ "capsule-wardrobe":{title:"Build a 12-Piece Capsule Wardrobe",url:"/guides/capsule-wardrobe.html",desc:"Twelve versatile pieces, dozens of outfits — a practical guide to buying less and wearing more."},
+ "heatless-curls-guide":{title:"Heatless Curls That Actually Work: A Beginner's Guide",url:"/guides/heatless-curls-guide.html",desc:"Satin rods, foam curlers and braids — the methods, the technique, and what to buy."},
+ "jewelry-that-doesnt-tarnish":{title:"How to Buy Jewelry That Doesn't Tarnish",url:"/guides/jewelry-that-doesnt-tarnish.html",desc:"Materials ranked, listing red flags, and care rules that double your jewelry's life."},
+ "makeup-brush-guide":{title:"The 15-Piece Makeup Brush Guide: What Each Brush Actually Does",url:"/guides/makeup-brush-guide.html",desc:"The five brushes that matter, what the rest do, and how to buy a set that lasts."}
+};
+function artClass(url){
+  if(url.indexOf("glass-skin")>=0) return "ga-skincare";
+  if(url.indexOf("capsule-wardrobe")>=0) return "ga-wardrobe";
+  if(url.indexOf("heatless-curls")>=0) return "ga-curls";
+  if(url.indexOf("tarnish")>=0) return "ga-jewelry";
+  if(url.indexOf("makeup-brush")>=0) return "ga-brushes";
+  return "ga-default";
+}
 var pages={
 home:function(){
   var P=state.products;
   var trending=P.filter(function(p){return p.trend_status;}).slice(0,8);
   var best=P.filter(function(p){return (p.badges||[]).indexOf("best-seller")>=0;}).slice(0,4);
   var top=P.slice().sort(function(a,b){return (b.rating||0)-(a.rating||0);}).slice(0,4);
-  var deals=P.filter(function(p){return discountPct(p)>=20;}).sort(function(a,b){return discountPct(b)-discountPct(a);}).slice(0,4);
-  var fresh=P.filter(function(p){return (p.badges||[]).indexOf("new")>=0;}).slice(0,4);
+  var editors=P.slice().sort(function(a,b){return (b.rating||0)-(a.rating||0);}).slice(0,4);
   renderGrid(document.getElementById("sec-trending"),trending);
   renderGrid(document.getElementById("sec-best"),best);
   renderGrid(document.getElementById("sec-top"),top);
-  renderGrid(document.getElementById("sec-deals"),deals);
-  renderGrid(document.getElementById("sec-new"),fresh);
+  renderGrid(document.getElementById("sec-editors"),editors);
   var cg=document.getElementById("cat-tiles");
   cg.innerHTML=state.categories.categories.map(function(c){
     var href=c.special?"/trending.html":"/category.html?cat="+c.id;
@@ -206,6 +263,19 @@ category:function(){
   if(!c){ title.textContent="Category not found"; return; }
   title.textContent=c.icon+" "+c.name; sub.textContent=c.tagline;
   document.title=c.name+" — "+state.site.brand.name;
+  var crumb=document.getElementById("crumb-cat"); if(crumb) crumb.textContent=c.name;
+  var descEl=document.getElementById("cat-desc");
+  if(descEl&&c.description) descEl.textContent=c.description;
+  var rg=document.getElementById("cat-guides");
+  if(rg){
+    var gl=(c.related_guides||[]).map(function(slug){return GUIDES[slug];}).filter(Boolean);
+    if(gl.length){
+      rg.innerHTML='<h3 class="related-h">Helpful guides for this category</h3><div class="guide-grid">'+
+        gl.map(function(g){
+          return '<a class="guide-card" href="'+g.url+'"><div class="guide-art ga-mini '+artClass(g.url)+'"><span class="ga-kicker">Guide</span><span class="ga-title">'+esc(g.title)+'</span></div><div class="pad"><h3>'+esc(g.title)+'</h3><p>'+esc(g.desc)+'</p></div></a>';
+        }).join("")+'</div>';
+    }
+  }
   initFilterPage({cat:cat});
 },
 trending:function(){
@@ -213,11 +283,6 @@ trending:function(){
   list.sort(function(a,b){return (b.trend_status==="viral")-(a.trend_status==="viral");});
   renderGrid(document.getElementById("trend-grid"),list);
   document.getElementById("trend-count").textContent=list.length+" trending finds";
-},
-deals:function(){
-  var list=state.products.filter(function(p){return discountPct(p)>0;})
-    .sort(function(a,b){return discountPct(b)-discountPct(a);});
-  renderGrid(document.getElementById("deals-grid"),list);
 },
 product:function(){
   var id=new URLSearchParams(location.search).get("id");
@@ -227,20 +292,41 @@ product:function(){
   document.title=p.name+" — "+state.site.brand.name;
   var off=discountPct(p);
   var cat=state.categories.categories.find(function(x){return x.id===p.category;});
+  var pdImg=p.image_url ?
+    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'">' :
+    imgFallback(p);
+  var pdPrice=hasPrice(p)
+    ? '<div class="pd-price">'+money(p.price)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
+    : '<div class="pd-price"><span class="price-na">Price varies — see live Temu deal</span></div>';
+  var keyFeatures=(p.key_features&&p.key_features.length)?'<h3>Key features</h3><ul class="spec-list">'+p.key_features.map(function(f){return "<li>"+esc(f)+"</li>";}).join("")+'</ul>':'';
+  var prosCons=((p.pros&&p.pros.length)||(p.cons&&p.cons.length))?
+    '<div class="pros-cons">'+
+    (p.pros&&p.pros.length?'<div><h4>What we like</h4><ul class="pros">'+p.pros.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div>':'')+
+    (p.cons&&p.cons.length?'<div><h4>Keep in mind</h4><ul class="cons">'+p.cons.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div>':'')+
+    '</div>':'';
+  var related=state.products.filter(function(x){return x.id!==p.id&&x.category===p.category;}).slice(0,4);
+  var relHtml=related.length?
+    '<section class="related-section"><h2 class="section-title">You may also like</h2><p class="section-sub">More picks from '+esc(cat?cat.name:"this category")+'.</p><div class="product-grid">'+related.map(QA.productCard).join("")+'</div></section>':'';
+  var rguides=((cat&&cat.related_guides)||[]).map(function(slug){return GUIDES[slug];}).filter(Boolean);
+  var rguidesHtml=rguides.length?
+    '<section class="related-section"><h2 class="section-title">Helpful guides</h2><div class="guide-grid">'+
+    rguides.map(function(g){
+      return '<a class="guide-card" href="'+g.url+'"><div class="guide-art ga-mini '+artClass(g.url)+'"><span class="ga-kicker">Guide</span><span class="ga-title">'+esc(g.title)+'</span></div><div class="pad"><h3>'+esc(g.title)+'</h3><p>'+esc(g.desc)+'</p></div></a>';
+    }).join("")+'</div></section>':'';
   wrap.innerHTML=
   '<div class="breadcrumb"><a href="/">Home</a> / '+(cat?'<a href="/category.html?cat='+cat.id+'">'+esc(cat.name)+'</a> / ':'')+esc(p.name)+'</div>'+
-  '<div class="pd-layout"><div><div class="pd-media"><img src="/assets/img/placeholder-product.svg" alt="'+esc(p.name)+' — product image placeholder 1200x628"></div></div>'+
+  '<div class="pd-layout"><div><div class="pd-media">'+pdImg+'</div></div>'+
   '<div class="pd-info"><div class="badge-row" style="position:static;margin-bottom:10px">'+badges(p)+'</div>'+(p.sample?'<p style="margin-bottom:10px"><span class="sample-tag" style="position:static">Sample listing — demo data</span></p>':'')+
   '<h1>'+esc(p.name)+'</h1>'+
-  '<div class="pd-meta"><span>'+stars(p.rating)+'</span>'+(p.review_count?'<span>'+Number(p.review_count).toLocaleString()+' reviews</span>':'')+'<span>Sold by '+esc(merchantName(p))+'</span></div>'+
-  '<div class="pd-price">'+money(p.price)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'+
+  '<div class="pd-meta"><span>'+stars(p.rating)+'</span>'+(p.review_count?'<span>'+Number(p.review_count).toLocaleString()+' reviews</span>':'')+(p.sold_count?'<span>'+esc(p.sold_count)+' on Temu</span>':'')+'<span>Sold by '+esc(merchantName(p))+'</span></div>'+
+  pdPrice+
   '<p class="pd-desc">'+esc(p.short_description)+'</p>'+
   '<div class="pd-cta-row"><a class="btn btn-rose" data-aff data-id="'+esc(p.id)+'" href="'+esc(p.affiliate_url)+'" target="_blank" rel="nofollow sponsored noopener">View Deal at '+esc(merchantName(p))+'</a></div>'+
   '<div class="disclosure-box"><strong>Affiliate disclosure:</strong> '+esc((state.affiliates.merchants[p.merchant]||{}).disclosure_short||"QA Affiliate may earn a commission on qualifying purchases.")+'</div>'+
-  '<h3>Key features</h3><ul class="spec-list">'+p.key_features.map(function(f){return "<li>"+esc(f)+"</li>";}).join("")+'</ul>'+
-  '<div class="pros-cons"><div><h4>What we like</h4><ul class="pros">'+p.pros.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div>'+
-  '<div><h4>Keep in mind</h4><ul class="cons">'+p.cons.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div></div>'+
-  '</div></div>';
+  keyFeatures+
+  prosCons+
+  '</div></div>'+
+  relHtml+rguidesHtml;
 }
 };
 function initFilterPage(preset){
@@ -285,7 +371,7 @@ function boot(){
   Promise.all([getJSON("/config/site.json"),getJSON("/config/affiliates.json"),getJSON("/data/categories.json"),getJSON("/data/products.json")])
   .then(function(r){
     state.site=r[0]; state.affiliates=r[1]; state.categories=r[2]; state.products=r[3].products;
-    renderChrome(); initAnalytics(); initNewsletter();
+    renderChrome(); initAnalytics(); initNewsletter(); initPromoLinks(); setCanonical();
     var page=document.body.getAttribute("data-page");
     if(page&&pages[page]) pages[page]();
   }).catch(function(err){

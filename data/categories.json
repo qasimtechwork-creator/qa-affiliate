@@ -1,1 +1,168 @@
-{"_comment":"Category taxonomy for QA Affiliate. Add new categories here — pages render automatically, no frontend rebuild needed.","categories":[{"icon":"👗","id":"fashion","name":"Fashion & Clothing","subcategories":["dresses","tops","bottoms","outerwear"],"tagline":"Dresses, tops, denim and wardrobe staples"},{"icon":"👠","id":"shoes","name":"Shoes & Footwear","subcategories":["heels","sneakers","sandals","boots"],"tagline":"Heels, sneakers, sandals and boots"},{"icon":"💎","id":"jewelry","name":"Jewelry","subcategories":["earrings","necklaces","bracelets","rings"],"tagline":"Earrings, necklaces, bracelets and rings"},{"icon":"👜","id":"bags","name":"Bags & Handbags","subcategories":["tote","crossbody","clutch","backpack"],"tagline":"Totes, crossbody bags, clutches and more"},{"icon":"💄","id":"beauty","name":"Beauty & Cosmetics","subcategories":["lips","eyes","face","nails"],"tagline":"Makeup essentials for every routine"},{"icon":"🧴","id":"skincare","name":"Skincare","subcategories":["cleansers","serums","moisturizers","masks"],"tagline":"Cleansers, serums and moisturizers that deliver"},{"icon":"💇‍♀️","id":"hair","name":"Hair Care & Styling","subcategories":["styling-tools","treatments","accessories"],"tagline":"Styling tools, treatments and accessories"},{"icon":"🧣","id":"accessories","name":"Women's Accessories","subcategories":["scarves","belts","hats","sunglasses"],"tagline":"Scarves, belts, sunglasses and finishing touches"},{"icon":"🤍","id":"lingerie","name":"Lingerie & Underwear","subcategories":["bralettes","sets","sleepwear"],"tagline":"Comfort-first intimates and sleepwear"},{"icon":"🏋️‍♀️","id":"fitness","name":"Fitness & Lifestyle","subcategories":["activewear","gear","wellness"],"tagline":"Activewear, gear and everyday wellness"},{"icon":"🔥","id":"trending","name":"Viral & Trending","special":"trend_feed","subcategories":[],"tagline":"What everyone is talking about right now"}]}
+{
+  "_comment": "Category taxonomy for QA Affiliate. Add new categories here — pages render automatically, no frontend rebuild needed.",
+  "categories": [
+    {
+      "icon": "👗",
+      "id": "fashion",
+      "name": "Fashion & Clothing",
+      "subcategories": [
+        "dresses",
+        "tops",
+        "bottoms",
+        "outerwear"
+      ],
+      "tagline": "Dresses, tops, denim and wardrobe staples",
+      "description": "Timeless staples and seasonal updates for a wardrobe that works harder. We track what is genuinely selling and well-reviewed — from everyday tops to statement outerwear — so you can build outfits without the guesswork.",
+      "related_guides": [
+        "capsule-wardrobe"
+      ]
+    },
+    {
+      "icon": "👠",
+      "id": "shoes",
+      "name": "Shoes & Footwear",
+      "subcategories": [
+        "heels",
+        "sneakers",
+        "sandals",
+        "boots"
+      ],
+      "tagline": "Heels, sneakers, sandals and boots",
+      "description": "From everyday sneakers to occasion heels, our footwear picks are chosen for comfort, construction and real customer feedback. We watch ratings momentum and bestseller signals to surface pairs actually worth your money.",
+      "related_guides": [
+        "capsule-wardrobe"
+      ]
+    },
+    {
+      "icon": "💎",
+      "id": "jewelry",
+      "name": "Jewelry",
+      "subcategories": [
+        "earrings",
+        "necklaces",
+        "bracelets",
+        "rings"
+      ],
+      "tagline": "Earrings, necklaces, bracelets and rings",
+      "description": "Earrings, necklaces, bracelets and rings that look far more expensive than they are. We prioritize pieces with strong ratings and clear material descriptions — and our tarnish guide helps you choose pieces that last.",
+      "related_guides": [
+        "jewelry-that-doesnt-tarnish"
+      ]
+    },
+    {
+      "icon": "👜",
+      "id": "bags",
+      "name": "Bags & Handbags",
+      "subcategories": [
+        "tote",
+        "crossbody",
+        "clutch",
+        "backpack"
+      ],
+      "tagline": "Totes, crossbody bags, clutches and more",
+      "description": "Totes, crossbody bags, clutches and backpacks for every routine. We look for thoughtful construction, practical sizing and verified buyer satisfaction before a bag makes the cut.",
+      "related_guides": [
+        "capsule-wardrobe"
+      ]
+    },
+    {
+      "icon": "💄",
+      "id": "beauty",
+      "name": "Beauty & Cosmetics",
+      "subcategories": [
+        "lips",
+        "eyes",
+        "face",
+        "nails"
+      ],
+      "tagline": "Makeup essentials for every routine",
+      "description": "Makeup essentials that earn their place in your routine. Every beauty pick is chosen from products with genuine ratings traction — never paid placement — and our brush guide shows you how to use them properly.",
+      "related_guides": [
+        "makeup-brush-guide"
+      ]
+    },
+    {
+      "icon": "🧴",
+      "id": "skincare",
+      "name": "Skincare",
+      "subcategories": [
+        "cleansers",
+        "serums",
+        "moisturizers",
+        "masks"
+      ],
+      "tagline": "Cleansers, serums and moisturizers that deliver",
+      "description": "Cleansers, serums and moisturizers chosen for honest performance. We cross-check ratings, ingredient transparency and routine fit — and our glass-skin guide walks you through building a routine step by step.",
+      "related_guides": [
+        "glass-skin-routine"
+      ]
+    },
+    {
+      "icon": "💇‍♀️",
+      "id": "hair",
+      "name": "Hair Care & Styling",
+      "subcategories": [
+        "styling-tools",
+        "treatments",
+        "accessories"
+      ],
+      "tagline": "Styling tools, treatments and accessories",
+      "description": "Styling tools, treatments and accessories for healthier hair days. From heatless curling methods to everyday essentials, we feature products with proven buyer love — and show you exactly how to use them.",
+      "related_guides": [
+        "heatless-curls-guide"
+      ]
+    },
+    {
+      "icon": "🧣",
+      "id": "accessories",
+      "name": "Women's Accessories",
+      "subcategories": [
+        "scarves",
+        "belts",
+        "hats",
+        "sunglasses"
+      ],
+      "tagline": "Scarves, belts, sunglasses and finishing touches",
+      "description": "The finishing touches: sunglasses, scarves, belts and hats. Small pieces with big impact — curated for quality signals and standout ratings.",
+      "related_guides": [
+        "capsule-wardrobe"
+      ]
+    },
+    {
+      "icon": "🤍",
+      "id": "lingerie",
+      "name": "Lingerie & Underwear",
+      "subcategories": [
+        "bralettes",
+        "sets",
+        "sleepwear"
+      ],
+      "tagline": "Comfort-first intimates and sleepwear",
+      "description": "Comfort-first intimates and sleepwear. We focus on fit, fabric honesty and real reviews — because this is one category where comfort is non-negotiable.",
+      "related_guides": []
+    },
+    {
+      "icon": "🏋️‍♀️",
+      "id": "fitness",
+      "name": "Fitness & Lifestyle",
+      "subcategories": [
+        "activewear",
+        "gear",
+        "wellness"
+      ],
+      "tagline": "Activewear, gear and everyday wellness",
+      "description": "Activewear, gear and everyday wellness finds that support an active routine. Chosen for durability signals and genuine buyer feedback.",
+      "related_guides": []
+    },
+    {
+      "icon": "🔥",
+      "id": "trending",
+      "name": "Viral & Trending",
+      "special": "trend_feed",
+      "subcategories": [],
+      "tagline": "What everyone is talking about right now",
+      "description": "The products everyone is talking about right now. Every item here earned its tag through rising merchant signals and editorial review — never paid placement.",
+      "related_guides": []
+    }
+  ]
+}

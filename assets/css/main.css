@@ -88,6 +88,8 @@ h1,h2,h3{font-family:var(--font-display);line-height:1.2;font-weight:700}
 .price{font-size:1.25rem;font-weight:700;font-family:var(--font-display)}
 .price-old{color:var(--muted);text-decoration:line-through;font-size:.9rem}
 .price-off{color:#1F7A4D;font-weight:700;font-size:.85rem}
+.price-na{color:var(--muted);font-size:.92rem;font-style:italic}
+.sold-note{color:var(--muted);font-size:.82rem;margin-top:2px}
 .product-cta{margin-top:6px}
 .btn-block{width:100%;text-align:center}
 
@@ -184,3 +186,50 @@ h1,h2,h3{font-family:var(--font-display);line-height:1.2;font-weight:700}
 table.compare{width:100%;border-collapse:collapse;background:var(--surface);border-radius:var(--radius);overflow:hidden;font-size:.92rem}
 table.compare th,table.compare td{padding:12px 14px;border-bottom:1px solid var(--line);text-align:left}
 table.compare th{background:var(--plum);color:#fff;font-weight:600}
+
+/* ---- Qasim completion pass: promos, disclosure strip, guide art, faq, related ---- */
+.promo-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}
+.promo-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px;position:relative;overflow:hidden}
+.promo-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;background:linear-gradient(90deg,var(--gold),var(--rose))}
+.promo-card .promo-kicker{font-size:.72rem;font-weight:700;letter-spacing:1.6px;text-transform:uppercase;color:var(--rose)}
+.promo-card h3{font-size:1.45rem;margin:10px 0 8px}
+.promo-card p{color:var(--muted);font-size:.93rem;margin-bottom:8px}
+.promo-card .promo-terms{font-size:.8rem;color:var(--muted);font-style:italic;margin-bottom:18px}
+.disclosure-strip{background:var(--gold-soft);border:1px solid #DCC56A;border-radius:var(--radius);padding:14px 20px;font-size:.88rem;color:#5d4a08;margin:36px 0;text-align:center}
+.disclosure-strip a{text-decoration:underline;font-weight:600}
+.guide-art{aspect-ratio:1200/628;display:flex;flex-direction:column;justify-content:center;gap:8px;padding:36px;color:#fff;position:relative;overflow:hidden}
+.guide-art::after{content:"";position:absolute;inset:0;background:radial-gradient(600px 260px at 85% 10%,rgba(255,255,255,.18),transparent 60%)}
+.ga-kicker{font-size:.72rem;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;opacity:.85}
+.ga-title{font-family:var(--font-display);font-size:clamp(1.4rem,3.4vw,2.4rem);line-height:1.15;max-width:640px}
+.ga-sub{font-size:.95rem;opacity:.9;max-width:560px}
+.ga-mini{aspect-ratio:1200/628;padding:22px}
+.ga-mini .ga-title{font-size:1.25rem}
+.ga-skincare{background:linear-gradient(120deg,#3E5C4B 0%,#7BA889 60%,#BFD8C6 100%)}
+.ga-wardrobe{background:linear-gradient(120deg,#241A20 0%,#5A3B44 60%,#C0563F 130%)}
+.ga-curls{background:linear-gradient(120deg,#4A2E4D 0%,#8A4E7D 60%,#D9A7C7 120%)}
+.ga-jewelry{background:linear-gradient(120deg,#2B2B3A 0%,#6B5B2E 55%,#C9A227 120%)}
+.ga-brushes{background:linear-gradient(120deg,#5C2E2E 0%,#A0522D 55%,#E0A458 120%)}
+.ga-default{background:linear-gradient(120deg,#241A20,#4A3440)}
+.related-section{margin:48px 0 8px}
+.related-h{font-size:1.25rem;margin:26px 0 16px}
+.cat-desc{color:#463A40;max-width:760px;margin:-14px 0 26px;font-size:1.02rem}
+.faq-list{max-width:780px;margin:0 auto}
+.faq-list details{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);margin-bottom:12px;padding:0;overflow:hidden}
+.faq-list summary{cursor:pointer;padding:18px 22px;font-weight:600;font-size:1.02rem;list-style:none}
+.faq-list summary::-webkit-details-marker{display:none}
+.faq-list summary::after{content:"+";float:right;color:var(--rose);font-weight:700;font-size:1.2rem}
+.faq-list details[open] summary::after{content:"–"}
+.faq-list .faq-a{padding:0 22px 20px;color:#463A40;font-size:.95rem}
+.faq-list .faq-a a{text-decoration:underline}
+.promo-hero-note{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:22px 26px;margin-bottom:30px}
+.promo-hero-note h2{font-size:1.3rem;margin-bottom:8px}
+.promo-hero-note p{color:#463A40;font-size:.95rem;margin:8px 0}
+.promo-hero-note ul{margin:8px 0 8px 22px;color:#463A40;font-size:.95rem}
+@media(max-width:640px){.guide-art{padding:24px}.promo-card{padding:22px}}
+/* ---------- branded "merchant image unavailable" tile ---------- */
+.img-unavailable{width:100%;height:100%;min-height:220px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;padding:28px;background:linear-gradient(135deg,#2B2320 0%,#4A3A33 55%,#6B4A3E 100%);color:#F5EDE4;position:relative;overflow:hidden}
+.img-unavailable::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 70% 20%,rgba(212,175,55,.22),transparent 55%)}
+.iu-mono{font-family:"Playfair Display",serif;font-size:2rem;letter-spacing:6px;color:#D4AF37;position:relative}
+.iu-title{font-weight:600;font-size:.95rem;letter-spacing:1px;text-transform:uppercase;position:relative}
+.iu-sub{font-size:.78rem;color:#C9BBAE;max-width:240px;line-height:1.5;position:relative}
+.pd-media .img-unavailable{min-height:340px}

@@ -3,4 +3,4 @@ Allow: /
 Disallow: /config/
 Disallow: /data/
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://qa-affiliate.vercel.app/sitemap.xml
