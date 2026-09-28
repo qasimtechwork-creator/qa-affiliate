@@ -12,12 +12,21 @@
 </head>
 <body data-page="category">
 <div data-site-header></div>
+<section class="cat-banner">
+  <div class="cat-banner-bg" aria-hidden="true">
+    <img class="gif-anim" id="cat-banner-img" src="" alt="">
+    <img class="gif-fallback" id="cat-banner-fallback" src="" alt="">
+  </div>
+  <div class="cat-banner-overlay"></div>
+  <div class="container cat-banner-inner">
+    <div class="breadcrumb"><a href="/">Home</a> / <a href="/products.html">Shop All</a> / <span id="crumb-cat">Category</span></div>
+    <h1 class="cat-banner-title" id="cat-title">Category</h1>
+    <p class="cat-banner-sub" id="cat-sub"></p>
+    <p class="cat-banner-desc" id="cat-desc"></p>
+  </div>
+</section>
 <div class="container">
-  <div class="breadcrumb"><a href="/">Home</a> / <a href="/products.html">Shop All</a> / <span id="crumb-cat">Category</span></div>
   <section class="section" style="padding-top:24px">
-    <h1 class="section-title" id="cat-title">Category</h1>
-    <p class="section-sub" id="cat-sub"></p>
-    <p class="cat-desc" id="cat-desc"></p>
     <div id="cat-guides"></div>
     <div class="filter-bar">
       <div class="filter-row">

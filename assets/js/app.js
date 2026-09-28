@@ -311,6 +311,9 @@ category:function(){
   sub.textContent=c.tagline;
   document.title=c.name+" — "+state.site.brand.name;
   var crumb=document.getElementById("crumb-cat"); if(crumb) crumb.textContent=c.name;
+  var bi=document.getElementById("cat-banner-img"), bf=document.getElementById("cat-banner-fallback");
+  if(bi){ bi.src="/assets/images/categories/banners/"+c.id+".gif"; bi.alt=c.name; }
+  if(bf){ bf.src="/assets/images/categories/banners/"+c.id+".jpg"; bf.alt=c.name; }
   var descEl=document.getElementById("cat-desc");
   if(descEl&&c.description) descEl.textContent=c.description;
   var rg=document.getElementById("cat-guides");

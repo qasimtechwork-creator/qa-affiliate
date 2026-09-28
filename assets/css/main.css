@@ -254,6 +254,28 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
 .iu-sub{font-size:.78rem;color:#C9BBAE;max-width:240px;line-height:1.5;position:relative}
 .pd-media .img-unavailable{min-height:340px}
 
+/* ================= CATEGORY BANNER ================= */
+.cat-banner{position:relative;overflow:hidden;background:var(--plum);color:#F7EFE5;border-bottom:1px solid rgba(212,175,55,.28)}
+.cat-banner-bg{position:absolute;inset:0;z-index:0}
+.cat-banner-bg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:68% 32%}
+.cat-banner-bg .gif-fallback{display:none}
+.cat-banner-overlay{position:absolute;inset:0;z-index:1;background:linear-gradient(100deg,rgba(26,15,20,.96) 0%,rgba(26,15,20,.82) 36%,rgba(26,15,20,.38) 60%,rgba(26,15,20,.08) 80%)}
+.cat-banner-inner{position:relative;z-index:2;padding:60px 0 68px}
+.cat-banner .breadcrumb{color:#C9B49E;margin-bottom:14px}
+.cat-banner .breadcrumb a{color:#EFD9A7}
+.cat-banner-title{font-family:var(--font-display);font-size:clamp(2rem,4.6vw,3.2rem);color:#FFF7EA;display:flex;align-items:center;gap:14px;text-shadow:0 2px 20px rgba(0,0,0,.55)}
+.cat-banner-sub{color:var(--gold);font-size:1.05rem;margin-top:10px;font-weight:600}
+.cat-banner-desc{color:#DCCBB9;max-width:640px;margin-top:12px;line-height:1.65}
+@media(max-width:900px){
+  .cat-banner-inner{padding:44px 0 52px}
+  .cat-banner-bg img{object-position:72% center}
+  .cat-banner-overlay{background:linear-gradient(100deg,rgba(26,15,20,.95) 0%,rgba(26,15,20,.80) 48%,rgba(26,15,20,.40) 78%,rgba(26,15,20,.15) 100%)}
+}
+@media (prefers-reduced-motion:reduce){
+  .cat-banner-bg .gif-anim{display:none}
+  .cat-banner-bg .gif-fallback{display:block}
+}
+
 /* ================= FULL-SCREEN CINEMATIC HERO ================= */
 .hero{position:relative;overflow:hidden;min-height:100svh;display:flex;align-items:center;background:#1A0F14;padding:110px 0 80px}
 .hero-bg{position:absolute;inset:0;z-index:0;background:var(--plum)}
