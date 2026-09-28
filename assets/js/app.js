@@ -91,7 +91,14 @@ function renderGrid(el, list){
 /* ---------- header / footer ---------- */
 function socialLinks(){
   var s=state.site.social, out="";
-  var icons={instagram:"📷",tiktok:"🎵",youtube:"▶️",facebook:"📘",x:"𝕏"};
+  var sw='width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"';
+  var icons={
+    instagram:'<svg '+sw+'><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r="1" fill="currentColor" stroke="none"/></svg>',
+    tiktok:'<svg '+sw+'><path d="M9 17.5a3 3 0 1 0 3 3V6.5c.8 2.3 2.6 4 5 4.4"/><path d="M12 6.5c.8 2.3 2.6 4 5 4.4V7.6"/></svg>',
+    youtube:'<svg '+sw+'><rect x="2.5" y="6" width="19" height="12" rx="4"/><path d="M10.5 9.8v4.4L14.8 12z" fill="currentColor" stroke="none"/></svg>',
+    facebook:'<svg '+sw+'><path d="M14.5 8.5H16V5.5h-1.5a3.5 3.5 0 0 0-3.5 3.5v2.5H9V15h2v5.5h3V15h2.2l.8-3.5h-3V9c0-.3.2-.5.5-.5z"/></svg>',
+    x:'<svg '+sw+'><path d="M5 5l14 14M19 5L5 19"/></svg>'
+  };
   Object.keys(icons).forEach(function(k){
     if(s[k]) out+='<a href="'+esc(s[k])+'" target="_blank" rel="noopener" aria-label="'+k+'">'+icons[k]+'</a>';
   });
@@ -238,6 +245,42 @@ function artClass(url){
   if(url.indexOf("makeup-brush")>=0) return "ga-brushes";
   return "ga-default";
 }
+/* ---------- guide cover photos (real merchant photography) ---------- */
+var GUIDE_PHOTOS={
+  "ga-skincare":{src:"/assets/images/guides/glass-skin.jpg",alt:"Jade roller and gua sha skincare tools"},
+  "ga-wardrobe":{src:"/assets/images/guides/capsule-wardrobe.jpg",alt:"Elegant open-front fashion jacket"},
+  "ga-curls":{src:"/assets/images/guides/heatless-curls.jpg",alt:"Heatless curling rod set"},
+  "ga-jewelry":{src:"/assets/images/guides/jewelry.jpg",alt:"Gold jewelry set"},
+  "ga-brushes":{src:"/assets/images/guides/makeup-brushes.jpg",alt:"Professional makeup brush set"}
+};
+function enhanceGuideArt(){
+  var els=document.querySelectorAll(".guide-art");
+  for(var i=0;i<els.length;i++){
+    var el=els[i];
+    if(el.querySelector(".ga-photo")) continue;
+    for(var k in GUIDE_PHOTOS){
+      if(el.classList.contains(k)){
+        var p=GUIDE_PHOTOS[k];
+        el.insertAdjacentHTML("afterbegin",'<img class="ga-photo" src="'+p.src+'" alt="'+p.alt+'" loading="lazy"><span class="ga-shade"></span>');
+        break;
+      }
+    }
+  }
+}
+/* ---------- 3D category icons (clean names; missing files hide gracefully) ---------- */
+var CATEGORY_ICONS={
+  "fashion":"/assets/images/categories/icon-fashion.webp",
+  "shoes":"/assets/images/categories/icon-shoes.webp",
+  "jewelry":"/assets/images/categories/icon-jewelry.webp",
+  "bags":"/assets/images/categories/icon-bags.webp",
+  "beauty":"/assets/images/categories/icon-beauty.webp",
+  "skincare":"/assets/images/categories/icon-skincare.webp",
+  "hair":"/assets/images/categories/icon-hair.webp",
+  "accessories":"/assets/images/categories/icon-accessories.webp",
+  "lingerie":"/assets/images/categories/icon-lingerie.webp",
+  "fitness":"/assets/images/categories/icon-fitness.webp",
+  "trending":"/assets/images/categories/icon-trending.webp"
+};
 var pages={
 home:function(){
   var P=state.products;
@@ -252,7 +295,9 @@ home:function(){
   var cg=document.getElementById("cat-tiles");
   cg.innerHTML=state.categories.categories.map(function(c){
     var href=c.special?"/trending.html":"/category.html?cat="+c.id;
-    return '<a class="cat-tile" href="'+href+'"><div class="emoji">'+c.icon+'</div><h3>'+esc(c.name)+'</h3><p>'+esc(c.tagline)+'</p></a>';
+    var ci=CATEGORY_ICONS[c.id];
+    var iconHtml=ci?'<div class="cat-icon"><img src="'+ci+'" alt="'+esc(c.name)+' icon" loading="lazy" onerror="this.closest(\'.cat-icon\').classList.add(\'no-img\');this.remove()"></div>':'';
+    return '<a class="cat-tile" href="'+href+'">'+iconHtml+'<h3>'+esc(c.name)+'</h3><p>'+esc(c.tagline)+'</p></a>';
   }).join("");
 },
 browse:function(){ initFilterPage({}); },
@@ -261,7 +306,9 @@ category:function(){
   var c=state.categories.categories.find(function(x){return x.id===cat;});
   var title=document.getElementById("cat-title"), sub=document.getElementById("cat-sub");
   if(!c){ title.textContent="Category not found"; return; }
-  title.textContent=c.icon+" "+c.name; sub.textContent=c.tagline;
+  var ci=CATEGORY_ICONS[c.id];
+  title.innerHTML=(ci?'<img class="cat-head-icon" src="'+ci+'" alt="" loading="lazy" onerror="this.remove()">':'')+'<span>'+esc(c.name)+'</span>';
+  sub.textContent=c.tagline;
   document.title=c.name+" — "+state.site.brand.name;
   var crumb=document.getElementById("crumb-cat"); if(crumb) crumb.textContent=c.name;
   var descEl=document.getElementById("cat-desc");
@@ -374,6 +421,7 @@ function boot(){
     renderChrome(); initAnalytics(); initNewsletter(); initPromoLinks(); setCanonical();
     var page=document.body.getAttribute("data-page");
     if(page&&pages[page]) pages[page]();
+    enhanceGuideArt();
   }).catch(function(err){
     document.body.insertAdjacentHTML("afterbegin",'<div class="demo-notice">Could not load site data. Please check your connection and reload.</div>');
   });
