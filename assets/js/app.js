@@ -312,8 +312,8 @@ category:function(){
   document.title=c.name+" — "+state.site.brand.name;
   var crumb=document.getElementById("crumb-cat"); if(crumb) crumb.textContent=c.name;
   var bi=document.getElementById("cat-banner-img"), bf=document.getElementById("cat-banner-fallback");
-  if(bi){ bi.src="/assets/images/categories/banners/"+c.id+".gif?v=6"; bi.alt=c.name; }
-  if(bf){ bf.src="/assets/images/categories/banners/"+c.id+".jpg?v=6"; bf.alt=c.name; }
+  if(bi){ bi.src="/assets/images/categories/banners/"+c.id+".gif?v=7"; bi.alt=c.name; }
+  if(bf){ bf.src="/assets/images/categories/banners/"+c.id+".jpg?v=7"; bf.alt=c.name; }
   /* 3D parallax: banner bg drifts slightly, foreground petals drift more */
   (function(){
     var banner=document.querySelector(".cat-banner"); if(!banner) return;
