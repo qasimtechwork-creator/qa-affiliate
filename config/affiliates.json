@@ -4,7 +4,7 @@
     "aliexpress": {
       "_comment": "Tracking ID 'default'. Tracked links are per-product short links (https://s.click.aliexpress.com/e/_<code>) generated via the portal Link Generator (Tools > Link Generator) or tools/aliexpress_import.py via the Open Platform API. There is no URL-template affiliate tag for AliExpress.",
       "disclosure_short": "QA Affiliate may earn a commission on qualifying AliExpress purchases.",
-      "enabled": false,
+      "enabled": true,
       "name": "AliExpress",
       "url_template": "https://s.click.aliexpress.com/e/_TRACKING-CODE"
     },

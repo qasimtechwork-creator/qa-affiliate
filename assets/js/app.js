@@ -28,10 +28,10 @@ function priceRow(p){
       (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price)+'</span>':'')+
       (off>0?'<span class="price-off">-'+off+'%</span>':'')+'</div>';
   }
-  return '<div class="price-row"><span class="price-na">Price varies — see live Temu deal</span></div>';
+  return '<div class="price-row"><span class="price-na">Price varies — see live '+esc(merchantName(p))+' deal</span></div>';
 }
 function soldNote(p){
-  return p.sold_count ? '<div class="sold-note">'+esc(p.sold_count)+' on Temu</div>' : '';
+  return p.sold_count ? '<div class="sold-note">'+esc(p.sold_count)+' on '+esc(merchantName(p))+'</div>' : '';
 }
 function stars(r){
   if(r==null) return '<span class="stars">No rating yet</span>';
@@ -363,7 +363,7 @@ product:function(){
     imgFallback(p);
   var pdPrice=hasPrice(p)
     ? '<div class="pd-price">'+money(p.price)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
-    : '<div class="pd-price"><span class="price-na">Price varies — see live Temu deal</span></div>';
+    : '<div class="pd-price"><span class="price-na">Price varies — see live '+esc(merchantName(p))+' deal</span></div>';
   var keyFeatures=(p.key_features&&p.key_features.length)?'<h3>Key features</h3><ul class="spec-list">'+p.key_features.map(function(f){return "<li>"+esc(f)+"</li>";}).join("")+'</ul>':'';
   var prosCons=((p.pros&&p.pros.length)||(p.cons&&p.cons.length))?
     '<div class="pros-cons">'+
@@ -384,7 +384,7 @@ product:function(){
   '<div class="pd-layout"><div><div class="pd-media">'+pdImg+'</div></div>'+
   '<div class="pd-info"><div class="badge-row" style="position:static;margin-bottom:10px">'+badges(p)+'</div>'+(p.sample?'<p style="margin-bottom:10px"><span class="sample-tag" style="position:static">Sample listing — demo data</span></p>':'')+
   '<h1>'+esc(p.name)+'</h1>'+
-  '<div class="pd-meta"><span>'+stars(p.rating)+'</span>'+(p.review_count?'<span>'+Number(p.review_count).toLocaleString()+' reviews</span>':'')+(p.sold_count?'<span>'+esc(p.sold_count)+' on Temu</span>':'')+'<span>Sold by '+esc(merchantName(p))+'</span></div>'+
+  '<div class="pd-meta"><span>'+stars(p.rating)+'</span>'+(p.review_count?'<span>'+Number(p.review_count).toLocaleString()+' reviews</span>':'')+(p.sold_count?'<span>'+esc(p.sold_count)+' on '+esc(merchantName(p))+'</span>':'')+'<span>Sold by '+esc(merchantName(p))+'</span></div>'+
   pdPrice+
   '<p class="pd-desc">'+esc(p.short_description)+'</p>'+
   '<div class="pd-cta-row"><a class="btn btn-rose" data-aff data-id="'+esc(p.id)+'" href="'+esc(p.affiliate_url)+'" target="_blank" rel="nofollow sponsored noopener">View Deal at '+esc(merchantName(p))+'</a></div>'+

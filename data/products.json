@@ -1,5 +1,5 @@
 {
-  "_comment": "VERIFIED TEMU CATALOG — built 2026-09-28 from public Temu search-indexed listings. Each entry carries only fields verified on the live Temu listing: name, rating, sold count, bestseller rank and (where shown) an official product image. NO price, review count or discount is included anywhere — Temu prices vary by region and moment, and sold counts are never presented as reviews. sample:true and site demo_mode remain ON until Qasim's real Temu affiliate ID is connected. affiliate_url uses the exact placeholder referrer=AFFILIATE-ID-PENDING per task spec.",
+  "_comment": "VERIFIED CATALOG — 20 Temu + 12 AliExpress products, built/merged 2026-09-28 from public merchant listings. Each entry carries only fields verified on the live listing: name, (where shown) rating, sold count, bestseller rank and an official product image. NO price, review count or discount is included anywhere — merchant prices vary by region and moment. Temu affiliate URLs are real per-product tracked links; AliExpress URLs are real s.click.aliexpress.com tracked links generated via the Affiliate Portal Link Generator (Tracking ID 'default'). — built 2026-09-28 from public Temu search-indexed listings. Each entry carries only fields verified on the live Temu listing: name, rating, sold count, bestseller rank and (where shown) an official product image. NO price, review count or discount is included anywhere — Temu prices vary by region and moment, and sold counts are never presented as reviews. sample:true and site demo_mode remain ON until Qasim's real Temu affiliate ID is connected. affiliate_url uses the exact placeholder referrer=AFFILIATE-ID-PENDING per task spec.",
   "products": [
     {
       "affiliate_url": "https://temu.to/k/pe26f3ka07h",
@@ -608,6 +608,366 @@
       "sold_count": "170 sold",
       "source": "Temu affiliate Share catalog — verified 2026-09-28",
       "trend_status": "trending",
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3RkvTbR",
+      "badges": [
+        "new"
+      ],
+      "category": "jewelry",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-rinntin-tennis-bracelet",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S31a3dce087b74242909a5bf27dada11a7.jpg",
+      "key_features": [
+        "3mm crystal tennis-bracelet design (per listing title)",
+        "925 sterling silver (per listing title)",
+        "Charm-style bracelet (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "Rinntin Sparkling Exquisite Tennis Bracelet 925 Sterling Silver Hip Hop Trend Charm 3MM Women's Bracelet Crystal Jewelry SB214",
+      "pros": [
+        "Slim 3mm profile for everyday wear (per listing specs)",
+        "Sterling silver construction (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "A 3mm crystal tennis bracelet in 925 sterling silver by Rinntin.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "bracelets",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c388zooV",
+      "badges": [
+        "new"
+      ],
+      "category": "fashion",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-slip-backless-dress",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sbb5a09d7c7584e07b704303abd2f676ec.jpg",
+      "key_features": [
+        "Backless slip silhouette (per listing title)",
+        "Loose solid-color cut (per listing title)",
+        "Cross-border 2026 women's wear style (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "2026 New European & American Cross-border Women's Wear – Women's Loose Solid-Color Slip Backless Dress",
+      "pros": [
+        "Backless design for evening and party looks (per listing title)",
+        "Loose fit with a relaxed drape (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Loose solid-color slip dress with a backless design.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "dresses",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3cT4SvJ",
+      "badges": [
+        "new"
+      ],
+      "category": "fashion",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-corset-camisole-top",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S2b831944350a42dc84f7284c92318c61z.jpg",
+      "key_features": [
+        "Corset-style camisole with straps (per listing title)",
+        "Sleeveless bodycon crop fit (per listing title)",
+        "Bustier tank styling (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "HXAO Sleeveless Crop Tops For Woman Corset Camisole Brown Top Women Bodycon Backless Sexy Tops With Straps Bustier Tank Tops",
+      "pros": [
+        "Structured corset look in a single layer (per listing title)",
+        "Strap camisole design (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Sleeveless corset-style camisole crop top with straps.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "tops",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c2vHxnGh",
+      "badges": [
+        "new"
+      ],
+      "category": "shoes",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-cork-mules-clogs",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S547f5963b9ce4106b4d47774a80b3ce84.jpg",
+      "key_features": [
+        "Cork suede mules (per listing title)",
+        "Arch-support footbed (per listing title)",
+        "Anti-slip sole for outdoor wear (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "Litfun New Women Clogs For Women Fashion Cork Suede Mules Slipper Classic Cork Antislip For Outdoor Slippers With Arch Support",
+      "pros": [
+        "Arch support built into the footbed (per listing title)",
+        "Anti-slip cork sole for outdoor use (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Cork suede mules with arch support and anti-slip sole.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "sandals",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c2vhp9hT",
+      "badges": [
+        "new"
+      ],
+      "category": "shoes",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-croissant-plush-slippers",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S8272d2cbf1184688b31b429495a4d008I.jpg",
+      "key_features": [
+        "Croissant-shaped plush upper (per listing title)",
+        "Non-slip sole (per listing title)",
+        "Fluffy cotton indoor design (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "ZUOFU Unisex Cute Croissant Plush Slippers Autumn Winter Non-Slip TRP Fluffy Indoor Cotton Slippers",
+      "pros": [
+        "Non-slip sole for indoor wear (per listing title)",
+        "Plush fluffy upper for colder seasons (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Cute croissant-shaped plush indoor slippers, non-slip.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "slippers",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c4r971iV",
+      "badges": [
+        "new"
+      ],
+      "category": "jewelry",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-huitan-hoop-earrings",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S6fa56d4c8f824116b52a5c3fd4b62527p.jpg",
+      "key_features": [
+        "Classic hoop silhouette (per listing title)",
+        "Princess square-cut cubic zirconia stones (per listing title)",
+        "Simple, elegant, versatile styling (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "Huitan Classic Design Women Hoop Earrings Full with Princess Square CZ Simple and Elegant Female Accessories Versatile Jewelry",
+      "pros": [
+        "Square-cut CZ stones set in a classic hoop (per listing title)",
+        "Simple versatile design for daily wear (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Classic hoop earrings with princess square cubic zirconia.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "earrings",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c2vobSo9",
+      "badges": [
+        "new"
+      ],
+      "category": "jewelry",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-17pcs-jewelry-set",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sbc0873bb81234fdab3755e0148870c6fX.png",
+      "key_features": [
+        "17 pieces: necklaces and bracelets (per listing title)",
+        "Minimalist pendants — heart, butterfly, star, snake-bone twists (per listing title)",
+        "Positioned as a gift set (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "17pcs Fashion Minimalist Jewelry Set For Women Vintage Twist Snake Bone Heart Butterfly Star Pendant Necklace Bracelet Sets Gift",
+      "pros": [
+        "17 mix-and-match pieces in one set (per listing title)",
+        "Varied pendant motifs — heart, butterfly, star (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "17-piece minimalist jewelry set with pendant necklaces and bracelets.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "jewelry-sets",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c4DAgdXr",
+      "badges": [
+        "new"
+      ],
+      "category": "bags",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-nylon-crossbody-bag",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S368435898f6b47928e4e0bac577e8b11v.jpg",
+      "key_features": [
+        "Nylon body (per listing title)",
+        "Crossbody and underarm carry options (per listing title)",
+        "Casual everyday styling (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "Nylon Crossbody Bag For Women Fashion Portable Casual Underarm Bag Students Cross Body Bag",
+      "pros": [
+        "Lightweight nylon for all-day carry (per listing title)",
+        "Wearable as a crossbody or underarm bag (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Casual nylon crossbody underarm bag for everyday use.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "crossbody-bags",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c33GH4W1",
+      "badges": [
+        "new"
+      ],
+      "category": "beauty",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-press-on-nails-120pcs",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S5330d1c81fb54720865c6a3651b935c0F.jpg",
+      "key_features": [
+        "120 pieces — full-cover press-on nails (per listing title)",
+        "Short square coffin shape (per listing title)",
+        "Glossy pink finish (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "120Pcs Short Square Coffin French Fake Nails Glossy Pink Full Cover Wearable Press on Nails",
+      "pros": [
+        "120 nails — enough for multiple full sets (per listing title)",
+        "Glossy pink finish, ready to wear (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "120-piece glossy pink press-on nails, short square coffin shape.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "nails",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c4pn7uMz",
+      "badges": [
+        "new"
+      ],
+      "category": "skincare",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-24k-gold-serum",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S4e63b98b5b6f42a58dce68b4b7f798eac.jpg",
+      "key_features": [
+        "Hyaluronic acid + nicotinamide formula (per listing title)",
+        "100ml bottle (per listing title)",
+        "Marketed for anti-aging and lifting (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "100ml 24k Gold Hyaluronic Acid Nicotinamide Face Serum Anti Aging Facial Lifting Collagen Essence Skin Care Whitening Serum",
+      "pros": [
+        "Hyaluronic acid plus nicotinamide in one formula (per listing title)",
+        "Generous 100ml bottle size (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "24k gold hyaluronic acid face serum with nicotinamide.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "serums",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3nnkL7r",
+      "badges": [
+        "new"
+      ],
+      "category": "hair",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-small-hair-clips-pack",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sa66cbaa06b29460599d63e785fe47a48Y.jpg",
+      "key_features": [
+        "Multi-pack options: 5/10/20/30 pieces (per listing title)",
+        "Small beige clips (per listing title)",
+        "Cute everyday accessory styling (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "5/10/20/30pcs Beige Mixed Pack Small Clips, Cute Girl Accessories",
+      "pros": [
+        "Multi-quantity options up to 30 pieces (per listing title)",
+        "Neutral beige tone for everyday hairstyles (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Mixed pack of small beige hair clips for daily use.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "hair-clips",
+      "trend_status": null,
+      "updated": "2026-09-28"
+    },
+    {
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3dUQJRn",
+      "badges": [
+        "new"
+      ],
+      "category": "accessories",
+      "cons": [
+        "AliExpress prices change frequently — confirm the live price before buying",
+        "Check the live AliExpress listing for current colors, sizes and variants"
+      ],
+      "id": "aliexpress-vintage-sunglasses-6pcs",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S74f3bc44939f42ae8fe56ba62a115951V.png",
+      "key_features": [
+        "6-piece set (per listing title)",
+        "Vintage rectangle frames (per listing title)",
+        "Retro styling (per listing title)"
+      ],
+      "merchant": "aliexpress",
+      "name": "6PCS/Set Women Vintage Rectangle Frame Sunglasses Fashion Retro Sun Glasses",
+      "pros": [
+        "Six pairs — rotate styles or share (per listing title)",
+        "Vintage rectangle frames with a retro look (per listing title)"
+      ],
+      "sample": false,
+      "short_description": "Set of 6 vintage rectangle-frame retro sunglasses.",
+      "source": "AliExpress public listing — verified 2026-09-28",
+      "subcategory": "sunglasses",
+      "trend_status": null,
       "updated": "2026-09-28"
     }
   ]
