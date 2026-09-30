@@ -1,0 +1,1 @@
+FROZEN|2026-09-29|Qasim's explicit order: ALL affiliate-pin scheduling STOPPED. Nothing further until he says resume. (Supersedes the old 14-post queue cron, now disabled.)

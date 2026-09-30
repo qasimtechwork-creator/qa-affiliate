@@ -68,9 +68,17 @@ function imgFallback(p){
     '<span class="iu-title">'+esc(cat||"QA Affiliate")+'</span>'+
     '<span class="iu-sub">Merchant image unavailable — see the live listing for photos</span></div>';
 }
+/* Swap a dead merchant image for the branded placeholder (never a broken-image icon). */
+window.qaImgErr=function(el){
+  el.onerror=null;
+  var p=(state.products||[]).find(function(x){return x.id===el.getAttribute('data-pid');});
+  if(!p){ el.style.display='none'; return; }
+  var d=document.createElement('div'); d.innerHTML=imgFallback(p);
+  el.replaceWith(d.firstChild);
+};
 QA.productCard = function(p){
   var img=p.image_url ?
-    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" loading="lazy">' :
+    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" loading="lazy" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
     imgFallback(p);
   return '<article class="product-card">'+
     '<div class="product-media"><a href="/product.html?id='+esc(p.id)+'" aria-label="'+esc(p.name)+'">'+
@@ -358,8 +366,10 @@ product:function(){
   document.title=p.name+" — "+state.site.brand.name;
   var off=discountPct(p);
   var cat=state.categories.categories.find(function(x){return x.id===p.category;});
+  var metaD=document.querySelector('meta[name="description"]');
+  if(metaD){ metaD.setAttribute('content', p.name+" — "+(cat?cat.name:"product")+" pick from "+merchantName(p)+", curated by QA Affiliate. Price varies; see the live deal for today's price."); }
   var pdImg=p.image_url ?
-    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'">' :
+    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
     imgFallback(p);
   var pdPrice=hasPrice(p)
     ? '<div class="pd-price">'+money(p.price)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
