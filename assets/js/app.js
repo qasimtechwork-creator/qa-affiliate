@@ -34,7 +34,7 @@ function soldNote(p){
   return p.sold_count ? '<div class="sold-note">'+esc(p.sold_count)+' on '+esc(merchantName(p))+'</div>' : '';
 }
 function stars(r){
-  if(r==null) return '<span class="stars">No rating yet</span>';
+  if(r==null) return '';
   var full=Math.round(r), s="";
   for(var i=0;i<5;i++) s+= i<full ? "★" : "☆";
   return '<span class="stars">'+s+' <span>('+r.toFixed(1)+')</span></span>';
