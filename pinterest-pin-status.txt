@@ -1,1 +1,1 @@
-FROZEN|2026-09-29|Qasim's explicit order: ALL affiliate-pin scheduling STOPPED. Nothing further until he says resume. (Supersedes the old 14-post queue cron, now disabled.)
+HARD RULE 2026-09-30 ~22:51 PKT (Qasim's explicit order, supersedes the 2026-09-29 freeze and the schedule-minimal rule): NO affiliate pin ever goes into the Pinterest schedule queue. Affiliate pins are published immediately/publicly ONLY, never scheduled. That night he also reported the daily limit was full, so nothing further could be published until it resets.

@@ -1,0 +1,207 @@
+{
+ "system": "Two pins per product (website pin + affiliate pin), published immediately, never scheduled. Resume in exact product order when daily limit hit.",
+ "catalog_size_at_batch1": 226,
+ "next_index": 25,
+ "products": [
+  {
+   "id": "temu-openwork-jacket",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423037075",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037094",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-shorts-3pack",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423037105",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037115",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-openwork-cropped-jacket",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037124",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-white-sneakers",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037136",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-platform-shoes",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037153",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-jewelry-set-4pcs",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037175",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-sophisticated-jewelry-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037184",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-elegant-tote",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037198",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-large-handbag",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037220",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-makeup-brush-set-15",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037236",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-golden-brush-set-14",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037247",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-jade-roller-gua-sha",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037256",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-beauty-tool-set-3pcs",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037276",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-heatless-curlers",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037282",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-heatless-curling-rod",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037295",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-square-sunglasses",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037312",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-lace-bra-3pcs",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037325",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-yoga-bands",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037343",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-full-makeup-gift-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037362",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-open-front-jacket",
+   "merchant": "temu",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037370",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-rinntin-tennis-bracelet",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037379",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-slip-backless-dress",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037387",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-corset-camisole-top",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037395",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-cork-mules-clogs",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037407",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-croissant-plush-slippers",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (earlier batch, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423037416",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  }
+ ]
+}
