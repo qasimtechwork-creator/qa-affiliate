@@ -21,6 +21,7 @@
   <url><loc>https://qa-affiliate.vercel.app/category.html?cat=accessories</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/category.html?cat=lingerie</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/category.html?cat=fitness</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/category.html?cat=home</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/about.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/contact.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/faq.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -294,4 +295,53 @@
   <url><loc>https://qa-affiliate.vercel.app/product.html?id=temu-plus-size-2026-new-womens-camisole-backless-loose-long-dress-beach</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/product.html?id=temu-stay-fun-letter-print-womens-tank-top-niche-cool-edgy-sleeveless-t</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://qa-affiliate.vercel.app/product.html?id=temu-2026-summer-womens-elegant-fashion-lapel-polka-dot-print-blouse-pu</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-womens-casual-midi-dress-with-pockets-short-sleeve-crew-neck</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-cloud-cotton-camisole-nightdress-with-chest-pads-summer-slee</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-sexy-women-high-heel-sandals-square-toe-open-toe</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-new-summer-fashion-solid-color-casual-womens-sandals-buckle</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-summer-elegant-womens-sparkly-rhinestone-bow-mesh-block-low</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-women-polka-dot-bow-mule-slippers-square-toe-flat-backless-s</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-womens-large-eva-beach-handbag-sand-proof-washable-tote-with</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-clear-fanny-pack-transparent-pvc-belt-bag-waterproof-stadium</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-women-beach-bag-hollow-knit-knot-wrist-bag-crochet-tote</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-elegant-chic-large-boho-straw-tote-bag-with-zipper</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-customized-initial-pendant-pearl-necklace-personalized-every</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-french-romantic-pink-bowknot-heart-pendant-pearl-necklace</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-freshwater-pearl-yellow-pendant-necklace-earring-ring-set</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-personalized-custom-name-freshwater-pearl-necklace</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-professional-aluminum-makeup-brush-set-synthetic-hair</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-mini-dual-eye-shadow-brush-eyebrow-set-double-ended-sponge</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-makeup-brush-set-chic-fragrance-style-with-travel-cosmetic-b</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-100pcs-disposable-eyeliner-brushes-thin-tip-fiber-applicator</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-6pcs-professional-dual-ended-makeup-brush-set-travel-beauty</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-dachshund-embroidered-sweater-coat-loose-knit-cardigan</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-women-knit-cardigan-2-piece-set-sweater-coat-wide-leg-pants</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-yoga-stand-up-collar-jacket-slim-quick-dry-zipper-cardigan</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-100-pure-wool-cardigan-sweater-o-neck-loose-knit</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-autumn-winter-3-piece-set-cardigan-knitted-pant-suit</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-women-color-block-fake-two-piece-knit-cardigan</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-cute-amusement-park-stud-earrings-for-women-girls</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-personalized-portable-button-jewelry-box-travel-storage</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-luxury-wedding-tiara-crown-necklace-earrings-set</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-vintage-green-rhinestone-crown-crystal-necklace-earrings-set</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-metal-diamond-shaped-sunglasses-trendy-hip-hop</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-large-curved-retro-style-fashion-glasses</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-unisex-oversized-pilot-sunglasses-gradient-lenses</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-cycling-windproof-sunglasses-outdoor-sports</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-summer-women-pajamas-top-two-piece-set-knit-lounge-wear</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-u-neck-short-sleeve-t-shirt-slim-fit-casual</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-sunkta-fashion-casual-quartz-woman-watch-ceramic-diamond</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-hannah-martin-womens-watch-silver-mesh-minimalist</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-korean-fashion-plus-size-ruffle-collar-chiffon-blouse</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-summer-fresh-floral-v-neck-vest-ruffle-collar-chiffon</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-elegant-long-sleeve-velvet-shirt-slim-velour-blouse</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-england-style-square-collar-velour-shirt-lantern-sleeve-blou</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-cute-mushroom-table-lamp-touch-control-dimmable-rechargeable</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-personalized-custom-diving-wooden-base-wall-decor</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-cute-mini-resin-house-fairy-garden-landscape-decor</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-custom-acrylic-photo-standee-personalized-desktop-decor</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-custom-flamingo-metal-art-ornament-wooden-base</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-custom-imitation-hemp-door-curtain-cute-pet-design</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-custom-alphabet-wooden-name-plaque-kids-room-decor</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://qa-affiliate.vercel.app/product.html?id=aliexpress-see-through-mesh-beach-bag-quick-dry-swim-gym-duffle-with-cr</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>

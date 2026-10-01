@@ -163,6 +163,20 @@
       "tagline": "What everyone is talking about right now",
       "description": "The products everyone is talking about right now. Every item here earned its tag through rising merchant signals and editorial review — never paid placement.",
       "related_guides": []
+    },
+    {
+      "icon": "🏡",
+      "id": "home",
+      "name": "Home & Lifestyle",
+      "subcategories": [
+        "decor",
+        "lighting",
+        "wall-art",
+        "organization"
+      ],
+      "tagline": "Decor, lighting and little upgrades for your space",
+      "description": "Small, affordable pieces that change how a room feels — accent lighting, wall decor, organizers and decorative touches. We pick items with strong buyer feedback and real-room appeal, verified live on AliExpress.",
+      "related_guides": []
     }
   ]
 }
