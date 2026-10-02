@@ -14677,26 +14677,6 @@
       "source": "Temu public listing — verified 2026-10-02",
       "trend_status": "trending",
       "updated": "2026-10-02"
-    },
-    {
-      "id": "admin-test-product-delete-me",
-      "name": "ADMIN TEST PRODUCT DELETE ME",
-      "affiliate_url": "https://temu.to/k/test-admin-delete-xyz",
-      "image_url": "https://www.temu.com/test.jpg",
-      "merchant": "temu",
-      "category": "home",
-      "subcategory": "",
-      "short_description": "",
-      "pros": [],
-      "cons": [],
-      "key_features": [],
-      "badges": [],
-      "rating": null,
-      "sold_count": "",
-      "source": "Admin panel",
-      "trend_status": "",
-      "updated": "2026-10-02",
-      "sample": false
     }
   ]
 }
