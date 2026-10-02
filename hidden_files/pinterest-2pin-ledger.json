@@ -1,7 +1,7 @@
 {
  "system": "Two pins per product (website pin + affiliate pin), published immediately, never scheduled. Resume in exact product order when daily limit hit.",
  "catalog_size_at_batch1": 226,
- "next_index": 25,
+ "next_index": 70,
  "products": [
   {
    "id": "temu-openwork-jacket",
@@ -202,6 +202,207 @@
    "affiliate_pin": "https://www.pinterest.com/pin/608830443423037416",
    "affiliate_pin_used_fallback": false,
    "done": true
+  },
+  {
+   "id": "aliexpress-huitan-hoop-earrings",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057658/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-17pcs-jewelry-set",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057686/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-nylon-crossbody-bag",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057783/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-press-on-nails-120pcs",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057837/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-24k-gold-serum",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057875/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-small-hair-clips-pack",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057919/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-vintage-sunglasses-6pcs",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423057965/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-women-s-floral-print-strapless-bodycon-midi-dress",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058222/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-2-piece-women-s-seamless-yoga-sportswear-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058249/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-11-piece-women-s-layered-necklace-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058273/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-plus-size-women-s-lace-sleeve-satin-robe",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058285/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-set-of-three-high-waisted-tie-dye-leggings-with-pockets",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058299/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-elegant-women-s-v-neck-floral-print-dress",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058329/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-red-satin-two-piece-pajama-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058350/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-4-piece-high-waisted-breathable-yoga-leggings-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058362/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-collagen-and-hyaluronic-acid-cream-with-vitamin-c-60g",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058385/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-6-piece-women-s-satin-hair-bandana-and-scarf-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058412/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-elegant-women-s-sequined-evening-clutch-with-chain-shoulder-",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058460/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-two-piece-silicone-scalp-massager-hair-care-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058499/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-burgundy-french-tip-press-on-nails-with-golden-bows",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058526/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-seven-in-one-electric-facial-cleansing-brush-set",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058561/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "temu-reusable-ice-roller-for-face-and-eye",
+   "merchant": "temu",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058589/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-purui-punk-chunky-chain-choker-necklace-for-women-hip-hop-go",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058622/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-e-manco-multi-color-crystal-pendant-choker-necklace-women-go",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058636/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
+  },
+  {
+   "id": "aliexpress-big-size-silk-sleeping-cap-night-hat-head-cover-bonnet-satin",
+   "merchant": "aliexpress",
+   "website_pin": "pre-existing (on board, same product-page destination)",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423058649/",
+   "affiliate_pin_used_fallback": false,
+   "done": true
   }
- ]
+ ],
+ "last_run": "2026-10-02T17:30Z evening push: products 50-69 fully pinned (20 website pins existed as verified duplicates, 20 affiliate pins published live, no refusals/fallbacks, no limits hit)"
 }

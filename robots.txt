@@ -1,7 +1,9 @@
 User-agent: *
-Allow: /
+Allow: /data/products.json
+Allow: /data/categories.json
 Disallow: /config/
 Disallow: /data/
 Disallow: /admin/
+Disallow: /go/
 
 Sitemap: https://qa-affiliate.vercel.app/sitemap.xml
