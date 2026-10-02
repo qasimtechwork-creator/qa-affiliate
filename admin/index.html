@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>QA Affiliate — Admin</title>
+<link rel="icon" type="image/png" href="/assets/images/favicon-64.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/admin/admin.css">
+</head>
+<body>
+
+<!-- ===================== LOGIN VIEW ===================== -->
+<div id="view-login" class="view">
+  <div class="login-card">
+    <div class="brand-lockup">
+      <span class="brand-mark" aria-hidden="true">Q</span>
+      <div>
+        <h1>QA Affiliate</h1>
+        <p>Admin Console</p>
+      </div>
+    </div>
+    <form id="login-form" autocomplete="off">
+      <label class="field">
+        <span>Username</span>
+        <input type="text" id="login-user" name="username" autocomplete="username" required>
+      </label>
+      <label class="field">
+        <span>Password</span>
+        <input type="password" id="login-pass" name="password" autocomplete="current-password" required>
+      </label>
+      <p id="login-error" class="error" hidden></p>
+      <button type="submit" class="btn btn-gold btn-block" id="login-btn">Sign In</button>
+    </form>
+  </div>
+</div>
+
+<!-- ===================== DASHBOARD VIEW ===================== -->
+<div id="view-dashboard" class="view" hidden>
+  <header class="admin-header">
+    <div class="brand-lockup">
+      <span class="brand-mark" aria-hidden="true">Q</span>
+      <div>
+        <h1>QA Affiliate <span class="admin-tag">— Admin</span></h1>
+      </div>
+    </div>
+    <button id="logout-btn" class="btn btn-ghost">Log Out</button>
+  </header>
+
+  <nav class="tabs" id="tabs" role="tablist">
+    <button class="tab active" data-tab="overview" role="tab">Overview</button>
+    <button class="tab" data-tab="products" role="tab">Products</button>
+    <button class="tab" data-tab="import" role="tab">Import</button>
+    <button class="tab" data-tab="urltest" role="tab">URL Tester</button>
+    <button class="tab" data-tab="backup" role="tab">Backup</button>
+    <button class="tab" data-tab="pinterest" role="tab">Pinterest</button>
+  </nav>
+
+  <main class="main">
+
+    <!-- Overview -->
+    <section id="tab-overview" class="panel">
+      <div class="stat-row" id="stats-cards"></div>
+      <div class="grid-2">
+        <div class="card">
+          <h2>Products by Category</h2>
+          <div id="stats-cats" class="bars"></div>
+        </div>
+        <div class="card">
+          <h2>Products by Merchant</h2>
+          <div id="stats-merchants" class="bars"></div>
+        </div>
+      </div>
+      <div class="card">
+        <h2>Newest Products</h2>
+        <div id="stats-newest" class="newest-list"></div>
+      </div>
+    </section>
+
+    <!-- Products -->
+    <section id="tab-products" class="panel" hidden>
+      <div class="card">
+        <div class="toolbar">
+          <div class="search-wrap">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.6" y2="16.6"/></svg>
+            <input type="search" id="prod-search" placeholder="Search products by name or id…">
+          </div>
+          <select id="prod-cat-filter"><option value="">All categories</option></select>
+          <select id="prod-merchant-filter"><option value="">All merchants</option></select>
+          <button id="add-product-btn" class="btn btn-gold">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            Add Product
+          </button>
+        </div>
+        <p id="products-error" class="error" hidden></p>
+        <div class="table-wrap">
+          <table class="data-table">
+            <thead>
+              <tr><th>ID</th><th>Name</th><th>Merchant</th><th>Category</th><th>Updated</th><th class="actions-col">Actions</th></tr>
+            </thead>
+            <tbody id="products-tbody"></tbody>
+          </table>
+        </div>
+        <div class="pager">
+          <button id="pager-prev" class="btn btn-ghost">‹ Prev</button>
+          <span id="pager-info">Page 1</span>
+          <button id="pager-next" class="btn btn-ghost">Next ›</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Import -->
+    <section id="tab-import" class="panel" hidden>
+      <div class="card">
+        <h2>Bulk Import</h2>
+        <p class="muted">Paste a JSON array of product objects, or CSV rows with headers. Every item is validated before anything is written.</p>
+        <div class="seg">
+          <button class="seg-btn active" data-format="json">JSON</button>
+          <button class="seg-btn" data-format="csv">CSV</button>
+        </div>
+        <div class="file-row">
+          <label class="btn btn-ghost file-btn">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            Choose file
+            <input type="file" id="import-file" accept=".json,.csv,.txt" hidden>
+          </label>
+          <span id="import-filename" class="muted"></span>
+        </div>
+        <textarea id="import-text" rows="10" placeholder='[{"id":"…","name":"…","affiliate_url":"…","image_url":"…","merchant":"temu","category":"fashion",…}]'></textarea>
+        <div class="btn-row">
+          <button id="import-run" class="btn btn-gold">Validate &amp; Import</button>
+        </div>
+        <p id="import-error" class="error" hidden></p>
+        <div id="import-report" class="report" hidden></div>
+      </div>
+    </section>
+
+    <!-- URL Tester -->
+    <section id="tab-urltest" class="panel" hidden>
+      <div class="card">
+        <h2>Affiliate URL Tester</h2>
+        <p class="muted">Follows the link like a real click would and reports the final destination, status and any redirect hops.</p>
+        <div class="urltest-row">
+          <input type="url" id="test-url" placeholder="https://temu.to/k/…" class="grow">
+          <select id="test-merchant">
+            <option value="">Auto-detect merchant</option>
+            <option value="temu">Temu</option>
+            <option value="aliexpress">AliExpress</option>
+            <option value="amazon">Amazon</option>
+          </select>
+          <button id="test-run" class="btn btn-gold">Test</button>
+        </div>
+        <p id="test-error" class="error" hidden></p>
+        <div id="test-result" class="report" hidden></div>
+      </div>
+    </section>
+
+    <!-- Backup -->
+    <section id="tab-backup" class="panel" hidden>
+      <div class="card">
+        <h2>Catalog Backup</h2>
+        <p class="muted">Download the full product catalog as a JSON file. Keep a copy before any bulk import or edit session.</p>
+        <div class="btn-row">
+          <button id="backup-btn" class="btn btn-gold">
+            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download catalog backup
+          </button>
+        </div>
+        <p id="backup-error" class="error" hidden></p>
+      </div>
+    </section>
+
+    <!-- Pinterest info (read-only) -->
+    <section id="tab-pinterest" class="panel" hidden>
+      <div class="card">
+        <h2>Pinterest Pipeline</h2>
+        <div class="pinterest-note">
+          <p>The Pinterest pin pipeline is run automatically by the assistant every day and is <strong>not</strong> operated from this panel — this admin console is for catalog management only.</p>
+          <p>Every catalog product gets <strong>two pins</strong>: one pin links to the product page on this website, and the second links straight to the merchant affiliate link. Pins are published immediately as public pins (never scheduled) and are paced to respect Pinterest's daily publishing limits, in the same product order, day after day.</p>
+          <p>Product pin images are the product images as-is with zero editing. Assistant-designed creative is reserved for tech and AI content pins only.</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- ===================== PRODUCT MODAL ===================== -->
+<div id="product-modal" class="modal-backdrop" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-head">
+      <h2 id="modal-title">Add Product</h2>
+      <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
+    </div>
+    <form id="product-form">
+      <input type="hidden" id="pf-original-id">
+      <div class="form-grid">
+        <label class="field"><span>Product ID *</span><input id="pf-id" required></label>
+        <label class="field"><span>Name *</span><input id="pf-name" required></label>
+        <label class="field full"><span>Affiliate URL *</span><input id="pf-affiliate_url" type="url" required></label>
+        <label class="field full"><span>Image URL *</span><input id="pf-image_url" type="url" required></label>
+        <label class="field"><span>Merchant</span>
+          <select id="pf-merchant"><option value="temu">Temu</option><option value="aliexpress">AliExpress</option><option value="amazon">Amazon</option></select>
+        </label>
+        <label class="field"><span>Category</span><input id="pf-category" list="category-datalist"><datalist id="category-datalist"></datalist></label>
+        <label class="field"><span>Subcategory</span><input id="pf-subcategory"></label>
+        <label class="field"><span>Rating</span><input id="pf-rating" type="number" step="0.1" min="0" max="5"></label>
+        <label class="field"><span>Sold count</span><input id="pf-sold_count" placeholder="e.g. 3.3K+ sold"></label>
+        <label class="field"><span>Source</span><input id="pf-source"></label>
+        <label class="field"><span>Trend status</span>
+          <select id="pf-trend_status"><option value="trending">Trending</option><option value="viral">Viral</option><option value="new">New</option><option value="steady">Steady</option></select>
+        </label>
+        <label class="field"><span>Updated (YYYY-MM-DD)</span><input id="pf-updated" placeholder="2026-10-02"></label>
+        <label class="field check"><input type="checkbox" id="pf-sample"><span>Sample (test product)</span></label>
+        <label class="field full"><span>Short description</span><textarea id="pf-short_description" rows="2"></textarea></label>
+        <label class="field full"><span>Badges (comma separated)</span><textarea id="pf-badges" rows="1" placeholder="best-seller, new"></textarea></label>
+        <label class="field full"><span>Pros (comma separated)</span><textarea id="pf-pros" rows="2"></textarea></label>
+        <label class="field full"><span>Cons (comma separated)</span><textarea id="pf-cons" rows="2"></textarea></label>
+        <label class="field full"><span>Key features (comma separated)</span><textarea id="pf-key_features" rows="3"></textarea></label>
+      </div>
+      <p id="modal-error" class="error" hidden></p>
+      <div class="btn-row">
+        <button type="button" class="btn btn-ghost" id="modal-cancel">Cancel</button>
+        <button type="submit" class="btn btn-gold" id="modal-save">Save Product</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- ===================== CONFIRM DIALOG ===================== -->
+<div id="confirm-dialog" class="modal-backdrop" hidden>
+  <div class="modal modal-sm" role="dialog" aria-modal="true">
+    <h2 id="confirm-title">Delete product?</h2>
+    <p id="confirm-text" class="muted"></p>
+    <div class="btn-row">
+      <button class="btn btn-ghost" id="confirm-cancel">Cancel</button>
+      <button class="btn btn-danger" id="confirm-ok">Delete</button>
+    </div>
+  </div>
+</div>
+
+<script src="/admin/admin.js"></script>
+</body>
+</html>
