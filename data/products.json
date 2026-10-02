@@ -310,7 +310,7 @@
         "Perfect 5.0-star rating on Temu",
         "200K+ sold — one of Temu's most-bought beauty tools"
       ],
-      "rating": 5.0,
+      "rating": 5,
       "sample": false,
       "short_description": "A complete 15-piece makeup brush set — 5.0 stars with 200K+ sold on Temu.",
       "sold_count": "200K+ sold",
@@ -5354,7 +5354,7 @@
       "affiliate_url": "https://temu.to/k/pmu0mtl0xb5",
       "image_url": "https://img.kwcdn.com/product/fancy/d69f9602-a105-4cb1-829d-2d339398f49d.jpg",
       "sold_count": "1.2K+sold",
-      "rating": 5.0,
+      "rating": 5,
       "badges": [
         "best-seller"
       ],
@@ -6218,7 +6218,7 @@
       "affiliate_url": "https://temu.to/k/prawxhjocvl",
       "image_url": "https://img.kwcdn.com/product/fancy/0211822e-152b-496b-83d2-a47c57e37d8b.jpg?imageView2/2/w/800/q/80/format/jpg",
       "sold_count": "6.7K+sold",
-      "rating": 5.0,
+      "rating": 5,
       "badges": [
         "best-seller"
       ],
@@ -6378,7 +6378,7 @@
       "affiliate_url": "https://temu.to/k/p3ge12pq9lj",
       "image_url": "https://img.kwcdn.com/product/fancy/26159801-6838-4326-a5f6-2bee8b174277.jpg?imageView2/2/w/800/q/80/format/jpg",
       "sold_count": "1.7K+sold",
-      "rating": 5.0,
+      "rating": 5,
       "badges": [
         "best-seller"
       ],
@@ -6538,7 +6538,7 @@
       "affiliate_url": "https://temu.to/k/pg5lxgxm7q8",
       "image_url": "https://img.kwcdn.com/product/fancy/aaa2eb82-8ffd-4421-bdfe-0f2b4a17c3dd.jpg",
       "sold_count": "4.3K+sold",
-      "rating": 5.0,
+      "rating": 5,
       "badges": [
         "best-seller"
       ],
@@ -6570,7 +6570,7 @@
       "affiliate_url": "https://temu.to/k/pm36m11ogfq",
       "image_url": "https://img.kwcdn.com/product/fancy/66ecf20e-5194-4cea-a92c-482bf0bcccbd.jpg",
       "sold_count": "3.4K+sold",
-      "rating": 5.0,
+      "rating": 5,
       "badges": [
         "best-seller"
       ],
@@ -14677,6 +14677,26 @@
       "source": "Temu public listing — verified 2026-10-02",
       "trend_status": "trending",
       "updated": "2026-10-02"
+    },
+    {
+      "id": "admin-test-product-delete-me",
+      "name": "ADMIN TEST PRODUCT DELETE ME",
+      "affiliate_url": "https://temu.to/k/test-admin-delete-xyz",
+      "image_url": "https://www.temu.com/test.jpg",
+      "merchant": "temu",
+      "category": "home",
+      "subcategory": "",
+      "short_description": "",
+      "pros": [],
+      "cons": [],
+      "key_features": [],
+      "badges": [],
+      "rating": null,
+      "sold_count": "",
+      "source": "Admin panel",
+      "trend_status": "",
+      "updated": "2026-10-02",
+      "sample": false
     }
   ]
 }
