@@ -852,7 +852,79 @@
    "affiliate_pin_used_fallback": false,
    "done": true,
    "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-usb-sunset-projector-spotlight-lamp",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076028/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-2-in-1-handheld-electric-milk-frother",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076035/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-mini-desktop-vacuum-cleaner",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076044/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-women-s-touchscreen-winter-gloves-2pcs",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076059/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-3d-contoured-sleep-eye-mask",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076064/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-foldable-phone-stand-holder",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076068/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-women-s-turtleneck-knit-sweater",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076080/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-women-s-cinch-belt-elastic-stretch-fashion-waist-band-with-c",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423076089/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
   }
  ],
- "last_run": "2026-10-03: first run under the new ONE-pin system (his explicit order today replacing the 2-pin system). 25 products (catalog idx 75-99) each got one website pin to /item/<id>; no direct affiliate pins; no duplicates, no limit hit, no blockers."
+ "last_run": "2026-10-03 round7: 8 new products pinned (catalog end), next_index unchanged at 100"
 }
