@@ -287,7 +287,8 @@ var CATEGORY_ICONS={
   "accessories":"/assets/images/categories/icon-accessories.webp",
   "lingerie":"/assets/images/categories/icon-lingerie.webp",
   "fitness":"/assets/images/categories/icon-fitness.webp",
-  "trending":"/assets/images/categories/icon-trending.webp"
+  "trending":"/assets/images/categories/icon-trending.webp",
+  "home":"/assets/images/categories/icon-home.webp"
 };
 var pages={
 home:function(){
