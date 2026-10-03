@@ -1,7 +1,7 @@
 {
  "system": "Two pins per product (website pin + affiliate pin), published immediately, never scheduled. Resume in exact product order when daily limit hit.",
  "catalog_size_at_batch1": 226,
- "next_index": 70,
+ "next_index": 100,
  "products": [
   {
    "id": "temu-openwork-jacket",
@@ -402,7 +402,457 @@
    "affiliate_pin": "https://www.pinterest.com/pin/608830443423058649/",
    "affiliate_pin_used_fallback": false,
    "done": true
+  },
+  {
+   "id": "aliexpress-water-ice-levin-keratin-hair-mask-deep-hydration-repair-for-",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070055/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070084/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-strapless-hollow-corset-women-sexy-backless-crop-tops-fashio",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070108/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070115/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-2026-elegant-women-dress-summer-sexy-v-neck-korean-satin-par",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070135/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070141/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-belamimi-erotic-lingerie-with-stockings-lace-eyelash-see-thr",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070163/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070169/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-2026-light-luxury-ice-silk-deep-v-lace-nightdress-summer-new",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070184/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070186/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-women-s-autumn-winter-basic-joker-solid-turtleneck-sweater-t",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070196/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070198/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-trendy-printed-slim-midi-dresses-women-fashion-package-hip-b",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070203/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070205/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-2026-womens-pocket-pleated-skirt",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070211/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070215/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-3pcs-womens-pearl-necklace-bracelet-and-earrings-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070232/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070235/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-mermaid-tail-glass-jewelry-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070252/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070253/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-2026-womens-summer-3pcs-handbag-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070267/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070270/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-12-color-smokey-eyeshadow-palette",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070275/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070278/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-30-pairs-natural-wispy-false-eyelashes",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070291/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070295/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-vitamin-c-and-niacinamide-hyaluronic-acid-face-serum",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070306/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070312/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-6-pack-satin-scrunchies-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070320/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070325/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-12-pack-35-inch-satin-square-scarves",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070337/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070340/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-7pcs-wire-free-bralette-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070355/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070359/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-3-pack-womens-high-waisted-full-length-leggings",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070370/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070371/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "aliexpress-donlee-queen-women-flats-shoes-low-wooden",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070379/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070380/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-womens-satin-lace-trim-midi-skirt-with-front-slit",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070402/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070407/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": "re-pinned 2026-10-03; Oct 2 batch 50-69 had no ledger entries"
+  },
+  {
+   "id": "temu-hydrocolloid-pimple-patch-multipack",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070419/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070430/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": ""
+  },
+  {
+   "id": "temu-womens-geometric-cable-cardigan-with-buttons",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070451/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070453/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": ""
+  },
+  {
+   "id": "temu-womens-slip-on-canvas-loafers",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070468/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070470/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": ""
+  },
+  {
+   "id": "temu-personalized-heart-initial-pendant-necklace",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070476/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070478/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": ""
+  },
+  {
+   "id": "temu-bohemian-beaded-anklet-set-with-pearl-and-shell",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423070486/",
+   "affiliate_pin": "https://www.pinterest.com/pin/608830443423070488/",
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "duplicate_note": ""
+  },
+  {
+   "id": "temu-led-vanity-makeup-mirror",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074831/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-portable-nano-facial-steamer",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074854/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-large-matte-claw-clips-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074883/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-bohemian-straw-sun-hat",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074909/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-pashmina-shawl-wrap",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074931/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-high-waist-tummy-control-shapewear-shorts",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074950/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-pilates-bar-resistance-kit",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423074986/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-satin-cowl-neck-midi-dress",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075026/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-boho-floral-strapless-maxi-dress",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075060/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-quilted-crossbody-bag-with-adjustable-strap",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075074/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-layered-gold-tone-pendant-necklace",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075097/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-3-piece-layered-golden-necklace-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075112/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-boho-beaded-statement-necklace",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075139/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-silvery-platform-running-shoes",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075174/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-casual-wedge-sneakers",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075199/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-cat-paw-silicone-facial-cleanser",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075236/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-3-piece-vitamin-c-retinol-serum-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075256/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-heated-curling-brush-styler",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075300/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-2-piece-seamless-high-waist-workout-leggings",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075352/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-high-density-yoga-block-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075383/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-satin-v-neck-spaghetti-strap-nightgown",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075404/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-cat-eye-retro-sunglasses",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075425/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-portable-usb-rechargeable-blender",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075452/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-elegant-womens-bow-decor-thick-sole-loafers",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075497/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-lace-mesh-ballet-flats-for-women",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423075544/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
   }
  ],
- "last_run": "2026-10-02T17:30Z evening push: products 50-69 fully pinned (20 website pins existed as verified duplicates, 20 affiliate pins published live, no refusals/fallbacks, no limits hit)"
+ "last_run": "2026-10-03: first run under the new ONE-pin system (his explicit order today replacing the 2-pin system). 25 products (catalog idx 75-99) each got one website pin to /item/<id>; no direct affiliate pins; no duplicates, no limit hit, no blockers."
 }
