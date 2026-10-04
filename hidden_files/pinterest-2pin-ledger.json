@@ -1086,7 +1086,142 @@
    "affiliate_pin_used_fallback": false,
    "done": true,
    "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-wireless-charging-station-for-multiple-devices",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077168/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-car-vacuum-cleaner-18000pa-strong-suction",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077194/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-electric-cleaning-brush-8-in-1",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077217/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-adjustable-magnetic-car-phone-holder",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077235/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-magnetic-car-phone-holder-flexible-aluminum",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077254/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-21pcs-professional-makeup-kit",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077270/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-high-pressure-shower-head-5pcs-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077275/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-handheld-shower-head-with-hose-5-modes",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077292/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-led-vanity-mirror-15-lights",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077303/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-extra-large-woven-storage-basket",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077307/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-woven-storage-baskets-3pcs-natural-rattan",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077314/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-expandable-microwave-shelf-with-6-hooks",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077327/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-outdoor-solar-pathway-lights-4-8-pack",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077341/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-over-door-organizer-10-compartments",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077348/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-astronaut-star-projector-night-light",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423077355/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
   }
  ],
- "last_run": "2026-10-03 round7-r2: 18/18 new products pinned (retry succeeded), next_index unchanged at 100"
+ "last_run": "2026-10-03 round7-r3: 15/16 new products pinned (dashboard-holder skipped: dead image), next_index unchanged at 100"
 }
