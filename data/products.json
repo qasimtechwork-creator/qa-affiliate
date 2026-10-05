@@ -23282,6 +23282,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:45:54.108209",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-handbag-girls-multicolor-leather-v2",
+      "name": "Handbag for Girls - Multicolor Leather Casual with Phone Pouch, Crossbody & Shoulder",
+      "price": 1249,
+      "currency": "PKR",
+      "original_price": 1400,
+      "affiliate_url": "https://s.daraz.pk/s.Xwwn9?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/17b6a2f1-81b1-4d31-be92-68e28dc6e672.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/17b6a2f1-81b1-4d31-be92-68e28dc6e672.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:46:20.191328",
+      "status": "live"
     }
   ]
 }
