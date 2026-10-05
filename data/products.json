@@ -24146,6 +24146,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:14:53.535872",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-vacuum-flask-500ml-straw",
+      "name": "Stainless Steel Vacuum Flask 500ml - Double Wall, Straw Tumbler, Hot n Cold",
+      "price": 999,
+      "currency": "PKR",
+      "original_price": 1049,
+      "affiliate_url": "https://s.daraz.pk/s.XwDL7?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/9dc3dc91-57df-44be-991a-f42c3efa9926.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/9dc3dc91-57df-44be-991a-f42c3efa9926.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:15:53.755214",
+      "status": "live"
     }
   ]
 }
