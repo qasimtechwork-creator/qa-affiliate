@@ -23714,6 +23714,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:02:18.478498",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zero-ignite-smart-watch",
+      "name": "Zero Ignite Smart Watch - 1.83\" IPS Curved, Calling, 100+ Faces, IP67, SpO2",
+      "price": 5999,
+      "currency": "PKR",
+      "original_price": 24999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDWJ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/939347b8-2322-4ff9-ac65-177badf18f1a.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/939347b8-2322-4ff9-ac65-177badf18f1a.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:02:38.271819",
+      "status": "live"
     }
   ]
 }
