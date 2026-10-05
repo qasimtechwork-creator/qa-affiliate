@@ -23874,6 +23874,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:05:11.484638",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-t900-ultra-smartwatch",
+      "name": "T900 Ultra Smartwatch Series 8 - 2.09\" Full Touch, Bluetooth Call, Sleep Monitor",
+      "price": 1499,
+      "currency": "PKR",
+      "original_price": 1799,
+      "affiliate_url": "https://s.daraz.pk/s.XwDU9?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/32066d61-1221-4e6f-b6ce-99a0d2994023.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/32066d61-1221-4e6f-b6ce-99a0d2994023.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:05:18.927239",
+      "status": "live"
     }
   ]
 }
