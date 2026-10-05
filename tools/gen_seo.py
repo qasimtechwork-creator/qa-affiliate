@@ -100,7 +100,7 @@ def item_page(p):
     name = p.get("name", pid)
     title = trunc(name, 65) + f" | {BRAND_NAME}"
     desc = trunc(p.get("short_description") or name, 155)
-    img = p.get("image_url", "")
+    img = p.get("image_url", "") or (p.get("images") or [""])[0]
     mname = merchant_name(p.get("merchant"))
     cat = p.get("category")
     catlabel = cat_name.get(cat, cat or "")
