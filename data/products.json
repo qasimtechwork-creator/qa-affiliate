@@ -23746,6 +23746,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:02:48.171660",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-p9-ultra-smart-watch-multi",
+      "name": "P9 Ultra Smart Watch - Heart Rate, Blood Oxygen, BP, Sleep Monitor, Waterproof Fitness Tracker",
+      "price": 1699,
+      "currency": "PKR",
+      "original_price": 6999,
+      "affiliate_url": "https://s.daraz.pk/s.XwD3r?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ad183b6d-e028-45a0-b440-0a6ffdb5048e.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/ad183b6d-e028-45a0-b440-0a6ffdb5048e.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:03:03.339465",
+      "status": "live"
     }
   ]
 }
