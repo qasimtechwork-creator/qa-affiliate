@@ -23362,6 +23362,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:49:35.704296",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zushaam-handbag-black-white",
+      "name": "Zushaam Hand Bag - Black & White Leather Crossbody with Adjustable Strap for Women",
+      "price": 1050,
+      "currency": "PKR",
+      "original_price": 2000,
+      "affiliate_url": "https://s.daraz.pk/s.Xwwrr?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e92169af-9034-4d39-bb22-bd4d93704345.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/e92169af-9034-4d39-bb22-bd4d93704345.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:49:57.544215",
+      "status": "live"
     }
   ]
 }
