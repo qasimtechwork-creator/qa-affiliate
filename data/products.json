@@ -24178,6 +24178,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:16:17.185207",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-classic-blade-pendant-necklace",
+      "name": "Classic Blade Pendant Vintage Black with Ball Chain - Unisex Couple Necklace",
+      "price": 169,
+      "currency": "PKR",
+      "original_price": 299,
+      "affiliate_url": "https://s.daraz.pk/s.XwDtT?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/873e310e-8285-4fe6-bd90-1c344f24d0ab.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/873e310e-8285-4fe6-bd90-1c344f24d0ab.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:20:13.288686",
+      "status": "live"
     }
   ]
 }
