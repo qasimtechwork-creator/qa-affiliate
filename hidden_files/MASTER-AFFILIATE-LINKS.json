@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:51:41.190261",
-  "total_qa_affiliate_products": 744,
+  "generated_at": "2026-10-05T12:51:53.429546",
+  "total_qa_affiliate_products": 745,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 744,
+      "count": 745,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9677,12 +9677,25 @@
           "affiliate_url": "https://s.daraz.pk/s.XwtGG?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-workout-gloves-for-men-durable-palm-grip-gym-gloves-women-ha",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-power-exercise-resistance-band-set-for-pull-up-body-fitness",
+          "name": "Power Exercise Resistance Band Set for Pull Up Body Fitness & Workout Loop Bands with Door Anchor",
+          "price": 985,
+          "original_price": 1499,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": "https://lzd-img-push.slatic.net/lazada-creative-center/48f09e4b-d64f-4bba-b4b7-9b1596f650ad.jpg?x-oss-process=image/quality,q_80/format,avif",
+          "affiliate_url": "https://s.daraz.pk/s.Xwtu6?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-power-exercise-resistance-band-set-for-pull-up-body-fitness",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 28,
+      "count": 29,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9823,6 +9836,11 @@
           "name": "Workout Gloves for Men, Durable Palm Grip Gym Gloves Women Half Finger Elasticated Training Weight Lifting Strength Bodybuilding Anti Slip Cycling Gloves Exercise",
           "price": "Rs.350",
           "affiliate_url": "https://s.daraz.pk/s.XwtGG?cc"
+        },
+        {
+          "name": "Power Exercise Resistance Band Set for Pull Up Body Fitness & Workout Loop Bands with Door Anchor",
+          "price": "Rs.985",
+          "affiliate_url": "https://s.daraz.pk/s.Xwtu6?cc"
         }
       ]
     },
