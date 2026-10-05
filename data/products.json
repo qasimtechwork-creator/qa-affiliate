@@ -24034,6 +24034,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:11:24.615414",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-stanley-tumbler-40oz-insulated",
+      "name": "Original Stanley Tumbler with Straw 40oz - Insulated Stainless Steel Hot & Cold Cup",
+      "price": 2080,
+      "currency": "PKR",
+      "original_price": 3000,
+      "affiliate_url": "https://s.daraz.pk/s.XwDkz?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d67b49b7-4829-41fb-a553-d7e427907324.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/d67b49b7-4829-41fb-a553-d7e427907324.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:12:09.735719",
+      "status": "live"
     }
   ]
 }
