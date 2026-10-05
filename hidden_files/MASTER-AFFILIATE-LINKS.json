@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:51:53.429546",
-  "total_qa_affiliate_products": 745,
+  "generated_at": "2026-10-05T12:52:32.148756",
+  "total_qa_affiliate_products": 746,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 745,
+      "count": 746,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9690,12 +9690,25 @@
           "affiliate_url": "https://s.daraz.pk/s.Xwtu6?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-power-exercise-resistance-band-set-for-pull-up-body-fitness",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-mini-cycle-pedal-exerciser-machine-portable-under-desk-fitne",
+          "name": "Mini Cycle Pedal Exerciser Machine - Portable Under Desk Fitness Bike for Arms And Legs",
+          "price": 3176,
+          "original_price": 8999,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": "https://lzd-img-push.slatic.net/lazada-creative-center/9fb125b3-952f-48e7-b2a0-9008e7f67ba9.jpg?x-oss-process=image/quality,q_80/format,avif",
+          "affiliate_url": "https://s.daraz.pk/s.XwtFj?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-mini-cycle-pedal-exerciser-machine-portable-under-desk-fitne",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 29,
+      "count": 30,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9841,6 +9854,11 @@
           "name": "Power Exercise Resistance Band Set for Pull Up Body Fitness & Workout Loop Bands with Door Anchor",
           "price": "Rs.985",
           "affiliate_url": "https://s.daraz.pk/s.Xwtu6?cc"
+        },
+        {
+          "name": "Mini Cycle Pedal Exerciser Machine - Portable Under Desk Fitness Bike for Arms And Legs",
+          "price": "Rs.3176",
+          "affiliate_url": "https://s.daraz.pk/s.XwtFj?cc"
         }
       ]
     },
