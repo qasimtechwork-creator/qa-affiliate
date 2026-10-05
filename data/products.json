@@ -22978,6 +22978,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:34:00.943794",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack-4-watch-set-men-v2",
+      "name": "Pack of 4 Watch Set for Men - Stainless Steel Quartz with Bracelet, Ring & Locket",
+      "price": 479,
+      "currency": "PKR",
+      "original_price": 1000,
+      "affiliate_url": "https://s.daraz.pk/s.XwwdI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f9559077-e9cc-4143-bafc-85af1b386cfd.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f9559077-e9cc-4143-bafc-85af1b386cfd.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:34:17.902053",
+      "status": "live"
     }
   ]
 }
