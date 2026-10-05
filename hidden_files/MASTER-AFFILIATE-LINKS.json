@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:54:45.854404",
-  "total_qa_affiliate_products": 752,
+  "generated_at": "2026-10-05T12:55:23.753392",
+  "total_qa_affiliate_products": 753,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 752,
+      "count": 753,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9781,12 +9781,25 @@
           "affiliate_url": "https://s.daraz.pk/s.XwtDk?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-pull-up-band-xwtdk",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-latex-tube-resistance-band-pull-rope-single-loop-exercise-ba",
+          "name": "Latex Tube Resistance Band Pull Rope - Single Loop Exercise Band for Strength Training (Black)",
+          "price": 841,
+          "original_price": 1200,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": "https://lzd-img-push.slatic.net/lazada-creative-center/bd7c37fb-34c7-49ad-8a20-e7f59469b1f8.jpg?x-oss-process=image/quality,q_80/format,avif",
+          "affiliate_url": "https://s.daraz.pk/s.Xwtxs?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-latex-tube-resistance-band-pull-rope-single-loop-exercise-ba",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 36,
+      "count": 37,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9967,6 +9980,11 @@
           "name": "Pull Up Resistance Band Heavy Duty Natural Latex Loop Exercise Band for Strength Training Calisthenics Home Gym Anti-Snap Assisted Pull Ups",
           "price": "Rs.969",
           "affiliate_url": "https://s.daraz.pk/s.XwtDk?cc"
+        },
+        {
+          "name": "Latex Tube Resistance Band Pull Rope - Single Loop Exercise Band for Strength Training (Black)",
+          "price": "Rs.841",
+          "affiliate_url": "https://s.daraz.pk/s.Xwtxs?cc"
         }
       ]
     },
