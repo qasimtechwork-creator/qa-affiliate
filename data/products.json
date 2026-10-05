@@ -23506,6 +23506,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:55:03.075819",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-soft-padded-pushup-bra",
+      "name": "Soft Padded Push-Up Bra - Imported, Sizes 32-48 for Women & Girls",
+      "price": 495,
+      "currency": "PKR",
+      "original_price": 850,
+      "affiliate_url": "https://s.daraz.pk/s.Xwwxo?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/9f242fed-cdbd-4918-9866-643295d67ad3.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/9f242fed-cdbd-4918-9866-643295d67ad3.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:55:29.507513",
+      "status": "live"
     }
   ]
 }
