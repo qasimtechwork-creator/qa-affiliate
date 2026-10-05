@@ -23650,6 +23650,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:00:24.912010",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zero-luna-smart-watch",
+      "name": "Zero Luna Smart Watch - 1.39\" TFT, Calling, 100+ Faces, IP67, SpO2 & Heart Rate",
+      "price": 5999,
+      "currency": "PKR",
+      "original_price": 21499,
+      "affiliate_url": "https://s.daraz.pk/s.XwD2t?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f93681a9-1956-45db-8e63-9838dd6794a0.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f93681a9-1956-45db-8e63-9838dd6794a0.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:01:38.420785",
+      "status": "live"
     }
   ]
 }
