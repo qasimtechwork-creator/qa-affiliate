@@ -23570,6 +23570,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:56:26.765659",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack-3-cotton-bras-girls",
+      "name": "Pack of 3 Cotton Bras for Girls - Comfortable Multicolor, Sizes 32-42",
+      "price": 890,
+      "currency": "PKR",
+      "original_price": 1600,
+      "affiliate_url": "https://s.daraz.pk/s.XwwBj?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e29bdc3a-eaab-4dc3-b4c7-b6fc97051bd7.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/e29bdc3a-eaab-4dc3-b4c7-b6fc97051bd7.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:56:52.228359",
+      "status": "live"
     }
   ]
 }
