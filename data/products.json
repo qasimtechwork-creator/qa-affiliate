@@ -23170,6 +23170,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:43:44.498638",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-fashion-club-handbag-girls",
+      "name": "Fashion Club Handbag for Girls - Leather Crossbody & Shoulder Bag with Phone Pouch",
+      "price": 499,
+      "currency": "PKR",
+      "original_price": 1999,
+      "affiliate_url": "https://s.daraz.pk/s.Xwwku?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f509c9d7-dc61-492e-9995-c9ce2ee12b5c.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f509c9d7-dc61-492e-9995-c9ce2ee12b5c.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:44:04.062770",
+      "status": "live"
     }
   ]
 }
