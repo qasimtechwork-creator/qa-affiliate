@@ -23922,6 +23922,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:05:46.065460",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-dt900-y60-t800-ultra-watch-bundle",
+      "name": "Ultra Smart Watch Bundle - DT900/Y60/T800/T900/T10 7 Straps with Earbuds, Low Rate",
+      "price": 1699,
+      "currency": "PKR",
+      "original_price": 3000,
+      "affiliate_url": "https://s.daraz.pk/s.XwDTw?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1b12da50-769d-4994-a533-36a218f521e6.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/1b12da50-769d-4994-a533-36a218f521e6.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:07:06.845163",
+      "status": "live"
     }
   ]
 }
