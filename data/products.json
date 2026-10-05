@@ -23314,6 +23314,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:46:39.164984",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-two-piece-tote-bag-girls-v2",
+      "name": "Two Piece Tote Bag for Girls - Stylish Ladies Purse and Shoulder Bag",
+      "price": 1759,
+      "currency": "PKR",
+      "original_price": 2499,
+      "affiliate_url": "https://s.daraz.pk/s.XwwKg?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b067da52-62c7-4480-a36f-89b5a2837075.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b067da52-62c7-4480-a36f-89b5a2837075.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:48:45.096210",
+      "status": "live"
     }
   ]
 }
