@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:49:09.844868",
-  "total_qa_affiliate_products": 737,
+  "generated_at": "2026-10-05T12:49:26.763010",
+  "total_qa_affiliate_products": 738,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 737,
+      "count": 738,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9586,12 +9586,25 @@
           "affiliate_url": "https://s.daraz.pk/s.Xwtrx?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-5-pieces-exercise-resistance-band-yoga-band-yoga-resistance",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-pull-up-resistance-band-heavy-duty-natural-latex-loop-exerci",
+          "name": "Pull Up Resistance Band - Heavy Duty Natural Latex Loop Exercise Band for Strength Training, Calisthenics & Home Gym | Anti-Snap | 13mm to 50mm | Assisted Pull Ups & Muscle Ups",
+          "price": 989,
+          "original_price": 1499,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": "https://lzd-img-push.slatic.net/lazada-creative-center/44f28051-78f6-4e8f-a836-36694b9ba00e.jpg?x-oss-process=image/quality,q_80/format,avif",
+          "affiliate_url": "https://s.daraz.pk/s.XwtIM?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-pull-up-resistance-band-heavy-duty-natural-latex-loop-exerci",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 21,
+      "count": 22,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9697,6 +9710,11 @@
           "name": "5 Pieces Exercise Resistance Band - Yoga Band - Yoga Resistance Band for Women and Men",
           "price": "Rs.999",
           "affiliate_url": "https://s.daraz.pk/s.Xwtrx?cc"
+        },
+        {
+          "name": "Pull Up Resistance Band - Heavy Duty Natural Latex Loop Exercise Band for Strength Training, Calisthenics & Home Gym | Anti-Snap | 13mm to 50mm | Assisted Pull Ups & Muscle Ups",
+          "price": "Rs.989",
+          "affiliate_url": "https://s.daraz.pk/s.XwtIM?cc"
         }
       ]
     },
