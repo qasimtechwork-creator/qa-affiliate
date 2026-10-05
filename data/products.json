@@ -23426,6 +23426,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:52:51.213094",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-silk-wear-3piece-nighty-women",
+      "name": "Silk Wear Women 3 Piece Nighty Set - Satin Night Dress with Robe, Multicolor",
+      "price": 1044.05,
+      "currency": "PKR",
+      "original_price": 1799,
+      "affiliate_url": "https://s.daraz.pk/s.XwwFQ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/637dc8ab-c0e7-4cf1-940b-9dae91cb7a99.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/637dc8ab-c0e7-4cf1-940b-9dae91cb7a99.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:53:06.855861",
+      "status": "live"
     }
   ]
 }
