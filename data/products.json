@@ -23618,6 +23618,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:57:39.310970",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack-6-cotton-bra-twinshop",
+      "name": "Twin Shop Pack of 6 Cotton Bra - Non Padded for Women & Girls",
+      "price": 699,
+      "currency": "PKR",
+      "original_price": 1500,
+      "affiliate_url": "https://s.daraz.pk/s.XwDag?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/580a1d26-bd76-4e92-a3b3-ac6137f03e09.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/580a1d26-bd76-4e92-a3b3-ac6137f03e09.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:57:59.757194",
+      "status": "live"
     }
   ]
 }
