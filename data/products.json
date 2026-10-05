@@ -23330,6 +23330,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:48:45.096210",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zushaam-handbag-girls-multicolor",
+      "name": "Zushaam Hand Bag for Girls - Multicolor Leather Crossbody with Adjustable Strap",
+      "price": 994,
+      "currency": "PKR",
+      "original_price": 2200,
+      "affiliate_url": "https://s.daraz.pk/s.Xwwqr?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f489bc52-0fbb-4f38-a8c7-935d47caa33d.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f489bc52-0fbb-4f38-a8c7-935d47caa33d.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:49:16.631540",
+      "status": "live"
     }
   ]
 }
