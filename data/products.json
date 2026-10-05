@@ -22914,6 +22914,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:32:55.601950",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-classic-luxury-watch-men-steel-arabic",
+      "name": "Classic Luxury Watch for Men - Stylish Stainless Steel Arabic Dial",
+      "price": 399,
+      "currency": "PKR",
+      "original_price": 499,
+      "affiliate_url": "https://s.daraz.pk/s.XwwXW?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/929bc0c1-5d2a-42fc-ba92-5c50059a2683.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/929bc0c1-5d2a-42fc-ba92-5c50059a2683.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:33:11.837994",
+      "status": "live"
     }
   ]
 }
