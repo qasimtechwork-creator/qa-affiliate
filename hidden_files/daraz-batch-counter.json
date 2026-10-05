@@ -1,0 +1,7 @@
+{
+  "last_prompt_product_count": 101,
+  "last_prompt_date": "2026-10-05",
+  "last_prompt_file": "daraz-affiliate-prompt-100-products.md",
+  "next_batch_at": 201,
+  "rule": "Fresh prompt every 100 NEW products, numbered 1-100, previous batches excluded"
+}
