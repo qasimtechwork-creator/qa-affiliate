@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:36:25.482995",
-  "total_qa_affiliate_products": 719,
+  "generated_at": "2026-10-05T12:36:41.002307",
+  "total_qa_affiliate_products": 720,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 719,
+      "count": 720,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9352,12 +9352,25 @@
           "affiliate_url": "https://s.daraz.pk/s.XwtTL?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-magic-color-changeable-grape-mesh-squish-ball-stress-relief",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-adjustable-breathable-mesh-corset-slimming-belt-tummy-contro",
+          "name": "Adjustable Breathable Mesh Corset Slimming Belt Tummy Control Shaper For Weight Loss Gym Exercise",
+          "price": 699,
+          "original_price": 2000,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": null,
+          "affiliate_url": "https://s.daraz.pk/s.Xwt6X?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-adjustable-breathable-mesh-corset-slimming-belt-tummy-contro",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 3,
+      "count": 4,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9373,6 +9386,11 @@
           "name": "Magic Color-Changeable Grape Mesh Squish Ball - Stress Relief Squeezing Toy | Hand and Wrist Exercise Rubber Grape Ball for Anxiety, Fidgeting & Fun | Sensory Toy for Kids and Adults",
           "price": "Rs.199",
           "affiliate_url": "https://s.daraz.pk/s.XwtTL?cc"
+        },
+        {
+          "name": "Adjustable Breathable Mesh Corset Slimming Belt Tummy Control Shaper For Weight Loss Gym Exercise",
+          "price": "Rs.699",
+          "affiliate_url": "https://s.daraz.pk/s.Xwt6X?cc"
         }
       ]
     },
