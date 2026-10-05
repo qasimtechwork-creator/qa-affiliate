@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:44:45.555820",
-  "total_qa_affiliate_products": 730,
+  "generated_at": "2026-10-05T12:45:01.375197",
+  "total_qa_affiliate_products": 731,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 730,
+      "count": 731,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9495,12 +9495,25 @@
           "affiliate_url": "https://s.daraz.pk/s.XwtjW?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-histro-4-colors-5-60kg-automatic-counting-hand-gripper-adjus",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-1-pc-pelvic-floor-muscle-trainer-multifunctional-thigh-exerc",
+          "name": "1 Pc Pelvic Floor Muscle Trainer, Multifunctional Thigh Exerciser, For Postpartum Recovery, Body Shaping, Leg & Butt Training",
+          "price": 3500,
+          "original_price": 3500,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": null,
+          "affiliate_url": "https://s.daraz.pk/s.XwtnY?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-1-pc-pelvic-floor-muscle-trainer-multifunctional-thigh-exerc",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 14,
+      "count": 15,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9571,6 +9584,11 @@
           "name": "Histro 4 Colors 5-60KG Automatic Counting Hand Gripper Adjustable Resistance Non-Slip Hand Grip Strength Trainer Fingers Wrist Forearm Exerciser Home Gym Equipment",
           "price": "Rs.399",
           "affiliate_url": "https://s.daraz.pk/s.XwtjW?cc"
+        },
+        {
+          "name": "1 Pc Pelvic Floor Muscle Trainer, Multifunctional Thigh Exerciser, For Postpartum Recovery, Body Shaping, Leg & Butt Training",
+          "price": "Rs.3500",
+          "affiliate_url": "https://s.daraz.pk/s.XwtnY?cc"
         }
       ]
     },
