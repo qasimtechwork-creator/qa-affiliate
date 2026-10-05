@@ -24066,6 +24066,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:12:46.216398",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-stanley-tumbler-40oz-vacuum",
+      "name": "Stanley Tumbler 40oz 1200ml - 8H Vacuum Insulation, Leak Proof Handle Straw & Lid",
+      "price": 2599,
+      "currency": "PKR",
+      "original_price": 4999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDOd?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/237dfe00-c51c-48c1-83f2-31942d8cdde7.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/237dfe00-c51c-48c1-83f2-31942d8cdde7.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:13:13.543926",
+      "status": "live"
     }
   ]
 }
