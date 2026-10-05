@@ -23474,6 +23474,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:54:22.354223",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-air-bra-women-sports",
+      "name": "Air Bra for Women & Girls - Non Padded Non Wired Adjustable Sports Bra",
+      "price": 599,
+      "currency": "PKR",
+      "original_price": 800,
+      "affiliate_url": "https://s.daraz.pk/s.XwwwK?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/183d663b-d29e-46c7-a049-cfd68082edaa.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/183d663b-d29e-46c7-a049-cfd68082edaa.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:54:36.929037",
+      "status": "live"
     }
   ]
 }
