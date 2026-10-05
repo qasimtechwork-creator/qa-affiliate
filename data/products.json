@@ -22610,6 +22610,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:16:21.374222",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-joop-perfume-unisex-100ml",
+      "name": "Joop Perfume Unisex 100ml - Long Lasting Premium Luxury Fragrance for Men & Women",
+      "price": 599,
+      "currency": "PKR",
+      "original_price": 1500,
+      "affiliate_url": "https://s.daraz.pk/s.XwEOo?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/cedf4317-4afc-4bbc-a2ee-eca6eadc8094.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/cedf4317-4afc-4bbc-a2ee-eca6eadc8094.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:16:46.040469",
+      "status": "live"
     }
   ]
 }
