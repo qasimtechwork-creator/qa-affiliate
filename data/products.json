@@ -23202,6 +23202,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:44:14.803343",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-stylish-leather-handbag-women",
+      "name": "Stylish Leather Handbag for Women - Shoulder Crossbody Bag with Phone Pouch",
+      "price": 449,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XwwPz?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/bacc1903-f93d-4f77-b7e5-15f39c8bf991.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/bacc1903-f93d-4f77-b7e5-15f39c8bf991.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:44:28.813639",
+      "status": "live"
     }
   ]
 }
