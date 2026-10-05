@@ -24194,6 +24194,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:20:13.288686",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-3d-butterfly-wall-clock",
+      "name": "3D Butterfly Wooden Wall Clock - Laser Cut Stylish Design with Stars",
+      "price": 429,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDE3?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/939b68f0-1063-4b8a-b361-4270b419822b.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/939b68f0-1063-4b8a-b361-4270b419822b.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:22:52.998379",
+      "status": "live"
     }
   ]
 }
