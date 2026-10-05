@@ -23458,6 +23458,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:53:43.843294",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-soft-cotton-bra-embroidered",
+      "name": "Soft Cotton Bra for Girls - Embroidered Half Cup with Fancy Lace",
+      "price": 470,
+      "currency": "PKR",
+      "original_price": 800,
+      "affiliate_url": "https://s.daraz.pk/s.XwwwW?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b6b938f7-c557-4f30-a583-73b78a2963cd.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b6b938f7-c557-4f30-a583-73b78a2963cd.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:54:22.354223",
+      "status": "live"
     }
   ]
 }
