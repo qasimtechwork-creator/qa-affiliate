@@ -23682,6 +23682,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:01:52.771782",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-xiaomi-mi-band-7-amoled",
+      "name": "Xiaomi Mi Band 7/6/5 - AMOLED Color Screen, Bluetooth 5.0, 5ATM Fitness Band",
+      "price": 4899,
+      "currency": "PKR",
+      "original_price": 6149,
+      "affiliate_url": "https://s.daraz.pk/s.XwDdE?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b6a4225c-a4c7-4c60-9ef7-0af75a4732c2.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b6a4225c-a4c7-4c60-9ef7-0af75a4732c2.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:02:06.087883",
+      "status": "live"
     }
   ]
 }
