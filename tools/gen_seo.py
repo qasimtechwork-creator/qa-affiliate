@@ -49,7 +49,9 @@ LOGO_ALT = brand.get("logo_alt", "QA Affiliate logo")
 TAGLINE = brand.get("tagline", "Discover trending women's products worth your money")
 
 def merchant_name(m):
-    return (merchants.get(m) or {}).get("display_name") or (merchants.get(m) or {}).get("name") or m.title()
+    if not m:
+        return "QA Affiliate"
+    return (merchants.get(m) or {}).get("display_name") or (merchants.get(m) or {}).get("name") or str(m).title()
 
 def disclosure(m):
     return (merchants.get(m) or {}).get("disclosure_short") or "QA Affiliate may earn a commission on qualifying purchases."

@@ -22450,6 +22450,38 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:12:47.900175",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-mutual-love-red-eau-de-parfum-50ml",
+      "name": "Mutual Love Red Eau de Parfum 50ml - Long Lasting Fruity Floral Musky Fragrance, Unisex Perfume for Couples",
+      "price": 449,
+      "currency": "PKR",
+      "original_price": 1500,
+      "affiliate_url": "https://s.daraz.pk/s.XwEiF?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/dc7b7728-55ff-47c8-96b1-9fde84569f1f.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/dc7b7728-55ff-47c8-96b1-9fde84569f1f.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:13:05.369880",
+      "status": "live"
+    },
+    {
+      "id": "daraz-real-face-slimming-belt-v-line-shaper",
+      "name": "Face Slimming Belt V Line Face Shaper - Double Chin Reducer, Anti-Wrinkle Reusable Face Lift Strap",
+      "price": 409,
+      "currency": "PKR",
+      "original_price": 446,
+      "affiliate_url": "https://s.daraz.pk/s.XwERh?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6e976e67-04e0-4687-9aaf-32bfd2273344.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/6e976e67-04e0-4687-9aaf-32bfd2273344.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:13:17.791748",
+      "status": "live"
     }
   ]
 }
