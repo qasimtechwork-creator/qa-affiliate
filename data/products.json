@@ -23986,6 +23986,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:09:58.109739",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-manual-water-dispenser-pump",
+      "name": "Manual Hand Press Water Dispenser Pump - for 19L / 5 Gallon Bottles",
+      "price": 1099,
+      "currency": "PKR",
+      "original_price": 2500,
+      "affiliate_url": "https://s.daraz.pk/s.XwDjJ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/c5a0f19d-fb29-4ab7-a5bf-75f0d94a29bf.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/c5a0f19d-fb29-4ab7-a5bf-75f0d94a29bf.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:10:45.033412",
+      "status": "live"
     }
   ]
 }
