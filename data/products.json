@@ -22930,6 +22930,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:33:11.837994",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-imported-quality-watch-men-2025",
+      "name": "100% Imported High Quality Watch for Men - New 2025 Design",
+      "price": 698,
+      "currency": "PKR",
+      "original_price": 2699,
+      "affiliate_url": "https://s.daraz.pk/s.XwwXA?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1881fb95-de5b-4777-8c18-b4006f291bb0.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/1881fb95-de5b-4777-8c18-b4006f291bb0.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:33:29.744340",
+      "status": "live"
     }
   ]
 }
