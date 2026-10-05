@@ -23778,6 +23778,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:03:26.897916",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-dz09-smart-watch-sim",
+      "name": "DZ09 Smart Watch - SIM Supported, Calling for Men & Women",
+      "price": 2619,
+      "currency": "PKR",
+      "original_price": 4500,
+      "affiliate_url": "https://s.daraz.pk/s.XwDVZ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/aa1ccf2b-55a5-4b2b-880c-943e13b1c733.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/aa1ccf2b-55a5-4b2b-880c-943e13b1c733.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:03:46.049320",
+      "status": "live"
     }
   ]
 }
