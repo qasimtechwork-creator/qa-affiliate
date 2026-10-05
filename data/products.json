@@ -24050,6 +24050,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:12:09.735719",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-usb-juicer-blender-6blades",
+      "name": "USB Rechargeable Juicer Blender 6 Blades - Mini Portable 380ml Fruit Mixer",
+      "price": 1280,
+      "currency": "PKR",
+      "original_price": 1750,
+      "affiliate_url": "https://s.daraz.pk/s.XwDl3?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/9abbc5d3-434e-4685-b12d-d8245b9c3a8f.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/9abbc5d3-434e-4685-b12d-d8245b9c3a8f.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:12:46.216398",
+      "status": "live"
     }
   ]
 }
