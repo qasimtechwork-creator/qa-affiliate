@@ -23858,6 +23858,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:04:50.600327",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zero-bolt-pro-smart-watch",
+      "name": "Zero Bolt Pro Smart Watch 1.83\" HD - Bluetooth Calling, 100+ Sports Modes, SpO2",
+      "price": 6999,
+      "currency": "PKR",
+      "original_price": 18999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDUd?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/dc84f325-07f3-4dcf-8437-98c72edec034.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/dc84f325-07f3-4dcf-8437-98c72edec034.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:05:11.484638",
+      "status": "live"
     }
   ]
 }
