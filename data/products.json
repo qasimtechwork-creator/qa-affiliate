@@ -24018,6 +24018,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:11:01.207378",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-electric-kettle-2l-stainless",
+      "name": "Electric Kettle 2.0 Litre - Stainless Steel, Hot Water & Tea/Coffee Maker",
+      "price": 1398,
+      "currency": "PKR",
+      "original_price": 1820,
+      "affiliate_url": "https://s.daraz.pk/s.XwD9Q?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/99f4fc99-e10f-48a0-9b51-39dd851c39ad.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/99f4fc99-e10f-48a0-9b51-39dd851c39ad.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:11:24.615414",
+      "status": "live"
     }
   ]
 }
