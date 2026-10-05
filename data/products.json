@@ -24338,6 +24338,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:25:52.398042",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-wooden-kitchen-wall-clock",
+      "name": "Wooden Kitchen Wall Clock - Coffee Cup & Kettle Design, Stylish Home Decor",
+      "price": 389,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDA0?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/16a6c4f5-928a-416a-af21-7f36e3f8d0a7.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/16a6c4f5-928a-416a-af21-7f36e3f8d0a7.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:26:09.445751",
+      "status": "live"
     }
   ]
 }
