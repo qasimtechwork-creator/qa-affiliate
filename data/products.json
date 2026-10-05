@@ -23490,6 +23490,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:54:36.929037",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack-2-soft-cotton-bra",
+      "name": "Pack of 2 Soft Cotton Bra for Girls - VIP Quality, Assorted Colors & Design",
+      "price": 499,
+      "currency": "PKR",
+      "original_price": 1000,
+      "affiliate_url": "https://s.daraz.pk/s.XwwDN?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e07a35de-e113-427a-8bbb-17fabaac263c.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/e07a35de-e113-427a-8bbb-17fabaac263c.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:55:03.075819",
+      "status": "live"
     }
   ]
 }
