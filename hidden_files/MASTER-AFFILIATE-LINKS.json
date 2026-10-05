@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:38:57.816921",
-  "total_qa_affiliate_products": 727,
+  "generated_at": "2026-10-05T12:39:10.341447",
+  "total_qa_affiliate_products": 728,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 727,
+      "count": 728,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9456,12 +9456,25 @@
           "affiliate_url": "https://s.daraz.pk/s.XwtiJ?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-exercise-resistance-band-yoga-band-yoga-resistance-band-for",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-pull-reducer-resistance-training-bands-tummy-trimmer-belly-f",
+          "name": "Pull Reducer Resistance Training Bands Tummy Trimmer Belly Fat Burner Body Exerciser Weight Loss Home Gym Workout Arm Muscle Builder Double Pull Rope Pedal Exerciser Yoga Crossfit Unisex",
+          "price": 900,
+          "original_price": 1000,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": null,
+          "affiliate_url": "https://s.daraz.pk/s.XwtRk?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-pull-reducer-resistance-training-bands-tummy-trimmer-belly-f",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 11,
+      "count": 12,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9517,6 +9530,11 @@
           "name": "Exercise Resistance Band - Yoga Band - Yoga Resistance Band for Women and Men",
           "price": "Rs.499",
           "affiliate_url": "https://s.daraz.pk/s.XwtiJ?cc"
+        },
+        {
+          "name": "Pull Reducer Resistance Training Bands Tummy Trimmer Belly Fat Burner Body Exerciser Weight Loss Home Gym Workout Arm Muscle Builder Double Pull Rope Pedal Exerciser Yoga Crossfit Unisex",
+          "price": "Rs.900",
+          "affiliate_url": "https://s.daraz.pk/s.XwtRk?cc"
         }
       ]
     },
