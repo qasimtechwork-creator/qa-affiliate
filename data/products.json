@@ -23138,6 +23138,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:43:15.892185",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-stylish-gift-bags-girls-leather",
+      "name": "Stylish Gift Bags for Girls - Trendy Leather Designs",
+      "price": 1999,
+      "currency": "PKR",
+      "original_price": 4600,
+      "affiliate_url": "https://s.daraz.pk/s.Xww9D?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b7accdc5-d105-4de4-abc6-a90bfe1e17af.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b7accdc5-d105-4de4-abc6-a90bfe1e17af.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:43:29.886931",
+      "status": "live"
     }
   ]
 }
