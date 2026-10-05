@@ -23890,6 +23890,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:05:18.927239",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-watch-9-11-max-smartwatch",
+      "name": "Watch 9/10/11 Max Smartwatch - Bluetooth Calling, Wireless Charging, Full Touch",
+      "price": 1849,
+      "currency": "PKR",
+      "original_price": 5999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDUu?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/11ac9459-328c-4635-bdcf-235a37a681bf.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/11ac9459-328c-4635-bdcf-235a37a681bf.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:05:38.255069",
+      "status": "live"
     }
   ]
 }
