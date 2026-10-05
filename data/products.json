@@ -23938,6 +23938,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:07:06.845163",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-i8-pro-max-smart-watch",
+      "name": "i8 Pro Max Smart Watch Series 8 - 1.75\" Full Screen, Bluetooth Call, Waterproof",
+      "price": 1049,
+      "currency": "PKR",
+      "original_price": 3500,
+      "affiliate_url": "https://s.daraz.pk/s.XwD6v?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/63226c2e-9e0e-46ee-a141-7ced32ffb929.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/63226c2e-9e0e-46ee-a141-7ced32ffb929.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:07:24.523185",
+      "status": "live"
     }
   ]
 }
