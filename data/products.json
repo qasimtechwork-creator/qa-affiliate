@@ -23842,6 +23842,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:04:42.327768",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zero-elite-smart-watch-amoled",
+      "name": "Zero Elite Smart Watch - 2.04\" AMOLED, Bluetooth 5.3, Health Monitoring, IP67",
+      "price": 9899,
+      "currency": "PKR",
+      "original_price": 29999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDfm?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/69619d85-f1fd-4afc-a4f3-df9d0f234441.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/69619d85-f1fd-4afc-a4f3-df9d0f234441.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:04:50.600327",
+      "status": "live"
     }
   ]
 }
