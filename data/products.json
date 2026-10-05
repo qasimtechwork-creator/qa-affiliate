@@ -23410,6 +23410,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:52:32.716432",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-premium-capri-bra-4hooks",
+      "name": "Premium Capri Bra for Girls - 4 Hooks with Wide Support Belt",
+      "price": 799,
+      "currency": "PKR",
+      "original_price": 1500,
+      "affiliate_url": "https://s.daraz.pk/s.Xwwuw?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/bdbc304e-e58a-4586-85d9-0557db21a323.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/bdbc304e-e58a-4586-85d9-0557db21a323.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:52:51.213094",
+      "status": "live"
     }
   ]
 }
