@@ -23906,6 +23906,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:05:38.255069",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-zero-qube-smartwatch",
+      "name": "Zero Qube Smartwatch 1.83\" Fluid Display - Bluetooth Fitness Tracker, 1 Year Warranty",
+      "price": 6999,
+      "currency": "PKR",
+      "original_price": 19999,
+      "affiliate_url": "https://s.daraz.pk/s.XwD5g?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/3985604e-2eb8-477d-91bc-5ca2193ccef7.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/3985604e-2eb8-477d-91bc-5ca2193ccef7.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:05:46.065460",
+      "status": "live"
     }
   ]
 }
