@@ -22690,6 +22690,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:19:41.966914",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-body-spray-pack-6-200ml-unisex",
+      "name": "Body Spray Pack of 6 (200ml Each) - BigBoss, Dundill, One2One, Freshrite - Unisex Value Pack",
+      "price": 2195,
+      "currency": "PKR",
+      "original_price": 3000,
+      "affiliate_url": "https://s.daraz.pk/s.XwEqf?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/80ea894c-74c4-4da1-8e1d-50d7a2a73639.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/80ea894c-74c4-4da1-8e1d-50d7a2a73639.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:20:11.343712",
+      "status": "live"
     }
   ]
 }
