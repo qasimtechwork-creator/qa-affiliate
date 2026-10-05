@@ -23522,6 +23522,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:55:29.507513",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack-3-air-bra-multicolor",
+      "name": "Pack of 3 Air Bra for Ladies & Girls - Multicolor",
+      "price": 1199,
+      "currency": "PKR",
+      "original_price": 1599,
+      "affiliate_url": "https://s.daraz.pk/s.XwwC0?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e8406b91-6946-48c2-8d13-6185ff12b31a.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/e8406b91-6946-48c2-8d13-6185ff12b31a.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:55:39.696543",
+      "status": "live"
     }
   ]
 }
