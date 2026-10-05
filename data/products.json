@@ -24306,6 +24306,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:25:07.516715",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-3d-wooden-round-wall-clock",
+      "name": "3D Wooden Round Wall Clock 11.8 Inch - Raised Digits, With/Without Light",
+      "price": 359,
+      "currency": "PKR",
+      "original_price": 413,
+      "affiliate_url": "https://s.daraz.pk/s.XwDBQ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ba610f4e-df00-4b7d-92a7-65021cab3b68.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/ba610f4e-df00-4b7d-92a7-65021cab3b68.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:25:32.857715",
+      "status": "live"
     }
   ]
 }
