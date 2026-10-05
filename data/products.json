@@ -24210,6 +24210,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:22:52.998379",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-modern-pink-wall-clock",
+      "name": "Modern Stylish Pink Color Wall Clock - Lovely Design",
+      "price": 1650,
+      "currency": "PKR",
+      "original_price": 2000,
+      "affiliate_url": "https://s.daraz.pk/s.XwDEC?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/128cf4a5-29ce-4783-9b81-d58f2ef559f5.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/128cf4a5-29ce-4783-9b81-d58f2ef559f5.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:23:14.915516",
+      "status": "live"
     }
   ]
 }
