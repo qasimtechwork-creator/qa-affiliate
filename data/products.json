@@ -23026,6 +23026,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T15:34:49.670344",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-luxury-watch-men-silicone",
+      "name": "Luxury Watch for Men - Silicone Strap Quartz, Casual Fashion Style",
+      "price": 999,
+      "currency": "PKR",
+      "original_price": 2000,
+      "affiliate_url": "https://s.daraz.pk/s.Xww3R?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6d711137-1619-4a2a-8cac-46f954dc42c6.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/6d711137-1619-4a2a-8cac-46f954dc42c6.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T15:35:06.283770",
+      "status": "live"
     }
   ]
 }
