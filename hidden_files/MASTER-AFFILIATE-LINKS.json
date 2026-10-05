@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:51:30.262776",
-  "total_qa_affiliate_products": 743,
+  "generated_at": "2026-10-05T12:51:41.190261",
+  "total_qa_affiliate_products": 744,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 743,
+      "count": 744,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9664,12 +9664,25 @@
           "affiliate_url": "https://s.daraz.pk/s.XwtGj?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-hi-fit-weightlifting-finger-grip-pad-for-workout-gym-fitness",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "daraz-real-workout-gloves-for-men-durable-palm-grip-gym-gloves-women-ha",
+          "name": "Workout Gloves for Men, Durable Palm Grip Gym Gloves Women Half Finger Elasticated Training Weight Lifting Strength Bodybuilding Anti Slip Cycling Gloves Exercise",
+          "price": 350,
+          "original_price": 350,
+          "currency": "PKR",
+          "platform": "daraz",
+          "category": "health-fitness",
+          "image": "https://lzd-img-push.slatic.net/lazada-creative-center/8c1a5c13-866d-46ee-9dec-427d354c7164.jpg?x-oss-process=image/quality,q_80/format,avif",
+          "affiliate_url": "https://s.daraz.pk/s.XwtGG?cc",
+          "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-workout-gloves-for-men-durable-palm-grip-gym-gloves-women-ha",
+          "source": "owner-app-verified"
         }
       ]
     },
     "qasim_daraz_links": {
       "description": "Daraz links sent by Qasim (real app-generated)",
-      "count": 27,
+      "count": 28,
       "products": [
         {
           "name": "Portable Breathing Trainer with Adjustable Resistance Settings",
@@ -9805,6 +9818,11 @@
           "name": "Hi-Fit Weightlifting Finger Grip Pad For Workout, Gym Fitness Cross Training Pull Ups Exercise",
           "price": "Rs.599",
           "affiliate_url": "https://s.daraz.pk/s.XwtGj?cc"
+        },
+        {
+          "name": "Workout Gloves for Men, Durable Palm Grip Gym Gloves Women Half Finger Elasticated Training Weight Lifting Strength Bodybuilding Anti Slip Cycling Gloves Exercise",
+          "price": "Rs.350",
+          "affiliate_url": "https://s.daraz.pk/s.XwtGG?cc"
         }
       ]
     },
