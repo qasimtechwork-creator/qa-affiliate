@@ -1493,5 +1493,77 @@
     }
   ],
   "catalog_size": 695,
-  "last_batch_note": "2026-10-04 run: 25/25 products fully pinned (48 pins published, 2 website pins pre-existing), 0 fallbacks, no blockers; board 314->359 pins"
+  "last_batch_note": "2026-10-04 run: 25/25 products fully pinned (48 pins published, 2 website pins pre-existing), 0 fallbacks, no blockers; board 314->359 pins",
+  "pins": [
+    {
+      "product_id": "daraz-real-2-in-1-eyebrow-trimmer-for-women-facial-",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106833/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990429",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-ear-wax-cleaning-kit-6-pcs-ear-pick-tool",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106846/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990452",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-loreal-paris-loreal-elvive-6-oil-nourish",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106854/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990455",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-2pcs-motion-activated-glow-bike-flashlig",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106868/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990456",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-13-pcs-makeup-brush-set-soft-hair-loose-",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106886/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990466",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-eyebrow-pen-waterproof-4-fork-tip-eyebro",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106905/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990475",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-ceiling-fan-covers-with-motor-cover-grey",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106921/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990477",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-posture-belt-posture-corrector-belt-back",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106934/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990478",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-1pcs-strong-wall-mounted-mop-organizer-h",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106973/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990479",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-wanter-13-pcs-makeup-brushes-set-soft-ha",
+      "pin_url": "https://www.pinterest.com/pin/608830443423106975/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-05T13:10:03.990481",
+      "rule": "1-pin-immediate"
+    }
+  ]
 }
