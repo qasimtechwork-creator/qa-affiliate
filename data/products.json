@@ -23698,6 +23698,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:02:06.087883",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-s8-max-ultra-sim-smartwatch",
+      "name": "S8 Max Ultra SIM Smart Watch PTA Approved - 1.99\" Display, 24 Sports Modes, Waterproof",
+      "price": 1249,
+      "currency": "PKR",
+      "original_price": 4200,
+      "affiliate_url": "https://s.daraz.pk/s.XwDW6?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ff4bb0ff-5c9e-410c-816a-e22d0b7dbc8d.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/ff4bb0ff-5c9e-410c-816a-e22d0b7dbc8d.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:02:18.478498",
+      "status": "live"
     }
   ]
 }
