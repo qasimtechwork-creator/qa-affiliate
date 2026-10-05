@@ -23730,6 +23730,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:02:38.271819",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-t800-ultra-smart-watch",
+      "name": "T800 Ultra Smart Watch Series 8 - 1.99\" Bluetooth Call, Sleep Monitor, IP67",
+      "price": 1399,
+      "currency": "PKR",
+      "original_price": 4500,
+      "affiliate_url": "https://s.daraz.pk/s.XwD35?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/56d54724-af2f-4247-a31d-1b9c00f378e7.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/56d54724-af2f-4247-a31d-1b9c00f378e7.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:02:48.171660",
+      "status": "live"
     }
   ]
 }
