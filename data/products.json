@@ -23762,6 +23762,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-05T16:03:03.339465",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-t10-ultra-smartwatch-v2",
+      "name": "T10 Ultra Smartwatch 2.09\" HD Big Screen - Magnetic Wireless Charging, Bluetooth Calling",
+      "price": 1299,
+      "currency": "PKR",
+      "original_price": 1999,
+      "affiliate_url": "https://s.daraz.pk/s.XwDeO?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ad968d51-606a-4457-bdb8-1c25aa39c0f5.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/ad968d51-606a-4457-bdb8-1c25aa39c0f5.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-05T16:03:26.897916",
+      "status": "live"
     }
   ]
 }
