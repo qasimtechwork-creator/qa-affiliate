@@ -25426,6 +25426,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:55:19.580482",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-green-laser-pointer-303",
+      "name": "High Power Green Laser Pointer Pen 303 - Rechargeable, Long Range",
+      "price": 899,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XD208?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/55695c04-b611-488c-b401-ec3a34dacaa6.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/55695c04-b611-488c-b401-ec3a34dacaa6.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:55:32.964977",
+      "status": "live"
     }
   ]
 }
