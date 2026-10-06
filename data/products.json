@@ -25010,6 +25010,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:18:57.861208",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-thigh-master-exerciser",
+      "name": "Thigh Master Exercise Equipment - Inner Thigh & Leg Trainer",
+      "price": 1990,
+      "currency": "PKR",
+      "original_price": 3000,
+      "affiliate_url": "https://s.daraz.pk/s.XDXcP?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/071e3d6d-ac6a-493c-8a4f-d6601944bbf4.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/071e3d6d-ac6a-493c-8a4f-d6601944bbf4.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:19:13.884496",
+      "status": "live"
     }
   ]
 }
