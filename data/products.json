@@ -25410,6 +25410,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:53:27.513355",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-samsung-galaxy-watch7-classic-47mm",
+      "name": "Samsung Galaxy Watch 7 Classic 47mm - Classic Style, Latest Innovation",
+      "price": 7480,
+      "currency": "PKR",
+      "original_price": 12000,
+      "affiliate_url": "https://s.daraz.pk/s.XD20b?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/c56ccb93-cd08-4b43-81bb-33118c1bfd51.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/c56ccb93-cd08-4b43-81bb-33118c1bfd51.jpg"
+      ],
+      "category": "electronics",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:55:19.580482",
+      "status": "live"
     }
   ]
 }
