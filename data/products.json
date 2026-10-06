@@ -28375,6 +28375,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-winter-hoodie-no-limits-copper",
+      "name": "Winters Premium Quality Copper Brown No Limits Printed Fleece Hoodie",
+      "affiliate_url": "https://s.daraz.pk/s.XDRfx?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/96717280-11f2-4b36-be23-8f75717ccef2.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Premium Fleece Hoodie No Limits Print. Price Rs.1,199 (was Rs.2,399).",
+      "price": "Rs.1,199",
+      "old_price": "Rs.2,399",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
