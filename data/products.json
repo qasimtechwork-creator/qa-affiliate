@@ -24690,6 +24690,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:11:23.903922",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-home-gym-spin-bike",
+      "name": "Home Gym Fitness Exercise Spin Bike - Professional Indoor Cycling",
+      "price": 46990,
+      "currency": "PKR",
+      "original_price": 59500,
+      "affiliate_url": "https://s.daraz.pk/s.XDczb?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/475302af-0e59-4267-ae43-e323956fc4ed.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/475302af-0e59-4267-ae43-e323956fc4ed.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:14:11.544262",
+      "status": "live"
     }
   ]
 }
