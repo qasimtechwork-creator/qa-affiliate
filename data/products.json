@@ -25842,6 +25842,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:06:39.299111",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-creative-home-wooden-wall-clock",
+      "name": "Creative Home Living Room Decoration Wooden Wall Clock",
+      "price": 399,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XD2h4?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1fcecc24-a9e8-4b7b-ae75-dceb1848b1f5.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/1fcecc24-a9e8-4b7b-ae75-dceb1848b1f5.jpg"
+      ],
+      "category": "home",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:06:58.055160",
+      "status": "live"
     }
   ]
 }
