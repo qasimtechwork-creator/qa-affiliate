@@ -30137,6 +30137,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-double-cabinet-dish-drying-rack",
+      "name": "Double Cabinet Dish Drying Rack Over Sink Steel",
+      "affiliate_url": "https://s.daraz.pk/s.XD9ER?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/c1bc4d18-68a1-445c-9e15-0974cf639495.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Dish Drying Rack Over Sink. Price Rs.9,349 (was Rs.15,000).",
+      "price": "Rs.9,349",
+      "old_price": "Rs.15,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
