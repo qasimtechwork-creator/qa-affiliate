@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 88,
+  "count": 89,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -91,6 +91,7 @@
     "daraz-3in1-hair-straightener-powerful",
     "daraz-909-brush-hair-straightener",
     "daraz-electric-pro-straightening-brush",
-    "daraz-jade-roller-gua-sha-set"
+    "daraz-jade-roller-gua-sha-set",
+    "daraz-jade-roller-guasha-natural-stone"
   ]
 }
