@@ -29263,6 +29263,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-retro-oval-sunglasses-metal",
+      "name": "Retro Oval Metal Sunglasses UV400 Classic",
+      "affiliate_url": "https://s.daraz.pk/s.XDQBo?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/297445ad-50e6-40b7-ae4d-bfeca7b2f964.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Retro Oval Sunglasses. Price Rs.749 (was Rs.1,499).",
+      "price": "Rs.749",
+      "old_price": "Rs.1,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
