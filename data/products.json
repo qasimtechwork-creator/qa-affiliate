@@ -25762,6 +25762,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:04:49.041218",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-bestwear-solar-cheetah-transition",
+      "name": "Bestwear Solar Magic Cheetah Transition Sunglasses - Photochromic Rimless",
+      "price": 1899,
+      "currency": "PKR",
+      "original_price": 3499,
+      "affiliate_url": "https://s.daraz.pk/s.XD2gX?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/8bafb8b2-38c8-4879-a6f1-997f235134c7.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/8bafb8b2-38c8-4879-a6f1-997f235134c7.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:05:05.258909",
+      "status": "live"
     }
   ]
 }
