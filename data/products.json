@@ -24994,6 +24994,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:18:47.986936",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-snk-wall-mounting-bar",
+      "name": "SNK Fitness Wall Mounting Bar - Dips, Leg Raise & Multiple Exercises",
+      "price": 2999,
+      "currency": "PKR",
+      "original_price": 3499,
+      "affiliate_url": "https://s.daraz.pk/s.XDX1v?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/88116603-6441-4e3e-95c8-91be1594103d.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/88116603-6441-4e3e-95c8-91be1594103d.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:18:57.861208",
+      "status": "live"
     }
   ]
 }
