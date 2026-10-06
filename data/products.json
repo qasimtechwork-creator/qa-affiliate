@@ -29928,6 +29928,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-liquid-eyeliner-mascara-set-2pc",
+      "name": "Liquid Eyeliner Waterproof Mascara Set 2pc",
+      "affiliate_url": "https://s.daraz.pk/s.XD9LE?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/820e437b-ba06-4e68-beb7-10b759ca7975.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "Eyeliner Mascara Set. Price Rs.298 (was Rs.389).",
+      "price": "Rs.298",
+      "old_price": "Rs.389",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
