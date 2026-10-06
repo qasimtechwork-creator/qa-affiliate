@@ -31144,6 +31144,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-king-size-sateen-bed-sheet",
+      "name": "King Size Hotel Collection Sateen Stripe Bed Sheet Set",
+      "affiliate_url": "https://s.daraz.pk/s.XDPVu?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b9ad61b5-e456-4a4e-859a-131a32a695c9.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "King Size Bed Sheet Set. Price Rs.1,695.",
+      "price": "Rs.1,695",
+      "old_price": "Rs.1,695",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
