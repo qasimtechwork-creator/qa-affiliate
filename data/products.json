@@ -24466,6 +24466,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:02:04.559699",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pu-leather-travel-jewellery-box",
+      "name": "Premium PU Leather Travel Jewellery Box - Zippered Organizer for Earrings & Necklaces",
+      "price": 330,
+      "currency": "PKR",
+      "original_price": 470,
+      "affiliate_url": "https://s.daraz.pk/s.XDcrT?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/37f2c7fc-10e1-46ab-8988-f1425cac643a.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/37f2c7fc-10e1-46ab-8988-f1425cac643a.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:02:19.047873",
+      "status": "live"
     }
   ]
 }
