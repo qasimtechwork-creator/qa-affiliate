@@ -29301,6 +29301,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-folding-sunglasses-retro-square",
+      "name": "Folding Sunglasses Retro Square Frame UV400",
+      "affiliate_url": "https://s.daraz.pk/s.XDQAi?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b706273d-7b78-461b-aa41-7e093c1205d0.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Folding Sunglasses. Price Rs.299 (was Rs.338).",
+      "price": "Rs.299",
+      "old_price": "Rs.338",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
