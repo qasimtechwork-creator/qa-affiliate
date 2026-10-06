@@ -25602,6 +25602,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:01:30.195468",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-analog-watch-men-boys-classic",
+      "name": "Analog Watch for Men & Boys - Stainless Steel Quartz, Classic Style",
+      "price": 499,
+      "currency": "PKR",
+      "original_price": 799,
+      "affiliate_url": "https://s.daraz.pk/s.XD2eU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/410e3ab4-47f1-49ce-96bb-af704db99962.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/410e3ab4-47f1-49ce-96bb-af704db99962.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:01:49.000282",
+      "status": "live"
     }
   ]
 }
