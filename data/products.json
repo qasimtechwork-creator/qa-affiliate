@@ -24962,6 +24962,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:18:11.471842",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-weight-lifting-gloves-anti-slip",
+      "name": "Weight Lifting Gloves - Anti Slip Padded Palm, Half Finger, Men & Women",
+      "price": 3200,
+      "currency": "PKR",
+      "original_price": 3200,
+      "affiliate_url": "https://s.daraz.pk/s.XDXYz?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/79625db3-ab3e-49fd-8d90-3284e2c856fb.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/79625db3-ab3e-49fd-8d90-3284e2c856fb.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:18:31.276350",
+      "status": "live"
     }
   ]
 }
