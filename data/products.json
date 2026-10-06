@@ -29434,6 +29434,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-ks-one-12pc-matte-lipstick",
+      "name": "KS-ONE 12-Piece Satin Matte Liquid Lipstick Set",
+      "affiliate_url": "https://s.daraz.pk/s.XD91n?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/205a679e-ebe1-44a1-af40-32ab71e37b18.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "12-Piece Matte Lipstick Set. Price Rs.1,049 (was Rs.1,399).",
+      "price": "Rs.1,049",
+      "old_price": "Rs.1,399",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
