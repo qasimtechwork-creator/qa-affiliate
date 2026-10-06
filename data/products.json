@@ -30118,6 +30118,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-5-tier-kitchen-storage-rack",
+      "name": "5 Tier Kitchen Storage Rack Wooden Shelves Iron Frame",
+      "affiliate_url": "https://s.daraz.pk/s.XD9vI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/c149914c-ecd5-4e3b-b642-6569805b7409.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "5 Tier Kitchen Storage Rack. Price Rs.10,192 (was Rs.15,000).",
+      "price": "Rs.10,192",
+      "old_price": "Rs.15,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
