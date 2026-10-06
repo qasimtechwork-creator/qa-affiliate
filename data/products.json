@@ -29605,6 +29605,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3in1-hair-dryer-kk-traders",
+      "name": "3 in 1 Hair Dryer Straightener Curler KK Traders",
+      "affiliate_url": "https://s.daraz.pk/s.XD94U?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/234288c4-caf8-4b2d-88d4-6ae60269939d.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "3 in 1 Hair Dryer Set. Price Rs.2,299.",
+      "price": "Rs.2,299",
+      "old_price": "Rs.2,299",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
