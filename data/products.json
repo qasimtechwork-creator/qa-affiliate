@@ -30726,6 +30726,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-plastic-kitchen-organizer-crockery",
+      "name": "Plastic Kitchen Organizer Rack Crockery Storage Drainage",
+      "affiliate_url": "https://s.daraz.pk/s.XDkVb?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/55b9c5dc-b2cf-48cc-85cd-316f54597fbc.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Kitchen Organizer Rack. Price Rs.749 (was Rs.1,000).",
+      "price": "Rs.749",
+      "old_price": "Rs.1,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
