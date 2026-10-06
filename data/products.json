@@ -29130,6 +29130,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-elegant-heel-sandals-casual",
+      "name": "Elegant Heel Sandals for Women Casual Party Wear",
+      "affiliate_url": "https://s.daraz.pk/s.XDQwa?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5503dc79-9cf7-40b9-9750-7730f04d780d.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Elegant Heel Sandals. Price Rs.750 (was Rs.1,199).",
+      "price": "Rs.750",
+      "old_price": "Rs.1,199",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
