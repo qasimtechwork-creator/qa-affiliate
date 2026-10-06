@@ -28280,6 +28280,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-chiffon-georgette-hijab-tube-cap",
+      "name": "Chiffon Georgette Hijab Scarf Plus Tube Cap - Multicolor",
+      "affiliate_url": "https://s.daraz.pk/s.XDR22?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/35019fbd-cbf2-4595-aaa1-d62a6533f2b0.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Chiffon Georgette Hijab Scarf with Tube Cap. Price Rs.569 (was Rs.689).",
+      "price": "Rs.569",
+      "old_price": "Rs.689",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
