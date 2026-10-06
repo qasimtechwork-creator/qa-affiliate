@@ -29453,6 +29453,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-ks-one-12-colors-lipstick-zh504",
+      "name": "KS-ONE 12 Colors Matte Liquid Lipstick Set ZH-504",
+      "affiliate_url": "https://s.daraz.pk/s.XD9cZ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6ef2cb60-8490-4887-826b-95fcdb3b0a56.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "12 Colors Lipstick Set. Price Rs.1,019 (was Rs.1,121).",
+      "price": "Rs.1,019",
+      "old_price": "Rs.1,121",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
