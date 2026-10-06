@@ -29662,6 +29662,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3in1-hair-dryer-brush-volumizer",
+      "name": "3 in 1 Hair Dryer Brush Volumizer Styler",
+      "affiliate_url": "https://s.daraz.pk/s.XD95S?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/83945880-3ac4-48a4-8e6e-3d7289299a3b.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "3 in 1 Hair Dryer Brush. Price Rs.1,998.",
+      "price": "Rs.1,998",
+      "old_price": "Rs.1,998",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
