@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 62,
+  "count": 63,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -65,6 +65,7 @@
     "daraz-retro-oval-sunglasses-metal",
     "daraz-hexagonal-metal-sunglasses",
     "daraz-folding-sunglasses-retro-square",
-    "daraz-classic-rectangle-sunglasses-vintage"
+    "daraz-classic-rectangle-sunglasses-vintage",
+    "daraz-fleure-vitamin-c-glow-kit"
   ]
 }

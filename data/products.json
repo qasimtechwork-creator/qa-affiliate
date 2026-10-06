@@ -29339,6 +29339,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-fleure-vitamin-c-glow-kit",
+      "name": "Fleure Vitamin C Glow Kit Serum Cleanser Duo",
+      "affiliate_url": "https://s.daraz.pk/s.XD9ZH?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/defc08b2-a15c-4db3-abe1-d535d3ec064a.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "Vitamin C Glow Kit. Price Rs.1,698 (was Rs.4,999).",
+      "price": "Rs.1,698",
+      "old_price": "Rs.4,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
