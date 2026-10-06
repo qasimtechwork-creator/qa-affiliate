@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 34,
+  "count": 35,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -37,6 +37,7 @@
     "daraz-pu-leather-wallet-zip-coin",
     "daraz-personalized-wallet-gift-set",
     "daraz-custom-name-photo-wallet-keychain",
-    "daraz-slim-vertical-leather-wallet"
+    "daraz-slim-vertical-leather-wallet",
+    "daraz-leather-wallet-men-classic"
   ]
 }

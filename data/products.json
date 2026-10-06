@@ -28774,6 +28774,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-leather-wallet-men-classic",
+      "name": "Leather Wallet for Men Classic",
+      "affiliate_url": "https://s.daraz.pk/s.XDRmC?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/7ae07123-1c40-4ec3-905d-17259bd2bb36.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Classic Leather Wallet for Men. Price Rs.799 (was Rs.1,000).",
+      "price": "Rs.799",
+      "old_price": "Rs.1,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
