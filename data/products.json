@@ -30156,6 +30156,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-5tier-kitchen-storage-organizer",
+      "name": "5-Tier Kitchen Storage Rack Microwave Oven Stand",
+      "affiliate_url": "https://s.daraz.pk/s.XD9we?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/daca4db8-454b-4c13-a29d-868f97b0a153.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "5-Tier Kitchen Organizer. Price Rs.8,445 (was Rs.20,000).",
+      "price": "Rs.8,445",
+      "old_price": "Rs.20,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
