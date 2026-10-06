@@ -2077,69 +2077,69 @@
   "pinned": [
     {
       "product_id": "temu-1pc-450ml-juicer-with-2-cups-portable-usb-rechargeable-mini",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_fixed",
+      "date": "2026-10-06",
+      "note": "Dead kwcdn URL replaced with fresh official product image from live Temu page (verified 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-sunset-lamp-projector-with-adjustable-stand-led-ambient-nigh",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_recovered",
+      "date": "2026-10-06",
+      "note": "kwcdn URL recovered on its own (verified live 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-20v-wireless-multifunctional-cleaning-brush-set-electric-wit",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_recovered",
+      "date": "2026-10-06",
+      "note": "kwcdn URL recovered on its own (verified live 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-6-in-1-multifunctional-electric-cleaning-brush-cordless-rech",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_recovered",
+      "date": "2026-10-06",
+      "note": "kwcdn URL recovered on its own (verified live 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-16-in-1-manual-vegetable-chopper-set-8-blades-with-container",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_recovered",
+      "date": "2026-10-06",
+      "note": "kwcdn URL recovered on its own (verified live 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-16-in-1-manual-vegetable-chopper-with-8-blades-container-pee",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_recovered",
+      "date": "2026-10-06",
+      "note": "kwcdn URL recovered on its own (verified live 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-peel-off-lip-liner-tattoo-long-lasting-waterproof-lip-stain",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_fixed",
+      "date": "2026-10-06",
+      "note": "Dead kwcdn URL replaced with fresh official product image from live Temu page (verified 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-6-color-peel-off-lip-stain-liquid-long-lasting-transfer-resi",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_fixed",
+      "date": "2026-10-06",
+      "note": "Dead kwcdn URL replaced with fresh official product image from live Temu page (verified 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-3-in-1-magnetic-phone-holder-for-magsafe-iphone-12-17-foldab",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_fixed",
+      "date": "2026-10-06",
+      "note": "Dead kwcdn URL replaced with fresh official product image from live Temu page (verified 200 + visually matched 2026-10-06). Ready to pin. WARNING: product shows SOLD OUT on Temu as of 2026-10-06 — decide keep vs delist."
     },
     {
       "product_id": "temu-15w-fast-wireless-charging-phone-mount-vacuum-suction-magnet",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_fixed",
+      "date": "2026-10-06",
+      "note": "Dead kwcdn URL replaced with fresh official product image from live Temu page (verified 200 + visually matched 2026-10-06). Ready to pin."
     },
     {
       "product_id": "temu-360-adjustable-vacuum-magnetic-car-phone-holder-for-magsafe",
-      "status": "pin_pending_dead_image",
-      "date": "2026-10-04",
-      "note": "Image URL dead (kwcdn GCS error). Pin blocked until image fixed."
+      "status": "pin_ready_image_fixed",
+      "date": "2026-10-06",
+      "note": "Dead kwcdn URL replaced with fresh official product image from live Temu page (verified 200 + visually matched 2026-10-06). Ready to pin."
     }
   ],
   "catalog_size": 1013,
