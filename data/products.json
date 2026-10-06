@@ -29111,6 +29111,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-nbh-sandal-pumpy-1298",
+      "name": "NBH Women Pumpy Heel Sandal Party Slippers",
+      "affiliate_url": "https://s.daraz.pk/s.XDQET?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/2193c7f4-00e0-4805-8b9b-6e2a0df6b9b3.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "NBH Pumpy Sandals. Price Rs.1,298 (was Rs.2,198).",
+      "price": "Rs.1,298",
+      "old_price": "Rs.2,198",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
