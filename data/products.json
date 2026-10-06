@@ -25330,6 +25330,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:51:37.020702",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pro-hair-dryer-volumizer-ionic",
+      "name": "Professional Hair Dryer and Volumizer 3 in 1 - Ionic Technology",
+      "price": 2099,
+      "currency": "PKR",
+      "original_price": 2499,
+      "affiliate_url": "https://s.daraz.pk/s.XDXBa?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/72e246f7-41cc-494c-86f7-2256087a5600.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/72e246f7-41cc-494c-86f7-2256087a5600.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:51:50.969533",
+      "status": "live"
     }
   ]
 }
