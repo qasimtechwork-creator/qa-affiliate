@@ -24866,6 +24866,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:16:48.052212",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-mini-bike-digital-monitor-usman",
+      "name": "Mini Exercise Bike with Digital Monitor - Under Desk Fitness Cycle",
+      "price": 3799,
+      "currency": "PKR",
+      "original_price": 9999,
+      "affiliate_url": "https://s.daraz.pk/s.XDX0I?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/7c893a9b-11ef-47ac-8857-03694716227b.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/7c893a9b-11ef-47ac-8857-03694716227b.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:17:02.938865",
+      "status": "live"
     }
   ]
 }
