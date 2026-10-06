@@ -28902,6 +28902,25 @@
       "sold_count": "",
       "updated": "2026-10-06",
       "platform": "daraz"
+    },
+    {
+      "id": "daraz-transparent-block-heels-rhinestone",
+      "name": "Trending Luxury Transparent Block Heels Rhinestone Crystal",
+      "affiliate_url": "https://s.daraz.pk/s.XDQKl?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/dbc633c6-beda-4d1b-8f86-f1826a41a940.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Transparent Block Heels Party Wear. Price Rs.2,399 (was Rs.2,799).",
+      "price": "Rs.2,399",
+      "old_price": "Rs.2,799",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
