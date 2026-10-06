@@ -25378,6 +25378,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:52:13.325020",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-hair-trimmer-wireless-cordless",
+      "name": "Hair Trimmer Wireless Cordless - Professional Barber Clipper for Men",
+      "price": 748,
+      "currency": "PKR",
+      "original_price": 1052,
+      "affiliate_url": "https://s.daraz.pk/s.XDXAa?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1c374a34-421e-4c9f-b0e0-5754e8f84f97.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/1c374a34-421e-4c9f-b0e0-5754e8f84f97.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:52:59.661110",
+      "status": "live"
     }
   ]
 }
