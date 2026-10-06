@@ -28413,6 +28413,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-ladies-shoulder-bag-pu-leather",
+      "name": "Ladies Shoulder Bag PU Leather Coach Style Handbag",
+      "affiliate_url": "https://s.daraz.pk/s.XDRh0?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/61199cf6-9954-4db6-9a14-70ec27730a96.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "PU Leather Shoulder Handbag for Women. Price Rs.2,499 (was Rs.6,500).",
+      "price": "Rs.2,499",
+      "old_price": "Rs.6,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
