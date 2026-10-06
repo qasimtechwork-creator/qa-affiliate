@@ -29035,6 +29035,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-white-brown-heels-summer",
+      "name": "Woman Heels Shoes Sandals White Brown Summer Party",
+      "affiliate_url": "https://s.daraz.pk/s.XDQHc?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/2c421142-991b-4636-b095-68cba0dbfed2.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Woman Heels Shoes Sandals White Brown Summer Party. Price Rs.1,896 (was Rs.3,198).",
+      "price": "Rs.1,896",
+      "old_price": "Rs.3,198",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-crumples-mid-block-heels",
+      "name": "Women Luxury Crumples Mid Block Heels Golden Sea Green",
+      "affiliate_url": "https://s.daraz.pk/s.XDQHI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ad033b1b-f689-4f52-8ce9-618fda3ee2a4.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Women Luxury Crumples Mid Block Heels Golden Sea Green. Price Rs.1,890 (was Rs.3,500).",
+      "price": "Rs.1,890",
+      "old_price": "Rs.3,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
