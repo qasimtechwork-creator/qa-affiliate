@@ -24930,6 +24930,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:17:44.765228",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-portable-mini-pedal-bike",
+      "name": "Portable Mini Pedal Exercise Bike - Home Gym Cardio Machine",
+      "price": 3496,
+      "currency": "PKR",
+      "original_price": 4800,
+      "affiliate_url": "https://s.daraz.pk/s.XDXbz?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b3f98ff1-9289-456a-90c7-4a55754f1124.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b3f98ff1-9289-456a-90c7-4a55754f1124.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:17:53.591543",
+      "status": "live"
     }
   ]
 }
