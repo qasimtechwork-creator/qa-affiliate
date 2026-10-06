@@ -31353,6 +31353,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-pro2-tws-anc-earbuds",
+      "name": "Pro 2 TWS Wireless Bluetooth Earbuds ANC White",
+      "affiliate_url": "https://s.daraz.pk/s.XDP6K?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/4115cafa-16d6-4ff8-9786-3dfad13d82f1.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Pro 2 TWS Wireless Bluetooth Earbuds ANC White. Price Rs.2,700 (was Rs.2,700).",
+      "price": "Rs.2,700",
+      "old_price": "Rs.2,700",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-lenovo-xt88-earbuds",
+      "name": "Lenovo XT88 Wireless Earbuds Bluetooth 5.3 Touch Control",
+      "affiliate_url": "https://s.daraz.pk/s.XDPh4?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5d8d64fc-f68d-4345-95ac-3929f0e72dcd.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Lenovo XT88 Wireless Earbuds Bluetooth 5.3 Touch Control. Price Rs.2,400 (was Rs.4,000).",
+      "price": "Rs.2,400",
+      "old_price": "Rs.4,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
