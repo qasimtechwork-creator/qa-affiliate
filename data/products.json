@@ -30384,6 +30384,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-4tier-slim-storage-cart",
+      "name": "4 Tier Slim Storage Cart Slide Out Shelves Rolling",
+      "affiliate_url": "https://s.daraz.pk/s.XD9zi?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/c4c60c47-a87a-4e00-88db-41febb26fb1f.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "4 Tier Slim Storage Cart. Price Rs.2,899 (was Rs.4,300).",
+      "price": "Rs.2,899",
+      "old_price": "Rs.4,300",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
