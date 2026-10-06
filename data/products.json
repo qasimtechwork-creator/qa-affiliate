@@ -28584,6 +28584,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-leather-shoulder-bag-phone-pouch",
+      "name": "Leather Shoulder Bag with Phone Pouch for Girls",
+      "affiliate_url": "https://s.daraz.pk/s.XDRjY?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d5723853-4c23-4565-97e2-fce4d7c57e03.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Leather Shoulder Bag with Phone Pouch. Price Rs.999.",
+      "price": "Rs.999",
+      "old_price": "Rs.999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
