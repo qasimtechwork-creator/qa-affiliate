@@ -28831,6 +28831,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-slim-matte-leather-wallet",
+      "name": "Leather Wallet for Men Slim Matte Finish",
+      "affiliate_url": "https://s.daraz.pk/s.XDRny?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ed4f1f8f-9e89-4936-ab31-5002461435a5.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Slim Matte Finish Wallet. Price Rs.524 (was Rs.999).",
+      "price": "Rs.524",
+      "old_price": "Rs.999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
