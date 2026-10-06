@@ -24786,6 +24786,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:15:20.454547",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-mini-exercise-bike-under-desk",
+      "name": "Mini Exercise Bike - Compact Under Desk Pedal Bike for Work & Study",
+      "price": 4450,
+      "currency": "PKR",
+      "original_price": 6999,
+      "affiliate_url": "https://s.daraz.pk/s.XDXac?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/18ec04f7-f1ae-49c5-964b-cf7c87e25293.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/18ec04f7-f1ae-49c5-964b-cf7c87e25293.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:15:37.336867",
+      "status": "live"
     }
   ]
 }
