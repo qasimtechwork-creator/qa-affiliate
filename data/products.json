@@ -30289,6 +30289,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-next-tag-washroom-corner-cabinet",
+      "name": "NEXT TAG Washroom Corner Cabinet 360 Rotating",
+      "affiliate_url": "https://s.daraz.pk/s.XD9yg?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/74c04af7-fb2e-4525-99b4-4c10d014e553.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Washroom Corner Cabinet. Price Rs.3,999 (was Rs.4,000).",
+      "price": "Rs.3,999",
+      "old_price": "Rs.4,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
