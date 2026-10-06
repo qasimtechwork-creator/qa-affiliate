@@ -1,7 +1,7 @@
 # QA Affiliate Product Feed
 
-Generated: 2026-10-05T12:28:24.536982
-Total: 716 products
+Generated: 2026-10-06T01:44:14.634892
+Total: 876 products
 
 ## Women's Elegant Solid Color Openwork Jacket — 2026 Spring/Summer Cardigan
 - Price: USD None
@@ -5014,4 +5014,1124 @@ Total: 716 products
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwsWp?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-wkshop-26cm-ring-light-with-7ft-aluminiu
+
+## Portable Breathing Trainer with Adjustable Resistance Settings | Lung Breathing Trainer Exercise Device Compact Pure Lung Exercise Device | Enhanced Respiratory Health, Lung Strengthening, Sports Performance
+- Price: PKR 939
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtff?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-portable-breathing-trainer-with-adjustable-resistance-settin
+
+## Face Slimming Tool Trainer Face Exerciser Jawline Shaper V Shape Face Lift Exercise Facial Workout Face Jaw Muscles Double Chine Reducer for A Natural Beautiful Face Jawline Mouth Exercise Device For Skin Tighten Firm Wrinkles Men Women
+- Price: PKR 243
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwtgB?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-face-slimming-tool-trainer-face-exerciser-jawline-shaper-v-s
+
+## Magic Color-Changeable Grape Mesh Squish Ball - Stress Relief Squeezing Toy | Hand and Wrist Exercise Rubber Grape Ball for Anxiety, Fidgeting & Fun | Sensory Toy for Kids and Adults
+- Price: PKR 199
+- Platform: daraz
+- Category: toys-wellness
+- Buy: https://s.daraz.pk/s.XwtTL?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-magic-color-changeable-grape-mesh-squish-ball-stress-relief
+
+## Adjustable Breathable Mesh Corset Slimming Belt Tummy Control Shaper For Weight Loss Gym Exercise
+- Price: PKR 699
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwt6X?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-adjustable-breathable-mesh-corset-slimming-belt-tummy-contro
+
+## Vinyl Coated Dumbbell Pair or Single Piece | Yoga Dumbbells | Colorful Dumbbell | Home Gym Fitness Weight | Strength Training & Exercise Equipment for Men & Women
+- Price: PKR 1199
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwt6p?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-vinyl-coated-dumbbell-pair-or-single-piece-yoga-dumbbells-co
+
+## Gym Gloves, Weightlifting Gloves, Gym Gloves for Men, Weightlifting Gym Gloves for Workout, Cross Training Pull Ups Exercise
+- Price: PKR 399
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwth2?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-gym-gloves-weightlifting-gloves-gym-gloves-for-men-weightlif
+
+## Automatic Counting Hand Gripper Adjustable Resistance Non-Slip Hand Grip Strength Trainer Fingers Wrist Forearm Exerciser Workout Gear Home Gym Exercise Equipment 5-60KG
+- Price: PKR 499
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwthL?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-automatic-counting-hand-gripper-adjustable-resistance-non-sl
+
+## 120kg Adjustable Hand Gripper With Mechanical Counter Heavy Duty Forearm Exerciser For Elite Strength Training Gym
+- Price: PKR 1611
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtST?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-120kg-adjustable-hand-gripper-with-mechanical-counter-heavy
+
+## Tummy Trimmer Single Spring with Twister Plate Disc - Home Gym Fitness Exercise Machine | Ab Exerciser | Belly Fat Loss | Waist Twister | Full Body Workout Equipment for Men & Women
+- Price: PKR 798
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwt7a?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-tummy-trimmer-single-spring-with-twister-plate-disc-home-gym
+
+## Yoga Anti-Burst Fitness Exercise Gym Ball with Pump - 55cm
+- Price: PKR 1625
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwt7I?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-yoga-anti-burst-fitness-exercise-gym-ball-with-pump-55cm
+
+## Exercise Resistance Band - Yoga Band - Yoga Resistance Band for Women and Men
+- Price: PKR 499
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtiJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-exercise-resistance-band-yoga-band-yoga-resistance-band-for
+
+## Pull Reducer Resistance Training Bands Tummy Trimmer Belly Fat Burner Body Exerciser Weight Loss Home Gym Workout Arm Muscle Builder Double Pull Rope Pedal Exerciser Yoga Crossfit Unisex
+- Price: PKR 900
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtRk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pull-reducer-resistance-training-bands-tummy-trimmer-belly-f
+
+## Hand Exercise Stress Relief Smiley Emoji Physio Ball Yellow Smile Face, Kids Birthday Gift
+- Price: PKR 249
+- Platform: daraz
+- Category: toys-wellness
+- Buy: https://s.daraz.pk/s.Xwt8Z?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hand-exercise-stress-relief-smiley-emoji-physio-ball-yellow
+
+## Histro 4 Colors 5-60KG Automatic Counting Hand Gripper Adjustable Resistance Non-Slip Hand Grip Strength Trainer Fingers Wrist Forearm Exerciser Home Gym Equipment
+- Price: PKR 399
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtjW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-histro-4-colors-5-60kg-automatic-counting-hand-gripper-adjus
+
+## 1 Pc Pelvic Floor Muscle Trainer, Multifunctional Thigh Exerciser, For Postpartum Recovery, Body Shaping, Leg & Butt Training
+- Price: PKR 3500
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtnY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-1-pc-pelvic-floor-muscle-trainer-multifunctional-thigh-exerc
+
+## 1pc Hand Grip Finger Trainer Booster Two-Way Spring Adjustable Strength Training Piano Guitar Finger Exercise Equipment Home
+- Price: PKR 299
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtM3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-1pc-hand-grip-finger-trainer-booster-two-way-spring-adjustab
+
+## Mini Exercise Bike Pedal Exerciser - Durable and Long Lasting - Easy to Use and Maintain
+- Price: PKR 3699
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtod?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-exercise-bike-pedal-exerciser-durable-and-long-lasting
+
+## MYB Yoga Blocks | Random Color | Yoga Brick | Soft Non-Slip Foam For Yoga Exercise | Use With MYB Yoga Mats | EVA Foaming | Yoga Training Cube
+- Price: PKR 799
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtKR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-myb-yoga-blocks-random-color-yoga-brick-soft-non-slip-foam-f
+
+## Tummy Trimmer Belly Fat Burner Body - Pull Reducer Resistance Training Bands - Double Pull Rope Body Trimmer Pedal - Exercise Tummy Body Building Training Unisex - Weight Loss Home Workout - Foot Pedal Sit Up Equipment for Abdominal
+- Price: PKR 699
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtJT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-tummy-trimmer-belly-fat-burner-body-pull-reducer-resistance
+
+## Resistance Loop Band Set of 5 - Elastic Workout Bands for Strength Training, Weight Loss, Yoga, Pilates & Home Fitness | Beginner to Advanced | Mini Exercise Bands
+- Price: PKR 899
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtJG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-resistance-loop-band-set-of-5-elastic-workout-bands-for-stre
+
+## 5 Pieces Exercise Resistance Band - Yoga Band - Yoga Resistance Band for Women and Men
+- Price: PKR 999
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtrx?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-5-pieces-exercise-resistance-band-yoga-band-yoga-resistance
+
+## Pull Up Resistance Band - Heavy Duty Natural Latex Loop Exercise Band for Strength Training, Calisthenics & Home Gym | Anti-Snap | 13mm to 50mm | Assisted Pull Ups & Muscle Ups
+- Price: PKR 989
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtIM?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pull-up-resistance-band-heavy-duty-natural-latex-loop-exerci
+
+## Pair of Push Up Stands Highest-Quality With Foam Grip For Exercise
+- Price: PKR 750
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwts5?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pair-of-push-up-stands-highest-quality-with-foam-grip-for-ex
+
+## Yoga Mat 6mm - Anti-Slip High-Density EVA Exercise Mat for Men & Women | 72 x 24 Inches | Non-Toxic Gym Mat for Yoga, Pilates, Stretching & Home Workout | Lightweight with Carry Strap
+- Price: PKR 1329
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtsF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-yoga-mat-6mm-anti-slip-high-density-eva-exercise-mat-for-men
+
+## Mini Exercise Bike Exercise Cycle Compact Under Desk Pedal Bike - Great for Work and Study
+- Price: PKR 4450
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtHP?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-exercise-bike-exercise-cycle-compact-under-desk-pedal-b
+
+## High Quality Tummy Trimmer Pedal Resistance Bands Home Gym Exercise Equipment Double Pull Rope Rubber Pedals and Abs Exerciser for Weight Loss Perfect Home Workouts Yoga Crossfit and Unisex Fitness
+- Price: PKR 699
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwttB?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-high-quality-tummy-trimmer-pedal-resistance-bands-home-gym-e
+
+## Hi-Fit Weightlifting Finger Grip Pad For Workout, Gym Fitness Cross Training Pull Ups Exercise
+- Price: PKR 599
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtGj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hi-fit-weightlifting-finger-grip-pad-for-workout-gym-fitness
+
+## Workout Gloves for Men, Durable Palm Grip Gym Gloves Women Half Finger Elasticated Training Weight Lifting Strength Bodybuilding Anti Slip Cycling Gloves Exercise
+- Price: PKR 350
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtGG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-workout-gloves-for-men-durable-palm-grip-gym-gloves-women-ha
+
+## Power Exercise Resistance Band Set for Pull Up Body Fitness & Workout Loop Bands with Door Anchor
+- Price: PKR 985
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtu6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-power-exercise-resistance-band-set-for-pull-up-body-fitness
+
+## Mini Cycle Pedal Exerciser Machine - Portable Under Desk Fitness Bike for Arms And Legs
+- Price: PKR 3176
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtFj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-cycle-pedal-exerciser-machine-portable-under-desk-fitne
+
+## 8mm Yoga Mat for Women and Men, Anti Slip Best Quality Exercise Mat
+- Price: PKR 611
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtFx?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-8mm-yoga-mat-for-women-and-men-anti-slip-best-quality-exerci
+
+## Yoga Mat 6mm Anti-Slip High-Density EVA Exercise Mat 72x24 Inches Non-Toxic for Yoga Pilates Stretching Home Workout with Carry Strap
+- Price: PKR 1385
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtvs?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-yoga-mat-6mm-premium-xwtvs
+
+## Exercise Cycle Exercise Bike Magnetic Exercise Machine Home Workout Cycle
+- Price: PKR 14249
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtE6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-exercise-cycle-exercise-bike-magnetic-exercise-machine-home
+
+## Bi Pedaler Static Bike for Adults Exercise Bike for Home, Folding Exercise Bike, Foot Pedal Exerciser, Indoor Bike Training
+- Price: PKR 4450
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtwU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bi-pedaler-static-bike-for-adults-exercise-bike-for-home-fol
+
+## Digital Pedal Exerciser with LCD Display - Mini Folding Exercise Bike Cycle for Seniors, Arm, Leg & Hand Workout - Under Desk Portable Fitness Pedal Machine
+- Price: PKR 3999
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtww?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-digital-pedal-exerciser-with-lcd-display-mini-folding-exerci
+
+## Pull Up Resistance Band Heavy Duty Natural Latex Loop Exercise Band for Strength Training Calisthenics Home Gym Anti-Snap Assisted Pull Ups
+- Price: PKR 969
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.XwtDk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pull-up-band-xwtdk
+
+## Latex Tube Resistance Band Pull Rope - Single Loop Exercise Band for Strength Training (Black)
+- Price: PKR 841
+- Platform: daraz
+- Category: health-fitness
+- Buy: https://s.daraz.pk/s.Xwtxs?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-latex-tube-resistance-band-pull-rope-single-loop-exercise-ba
+
+## Mimo Mini Hand Electric Body Massager For Women and Girls - Portable Triangle Vibrational Massager (USB/AAA)
+- Price: PKR 499
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwESq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mimo-mini-hand-electric-body-massager
+
+## Volume Clubbing Mascara - Best Black Mascara For Girls and Women - For Events and Parties
+- Price: PKR 299
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEic?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-volume-clubbing-mascara-black
+
+## Mutual Love Red Eau de Parfum 50ml - Long Lasting Fruity Floral Musky Fragrance, Unisex Perfume for Couples
+- Price: PKR 449
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEiF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mutual-love-red-eau-de-parfum-50ml
+
+## Face Slimming Belt V Line Face Shaper - Double Chin Reducer, Anti-Wrinkle Reusable Face Lift Strap
+- Price: PKR 409
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwERh?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-face-slimming-belt-v-line-shaper
+
+## Blue Lady Perfume for Women - Long Lasting Best Fragrance, Perfect Gift
+- Price: PKR 349
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwE8x?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-blue-lady-perfume-women
+
+## Pack of 2 Perfumes - Shalis + Blue Lady for Women, Long Lasting Fragrance Gift Set
+- Price: PKR 696
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEjq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-perfumes-shalis-blue-lady
+
+## Pack of 2 - Blue Lady & Secret Perfume for Women, Best Quality Fragrance Gift Set
+- Price: PKR 799
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEQS?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-blue-lady-secret-perfume
+
+## Blue Lady Perfume 40ml for Women - Long Lasting Luxury Floral Fragrance, Premium Designer Scent
+- Price: PKR 248
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEQG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-blue-lady-perfume-40ml-luxury
+
+## Dior Sauvage Impression Perfume 100ml - Long Lasting Fragrance for Men, Best Gift
+- Price: PKR 597
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwE9B?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dior-sauvage-impression-perfume-men-100ml
+
+## Arabic Pen Perfume Pack 35ml Each - Long Lasting Fragrance for Men & Women, Best Gift Set
+- Price: PKR 369
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEP1?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-arabic-pen-perfume-pack-men-women
+
+## Ameer Al Oud Perfume For Men EDP 35ml - Long Lasting Arabian Fragrance
+- Price: PKR 299
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwElX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-ameer-al-oud-perfume-men-35ml
+
+## Oud Collection Perfume for Men 100ml - Long Lasting Arabic Oud Fragrance, Best Gift
+- Price: PKR 469
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEOW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-oud-collection-perfume-men-100ml
+
+## Joop Perfume Unisex 100ml - Long Lasting Premium Luxury Fragrance for Men & Women
+- Price: PKR 599
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEOo?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-joop-perfume-unisex-100ml
+
+## Royal Ramba Impression 100ml for Women - Long Lasting Sweet Floral Musky Fragrance
+- Price: PKR 449
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEmq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-royal-ramba-impression-women-100ml
+
+## Impression Premium Long Lasting Perfume for Men 35ml - Strong Masculine Scent
+- Price: PKR 498
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwENq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-impression-premium-perfume-men-35ml
+
+## Luxury Couple Perfume Set - Royal Ramba + Bloom Pour Femme 100ml Each, BOGO Deal
+- Price: PKR 843
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEoK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-luxury-couple-perfume-set-ramba-bloom
+
+## Lord Perfume For Men EDP 50ml - Premium Long Lasting Fragrance
+- Price: PKR 1499
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEKX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-lord-perfume-men-edp-50ml
+
+## Body Spray Pack of 6 (200ml Each) - BigBoss, Dundill, One2One, Freshrite - Unisex Value Pack
+- Price: PKR 2195
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEqf?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-body-spray-pack-6-200ml-unisex
+
+## Iqbal Perfume For Men 50ml - Oriental Woody, Best Selling by Scents N Stories
+- Price: PKR 4190
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEJ1?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-iqbal-perfume-men-scents-n-stories-50ml
+
+## Creation Lamis Everyone Perfume for Men 100ml - Premium Long Lasting Fragrance
+- Price: PKR 2340
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwErn?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-creation-lamis-everyone-men-100ml
+
+## Pack of 4 Refillable 5ml Mini Perfume Spray Bottles - Portable Travel Atomizer for Men & Women
+- Price: PKR 519
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEsP?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-refillable-perfume-spray-bottle-5ml
+
+## Pack of 4 Mini Perfume Spray Bottles 5ml - Portable Refillable Travel Atomizer for Men Women Girls
+- Price: PKR 299
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEtV?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-mini-perfume-spray-bottle-5ml-v2
+
+## Pack of 4 Refillable 5ml Mini Perfume Spray Bottles - Metal & Plastic Atomizer, Travel Fragrance Refill
+- Price: PKR 519
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEG1?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-refillable-spray-bottle-5ml-v3
+
+## Aura Watch for Men - Original Arabic Dial Luxury Business Watch, Black & Blue with Box
+- Price: PKR 440
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwEua?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-aura-watch-men-arabic-dial
+
+## Luxury Creed Aventus Impression EDP 100ml - Premium Men's Fragrance, Fresh Fruity Woody Scent
+- Price: PKR 849
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEFX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-creed-aventus-impression-men-100ml
+
+## Pack of 2 - Dior Sauvage + Davidoff Cool Water Impression for Men 100ml Each, BOGO Deal
+- Price: PKR 999
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEv8?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-dior-sauvage-davidoff-coolwater-men
+
+## Creation Lamis Everyone Perfume for Men 100ml - Premium Long Lasting Fragrance
+- Price: PKR 2340
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEEi?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-creation-lamis-everyone-men-100ml-v2
+
+## Hustle 22 Perfume for Men 50ml - Strong & Long Lasting Fragrance
+- Price: PKR 2202
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwEDU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hustle-22-perfume-men-50ml
+
+## Sundown Noir 100ml Perfume For Men EDT - Dorall Collection, Long Lasting
+- Price: PKR 1340
+- Platform: None
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XwECa?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-sundown-noir-men-100ml-dorall
+
+## Trending Classic Luxury Wrist Watch for Men - Water Resistant, Stylish
+- Price: PKR 680
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xww1O?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-trending-classic-luxury-watch-men
+
+## Aura Watch for Men - Original Arabic Dial Luxury Business Watch with Box
+- Price: PKR 440
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwc3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-aura-watch-men-arabic-dial-v2
+
+## Classic Luxury Watch for Men - Stylish Stainless Steel Arabic Dial
+- Price: PKR 399
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwXW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-classic-luxury-watch-men-steel-arabic
+
+## 100% Imported High Quality Watch for Men - New 2025 Design
+- Price: PKR 698
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwXA?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-imported-quality-watch-men-2025
+
+## Twin Shop Rubber Strap Watch for Men - Quartz Casual Style, Multiple Colors
+- Price: PKR 699
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xww2N?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-twin-shop-rubber-strap-watch-men
+
+## Pack of 4 Watch Set for Men - Stainless Steel Quartz with Chain Bracelet, Ring & Locket
+- Price: PKR 489
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwdV?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-watch-set-men-steel
+
+## Pack of 4 Watch Set for Men - Stainless Steel Quartz with Bracelet, Ring & Locket
+- Price: PKR 479
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwdI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-watch-set-men-v2
+
+## Analog Watch for Men - Stainless Steel Quartz, Classic Fashion Style
+- Price: PKR 749
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwWW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-analog-watch-men-steel-classic
+
+## Analog Watch for Men - Stainless Steel Quartz Classic Style, Multiple Colors
+- Price: PKR 499
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwWK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-analog-watch-men-steel-v2
+
+## Luxury Watch for Men - Silicone Strap Quartz, Casual Fashion Style
+- Price: PKR 999
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xww3R?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-luxury-watch-men-silicone
+
+## Watch for Men - Leather Strap Quartz, Casual Black Style
+- Price: PKR 700
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwed?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-watch-men-leather-strap-black
+
+## Square Dial Watch with Rubber Strap for Men - High Quality Modern Design
+- Price: PKR 699
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwex?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-square-dial-watch-rubber-men
+
+## Classic Analog Wrist Watch for Men - Stylish Dial with Comfortable Rubber Strap
+- Price: PKR 750
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwVF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-classic-analog-wrist-watch-rubber
+
+## Digital LED Sport Watch for Men - Water Resistant, Alarm Clock, Square Design
+- Price: PKR 1060
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xww4o?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-digital-led-sport-watch-men
+
+## Handbag For Girls - Leather Shoulder Bag for Women, Casual with Phone Pouch
+- Price: PKR 449
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwQq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-leather-shoulder
+
+## New Shoulder Premium Quality Bag - Beautiful Multicolor for Girls, All Season
+- Price: PKR 1699
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xww9i?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-shoulder-premium-bag-multicolor
+
+## Stylish Gift Bags for Girls - Trendy Leather Designs
+- Price: PKR 1999
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xww9D?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-stylish-gift-bags-girls-leather
+
+## Premium Leather Hobo Multicolor Handbag for Girls - Shoulder Underarm Bag with Phone Pouch
+- Price: PKR 449
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwkd?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-premium-leather-hobo-handbag-multicolor
+
+## Fashion Club Handbag for Girls - Leather Crossbody & Shoulder Bag with Phone Pouch
+- Price: PKR 499
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwku?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-fashion-club-handbag-girls
+
+## Embroidery Multicolor Crossbody Bag - Korean Shoulder Bag for Girls, Classic Threadwork
+- Price: PKR 410
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwP7?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-embroidery-crossbody-bag-korean
+
+## Stylish Leather Handbag for Women - Shoulder Crossbody Bag with Phone Pouch
+- Price: PKR 449
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwPz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-stylish-leather-handbag-women
+
+## Three Piece Premium Luxury Ladies Hand Bags - Top Handle Large Capacity Shoulder Bag Set
+- Price: PKR 1998.57
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwll?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-three-piece-luxury-handbags-ladies
+
+## Hand Bag for Girls - Big Size Shoulder Crossbody Tote Bag for Women
+- Price: PKR 2399
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwOO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-big-size-tote
+
+## Hand Bags For Girls Pack of 5 Piece Set - Stylish with Long Strap, Multiple Colors
+- Price: PKR 2299
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwm8?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbags-girls-pack-5-piece
+
+## Style Hub Classic Leather Handbag - Elegant Shoulder & Cross Body Bag for Women
+- Price: PKR 479
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwNg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-style-hub-leather-handbag
+
+## Handbag for Girls - Multicolor Leather Casual with Phone Pouch, Crossbody & Shoulder
+- Price: PKR 1249
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwn9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-multicolor-leather-v2
+
+## Two Piece Tote Bag for Girls - Stylish Purse and Shoulder Bag Set
+- Price: PKR 1845
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwMY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-two-piece-tote-bag-girls
+
+## Two Piece Tote Bag for Girls - Stylish Ladies Purse and Shoulder Bag
+- Price: PKR 1759
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwKg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-two-piece-tote-bag-girls-v2
+
+## Zushaam Hand Bag for Girls - Multicolor Leather Crossbody with Adjustable Strap
+- Price: PKR 994
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwqr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zushaam-handbag-girls-multicolor
+
+## Handbags For Girls New Design - Shoulder Bag with Long Belt
+- Price: PKR 1020
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwJo?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbags-girls-new-design-long-belt
+
+## Zushaam Hand Bag - Black & White Leather Crossbody with Adjustable Strap for Women
+- Price: PKR 1050
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwrr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zushaam-handbag-black-white
+
+## Trendzio Multi Color Folding Umbrella - 8 Ribs Compact for Rain & Sun Protection
+- Price: PKR 1052
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwws4?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-trendzio-folding-umbrella-multicolor
+
+## Cotton Non-Padded Bras for Women - Full Coverage, Chikan Embroidery, Sizes 32-42
+- Price: PKR 559
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwGE?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-cotton-nonpadded-bra-women
+
+## Premium Capri Bra for Girls - 4 Hooks with Wide Support Belt
+- Price: PKR 799
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwuw?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-premium-capri-bra-4hooks
+
+## Silk Wear Women 3 Piece Nighty Set - Satin Night Dress with Robe, Multicolor
+- Price: PKR 1044.05
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwFQ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-silk-wear-3piece-nighty-women
+
+## Front Open Padded Bra for Women - Easy Comfort Pushup, Random Color
+- Price: PKR 419
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwvJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-front-open-padded-bra-women
+
+## Soft Cotton Bra for Girls - Embroidered Half Cup with Fancy Lace
+- Price: PKR 470
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwwW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-soft-cotton-bra-embroidered
+
+## Air Bra for Women & Girls - Non Padded Non Wired Adjustable Sports Bra
+- Price: PKR 599
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwwK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-air-bra-women-sports
+
+## Pack of 2 Soft Cotton Bra for Girls - VIP Quality, Assorted Colors & Design
+- Price: PKR 499
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwDN?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-soft-cotton-bra
+
+## Soft Padded Push-Up Bra - Imported, Sizes 32-48 for Women & Girls
+- Price: PKR 495
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwxo?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-soft-padded-pushup-bra
+
+## Pack of 3 Air Bra for Ladies & Girls - Multicolor
+- Price: PKR 1199
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwC0?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-3-air-bra-multicolor
+
+## Nursing Maternity Front Open Bra for Girls - Sizes 34 to 42
+- Price: PKR 649
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwCo?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-nursing-maternity-bra-front-open
+
+## Strapless Bra - Soft Non Padded Tube Bra for Girls & Women, Sizes 30-40
+- Price: PKR 399
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.Xwwyl?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-strapless-tube-bra-women
+
+## Pack of 3 Cotton Bras for Girls - Comfortable Multicolor, Sizes 32-42
+- Price: PKR 890
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwBj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-3-cotton-bras-girls
+
+## Pack of 2 Women's Seamless Bra - Ultra Soft Wire-Free Sports Bra, Skin & Black
+- Price: PKR 999
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwzM?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-seamless-bra-women
+
+## Net Bra for Girls - Half Cup Net Malai Jersey Bra for Women
+- Price: PKR 649
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwwAj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-net-bra-half-cup-women
+
+## Twin Shop Pack of 6 Cotton Bra - Non Padded for Women & Girls
+- Price: PKR 699
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwDag?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-6-cotton-bra-twinshop
+
+## Vintage Turkish PU Leather Luxury Purse - Multi-pocket, Laptop/Tablet Size for Women
+- Price: PKR 1799
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwD1B?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-vintage-turkish-pu-leather-purse
+
+## Zero Luna Smart Watch - 1.39" TFT, Calling, 100+ Faces, IP67, SpO2 & Heart Rate
+- Price: PKR 5999
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD2t?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-luna-smart-watch
+
+## T10 Ultra Smartwatch 2.09" HD - Magnetic Charging, Bluetooth Call, Sleep Monitor
+- Price: PKR 1599
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDdg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-smartwatch
+
+## Xiaomi Mi Band 7/6/5 - AMOLED Color Screen, Bluetooth 5.0, 5ATM Fitness Band
+- Price: PKR 4899
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDdE?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-xiaomi-mi-band-7-amoled
+
+## S8 Max Ultra SIM Smart Watch PTA Approved - 1.99" Display, 24 Sports Modes, Waterproof
+- Price: PKR 1249
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDW6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-s8-max-ultra-sim-smartwatch
+
+## Zero Ignite Smart Watch - 1.83" IPS Curved, Calling, 100+ Faces, IP67, SpO2
+- Price: PKR 5999
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDWJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-ignite-smart-watch
+
+## T800 Ultra Smart Watch Series 8 - 1.99" Bluetooth Call, Sleep Monitor, IP67
+- Price: PKR 1399
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD35?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-t800-ultra-smart-watch
+
+## P9 Ultra Smart Watch - Heart Rate, Blood Oxygen, BP, Sleep Monitor, Waterproof Fitness Tracker
+- Price: PKR 1699
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD3r?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-p9-ultra-smart-watch-multi
+
+## T10 Ultra Smartwatch 2.09" HD Big Screen - Magnetic Wireless Charging, Bluetooth Calling
+- Price: PKR 1299
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDeO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-smartwatch-v2
+
+## DZ09 Smart Watch - SIM Supported, Calling for Men & Women
+- Price: PKR 2619
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDVZ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dz09-smart-watch-sim
+
+## T10 Ultra Smartwatch 2.09" HD - Magnetic Wireless Charging, Bluetooth Call, Sleep Monitor
+- Price: PKR 1499
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDVk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-smartwatch-v3
+
+## T10 Ultra 2 Smartwatch 2.09" HD - Magnetic Wireless Charging, Bluetooth Call
+- Price: PKR 1499
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD4V?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-2-smartwatch
+
+## Y99 Germany Ultra Smart Watch 10+1 Bundle - 8 Straps, 2.05" Display, 200mAh
+- Price: PKR 1689
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD4x?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-y99-germany-ultra-smart-watch
+
+## Zero Elite Smart Watch - 2.04" AMOLED, Bluetooth 5.3, Health Monitoring, IP67
+- Price: PKR 9899
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDfm?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-elite-smart-watch-amoled
+
+## Zero Bolt Pro Smart Watch 1.83" HD - Bluetooth Calling, 100+ Sports Modes, SpO2
+- Price: PKR 6999
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDUd?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-bolt-pro-smart-watch
+
+## T900 Ultra Smartwatch Series 8 - 2.09" Full Touch, Bluetooth Call, Sleep Monitor
+- Price: PKR 1499
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDU9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-t900-ultra-smartwatch
+
+## Watch 9/10/11 Max Smartwatch - Bluetooth Calling, Wireless Charging, Full Touch
+- Price: PKR 1849
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDUu?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-watch-9-11-max-smartwatch
+
+## Zero Qube Smartwatch 1.83" Fluid Display - Bluetooth Fitness Tracker, 1 Year Warranty
+- Price: PKR 6999
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD5g?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-qube-smartwatch
+
+## Ultra Smart Watch Bundle - DT900/Y60/T800/T900/T10 7 Straps with Earbuds, Low Rate
+- Price: PKR 1699
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDTw?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dt900-y60-t800-ultra-watch-bundle
+
+## i8 Pro Max Smart Watch Series 8 - 1.75" Full Screen, Bluetooth Call, Waterproof
+- Price: PKR 1049
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwD6v?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-i8-pro-max-smart-watch
+
+## Bulls Pvt i20 Ultra Smart Watch - 100% Original Ultra Series
+- Price: PKR 1399
+- Platform: None
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XwDhy?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bulls-i20-ultra-smart-watch
+
+## Swift Unbreakable Fridge Water Bottles 1000ml - Pack of 4, Food Grade PET
+- Price: PKR 799
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwD82?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-swift-unbreakable-fridge-bottles-4pack
+
+## Manual Hand Press Water Dispenser Pump - for 19L / 5 Gallon Bottles
+- Price: PKR 1099
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDjJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-manual-water-dispenser-pump
+
+## Wireless Automatic Electric Water Dispenser - USB Barrel Pump for Bottles
+- Price: PKR 1114
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDQr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-wireless-electric-water-dispenser
+
+## Electric Kettle 2.0 Litre - Stainless Steel, Hot Water & Tea/Coffee Maker
+- Price: PKR 1398
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwD9Q?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-electric-kettle-2l-stainless
+
+## Original Stanley Tumbler with Straw 40oz - Insulated Stainless Steel Hot & Cold Cup
+- Price: PKR 2080
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDkz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-stanley-tumbler-40oz-insulated
+
+## USB Rechargeable Juicer Blender 6 Blades - Mini Portable 380ml Fruit Mixer
+- Price: PKR 1280
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDl3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-usb-juicer-blender-6blades
+
+## Stanley Tumbler 40oz 1200ml - 8H Vacuum Insulation, Leak Proof Handle Straw & Lid
+- Price: PKR 2599
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDOd?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-stanley-tumbler-40oz-vacuum
+
+## Premium Stainless Steel Vacuum Insulated Sports Flask 1000ml - Double Wall with Strap
+- Price: PKR 1036
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDOr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-stainless-vacuum-flask-1000ml
+
+## Motivational Water Bottles 2pcs 750ml+300ml - Gradient, Straw & Cleaner, BPA Free
+- Price: PKR 859
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDmg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-motivational-water-bottles-2pcs
+
+## Motivational Water Bottle Set 2pcs 750ml+300ml - Straw, Cleaner, Gradient, BPA Free
+- Price: PKR 954
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDNO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-motivational-water-bottles-2pcs-v2
+
+## Star Print Temperature Smart Thermos 500ml - LED Display, Stainless Steel
+- Price: PKR 899
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDnG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-star-print-temp-thermos-500ml
+
+## Stainless Steel Vacuum Flask 500ml - Double Wall, Straw Tumbler, Hot n Cold
+- Price: PKR 999
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDL7?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-vacuum-flask-500ml-straw
+
+## Stanley Style Plain Tumbler 1.18L - Heavy Duty Stainless Steel Travel Mug
+- Price: PKR 2499
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDpk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-stanley-style-tumbler-1-18l
+
+## Classic Blade Pendant Vintage Black with Ball Chain - Unisex Couple Necklace
+- Price: PKR 169
+- Platform: None
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XwDtT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-classic-blade-pendant-necklace
+
+## 3D Butterfly Wooden Wall Clock - Laser Cut Stylish Design with Stars
+- Price: PKR 429
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDE3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-butterfly-wall-clock
+
+## Modern Stylish Pink Color Wall Clock - Lovely Design
+- Price: PKR 1650
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDEC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-modern-pink-wall-clock
+
+## 3D Wooden Wall Clock with 12 Imam Names - Laser Cut Design
+- Price: PKR 419
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDDS?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-clock-imam-names
+
+## Wooden Mix 3D Modern Wall Clock - Deer, Family & Map Designs, Square DIY
+- Price: PKR 420
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDx3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-wooden-mix-3d-wall-clock
+
+## 3D Wooden Flower Wall Clock 12 Inch - Laser Cut MDF, Silent Movement
+- Price: PKR 389
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDC2?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-flower-wall-clock
+
+## Family Wall Clock 3D Wooden - DIY Design with Birds, Home & Office Decor
+- Price: PKR 448
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDCE?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-family-3d-wooden-wall-clock
+
+## Bird Cage Wall Clock - European Modern Wooden, Mute Luminous Quartz
+- Price: PKR 369
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDyN?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bird-cage-wall-clock
+
+## 3D Wooden Round Wall Clock 11.8 Inch - Raised Digits, With/Without Light
+- Price: PKR 359
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDBQ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-round-wall-clock
+
+## Wooden Flower Shaped Wall Clock - High Quality Decorative for Home
+- Price: PKR 369
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDzg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-wooden-flower-shaped-clock
+
+## Wooden Kitchen Wall Clock - Coffee Cup & Kettle Design, Stylish Home Decor
+- Price: PKR 389
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDA0?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-wooden-kitchen-wall-clock
+
+## Bismillah Wooden Wall Clock 3D - DIY Design, Home & Office Decor Gift
+- Price: PKR 350
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.XwDAA?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bismillah-wooden-wall-clock
+
+## 3D Laser Cut Wooden Clock 12 Imam Names - Large Analog for Living Room Decor
+- Price: PKR 329
+- Platform: None
+- Category: home
+- Buy: https://s.daraz.pk/s.Xwxaw?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-clock-imam-names-large
 
