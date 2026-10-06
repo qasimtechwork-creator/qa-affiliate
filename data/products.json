@@ -25058,6 +25058,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:20:05.905959",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-2in1-eyebrow-trimmer-led",
+      "name": "2 in 1 Electric Eyebrow Trimmer & Facial Hair Remover - Rechargeable with LED",
+      "price": 887.25,
+      "currency": "PKR",
+      "original_price": 1599,
+      "affiliate_url": "https://s.daraz.pk/s.XDXry?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/09008967-d35f-4102-af6d-1b0ec6b3e7f4.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/09008967-d35f-4102-af6d-1b0ec6b3e7f4.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:43:32.371708",
+      "status": "live"
     }
   ]
 }
