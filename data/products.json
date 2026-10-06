@@ -28470,6 +28470,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-ladies-handbag-3piece-set",
+      "name": "Ladies Handbag 3 Piece Set PU Leather Crossbody",
+      "affiliate_url": "https://s.daraz.pk/s.XDR7S?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/36d2d0b1-d3dc-4db7-acd0-7a1ac25d7345.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "3 Piece Ladies Handbag Set. Price Rs.1,799 (was Rs.9,999).",
+      "price": "Rs.1,799",
+      "old_price": "Rs.9,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
