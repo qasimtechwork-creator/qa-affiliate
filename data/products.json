@@ -30669,6 +30669,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-tissue-box-desktop-organizer",
+      "name": "Tissue Box Desktop Organizer Multi-Purpose Holder",
+      "affiliate_url": "https://s.daraz.pk/s.XDkXH?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f642ab4d-6b65-4e1a-b2c1-9e2a3735610f.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Tissue Box Organizer. Price Rs.902 (was Rs.1,502).",
+      "price": "Rs.902",
+      "old_price": "Rs.1,502",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
