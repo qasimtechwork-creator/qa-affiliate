@@ -31391,6 +31391,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-buds-3-pro-anc",
+      "name": "Buds 3 Pro ANC True Wireless Earbuds Gaming",
+      "affiliate_url": "https://s.daraz.pk/s.XDPhz?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/fe3eb3d3-1575-4197-b048-5b88eb1a8489.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Buds 3 Pro ANC Earbuds. Price Rs.2,150 (was Rs.3,200).",
+      "price": "Rs.2,150",
+      "old_price": "Rs.3,200",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
