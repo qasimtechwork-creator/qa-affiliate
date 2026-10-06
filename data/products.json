@@ -30783,6 +30783,82 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-fridge-organizer-cheese-box",
+      "name": "Multi-Purpose Refrigerator Organizer Cheese Box Airtight",
+      "affiliate_url": "https://s.daraz.pk/s.XDkwT?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/bc8f1777-8a7a-4214-8d20-185955c75ae3.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Multi-Purpose Refrigerator Organizer Cheese Box Airtight. Price Rs.515 (was Rs.615).",
+      "price": "Rs.515",
+      "old_price": "Rs.615",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-304-steel-sink-organizer-6port",
+      "name": "304 Stainless Steel 6-Port Kitchen Sink Organizer Stand",
+      "affiliate_url": "https://s.daraz.pk/s.XDkDV?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/56bdd218-bc54-41c5-b2bf-56b544a87d58.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "304 Stainless Steel 6-Port Kitchen Sink Organizer Stand. Price Rs.449 (was Rs.799).",
+      "price": "Rs.449",
+      "old_price": "Rs.799",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-fridge-storage-drain-tray-1500ml",
+      "name": "Fridge Food Storage Container Drain Tray 1500ml",
+      "affiliate_url": "https://s.daraz.pk/s.XDkx2?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e8b5c86d-2d6a-48d0-9ffc-28645535993a.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Fridge Food Storage Container Drain Tray 1500ml. Price Rs.399 (was Rs.427).",
+      "price": "Rs.399",
+      "old_price": "Rs.427",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-tissue-paper-holder-under-cabinet",
+      "name": "Tissue Paper Holder Under Cabinet Roll Rack",
+      "affiliate_url": "https://s.daraz.pk/s.XDkxG?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/092beff6-7fe1-4f28-99f3-6d05da943e35.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Tissue Paper Holder Under Cabinet Roll Rack. Price Rs.359 (was Rs.550).",
+      "price": "Rs.359",
+      "old_price": "Rs.550",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
