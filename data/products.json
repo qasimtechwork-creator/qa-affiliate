@@ -25778,6 +25778,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:05:05.258909",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-urbanhive-solar-cheetah-photochromic",
+      "name": "UrbanHive Solar Magic Cheetah Photochromic Sunglasses - Rimless Unisex",
+      "price": 1749,
+      "currency": "PKR",
+      "original_price": 2999,
+      "affiliate_url": "https://s.daraz.pk/s.XD2gR?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5a70e4dd-791f-4f66-82b3-b088991586c9.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/5a70e4dd-791f-4f66-82b3-b088991586c9.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:05:26.539033",
+      "status": "live"
     }
   ]
 }
