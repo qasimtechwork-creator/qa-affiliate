@@ -30745,6 +30745,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-premium-metal-kitchen-organizer",
+      "name": "Premium Metal Kitchen Organizer Rack Expandable Shelf",
+      "affiliate_url": "https://s.daraz.pk/s.XDkvl?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/2b018bc4-1595-437a-9aea-1d2b71c58cf2.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Premium Metal Kitchen Organizer Rack Expandable Shelf. Price Rs.579 (was Rs.799).",
+      "price": "Rs.579",
+      "old_price": "Rs.799",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-fridge-organizer-drawer-basket",
+      "name": "Fridge Organizer Drawer Basket Pull-out Storage Box",
+      "affiliate_url": "https://s.daraz.pk/s.XDkEU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/96b53cf9-50c6-458a-a62f-3b17257507bd.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Fridge Organizer Drawer Basket Pull-out Storage Box. Price Rs.549 (was Rs.1,499).",
+      "price": "Rs.549",
+      "old_price": "Rs.1,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
