@@ -24642,6 +24642,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:09:13.266977",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-led-jewelry-watch-gift-set",
+      "name": "LED Jewelry Watch Gift Set - Locket, Bangle & Ring with Organizer Box",
+      "price": 3750,
+      "currency": "PKR",
+      "original_price": 5500,
+      "affiliate_url": "https://s.daraz.pk/s.XDcEd?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/3d0cd7a5-b621-4335-8b85-a222768a9073.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/3d0cd7a5-b621-4335-8b85-a222768a9073.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:09:25.048954",
+      "status": "live"
     }
   ]
 }
