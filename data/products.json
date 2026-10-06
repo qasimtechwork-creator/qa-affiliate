@@ -29643,6 +29643,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-one-step-hair-dryer-styler",
+      "name": "One Step Hair Dryer Styler Brush 3 in 1",
+      "affiliate_url": "https://s.daraz.pk/s.XD9UI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/05dd6540-01bf-40f9-9fff-8efb06b9a726.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "One Step Hair Styler. Price Rs.1,999 (was Rs.4,500).",
+      "price": "Rs.1,999",
+      "old_price": "Rs.4,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
