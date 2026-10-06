@@ -26146,6 +26146,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:19:33.315025",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-fogg-charlie-perfume-combo",
+      "name": "Fogg Paradise Body Spray + Charlie Blue Perfume Combo for Women",
+      "price": 999,
+      "currency": "PKR",
+      "original_price": 1800,
+      "affiliate_url": "https://s.daraz.pk/s.XD2Ib?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/89c29e5c-2add-4006-8e0d-7a5ec251094a.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/89c29e5c-2add-4006-8e0d-7a5ec251094a.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:20:29.746914",
+      "status": "live"
     }
   ]
 }
