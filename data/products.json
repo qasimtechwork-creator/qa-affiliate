@@ -28432,6 +28432,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-hand-bag-girls-tote-crossbody",
+      "name": "Hand Bag for Girls Shoulder Tote Crossbody Bag Big Size",
+      "affiliate_url": "https://s.daraz.pk/s.XDRhK?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/a365652d-8e70-4cca-a406-f92390701a70.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Big Size Tote Handbag for Girls. Price Rs.2,399 (was Rs.2,999).",
+      "price": "Rs.2,399",
+      "old_price": "Rs.2,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
