@@ -29073,6 +29073,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-glass-heel-sandals-women",
+      "name": "Glass Heel Sandals For Women",
+      "affiliate_url": "https://s.daraz.pk/s.XDQtU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/070b534d-734f-420b-a2c0-b0fbc949286c.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Glass Heel Sandals. Price Rs.1,499 (was Rs.3,000).",
+      "price": "Rs.1,499",
+      "old_price": "Rs.3,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
