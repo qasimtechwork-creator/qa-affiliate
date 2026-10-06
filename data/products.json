@@ -31277,6 +31277,63 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-zero-flow-earbuds-150h",
+      "name": "Zero Flow Wireless Earbuds Bluetooth 5.4 150H Playtime",
+      "affiliate_url": "https://s.daraz.pk/s.XDPgr?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/0475a12b-6e2d-4dd6-b4ac-32f448210058.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Zero Flow Wireless Earbuds Bluetooth 5.4 150H Playtime. Price Rs.4,499 (was Rs.15,999).",
+      "price": "Rs.4,499",
+      "old_price": "Rs.15,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-baseus-bowie-wm01-earbuds",
+      "name": "BASEUS Bowie WM01 Wireless Earbuds TWS Bluetooth 5.3",
+      "affiliate_url": "https://s.daraz.pk/s.XDPTV?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/8c9648b8-4805-4074-bac7-008aa518de80.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "BASEUS Bowie WM01 Wireless Earbuds TWS Bluetooth 5.3. Price Rs.4,950 (was Rs.6,000).",
+      "price": "Rs.4,950",
+      "old_price": "Rs.6,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-zero-rover-elite-earbuds",
+      "name": "Zero Rover Elite Wireless Earbuds Bluetooth 5.4",
+      "affiliate_url": "https://s.daraz.pk/s.XDPTt?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/876f5cb7-06f1-4573-92c1-a32b3ea5e636.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Zero Rover Elite Wireless Earbuds Bluetooth 5.4. Price Rs.4,499 (was Rs.14,999).",
+      "price": "Rs.4,499",
+      "old_price": "Rs.14,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
