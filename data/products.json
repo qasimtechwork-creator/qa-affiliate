@@ -24914,6 +24914,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:17:37.752581",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-sasta-bazaar-exercise-cycle",
+      "name": "Sasta Bazaar Exercise Cycle - Portable Pedal Exerciser, Digital Display",
+      "price": 3499,
+      "currency": "PKR",
+      "original_price": 7999,
+      "affiliate_url": "https://s.daraz.pk/s.XDXbJ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d9b538c5-7e6c-48ab-852c-5a3509d18abf.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/d9b538c5-7e6c-48ab-852c-5a3509d18abf.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:17:44.765228",
+      "status": "live"
     }
   ]
 }
