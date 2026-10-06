@@ -24882,6 +24882,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:17:02.938865",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-mini-bike-pedal-exerciser-durable",
+      "name": "Mini Exercise Bike Pedal Exerciser - Durable, Easy to Use",
+      "price": 3699,
+      "currency": "PKR",
+      "original_price": 4999,
+      "affiliate_url": "https://s.daraz.pk/s.XDXb1?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b23d8f2b-a46c-4774-b647-8c56a1904ccc.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b23d8f2b-a46c-4774-b647-8c56a1904ccc.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:17:18.680581",
+      "status": "live"
     }
   ]
 }
