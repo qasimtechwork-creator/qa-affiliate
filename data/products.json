@@ -26242,6 +26242,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:23:12.357702",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-sandal-men-stylish-trending",
+      "name": "Sandal for Men - Stylish Trending, House Slippers for Boys",
+      "price": 389,
+      "currency": "PKR",
+      "original_price": 1999,
+      "affiliate_url": "https://s.daraz.pk/s.XD2FF?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1b1b8a9a-0d7f-4391-8b39-ad30ba459878.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/1b1b8a9a-0d7f-4391-8b39-ad30ba459878.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:24:10.462613",
+      "status": "live"
     }
   ]
 }
