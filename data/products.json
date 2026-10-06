@@ -29567,6 +29567,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-5in1-hair-styler-brush-pro",
+      "name": "5 in 1 Hair Styler Hot Air Brush Professional",
+      "affiliate_url": "https://s.daraz.pk/s.XD9eH?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/69f4c507-8a43-44e2-bca2-9ac9c68ed066.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "5 in 1 Hair Styler Pro. Price Rs.2,899 (was Rs.4,000).",
+      "price": "Rs.2,899",
+      "old_price": "Rs.4,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
