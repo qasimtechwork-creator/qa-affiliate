@@ -30004,6 +30004,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-10m-5050-rgb-led-strip-bluetooth",
+      "name": "10M 5050 RGB LED Strip Light Bluetooth Control",
+      "affiliate_url": "https://s.daraz.pk/s.XD9rn?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/795f16e0-fbba-41bf-ab70-83b7a8df1440.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "10M RGB LED Strip. Price Rs.3,290 (was Rs.4,500).",
+      "price": "Rs.3,290",
+      "old_price": "Rs.4,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
