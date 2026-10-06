@@ -31201,6 +31201,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-zero-nexus-pro-anc-earbuds",
+      "name": "Zero Nexus Pro Wireless ANC Earbuds Bluetooth 5.4",
+      "affiliate_url": "https://s.daraz.pk/s.XDPUs?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/fbd93a1d-3d4c-4530-8202-275e1d0930a1.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Zero Nexus Pro ANC Earbuds. Price Rs.5,999 (was Rs.9,999).",
+      "price": "Rs.5,999",
+      "old_price": "Rs.9,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
