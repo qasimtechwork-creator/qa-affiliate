@@ -24754,6 +24754,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:14:50.109098",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-dumbbells-set-3kg-yoga-mat",
+      "name": "Dumbbells Set 3kg Pair with Yoga Mat - Home Gym Exercise",
+      "price": 6199,
+      "currency": "PKR",
+      "original_price": 6999,
+      "affiliate_url": "https://s.daraz.pk/s.XDcA6?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/68e7e9f7-5a6a-4f26-ba87-c1bc2f3b6285.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/68e7e9f7-5a6a-4f26-ba87-c1bc2f3b6285.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:14:59.960731",
+      "status": "live"
     }
   ]
 }
