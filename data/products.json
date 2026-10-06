@@ -29016,6 +29016,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-rhinestone-block-heels-glamours",
+      "name": "Women Luxury Rhinestone Block Heels Bridal Party",
+      "affiliate_url": "https://s.daraz.pk/s.XDQsp?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/0d7928af-c969-4105-9726-9e92197f642a.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Rhinestone Block Heels. Price Rs.2,081 (was Rs.3,500).",
+      "price": "Rs.2,081",
+      "old_price": "Rs.3,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }

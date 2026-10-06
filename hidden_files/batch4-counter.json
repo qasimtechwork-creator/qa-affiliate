@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 45,
+  "count": 46,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -48,6 +48,7 @@
     "daraz-cinderella-heel-sandals-peep-toe",
     "daraz-block-heel-sandals-strappy-party",
     "daraz-nbh-multi-strap-sandals",
-    "daraz-criss-cross-block-heels-bridal"
+    "daraz-criss-cross-block-heels-bridal",
+    "daraz-rhinestone-block-heels-glamours"
   ]
 }
