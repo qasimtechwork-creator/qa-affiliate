@@ -24738,6 +24738,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:14:35.819382",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-exercise-cycle-magnetic-machine",
+      "name": "Exercise Cycle Magnetic Machine - Home Workout Bike",
+      "price": 14249.05,
+      "currency": "PKR",
+      "original_price": 20000,
+      "affiliate_url": "https://s.daraz.pk/s.XDcAa?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/4495cdac-1a40-4e37-bd94-e1ebeeb5d65b.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/4495cdac-1a40-4e37-bd94-e1ebeeb5d65b.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:14:50.109098",
+      "status": "live"
     }
   ]
 }
