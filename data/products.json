@@ -31258,6 +31258,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-zero-wave-elite-earbuds",
+      "name": "Zero Wave Elite Wireless Earbuds Bluetooth 5.4",
+      "affiliate_url": "https://s.daraz.pk/s.XDPgX?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/9f07db1a-1583-47ac-9b34-54fb40721e32.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Zero Wave Elite Earbuds. Price Rs.4,999 (was Rs.20,000).",
+      "price": "Rs.4,999",
+      "old_price": "Rs.20,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
