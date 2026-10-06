@@ -24722,6 +24722,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:14:26.057388",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-jd-fitness-exercise-cycle",
+      "name": "JD Fitness Premium Exercise Cycle - Heavy Duty Stationary Bike, Adjustable Resistance",
+      "price": 16199,
+      "currency": "PKR",
+      "original_price": 25499,
+      "affiliate_url": "https://s.daraz.pk/s.XDczm?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d3d5d5b0-5830-49d1-b800-20f9dd25ca50.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/d3d5d5b0-5830-49d1-b800-20f9dd25ca50.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:14:35.819382",
+      "status": "live"
     }
   ]
 }
