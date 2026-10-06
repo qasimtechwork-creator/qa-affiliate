@@ -25122,6 +25122,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:47:43.995603",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-3in1-hair-dryer-brush-volumizer",
+      "name": "One Step 3 in 1 Hair Dryer Brush - Hot Air Volumizer, Straightener",
+      "price": 1799,
+      "currency": "PKR",
+      "original_price": 3599,
+      "affiliate_url": "https://s.daraz.pk/s.XDXv9?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/954c9002-a00f-4e24-9414-b7a19f246a84.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/954c9002-a00f-4e24-9414-b7a19f246a84.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:47:58.320922",
+      "status": "live"
     }
   ]
 }
