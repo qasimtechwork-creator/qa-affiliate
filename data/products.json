@@ -29586,6 +29586,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3in1-hot-air-brush-caviii",
+      "name": "3in1 Hot Air Brush Hair Dryer Volumizer Caviii",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Vk?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/0501d526-b6c3-4044-b35c-2b57188ae267.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "3in1 Hot Air Brush. Price Rs.2,383 (was Rs.3,499).",
+      "price": "Rs.2,383",
+      "old_price": "Rs.3,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
