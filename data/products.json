@@ -25090,6 +25090,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:45:31.303301",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack2-watches-men-steel",
+      "name": "Pack of 2 Watches for Men - Stainless Steel Strap, Quartz, Luminous Dial",
+      "price": 549,
+      "currency": "PKR",
+      "original_price": 1500,
+      "affiliate_url": "https://s.daraz.pk/s.XDXu4?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/608e5a6b-3d33-4453-88e4-8474097e80ad.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/608e5a6b-3d33-4453-88e4-8474097e80ad.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:46:42.135626",
+      "status": "live"
     }
   ]
 }
