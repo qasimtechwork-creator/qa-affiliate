@@ -29985,6 +29985,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-smart-wifi-rgbic-neon-led-strip",
+      "name": "Smart WiFi Bluetooth RGBIC Neon LED Strip Lights",
+      "affiliate_url": "https://s.daraz.pk/s.XD9JB?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/2084fbde-b7cf-4c48-8194-9ccf4762620c.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Smart RGBIC Neon LED Strip. Price Rs.3,999 (was Rs.5,999).",
+      "price": "Rs.3,999",
+      "old_price": "Rs.5,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
