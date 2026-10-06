@@ -25362,6 +25362,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:52:00.327659",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-hair-dryer-volumizer-1000w-ion",
+      "name": "Hair Dryer & Volumizer Brush 1000W - Negative Ion, 3 Heat Settings",
+      "price": 2489,
+      "currency": "PKR",
+      "original_price": 3500,
+      "affiliate_url": "https://s.daraz.pk/s.XDXBr?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/60a1aecb-9d86-4310-a819-85cc88f0cfff.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/60a1aecb-9d86-4310-a819-85cc88f0cfff.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:52:13.325020",
+      "status": "live"
     }
   ]
 }
