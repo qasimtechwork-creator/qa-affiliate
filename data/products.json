@@ -29168,6 +29168,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-reflexology-massage-slippers",
+      "name": "Reflexology Acupressure Massage Slippers Foot Pain Relief",
+      "affiliate_url": "https://s.daraz.pk/s.XDQDt?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e918c5e3-1ba8-48fd-b164-1f1c4e03b8b7.jpg",
+      "merchant": "daraz",
+      "category": "health",
+      "source": "owner-supplied",
+      "short_description": "Reflexology Acupressure Massage Slippers Foot Pain Relief. Price Rs.699 (was Rs.999).",
+      "price": "Rs.699",
+      "old_price": "Rs.999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-heel-care-slippers-eva",
+      "name": "Heel Care Slippers Soft Cushion EVA Anti-Crack",
+      "affiliate_url": "https://s.daraz.pk/s.XDQxT?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/83a13eef-2637-47e7-b7c1-50bba1a441f5.jpg",
+      "merchant": "daraz",
+      "category": "health",
+      "source": "owner-supplied",
+      "short_description": "Heel Care Slippers Soft Cushion EVA Anti-Crack. Price Rs.699 (was Rs.1,999).",
+      "price": "Rs.699",
+      "old_price": "Rs.1,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
