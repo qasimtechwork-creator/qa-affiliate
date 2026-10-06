@@ -1673,7 +1673,7 @@
       "note": "pinned 2026-10-05, batch indexes 125-149"
     }
   ],
-  "last_run": "2026-10-03 round7-r3: 15/16 new products pinned (dashboard-holder skipped: dead image), next_index unchanged at 100",
+  "last_run": "2026-10-06 daraz-batch: 50/50 Daraz pins published, 0 blockers; Daraz pinned total now 60/300",
   "pinned": [
     {
       "product_id": "temu-1pc-450ml-juicer-with-2-cups-portable-usb-rechargeable-mini",
@@ -1743,7 +1743,7 @@
     }
   ],
   "catalog_size": 695,
-  "last_batch_note": "2026-10-04 run: 25/25 products fully pinned (48 pins published, 2 website pins pre-existing), 0 fallbacks, no blockers; board 314->359 pins",
+  "last_batch_note": "2026-10-06 daraz-batch: 50/50 Daraz pins published, 0 blockers; Daraz pinned total now 60/300",
   "pins": [
     {
       "product_id": "daraz-real-2-in-1-eyebrow-trimmer-for-women-facial-",
@@ -1813,6 +1813,356 @@
       "pin_url": "https://www.pinterest.com/pin/608830443423106975/",
       "board": "Daraz Pakistan Finds",
       "date": "2026-10-05T13:10:03.990481",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-silicone-back-scrubber-shower-strap-exfo",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119187/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-stainless-steel-stylish-watch-for-men-ne",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119200/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-pack-of-2-watches-for-men-stainless-stee",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119212/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-diy-eyelash-extension-kit-lash-cluster-k",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119216/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-gt1-smart-watch-smartwatch-smartwatches-",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119218/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-trending-classic-luxury-wrist-watches-fo",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119225/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-aura-watch-for-men-stylish-original-aura",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119226/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-sanrio-hello-kitty-friends-diamond-bling",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119228/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-overhead-tripod-diy-stand-scissor-arm-st",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119234/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-mini-fan-rechargeable-hand-held-electric",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119240/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-wkshop-26cm-ring-light-with-7ft-aluminiu",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119247/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-portable-breathing-trainer-with-adjustable-resistance-settin",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119255/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-face-slimming-tool-trainer-face-exerciser-jawline-shaper-v-s",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119260/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-magic-color-changeable-grape-mesh-squish-ball-stress-relief",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119265/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-adjustable-breathable-mesh-corset-slimming-belt-tummy-contro",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119272/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-vinyl-coated-dumbbell-pair-or-single-piece-yoga-dumbbells-co",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119280/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-gym-gloves-weightlifting-gloves-gym-gloves-for-men-weightlif",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119282/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-automatic-counting-hand-gripper-adjustable-resistance-non-sl",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119286/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-120kg-adjustable-hand-gripper-with-mechanical-counter-heavy",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119289/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-tummy-trimmer-single-spring-with-twister-plate-disc-home-gym",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119293/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-yoga-anti-burst-fitness-exercise-gym-ball-with-pump-55cm",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119300/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-exercise-resistance-band-yoga-band-yoga-resistance-band-for",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119306/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-pull-reducer-resistance-training-bands-tummy-trimmer-belly-f",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119316/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-hand-exercise-stress-relief-smiley-emoji-physio-ball-yellow",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119325/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-histro-4-colors-5-60kg-automatic-counting-hand-gripper-adjus",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119326/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-1-pc-pelvic-floor-muscle-trainer-multifunctional-thigh-exerc",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119330/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-1pc-hand-grip-finger-trainer-booster-two-way-spring-adjustab",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119335/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-mini-exercise-bike-pedal-exerciser-durable-and-long-lasting",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119341/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-myb-yoga-blocks-random-color-yoga-brick-soft-non-slip-foam-f",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119347/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-tummy-trimmer-belly-fat-burner-body-pull-reducer-resistance",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119354/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-resistance-loop-band-set-of-5-elastic-workout-bands-for-stre",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119358/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-5-pieces-exercise-resistance-band-yoga-band-yoga-resistance",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119364/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-pull-up-resistance-band-heavy-duty-natural-latex-loop-exerci",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119368/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-pair-of-push-up-stands-highest-quality-with-foam-grip-for-ex",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119375/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-yoga-mat-6mm-anti-slip-high-density-eva-exercise-mat-for-men",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119378/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-mini-exercise-bike-exercise-cycle-compact-under-desk-pedal-b",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119385/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-high-quality-tummy-trimmer-pedal-resistance-bands-home-gym-e",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119390/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-hi-fit-weightlifting-finger-grip-pad-for-workout-gym-fitness",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119404/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-workout-gloves-for-men-durable-palm-grip-gym-gloves-women-ha",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119417/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-power-exercise-resistance-band-set-for-pull-up-body-fitness",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119424/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-mini-cycle-pedal-exerciser-machine-portable-under-desk-fitne",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119435/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-8mm-yoga-mat-for-women-and-men-anti-slip-best-quality-exerci",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119444/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-yoga-mat-6mm-premium-xwtvs",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119459/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-exercise-cycle-exercise-bike-magnetic-exercise-machine-home",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119466/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-bi-pedaler-static-bike-for-adults-exercise-bike-for-home-fol",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119470/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-digital-pedal-exerciser-with-lcd-display-mini-folding-exerci",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119480/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-pull-up-band-xwtdk",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119488/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-latex-tube-resistance-band-pull-rope-single-loop-exercise-ba",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119496/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-mimo-mini-hand-electric-body-massager",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119506/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
+      "rule": "1-pin-immediate"
+    },
+    {
+      "product_id": "daraz-real-volume-clubbing-mascara-black",
+      "pin_url": "https://www.pinterest.com/pin/608830443423119515/",
+      "board": "Daraz Pakistan Finds",
+      "date": "2026-10-06T06:09:25.955728+00:00",
       "rule": "1-pin-immediate"
     }
   ],
