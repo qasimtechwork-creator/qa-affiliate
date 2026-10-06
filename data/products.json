@@ -29206,6 +29206,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-vintage-rectangle-sunglasses-uv400",
+      "name": "Vintage Rectangle Sunglasses UV400 Retro Square Frame",
+      "affiliate_url": "https://s.daraz.pk/s.XDQCF?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f64334ea-1fee-4b52-897a-eba8d741ccef.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Vintage Rectangle Sunglasses UV400. Price Rs.217 (was Rs.749).",
+      "price": "Rs.217",
+      "old_price": "Rs.749",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
