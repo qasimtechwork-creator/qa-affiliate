@@ -25282,6 +25282,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:50:53.599583",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-mini-portable-straightener-crystal",
+      "name": "Mini Portable Hair Straightener - Crystal Flat Iron for Bangs & Short Hair",
+      "price": 699,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XDXy2?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5e97693e-a3ce-42ca-9979-065da6eab8bc.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/5e97693e-a3ce-42ca-9979-065da6eab8bc.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:51:15.544980",
+      "status": "live"
     }
   ]
 }
