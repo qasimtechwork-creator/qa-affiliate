@@ -29320,6 +29320,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-classic-rectangle-sunglasses-vintage",
+      "name": "Classic Rectangle Vintage Small Square Sunglasses",
+      "affiliate_url": "https://s.daraz.pk/s.XDQAx?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5ee7d635-f12d-4f72-8451-360d53736260.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Classic Rectangle Sunglasses. Price Rs.220 (was Rs.800).",
+      "price": "Rs.220",
+      "old_price": "Rs.800",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
