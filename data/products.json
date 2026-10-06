@@ -28755,6 +28755,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-slim-vertical-leather-wallet",
+      "name": "Genuine Leather Slim Vertical Wallet Card Holder",
+      "affiliate_url": "https://s.daraz.pk/s.XDRmO?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/8bf82cf7-52f2-47e4-9949-dfc3448b6a46.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Slim Vertical Leather Wallet. Price Rs.999 (was Rs.1,500).",
+      "price": "Rs.999",
+      "old_price": "Rs.1,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
