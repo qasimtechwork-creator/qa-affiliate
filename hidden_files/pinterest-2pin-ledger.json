@@ -1671,6 +1671,36 @@
       "done": true,
       "system": "one-pin (2026-10-03 revision: website /item/ page only)",
       "note": "pinned 2026-10-05, batch indexes 125-149"
+    },
+    {
+      "id": "temu-nashilanfu-professional-makeup-brush-set",
+      "merchant": "temu",
+      "website_pin": "https://www.pinterest.com/pin/608830443423121139/",
+      "affiliate_pin": null,
+      "affiliate_pin_used_fallback": false,
+      "done": true,
+      "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+      "note": "pinned 2026-10-06, owner-supplied links (affiliate ID 2056251191)"
+    },
+    {
+      "id": "temu-natural-fox-series-eyelashes-10pairs",
+      "merchant": "temu",
+      "website_pin": "https://www.pinterest.com/pin/608830443423121159/",
+      "affiliate_pin": null,
+      "affiliate_pin_used_fallback": false,
+      "done": true,
+      "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+      "note": "pinned 2026-10-06, owner-supplied links (affiliate ID 2056251191)"
+    },
+    {
+      "id": "temu-precision-eye-makeup-brush-set-5pcs",
+      "merchant": "temu",
+      "website_pin": "https://www.pinterest.com/pin/608830443423121168/",
+      "affiliate_pin": null,
+      "affiliate_pin_used_fallback": false,
+      "done": true,
+      "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+      "note": "pinned 2026-10-06, owner-supplied links (affiliate ID 2056251191)"
     }
   ],
   "last_run": "2026-10-06 daraz-batch: 50/50 Daraz pins published, 0 blockers; Daraz pinned total now 60/300",

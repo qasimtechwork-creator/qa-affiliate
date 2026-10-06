@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T12:55:23.753392",
-  "total_qa_affiliate_products": 753,
+  "generated_at": "2026-10-06T09:46:07.593290+00:00",
+  "total_qa_affiliate_products": 756,
   "sections": {
     "qa_affiliate_website": {
       "description": "All products live on qa-affiliate.vercel.app",
-      "count": 753,
+      "count": 756,
       "products": [
         {
           "id": "temu-openwork-jacket",
@@ -9794,6 +9794,45 @@
           "affiliate_url": "https://s.daraz.pk/s.Xwtxs?cc",
           "website_page": "https://qa-affiliate.vercel.app/item/daraz-real-latex-tube-resistance-band-pull-rope-single-loop-exercise-ba",
           "source": "owner-app-verified"
+        },
+        {
+          "id": "temu-nashilanfu-professional-makeup-brush-set",
+          "name": "[Gift For Girls] Nashilanfu Professional Makeup Brush Set With Foundation, Blush, Eyeshadow Brushes",
+          "price": null,
+          "original_price": null,
+          "currency": "USD",
+          "platform": "temu",
+          "category": "beauty",
+          "image": "https://img.kwcdn.com/product/fancy/4d4e4816-8b6d-4ca7-9a74-7c13912ec58d.jpg?imageView2/2/w/800/q/70/format/avif",
+          "affiliate_url": "https://temu.to/k/eywqp163v06",
+          "website_page": "https://qa-affiliate.vercel.app/item/temu-nashilanfu-professional-makeup-brush-set",
+          "source": "Owner PC portal Share link — verified 2026-10-06 (affiliate ID 2056251191, owner's Rs.1,500 account)"
+        },
+        {
+          "id": "temu-natural-fox-series-eyelashes-10pairs",
+          "name": "Natural Style Half-Eye Fox Series Eyelashes, Set of 10 Pairs, Soft and Lightweight, Lengths 3-5-9mm",
+          "price": null,
+          "original_price": null,
+          "currency": "USD",
+          "platform": "temu",
+          "category": "beauty",
+          "image": "https://img.kwcdn.com/product/fancy/f0de77a4-e52b-44d7-824e-311aa4f04987.jpg?imageView2/2/w/500/q/70/format/avif",
+          "affiliate_url": "https://temu.to/k/ehp0x9p09sx",
+          "website_page": "https://qa-affiliate.vercel.app/item/temu-natural-fox-series-eyelashes-10pairs",
+          "source": "Owner PC portal Share link — verified 2026-10-06 (affiliate ID 2056251191, owner's Rs.1,500 account)"
+        },
+        {
+          "id": "temu-precision-eye-makeup-brush-set-5pcs",
+          "name": "Precision Eye Makeup Brush Set, 5pcs With Sickle-Shaped Eyeliner Brush, Angled Eyeliner Brush and Eyebrow Brush",
+          "price": null,
+          "original_price": null,
+          "currency": "USD",
+          "platform": "temu",
+          "category": "beauty",
+          "image": "https://img.kwcdn.com/product/fancy/fa723c60-118c-4a1f-947a-2eb416a43009.jpg?imageView2/2/w/500/q/70/format/avif",
+          "affiliate_url": "https://temu.to/k/ey40xwjzoz5",
+          "website_page": "https://qa-affiliate.vercel.app/item/temu-precision-eye-makeup-brush-set-5pcs",
+          "source": "Owner PC portal Share link — verified 2026-10-06 (affiliate ID 2056251191, owner's Rs.1,500 account)"
         }
       ]
     },
