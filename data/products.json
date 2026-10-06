@@ -28508,6 +28508,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-casual-shoulder-bag-office-girls",
+      "name": "Casual Shoulder Crossbody Bag for Girls Office Use",
+      "affiliate_url": "https://s.daraz.pk/s.XDRi7?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/bdfc8bd1-0c55-466f-9fd1-b6d0f16765f7.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Casual Shoulder Bag. Price Rs.1,799 (was Rs.2,499).",
+      "price": "Rs.1,799",
+      "old_price": "Rs.2,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
