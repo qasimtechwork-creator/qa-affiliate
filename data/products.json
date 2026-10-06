@@ -28698,6 +28698,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-pu-leather-wallet-zip-coin",
+      "name": "Stylish PU Leather Wallet for Men with Zip and Coin Pocket",
+      "affiliate_url": "https://s.daraz.pk/s.XDRlF?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/94057515-8b50-4d85-842f-a7f596c9f92e.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "PU Leather Wallet with Zip. Price Rs.1,199 (was Rs.1,299).",
+      "price": "Rs.1,199",
+      "old_price": "Rs.1,299",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
