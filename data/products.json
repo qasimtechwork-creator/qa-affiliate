@@ -29852,6 +29852,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-2in1-eyebrow-stamp-eyeliner",
+      "name": "2in1 Eyebrow Stamp Powder Gel Eyeliner Waterproof",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Pr?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/a7dc0f23-1d2e-40d6-9b34-23b10f12058a.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "2in1 Eyebrow Stamp Powder Gel Eyeliner Waterproof. Price Rs.699 (was Rs.750).",
+      "price": "Rs.699",
+      "old_price": "Rs.750",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-cvb-paris-ultra-black-eyeliner",
+      "name": "CVB Paris Ultra Black Eyeliner Waterproof 2g",
+      "affiliate_url": "https://s.daraz.pk/s.XD9MZ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b06121af-b1dd-4848-b75d-f103208d79e3.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "CVB Paris Ultra Black Eyeliner Waterproof 2g. Price Rs.514 (was Rs.649).",
+      "price": "Rs.514",
+      "old_price": "Rs.649",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
