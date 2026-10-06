@@ -31239,6 +31239,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-zero-wave-pro-earbuds",
+      "name": "Zero Wave Pro Wireless Earbuds Bluetooth 5.3 Gaming",
+      "affiliate_url": "https://s.daraz.pk/s.XDP5p?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/52e1fe6d-1210-4ea1-b3d2-10f7d923ab06.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Zero Wave Pro Earbuds. Price Rs.4,999 (was Rs.14,999).",
+      "price": "Rs.4,999",
+      "old_price": "Rs.14,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
