@@ -24946,6 +24946,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:17:53.591543",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-best-mini-bike-uk",
+      "name": "Best Mini Exercise Bike UK - Portable Pedal Cycle Exerciser",
+      "price": 3490,
+      "currency": "PKR",
+      "original_price": 6500,
+      "affiliate_url": "https://s.daraz.pk/s.XDXYR?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/dc8ca6e0-cfd2-422b-bde9-a17aa8be25a2.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/dc8ca6e0-cfd2-422b-bde9-a17aa8be25a2.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:18:11.471842",
+      "status": "live"
     }
   ]
 }
