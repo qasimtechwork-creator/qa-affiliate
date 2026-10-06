@@ -25346,6 +25346,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:51:50.969533",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-2in1-straightener-curler-ceramic",
+      "name": "2 in 1 Hair Straightener and Curler - Ceramic Plates, Fast Heating",
+      "price": 699,
+      "currency": "PKR",
+      "original_price": 1499,
+      "affiliate_url": "https://s.daraz.pk/s.XDXBg?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/547eb9d1-8309-45d0-8d01-c36c0113b819.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/547eb9d1-8309-45d0-8d01-c36c0113b819.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:52:00.327659",
+      "status": "live"
     }
   ]
 }
