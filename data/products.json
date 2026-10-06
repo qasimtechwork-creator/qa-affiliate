@@ -24530,6 +24530,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:06:07.148731",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-diy-bracelet-kit-girls-kids",
+      "name": "DIY Bracelet Kit for Girls & Kids - Jewellery Making Beads Box with Charms & Tools",
+      "price": 1439,
+      "currency": "PKR",
+      "original_price": 1799,
+      "affiliate_url": "https://s.daraz.pk/s.XDcGO?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/786ef97c-509f-4097-b7ad-2c15d04c3406.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/786ef97c-509f-4097-b7ad-2c15d04c3406.jpg"
+      ],
+      "category": "toys",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:06:28.751258",
+      "status": "live"
     }
   ]
 }
