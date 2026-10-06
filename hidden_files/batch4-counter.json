@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 83,
+  "count": 84,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -86,6 +86,7 @@
     "daraz-3in1-hair-dryer-brush-volumizer",
     "daraz-3in1-ionic-ceramic-hair-brush",
     "daraz-blow-dryer-volumizer-1000w",
-    "daraz-2in1-electric-straightener-curler"
+    "daraz-2in1-electric-straightener-curler",
+    "daraz-baseline-3in1-blow-dryer"
   ]
 }
