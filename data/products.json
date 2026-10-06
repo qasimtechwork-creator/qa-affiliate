@@ -26002,6 +26002,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:10:13.021470",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-front-open-abaya-button",
+      "name": "Front Open Abaya for Women - Elegant Modest Maxi with Button Style",
+      "price": 3344.69,
+      "currency": "PKR",
+      "original_price": 6999,
+      "affiliate_url": "https://s.daraz.pk/s.XD2jY?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f006ac1c-97b2-4636-ab0a-349256172575.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f006ac1c-97b2-4636-ab0a-349256172575.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:10:35.468566",
+      "status": "live"
     }
   ]
 }
