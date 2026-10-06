@@ -25666,6 +25666,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:02:25.417267",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-bestwear-uv400-oval-sunglasses",
+      "name": "Bestwear UV400 Oval Sunglasses - Unisex Retro Metal Alloy Eyewear",
+      "price": 749,
+      "currency": "PKR",
+      "original_price": 1499,
+      "affiliate_url": "https://s.daraz.pk/s.XD24d?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/297445ad-50e6-40b7-ae4d-bfeca7b2f964.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/297445ad-50e6-40b7-ae4d-bfeca7b2f964.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:02:41.195961",
+      "status": "live"
     }
   ]
 }
