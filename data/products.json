@@ -28356,6 +28356,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-winter-fleece-tracksuit-sarkaar",
+      "name": "Winter Fleece Tracksuit Sarkaar Printed Zipper Hoodie Set",
+      "affiliate_url": "https://s.daraz.pk/s.XDRf0?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/0923f2b8-adbb-4658-b167-a44d32e40054.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Winter Fleece Tracksuit 3-Piece Set. Price Rs.1,849 (was Rs.3,999).",
+      "price": "Rs.1,849",
+      "old_price": "Rs.3,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
