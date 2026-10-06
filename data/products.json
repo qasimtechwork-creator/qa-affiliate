@@ -24706,6 +24706,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:14:11.544262",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-snk-fitness-exercise-bicycle",
+      "name": "SNK Fitness Exercise Training Bicycle - Home Gym Cardio Machine",
+      "price": 26999,
+      "currency": "PKR",
+      "original_price": 29999,
+      "affiliate_url": "https://s.daraz.pk/s.XDczh?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/113a27fc-2e80-45a0-bee2-c0219fb2f534.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/113a27fc-2e80-45a0-bee2-c0219fb2f534.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:14:26.057388",
+      "status": "live"
     }
   ]
 }
