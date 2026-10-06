@@ -30365,6 +30365,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3tier-kitchen-organizer-rolling",
+      "name": "3-Tier Kitchen Organizer Rolling Utility Cart",
+      "affiliate_url": "https://s.daraz.pk/s.XD9zY?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/839d05a7-e0b9-413d-98a5-2819746a3c6a.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "3-Tier Kitchen Organizer Cart. Price Rs.2,999.",
+      "price": "Rs.2,999",
+      "old_price": "Rs.2,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
