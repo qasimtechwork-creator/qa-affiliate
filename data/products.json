@@ -30859,6 +30859,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-multipurpose-spoon-utensil-holder",
+      "name": "Multipurpose Spoon Utensil Holder Drain Box",
+      "affiliate_url": "https://s.daraz.pk/s.XDkCI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e018706d-d126-4c02-b017-4ba8fe12633b.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Multipurpose Spoon Utensil Holder Drain Box. Price Rs.329 (was Rs.541).",
+      "price": "Rs.329",
+      "old_price": "Rs.541",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-kitchen-organizer-baskets-pack",
+      "name": "Kitchen Organizer Baskets Pack Fridge Storage",
+      "affiliate_url": "https://s.daraz.pk/s.XDky6?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d79648cb-02b7-4678-99b4-3780dc4edea8.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Kitchen Organizer Baskets Pack Fridge Storage. Price Rs.232 (was Rs.341).",
+      "price": "Rs.232",
+      "old_price": "Rs.341",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
