@@ -31011,6 +31011,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-tabish-trader-kettle-2l",
+      "name": "Tabish Trader Electric Kettle 2.0L Stainless Steel Cordless",
+      "affiliate_url": "https://s.daraz.pk/s.XDPcO?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1c324612-dbb4-4eb5-9240-fee5f572ad45.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Tabish Trader Kettle 2.0L. Price Rs.1,678 (was Rs.2,600).",
+      "price": "Rs.1,678",
+      "old_price": "Rs.2,600",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
