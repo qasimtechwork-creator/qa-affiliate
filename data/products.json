@@ -26210,6 +26210,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:21:56.647787",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-teddy-bear-soft-plush",
+      "name": "Teddy Bear Soft Plush Toy - Large Stuffed Bear for Kids, Gift",
+      "price": 1599,
+      "currency": "PKR",
+      "original_price": 1599,
+      "affiliate_url": "https://s.daraz.pk/s.XD2to?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/8591332c-63c2-47bb-b00e-a14d0b1ce8a1.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/8591332c-63c2-47bb-b00e-a14d0b1ce8a1.jpg"
+      ],
+      "category": "toys",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:22:16.748058",
+      "status": "live"
     }
   ]
 }
