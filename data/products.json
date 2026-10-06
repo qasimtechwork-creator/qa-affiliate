@@ -29548,6 +29548,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-hair-dryer-set-5in1-styler",
+      "name": "Hair Dryer Set 5 in 1 Hot Air Styler Brush",
+      "affiliate_url": "https://s.daraz.pk/s.XD9eZ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e92d883f-f4b2-45fd-b096-08b05bada7cd.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "5 in 1 Hair Styler Set. Price Rs.3,499 (was Rs.3,999).",
+      "price": "Rs.3,499",
+      "old_price": "Rs.3,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
