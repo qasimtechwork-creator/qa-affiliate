@@ -31220,6 +31220,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-zero-wave-anc-earbuds",
+      "name": "Zero Wave ANC Wireless Earbuds Bluetooth 5.4 Gaming",
+      "affiliate_url": "https://s.daraz.pk/s.XDP52?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/3ef74bc4-0259-416e-9506-bbfec7479670.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Zero Wave ANC Earbuds. Price Rs.5,999 (was Rs.24,999).",
+      "price": "Rs.5,999",
+      "old_price": "Rs.24,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
