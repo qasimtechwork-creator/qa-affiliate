@@ -25042,6 +25042,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:19:25.110291",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-resistance-bands-set-handles",
+      "name": "Resistance Bands Set - Elastic Bands with Handles & Ankle Straps",
+      "price": 999,
+      "currency": "PKR",
+      "original_price": 1299,
+      "affiliate_url": "https://s.daraz.pk/s.XDX23?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/c3108853-8f46-490f-a7cb-72eca7e45929.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/c3108853-8f46-490f-a7cb-72eca7e45929.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:20:05.905959",
+      "status": "live"
     }
   ]
 }
