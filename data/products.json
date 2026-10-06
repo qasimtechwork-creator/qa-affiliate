@@ -30251,6 +30251,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-360-rotating-trolley-rack-steel",
+      "name": "360 Rotating Kitchen Trolley Rack Stainless Steel Baskets",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Co?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/bf34e042-f79d-4780-ae8e-70f3ae16f377.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Rotating Trolley Rack. Price Rs.5,440 (was Rs.7,500).",
+      "price": "Rs.5,440",
+      "old_price": "Rs.7,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
