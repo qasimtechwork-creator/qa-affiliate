@@ -29776,6 +29776,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-909-brush-hair-straightener",
+      "name": "909 Brush Hair Straightener Ionic Temperature Adjust",
+      "affiliate_url": "https://s.daraz.pk/s.XD9R7?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/845f16b4-1e3d-4f83-8222-8b7de987dc71.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "909 Hair Straightener Brush. Price Rs.699 (was Rs.769).",
+      "price": "Rs.699",
+      "old_price": "Rs.769",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
