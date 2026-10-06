@@ -28527,6 +28527,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-luxury-handbag-3piece-set-pu",
+      "name": "Luxury Ladies Handbag 3 Piece Set PU Leather",
+      "affiliate_url": "https://s.daraz.pk/s.XDRiq?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/04f8bb51-bad6-4424-8579-9a4fea013e0d.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Luxury 3 Piece Handbag Set. Price Rs.1,699 (was Rs.9,999).",
+      "price": "Rs.1,699",
+      "old_price": "Rs.9,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
