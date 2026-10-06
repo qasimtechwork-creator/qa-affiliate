@@ -30099,6 +30099,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-rgb-rope-led-light-adapter",
+      "name": "RGB Rope LED Light Waterproof with Adapter",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Gf?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/88736ccf-f8a5-431c-81f3-40fc588a1e38.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "RGB Rope LED Light. Price Rs.723.81 (was Rs.1,100).",
+      "price": "Rs.723.81",
+      "old_price": "Rs.1,100",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
