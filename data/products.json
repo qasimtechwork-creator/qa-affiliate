@@ -25202,6 +25202,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:49:11.075307",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-3in1-hair-dryer-brush-ionic-1000w",
+      "name": "3 in 1 Hair Dryer Brush - Ionic Ceramic, 1000W, Anti-Frizz",
+      "price": 1799,
+      "currency": "PKR",
+      "original_price": 2599,
+      "affiliate_url": "https://s.daraz.pk/s.XDXDf?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b56607f1-2ec8-4670-a748-bd7d80d4a837.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/b56607f1-2ec8-4670-a748-bd7d80d4a837.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:49:29.234285",
+      "status": "live"
     }
   ]
 }
