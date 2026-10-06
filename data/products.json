@@ -31429,6 +31429,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-ear-hook-headphones-54-led",
+      "name": "Bluetooth 5.4 Ear Hook Headphones LED Display HiFi",
+      "affiliate_url": "https://s.daraz.pk/s.XDPSn?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6864a1f5-4ccb-4744-8ac9-762db3a066b3.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Ear Hook Headphones 5.4. Price Rs.1,452 (was Rs.4,336).",
+      "price": "Rs.1,452",
+      "old_price": "Rs.4,336",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
