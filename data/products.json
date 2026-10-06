@@ -31049,6 +31049,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-wooden-wall-clock-organic",
+      "name": "Wooden Wall Clock Modern Multi-Layer Organic Design",
+      "affiliate_url": "https://s.daraz.pk/s.XDP2C?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ef842ae2-9db8-404f-a87b-bbb70fa612cd.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Wooden Wall Clock Modern Multi-Layer Organic Design. Price Rs.509 (was Rs.524).",
+      "price": "Rs.509",
+      "old_price": "Rs.524",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-home-comfort-3d-wall-clock",
+      "name": "Home Comfort 3D DIY Acrylic Wall Clock Silver Black",
+      "affiliate_url": "https://s.daraz.pk/s.XDPdN?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/efe25c70-d27c-4079-b780-7a5221846d1e.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Home Comfort 3D DIY Acrylic Wall Clock Silver Black. Price Rs.499 (was Rs.2,999).",
+      "price": "Rs.499",
+      "old_price": "Rs.2,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
