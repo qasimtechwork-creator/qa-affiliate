@@ -28546,6 +28546,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-designer-shoulder-bag-long-belt",
+      "name": "Designer Shoulder Handbag with Long Belt for Girls",
+      "affiliate_url": "https://s.daraz.pk/s.XDRRj?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/bb0e7c79-99e1-4b08-aade-ddc11acc1575.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Designer Shoulder Bag. Price Rs.1,399.",
+      "price": "Rs.1,399",
+      "old_price": "Rs.1,399",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
