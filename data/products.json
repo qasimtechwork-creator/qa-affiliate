@@ -28318,6 +28318,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-winter-hoodie-you-are-offline",
+      "name": "New Stylish Trendy Fleece YOU ARE OFFLINE Printed Winter Hoodie",
+      "affiliate_url": "https://s.daraz.pk/s.XDRVt?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/46e5819b-974e-400c-ab9a-2cf41d11d389.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Winter Fleece Hoodie YOU ARE OFFLINE Print. Price Rs.999 (was Rs.3,199).",
+      "price": "Rs.999",
+      "old_price": "Rs.3,199",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
