@@ -24482,6 +24482,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:02:19.047873",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-leather-jewellery-organizer-locker",
+      "name": "Leather Jewellery Organizer with Locker - 3 Layers Drawers, Vanity Hanger Stand",
+      "price": 2299,
+      "currency": "PKR",
+      "original_price": 3999,
+      "affiliate_url": "https://s.daraz.pk/s.XDctj?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/86edc63f-b649-48d6-b14d-ca7dd9ffdcfc.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/86edc63f-b649-48d6-b14d-ca7dd9ffdcfc.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:05:42.203158",
+      "status": "live"
     }
   ]
 }
