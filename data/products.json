@@ -26258,6 +26258,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:24:10.462613",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-shinon-facial-steamer-inhaler",
+      "name": "Shinon Facial Steamer & Inhaler - Nano Ionic Steam Vaporizer 2-in-1",
+      "price": 479,
+      "currency": "PKR",
+      "original_price": 498,
+      "affiliate_url": "https://s.daraz.pk/s.XD2Ek?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f38852c0-5ae3-4f49-8089-0fe8471520f5.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f38852c0-5ae3-4f49-8089-0fe8471520f5.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:25:03.778334",
+      "status": "live"
     }
   ]
 }
