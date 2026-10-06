@@ -30270,6 +30270,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-sunrise-mart-microwave-stand",
+      "name": "Sunrise Mart Microwave Stand Kitchen Rack Organizer",
+      "affiliate_url": "https://s.daraz.pk/s.XD9CA?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/8df15669-78cb-4b44-92e9-1df0b6223b47.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Microwave Stand Rack. Price Rs.4,949 (was Rs.7,999).",
+      "price": "Rs.4,949",
+      "old_price": "Rs.7,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
