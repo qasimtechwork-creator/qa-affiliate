@@ -29529,6 +29529,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-sheglam-ember-rose-lipstick-4pc",
+      "name": "Sheglam Ember Rose Pack of 4 Mirror Lipstick Set",
+      "affiliate_url": "https://s.daraz.pk/s.XD9dD?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5b3f2c86-99e9-47cd-9654-617ddab20f71.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "Sheglam Lipstick Set. Price Rs.519 (was Rs.545).",
+      "price": "Rs.519",
+      "old_price": "Rs.545",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
