@@ -30403,6 +30403,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3tier-plastic-rolling-trolley",
+      "name": "3 Tier Plastic Rolling Storage Trolley with Wheels",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Ae?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/b06ac52c-3b37-4ae4-a9d4-eb307e0c6414.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "3 Tier Plastic Rolling Storage Trolley with Wheels. Price Rs.2,824 (was Rs.4,750).",
+      "price": "Rs.2,824",
+      "old_price": "Rs.4,750",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-multilayer-white-kitchen-rack",
+      "name": "Multi-Layer White Kitchen Storage Rack Microwave Stand",
+      "affiliate_url": "https://s.daraz.pk/s.XD9AI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/3f211bdb-a49d-4e3b-a90c-bf4c18a8ea33.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Multi-Layer White Kitchen Storage Rack Microwave Stand. Price Rs.2,771 (was Rs.5,000).",
+      "price": "Rs.2,771",
+      "old_price": "Rs.5,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
