@@ -29681,6 +29681,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3in1-ionic-ceramic-hair-brush",
+      "name": "3 in 1 Ionic Ceramic Hot Air Brush Hair Styler",
+      "affiliate_url": "https://s.daraz.pk/s.XD9ge?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/86468adc-63e9-4e67-84d7-8bd839dda46d.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "Ionic Ceramic Hair Brush. Price Rs.1,799 (was Rs.2,599).",
+      "price": "Rs.1,799",
+      "old_price": "Rs.2,599",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
