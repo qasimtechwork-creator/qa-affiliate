@@ -30517,6 +30517,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-hsm-rotating-fruit-veg-rack",
+      "name": "HSM 3/4/5 Tier 360 Rotating Fruit Vegetable Rack",
+      "affiliate_url": "https://s.daraz.pk/s.XDkbX?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/423d060b-6353-4f75-9cd8-4a417e703b3c.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "HSM Rotating Fruit Rack. Price Rs.1,569 (was Rs.2,499).",
+      "price": "Rs.1,569",
+      "old_price": "Rs.2,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
