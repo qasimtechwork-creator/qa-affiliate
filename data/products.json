@@ -26082,6 +26082,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:17:16.178135",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-dan-makeup-organizer-box",
+      "name": "DAN TECHNOLOGY Makeup Organizer - Large Clear Cosmetic & Skincare Box",
+      "price": 9999,
+      "currency": "PKR",
+      "original_price": 20000,
+      "affiliate_url": "https://s.daraz.pk/s.XD2KU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ea680c39-0809-4719-8804-af004d7cdf28.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/ea680c39-0809-4719-8804-af004d7cdf28.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:18:52.948697",
+      "status": "live"
     }
   ]
 }
