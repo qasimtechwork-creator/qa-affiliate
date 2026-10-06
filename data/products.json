@@ -29719,6 +29719,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-2in1-electric-straightener-curler",
+      "name": "2-in-1 Electric Hair Straightener Curler Comb",
+      "affiliate_url": "https://s.daraz.pk/s.XD9hi?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/70e74555-ac2b-4be5-b00b-5669a59b267b.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "2-in-1 Hair Straightener Curler. Price Rs.1,499 (was Rs.1,999).",
+      "price": "Rs.1,499",
+      "old_price": "Rs.1,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
