@@ -31030,6 +31030,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3d-diy-acrylic-wall-clock",
+      "name": "3D DIY Acrylic Wall Clock Modern Quartz Design",
+      "affiliate_url": "https://s.daraz.pk/s.XDP28?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d646756c-f530-476e-928e-e3d11bb60ea7.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "3D DIY Wall Clock. Price Rs.599 (was Rs.999).",
+      "price": "Rs.599",
+      "old_price": "Rs.999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
