@@ -28736,6 +28736,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-custom-name-photo-wallet-keychain",
+      "name": "Customize Name and Photo Engraved Genuine Leather Wallet with Keychain",
+      "affiliate_url": "https://s.daraz.pk/s.XDROE?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/462dff74-b752-4b4f-a041-57863fc90f8f.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Custom Engraved Leather Wallet. Price Rs.999 (was Rs.1,800).",
+      "price": "Rs.999",
+      "old_price": "Rs.1,800",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
