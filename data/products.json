@@ -30213,6 +30213,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-360-rotating-5tier-basket-rack",
+      "name": "360-Degree 5tier Rotating Round Basket Organizer Rack",
+      "affiliate_url": "https://s.daraz.pk/s.XD9xJ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/a83577c8-eec3-4cef-af06-9c7527c33f47.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "360-Degree 5tier Rotating Round Basket Organizer Rack. Price Rs.5,999 (was Rs.5,999).",
+      "price": "Rs.5,999",
+      "old_price": "Rs.5,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-multifunctional-kitchen-rack-microwave",
+      "name": "Multi-Functional Kitchen Storage Rack Microwave Stand",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Ce?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/e6f5c229-571e-4255-9fa5-00abe80ad67b.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Multi-Functional Kitchen Storage Rack Microwave Stand. Price Rs.5,949 (was Rs.12,000).",
+      "price": "Rs.5,949",
+      "old_price": "Rs.12,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
