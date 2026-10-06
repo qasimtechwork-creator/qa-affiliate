@@ -28242,6 +28242,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-hoodie-vertical-strip-kangaroo",
+      "name": "Hoodie For Men And Boys NEW Stylish Vertical Strip Printed Kangaroo Hoodie",
+      "affiliate_url": "https://s.daraz.pk/s.XDRYg?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/af8acd38-9407-488e-af26-a7330baf9abb.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Hoodie For Men And Boys NEW Stylish Vertical Strip Printed Kangaroo Hoodie. Price Rs.1,094.",
+      "price": "Rs.1,094",
+      "old_price": "Rs.2,199",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-muslim-namaz-scarf-makhna",
+      "name": "Muslim Women Namaz Scarf Makhna Ehram Hijab Soft Fabric",
+      "affiliate_url": "https://s.daraz.pk/s.XDRYy?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/3439e014-1d62-4e50-a48d-abe934b08c15.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Muslim Women Namaz Scarf Makhna Ehram Hijab Soft Fabric. Price Rs.780.",
+      "price": "Rs.780",
+      "old_price": "Rs.780",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
