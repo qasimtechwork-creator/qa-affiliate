@@ -25314,6 +25314,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:51:24.230889",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-2in1-straightener-curler-pro",
+      "name": "2 in 1 Hair Straightener and Curler - Professional Styling for All Hair Types",
+      "price": 599,
+      "currency": "PKR",
+      "original_price": 1499,
+      "affiliate_url": "https://s.daraz.pk/s.XDXys?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/a27cd137-8463-4c94-8827-90bcdb7b968d.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/a27cd137-8463-4c94-8827-90bcdb7b968d.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:51:37.020702",
+      "status": "live"
     }
   ]
 }
