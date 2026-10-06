@@ -30460,6 +30460,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-wall-mounted-spice-jars-5grid",
+      "name": "Wall Mounted Spice Jars 5 Grid Seasoning Box",
+      "affiliate_url": "https://s.daraz.pk/s.XDkaL?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/01083638-f399-4fa8-9343-391196cc5e2f.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Wall Mounted Spice Jars. Price Rs.2,230 (was Rs.3,000).",
+      "price": "Rs.2,230",
+      "old_price": "Rs.3,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
