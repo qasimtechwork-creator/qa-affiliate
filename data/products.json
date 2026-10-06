@@ -24658,6 +24658,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:09:25.048954",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-jewellery-set-girls-fashion",
+      "name": "Jewellery Set for Girls & Women - New Fashionable Design",
+      "price": 699,
+      "currency": "PKR",
+      "original_price": 2000,
+      "affiliate_url": "https://s.daraz.pk/s.XDcEl?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f4fdfc61-3cb8-487f-8cf4-58c2043f8c69.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f4fdfc61-3cb8-487f-8cf4-58c2043f8c69.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:09:42.397762",
+      "status": "live"
     }
   ]
 }
