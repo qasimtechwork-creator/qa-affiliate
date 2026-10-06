@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 98,
+  "count": 100,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -101,6 +101,8 @@
     "daraz-miss-rose-kathleen-12pc-liner",
     "daraz-miss-rose-under-eye-maker",
     "daraz-smart-wifi-rgbic-neon-led-strip",
-    "daraz-10m-5050-rgb-led-strip-bluetooth"
+    "daraz-10m-5050-rgb-led-strip-bluetooth",
+    "daraz-10-bulb-led-vanity-mirror-lights",
+    "daraz-galaxy-rgb-5050-led-strip-5m"
   ]
 }

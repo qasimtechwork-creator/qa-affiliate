@@ -30023,6 +30023,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-10-bulb-led-vanity-mirror-lights",
+      "name": "10 Bulb LED Vanity Mirror Lights Hollywood Style",
+      "affiliate_url": "https://s.daraz.pk/s.XD9IR?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/55a79321-9d1f-4c6a-9120-966dc9fa6fd8.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "10 Bulb LED Vanity Mirror Lights Hollywood Style. Price Rs.1,499 (was Rs.2,000).",
+      "price": "Rs.1,499",
+      "old_price": "Rs.2,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-galaxy-rgb-5050-led-strip-5m",
+      "name": "Galaxy RGB 5050 LED Strip Light 5 Meters 16 Color",
+      "affiliate_url": "https://s.daraz.pk/s.XD9IC?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/9830953d-ba7a-43f0-ab47-6d643110db7c.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Galaxy RGB 5050 LED Strip Light 5 Meters 16 Color. Price Rs.1,299 (was Rs.2,400).",
+      "price": "Rs.1,299",
+      "old_price": "Rs.2,400",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
