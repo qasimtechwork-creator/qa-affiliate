@@ -25730,6 +25730,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:04:19.894032",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-pack4-watch-set-bracelet-locket",
+      "name": "Pack of 4 Watch Set for Men & Boys - Steel Quartz, Bracelet, Ring & Locket",
+      "price": 479,
+      "currency": "PKR",
+      "original_price": 1000,
+      "affiliate_url": "https://s.daraz.pk/s.XD25e?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f9559077-e9cc-4143-bafc-85af1b386cfd.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/f9559077-e9cc-4143-bafc-85af1b386cfd.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:04:39.323432",
+      "status": "live"
     }
   ]
 }
