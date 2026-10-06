@@ -25298,6 +25298,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:51:15.544980",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-3in1-straightener-dryer-brush-airflow",
+      "name": "3 in 1 Hair Straightener & Dryer Brush - Powerful Airflow, Volumizer",
+      "price": 1198,
+      "currency": "PKR",
+      "original_price": 1999,
+      "affiliate_url": "https://s.daraz.pk/s.XDXy9?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/5c8ae002-8062-44d3-af86-af21119e3e7a.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/5c8ae002-8062-44d3-af86-af21119e3e7a.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:51:24.230889",
+      "status": "live"
     }
   ]
 }
