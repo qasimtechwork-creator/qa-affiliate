@@ -31448,6 +31448,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-tws-earbuds-2nd-gen-titanium",
+      "name": "TWS Wireless Earbuds 2nd Generation Titanium Bluetooth 5.0",
+      "affiliate_url": "https://s.daraz.pk/s.XDP7b?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/d0f4e221-340d-470b-b6eb-53ab8d28d327.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "TWS Earbuds 2nd Gen. Price Rs.1,249 (was Rs.3,999).",
+      "price": "Rs.1,249",
+      "old_price": "Rs.3,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
