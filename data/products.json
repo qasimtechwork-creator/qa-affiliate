@@ -26034,6 +26034,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:16:27.896823",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-abaya-crinkle-georgette-afh",
+      "name": "Abaya Front Open Crinkle Georgette - Maxi Style, AFH Collection",
+      "price": 2599,
+      "currency": "PKR",
+      "original_price": 5000,
+      "affiliate_url": "https://s.daraz.pk/s.XD2o8?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6399be08-7133-480a-b519-d391e99c1978.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/6399be08-7133-480a-b519-d391e99c1978.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:16:43.421404",
+      "status": "live"
     }
   ]
 }
