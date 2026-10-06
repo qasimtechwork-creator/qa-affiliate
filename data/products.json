@@ -25170,6 +25170,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:48:36.647113",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-hair-dryer-hot-air-brush-3in1-smooth",
+      "name": "Hair Dryer Hot Air Brush 3 in 1 - Smooth & Frizz Free Styling",
+      "price": 1639,
+      "currency": "PKR",
+      "original_price": 1688,
+      "affiliate_url": "https://s.daraz.pk/s.XDXEB?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/0d82505f-aa8e-4cb5-87fb-004ad138c7b2.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/0d82505f-aa8e-4cb5-87fb-004ad138c7b2.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:48:49.938931",
+      "status": "live"
     }
   ]
 }
