@@ -28299,6 +28299,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-chiffon-hijab-niqab-patti-cap",
+      "name": "Chiffon Georgette Hijab with Niqab Patti and Cap",
+      "affiliate_url": "https://s.daraz.pk/s.XDR2E?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/eaf46621-93da-447c-97e7-5ebdf4d418a1.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Chiffon Georgette Hijab with Niqab Patti and Cap. Price Rs.969 (was Rs.1,199).",
+      "price": "Rs.969",
+      "old_price": "Rs.1,199",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
