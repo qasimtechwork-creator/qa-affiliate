@@ -25394,6 +25394,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:52:59.661110",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-portable-mini-straightener-antislip",
+      "name": "Portable Mini Hair Straightener - Fast Heating, Travel-Friendly, Anti-Slip",
+      "price": 499,
+      "currency": "PKR",
+      "original_price": 999,
+      "affiliate_url": "https://s.daraz.pk/s.XDXAI?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/38ea093b-5da4-4ad7-87f0-6cb316dc7a69.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/38ea093b-5da4-4ad7-87f0-6cb316dc7a69.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:53:27.513355",
+      "status": "live"
     }
   ]
 }
