@@ -31410,6 +31410,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-wireless-earbuds-54-led-enc",
+      "name": "Wireless Earbuds 5.4 TWS Gaming LED ENC Waterproof",
+      "affiliate_url": "https://s.daraz.pk/s.XDPSU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/90643449-54e0-4fff-87c1-23fe99de2a56.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Wireless Earbuds 5.4 TWS. Price Rs.1,558 (was Rs.2,075).",
+      "price": "Rs.1,558",
+      "old_price": "Rs.2,075",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
