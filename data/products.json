@@ -29396,6 +29396,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-fort-vitamin-c-serum-30ml",
+      "name": "FORT Vitamin C Serum Anti-Aging Dark Spot Correcting 30ML",
+      "affiliate_url": "https://s.daraz.pk/s.XD9b3?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ceafeef3-a1df-43b9-b96d-8d9f46486846.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "FORT Vitamin C Serum. Price Rs.299 (was Rs.500).",
+      "price": "Rs.299",
+      "old_price": "Rs.500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
