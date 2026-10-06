@@ -28337,6 +28337,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-winter-hoodie-copper-brown-fleece",
+      "name": "Winters Premium Quality Copper Brown Printed Fleece Hoodie for Men",
+      "affiliate_url": "https://s.daraz.pk/s.XDR42?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/67f623ac-251a-47b3-af66-5e357664a236.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Premium Fleece Winter Hoodie. Price Rs.1,199 (was Rs.2,399).",
+      "price": "Rs.1,199",
+      "old_price": "Rs.2,399",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
