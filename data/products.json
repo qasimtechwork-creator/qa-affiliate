@@ -28489,6 +28489,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-fashion-ladies-handbag-crossbody-2024",
+      "name": "New Fashion Ladies Handbag Crossbody Shoulder Bag 2024",
+      "affiliate_url": "https://s.daraz.pk/s.XDR7C?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/2d5cc77f-d8d6-4736-9f5b-f5412a167d6f.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Fashion Ladies Handbag. Price Rs.1,799 (was Rs.9,999).",
+      "price": "Rs.1,799",
+      "old_price": "Rs.9,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
