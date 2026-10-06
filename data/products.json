@@ -29700,6 +29700,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-blow-dryer-volumizer-1000w",
+      "name": "Blow Hair Dryer Volumizer Brush 1000W",
+      "affiliate_url": "https://s.daraz.pk/s.XD9T6?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6606f410-b4af-4fbf-8ebe-08eca98396a8.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "Blow Dryer Volumizer. Price Rs.1,749 (was Rs.2,899).",
+      "price": "Rs.1,749",
+      "old_price": "Rs.2,899",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
