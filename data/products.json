@@ -29092,6 +29092,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-nbh-women-sandal-party",
+      "name": "NBH Women Sandal Party Comfortable Slippers",
+      "affiliate_url": "https://s.daraz.pk/s.XDQvL?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/cf6d0d76-0270-4f55-bbd0-e3285493c276.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "NBH Party Sandals. Price Rs.1,498 (was Rs.2,198).",
+      "price": "Rs.1,498",
+      "old_price": "Rs.2,198",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
