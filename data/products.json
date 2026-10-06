@@ -29358,6 +29358,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-luxe-glow-vitamin-c-serum",
+      "name": "Luxe Glow All In One Vitamin C Niacinamide Serum 30ml",
+      "affiliate_url": "https://s.daraz.pk/s.XD90U?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/539331fd-bddc-4783-880a-c0a0dd91232f.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "Luxe Glow All In One Vitamin C Niacinamide Serum 30ml. Price Rs.1,275.89 (was Rs.1,999).",
+      "price": "Rs.1,275.89",
+      "old_price": "Rs.1,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-dr-rashel-vitamin-c-serum",
+      "name": "DR RASHEL Vitamin C Brightening Anti-Aging Face Serum 50ml",
+      "affiliate_url": "https://s.daraz.pk/s.XD90M?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/74ead8f2-37ea-4ffc-b678-ca56e3fc7853.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "DR RASHEL Vitamin C Brightening Anti-Aging Face Serum 50ml. Price Rs.999 (was Rs.1,399).",
+      "price": "Rs.999",
+      "old_price": "Rs.1,399",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
