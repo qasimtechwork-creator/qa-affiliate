@@ -28641,6 +28641,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-genuine-leather-mens-wallet-rfid",
+      "name": "Genuine Leather Mens Zipper Coin Purse Wallet RFID Blocking",
+      "affiliate_url": "https://s.daraz.pk/s.XDRP4?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/8ee7b0e2-0fe1-484c-b4be-02fc0f0db423.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Genuine Leather Wallet RFID Blocking. Price Rs.1,399 (was Rs.2,499).",
+      "price": "Rs.1,399",
+      "old_price": "Rs.2,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
