@@ -28565,6 +28565,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-handbag-new-design-long-belt",
+      "name": "Handbag New Design Shoulder Bag with Long Belt",
+      "affiliate_url": "https://s.daraz.pk/s.XDR8S?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/27c43bf1-163a-4e06-b61f-cc20cbb14609.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "New Design Shoulder Handbag. Price Rs.1,199 (was Rs.1,499).",
+      "price": "Rs.1,199",
+      "old_price": "Rs.1,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
