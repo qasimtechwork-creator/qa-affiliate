@@ -29491,6 +29491,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-5in1-matte-lipstick-waterproof",
+      "name": "5 in 1 Matte Lipstick Set Waterproof Long Lasting",
+      "affiliate_url": "https://s.daraz.pk/s.XD92g?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/92f56313-b97f-4a11-bae4-d00c5269028f.jpg",
+      "merchant": "daraz",
+      "category": "beauty",
+      "source": "owner-supplied",
+      "short_description": "5 in 1 Lipstick Set. Price Rs.199 (was Rs.219).",
+      "price": "Rs.199",
+      "old_price": "Rs.219",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
