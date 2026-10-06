@@ -28812,6 +28812,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-imperial-horse-leather-wallet",
+      "name": "Imperial Horse Real Leather Wallet for Men",
+      "affiliate_url": "https://s.daraz.pk/s.XDRnU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/480c0c4f-e26d-43af-abe5-e87397bb6e5f.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Imperial Horse Leather Wallet. Price Rs.658 (was Rs.1,500).",
+      "price": "Rs.658",
+      "old_price": "Rs.1,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
