@@ -30916,6 +30916,44 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-22l-electric-kettle-steel",
+      "name": "2.2L Electric Kettle Fast Boil Stainless Steel",
+      "affiliate_url": "https://s.daraz.pk/s.XDPb9?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ac452cac-9da1-4b01-ba01-31c87d475ed4.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "2.2L Electric Kettle Fast Boil Stainless Steel. Price Rs.2,299 (was Rs.3,999).",
+      "price": "Rs.2,299",
+      "old_price": "Rs.3,999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-electric-kettle-2l-1500w",
+      "name": "Electric Kettle 2.0 Liter 1500W Stainless Steel",
+      "affiliate_url": "https://s.daraz.pk/s.XDPby?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f30e28a3-2291-477e-8091-29a78a77f7f0.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Electric Kettle 2.0 Liter 1500W Stainless Steel. Price Rs.1,799 (was Rs.2,500).",
+      "price": "Rs.1,799",
+      "old_price": "Rs.2,500",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
