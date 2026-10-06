@@ -25218,6 +25218,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:49:29.234285",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-bazaarhub-hair-straightener",
+      "name": "BazaarHub Hair Straightener - Ceramic Tourmaline, Adjustable Temp, Swivel Cord",
+      "price": 1949,
+      "currency": "PKR",
+      "original_price": 2500,
+      "affiliate_url": "https://s.daraz.pk/s.XDXDw?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/0a3219b0-1412-49e3-ace6-ed726f537157.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/0a3219b0-1412-49e3-ace6-ed726f537157.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:49:51.416961",
+      "status": "live"
     }
   ]
 }
