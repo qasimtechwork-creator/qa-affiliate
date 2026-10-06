@@ -30080,6 +30080,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-rainbow-rgb-led-strip-45m",
+      "name": "Rainbow RGB LED Strip Light 4.5 Meter Remote",
+      "affiliate_url": "https://s.daraz.pk/s.XD9Ho?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/ec317ceb-dceb-4e91-b5fd-0c1a8f3379fa.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Rainbow RGB LED Strip 4.5M. Price Rs.970 (was Rs.1,600).",
+      "price": "Rs.970",
+      "old_price": "Rs.1,600",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
