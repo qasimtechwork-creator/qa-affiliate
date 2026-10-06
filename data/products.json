@@ -25794,6 +25794,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T05:05:26.539033",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-datejust-two-tone-olive-watch",
+      "name": "Premium Datejust Style Two Tone Watch - Olive Green Ombre Dial",
+      "price": 2999,
+      "currency": "PKR",
+      "original_price": 5999,
+      "affiliate_url": "https://s.daraz.pk/s.XD2TZ?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/6822aef3-814f-4dab-8aec-ee579c82542d.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/6822aef3-814f-4dab-8aec-ee579c82542d.jpg"
+      ],
+      "category": "fashion",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T05:05:37.273472",
+      "status": "live"
     }
   ]
 }
