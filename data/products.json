@@ -25138,6 +25138,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:47:58.320922",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-shaving-machine-3in1-trimmer",
+      "name": "Shaving Machine 3 in 1 - Rechargeable Clipper, Beard Styling Trimmer",
+      "price": 2499,
+      "currency": "PKR",
+      "original_price": 2499,
+      "affiliate_url": "https://s.daraz.pk/s.XDXvD?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/4f091712-edf8-4353-8a01-928d3050ce23.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/4f091712-edf8-4353-8a01-928d3050ce23.jpg"
+      ],
+      "category": "beauty",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:48:20.766650",
+      "status": "live"
     }
   ]
 }
