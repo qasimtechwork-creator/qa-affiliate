@@ -30308,6 +30308,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-bathroom-corner-cabinet-rotating",
+      "name": "Bathroom Corner Cabinet 360 Rotating Two Layer",
+      "affiliate_url": "https://s.daraz.pk/s.XD9yC?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/1c3f6489-6a80-49d0-ab01-34913dbbab12.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Bathroom Corner Cabinet. Price Rs.3,544 (was Rs.5,000).",
+      "price": "Rs.3,544",
+      "old_price": "Rs.5,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
