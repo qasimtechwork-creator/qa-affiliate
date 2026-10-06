@@ -24850,6 +24850,22 @@
       "source": "owner-app-verified",
       "date_added": "2026-10-06T04:16:18.817411",
       "status": "live"
+    },
+    {
+      "id": "daraz-real-genric-mini-exercise-bike",
+      "name": "GENRIC Gym Mini Exercise Bike - Portable Foot Cycle for Under Desk",
+      "price": 3573,
+      "currency": "PKR",
+      "original_price": 5999,
+      "affiliate_url": "https://s.daraz.pk/s.XDX07?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/95032daa-b37c-409e-a46b-3c265144d9d1.jpg",
+      "images": [
+        "https://lzd-img-push.slatic.net/lazada-creative-center/95032daa-b37c-409e-a46b-3c265144d9d1.jpg"
+      ],
+      "category": "fitness",
+      "source": "owner-app-verified",
+      "date_added": "2026-10-06T04:16:48.052212",
+      "status": "live"
     }
   ]
 }
