@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 26,
+  "count": 27,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -29,6 +29,7 @@
     "daraz-designer-shoulder-bag-long-belt",
     "daraz-handbag-new-design-long-belt",
     "daraz-leather-shoulder-bag-phone-pouch",
-    "daraz-meerab-style-handbag-pu"
+    "daraz-meerab-style-handbag-pu",
+    "daraz-unicorn-bag-kids-crossbody"
   ]
 }
