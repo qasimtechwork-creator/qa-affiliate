@@ -28940,6 +28940,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-cinderella-heel-sandals-peep-toe",
+      "name": "Cinderella Heel Sandals for Women Peep Toe 3-inch",
+      "affiliate_url": "https://s.daraz.pk/s.XDQqD?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/294dba14-df97-44c5-a231-5c9b4454f537.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Cinderella Heel Sandals. Price Rs.2,699 (was Rs.4,499).",
+      "price": "Rs.2,699",
+      "old_price": "Rs.4,499",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }

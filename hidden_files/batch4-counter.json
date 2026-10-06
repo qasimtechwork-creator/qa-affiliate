@@ -1,7 +1,7 @@
 {
   "batch": 4,
   "started": "2026-10-06",
-  "count": 41,
+  "count": 42,
   "target": 100,
   "products": [
     "daraz-singing-baby-girl-doll-40cm",
@@ -44,6 +44,7 @@
     "daraz-slim-matte-leather-wallet",
     "daraz-premium-leather-wallet-gift",
     "daraz-transparent-block-heels-rhinestone",
-    "daraz-ravish-marigold-transparent-heels"
+    "daraz-ravish-marigold-transparent-heels",
+    "daraz-cinderella-heel-sandals-peep-toe"
   ]
 }
