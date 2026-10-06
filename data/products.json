@@ -28793,6 +28793,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-baellerry-long-wallet-pu",
+      "name": "Baellerry Long Wallet Premium PU Leather Slim",
+      "affiliate_url": "https://s.daraz.pk/s.XDRNU?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/fa059776-9a53-4818-b98a-5b4f46f90353.jpg",
+      "merchant": "daraz",
+      "category": "fashion",
+      "source": "owner-supplied",
+      "short_description": "Baellerry Long Wallet. Price Rs.799 (was Rs.999).",
+      "price": "Rs.799",
+      "old_price": "Rs.999",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
