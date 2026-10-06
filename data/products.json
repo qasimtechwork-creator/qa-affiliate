@@ -31467,6 +31467,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-wireless-earbuds-high-bass",
+      "name": "Wireless Earbuds Bluetooth High Bass Waterproof",
+      "affiliate_url": "https://s.daraz.pk/s.XDP7n?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/f15bc1bf-bef4-4324-9c23-1866075acbea.jpg",
+      "merchant": "daraz",
+      "category": "electronics",
+      "source": "owner-supplied",
+      "short_description": "Wireless Earbuds High Bass. Price Rs.1,099 (was Rs.2,000).",
+      "price": "Rs.1,099",
+      "old_price": "Rs.2,000",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
