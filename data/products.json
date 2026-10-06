@@ -27788,6 +27788,346 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-satin-floral-slip-nightgown",
+      "name": "Women's Satin Floral Slip Nightgown",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3KPK9ZT",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S88fa267b07b34e8e8ff36f499c7c0d15L.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Women's Satin Floral Slip Nightgown. Price USD20.20.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-pink-lace-corset-two-piece",
+      "name": "Pink Lace Corset Two-Piece Set",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c4ESZZy1",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sb08533cf98e142edb65bf1c85b4b0a69e.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Pink Lace Corset Two-Piece Set. Price USD37.11.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-ruched-bustier-midi-dress",
+      "name": "Ruched Bustier Bodycon Midi Dress",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c2vR3OvX",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S96575f94dfcb4d08879c4c89677314f5t.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Ruched Bustier Bodycon Midi Dress. Price USD45.62.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-linen-blazer-pants-set",
+      "name": "Linen Look Oversized Blazer + Wide Leg Pants Set",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3PJC7RX",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S6fc5331e9e974f2f8a14762e329dcb8cB.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Linen Look Oversized Blazer + Wide Leg Pants Set. Price USD41.26.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-gothic-floral-blazer",
+      "name": "Gothic 3D Floral Oversized Blazer",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3pqzc3T",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S6385aaff079e4c8793026d76db009b71T.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Gothic 3D Floral Oversized Blazer. Price USD53.33.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-oversized-blazer-lace-up",
+      "name": "Oversized Blazer with Lace Up Detail",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3wK4z1j",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S88981ebb3b4b481a8cd8573cd0832554S.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Oversized Blazer with Lace Up Detail. Price USD22.59.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-waffle-cardigan-two-piece",
+      "name": "Waffle Knit Cardigan Two-Piece Set",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3BCzJTr",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S8410bd0de9e649b2a4259eb573486204D.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Waffle Knit Cardigan Two-Piece Set. Price USD41.69.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-knit-sweater-pants-set",
+      "name": "Knit Sweater + Wide Leg Pants Set",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c39EizBn",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S194ab89875d34780a91b638f4983b294P.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Knit Sweater + Wide Leg Pants Set. Price USD63.28.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-beaded-mary-jane-flats",
+      "name": "Beaded Mary Jane Ballet Flats",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c37Qtrm9",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S3cfdf06faffc435696933fa5406d7300v.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Beaded Mary Jane Ballet Flats. Price USD31.19.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-silver-mary-jane-flats",
+      "name": "Silver Mary Jane Flats with Buckle",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3iZyPOH",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S1853bd75ae2f4cd78f3767c2a3474cf2A.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Silver Mary Jane Flats with Buckle. Price USD32.47.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-scrunchie-mary-jane-flats",
+      "name": "Scrunchie Strap Mary Jane Flats",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3W3pFct",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sc963cac2179f455ba7fb48a31cf5f0aap.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Scrunchie Strap Mary Jane Flats. Price USD11.09.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-gold-layered-necklace",
+      "name": "Gold Plated Layered Necklace",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3XVi2Kh",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S392cef9c3b594914b2fc68e5cde78347M.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Gold Plated Layered Necklace. Price USD2.45.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-dainty-gold-necklace-set",
+      "name": "Dainty 14k Gold Plated Necklace Set",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c4M8MLsD",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sb65b5439a09a46b1b85811e411577817A.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Dainty 14k Gold Plated Necklace Set. Price USD1.09.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-paperclip-chain-necklace",
+      "name": "Gold Paperclip Chain Necklace",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3lwcfQd",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Se0aa0ae8cd0a46d69b25d5c3c53440dab.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Gold Paperclip Chain Necklace. Price USD1.09.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-oversized-gradient-sunglasses",
+      "name": "Oversized Gradient Sunglasses",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3VADPMZ",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sdab10a95d3844aa19aa41604efd0fc4dc.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Oversized Gradient Sunglasses. Price USD0.99.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-rimless-square-sunglasses",
+      "name": "Rimless Square Sunglasses UV400",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3iWh8Zn",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S56828c38b56f4684b893061358e6cb181.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Rimless Square Sunglasses UV400. Price USD0.99.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-satin-pleated-maxi-skirt",
+      "name": "Satin Pleated Maxi Skirt",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c30pGXl3",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S3faac9d4be3b4a818b1c95160edad541x.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Satin Pleated Maxi Skirt. Price USD21.95.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-pleated-midi-skirt-plus",
+      "name": "Pleated Midi Skirt Plus Size",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c3aTgNup",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sac39923275494be59fe3b85357eb67b4g.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Pleated Midi Skirt Plus Size. Price USD14.10.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-long-sleeve-bodysuit",
+      "name": "Long Sleeve Bodysuit",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c36n9Fpj",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S5bf7e66e3b9d4aa7858afcf4a2f659b74.jpg",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Long Sleeve Bodysuit. Price USD13.31.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
+    },
+    {
+      "id": "aliexpress-glossy-bodysuit",
+      "name": "Glossy Long Sleeve Bodysuit",
+      "affiliate_url": "https://s.click.aliexpress.com/e/_c4o6k6y5",
+      "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S25350ac8061041de9b0ca2d5855b1ec1g.png",
+      "merchant": "aliexpress",
+      "category": "fashion",
+      "source": "portal-default",
+      "short_description": "Glossy Long Sleeve Bodysuit. Price USD25.79.",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
