@@ -30441,6 +30441,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-3tier-slim-storage-cart",
+      "name": "3 Tier Slim Storage Cart Slide Out Shelves Rolling",
+      "affiliate_url": "https://s.daraz.pk/s.XDkad?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/a390acc2-685d-431a-a363-2c0e0a4d47df.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "3 Tier Slim Storage Cart. Price Rs.2,747 (was Rs.3,600).",
+      "price": "Rs.2,747",
+      "old_price": "Rs.3,600",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
