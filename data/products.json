@@ -30897,6 +30897,25 @@
       "trend_status": "new",
       "sample": false,
       "updated": "2026-10-06"
+    },
+    {
+      "id": "daraz-bazaarhub-electric-kettle-2l",
+      "name": "BazaarHub Electric Kettle 2.0L 2000W Fast Boil",
+      "affiliate_url": "https://s.daraz.pk/s.XDP0x?cc",
+      "image_url": "https://lzd-img-push.slatic.net/lazada-creative-center/a0312378-4407-4a72-b0da-71d37e2901c8.jpg",
+      "merchant": "daraz",
+      "category": "home",
+      "source": "owner-supplied",
+      "short_description": "Electric Kettle 2.0L. Price Rs.2,299 (was Rs.3,300).",
+      "price": "Rs.2,299",
+      "old_price": "Rs.3,300",
+      "badges": [
+        "new"
+      ],
+      "rating": 4.5,
+      "trend_status": "new",
+      "sample": false,
+      "updated": "2026-10-06"
     }
   ]
 }
