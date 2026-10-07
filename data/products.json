@@ -35185,6 +35185,31 @@
    "affiliate_pending": false,
    "sample": false,
    "updated": "2026-10-07"
+  },
+  {
+   "id": "daraz-bruno-vegetable-salad-cutter-slicer-onion-potato",
+   "name": "Bruno Vegetable Salad Cutter Slicer Onion Potato",
+   "short_description": "Rs.741 (was Rs.1,000). Bruno vegetable salad cutter slicer for onion potato.",
+   "category": "home",
+   "subcategory": "Kitchen",
+   "merchant": "daraz",
+   "platform": "daraz",
+   "source": "owner",
+   "affiliate_url": "https://s.daraz.pk/s.XxYkb?cc",
+   "source_url": "https://www.daraz.pk/products/bruno-vegetable-salad-cutter-slicer-onion-potato-slicer-kitchen-tools-i848091733-s3807937585.html",
+   "image_url": "https://static-01.daraz.pk/p/a5525f2111fa2eb51036d2627c58035b.jpg",
+   "badges": [
+    "trending"
+   ],
+   "rating": 4.5,
+   "sold_count": "",
+   "pros": [],
+   "cons": [],
+   "key_features": [],
+   "trend_status": "trending",
+   "affiliate_pending": false,
+   "sample": false,
+   "updated": "2026-10-07"
   }
  ]
 }
