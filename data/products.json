@@ -34285,6 +34285,31 @@
    "affiliate_pending": false,
    "sample": false,
    "updated": "2026-10-07"
+  },
+  {
+   "id": "daraz-bazaarhub-electric-stove-portable-single-burner-lo",
+   "name": "BazaarHub Electric Stove Portable Single Burner Low Voltage",
+   "short_description": "Rs.2,199 (was Rs.2,399). Portable single burner electric stove, low voltage.",
+   "category": "home",
+   "subcategory": "Kitchen",
+   "merchant": "daraz",
+   "platform": "daraz",
+   "source": "owner",
+   "affiliate_url": "https://s.daraz.pk/s.Xxbtf?cc",
+   "source_url": "https://www.daraz.pk/products/bazaarhub-electric-stove-for-cooking-portable-stoves-for-kitchen-use-premium-electric-stove-with-low-voltage-technology-single-burner-stove-for-easy-cooking-at-home-office-hostel-and-travel-i1953639863-s14014901574.html",
+   "image_url": "https://static-01.daraz.pk/p/b929c80de9a02a71a2af50aee407b6be.png",
+   "badges": [
+    "trending"
+   ],
+   "rating": 4.5,
+   "sold_count": "",
+   "pros": [],
+   "cons": [],
+   "key_features": [],
+   "trend_status": "trending",
+   "affiliate_pending": false,
+   "sample": false,
+   "updated": "2026-10-07"
   }
  ]
 }
