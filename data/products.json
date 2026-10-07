@@ -33000,6 +33000,41 @@
    "trend_status": "new",
    "sample": false,
    "updated": "2026-10-07"
+  },
+  {
+   "id": "daraz-manual-roti-maker-press-nonstick-chapati",
+   "name": "Manual Roti Maker Press Non-Stick Chapati Maker",
+   "short_description": "Rs.10,000 (was Rs.15,000). Non-stick manual roti maker press for perfect round rotis at home.",
+   "category": "home",
+   "subcategory": "Kitchen Tools",
+   "merchant": "daraz",
+   "platform": "daraz",
+   "source": "owner",
+   "affiliate_url": "https://s.daraz.pk/s.Xx0gp?cc",
+   "source_url": "https://www.daraz.pk/products/manual-roti-maker-press-non-stick-chapati-maker-easy-to-use-kitchen-tool-for-perfect-round-rotis-durable-portable-design-for-home-use-i1964766926-s14042604169.html",
+   "image_url": "https://pk-live-21.slatic.net/kf/S194a9121644647978bc7282da462c099R.jpg",
+   "badges": [
+    "trending"
+   ],
+   "rating": 4.5,
+   "sold_count": "",
+   "pros": [
+    "Non-stick surface for easy roti release",
+    "Durable and portable design",
+    "Makes perfect round rotis"
+   ],
+   "cons": [
+    "Manual operation"
+   ],
+   "key_features": [
+    "Non-stick chapati maker press",
+    "Easy to use kitchen tool",
+    "Durable portable design for home use"
+   ],
+   "trend_status": "trending",
+   "affiliate_pending": false,
+   "sample": false,
+   "updated": "2026-10-07"
   }
  ]
 }
