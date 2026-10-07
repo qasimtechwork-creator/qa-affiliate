@@ -1,1 +1,18 @@
-{"cleanUrls":true,"trailingSlash":false}
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/product.html",
+      "has": [{ "type": "query", "key": "id", "value": "(?<pid>[^&]+)" }],
+      "destination": "/item/$pid",
+      "permanent": true
+    },
+    {
+      "source": "/product",
+      "has": [{ "type": "query", "key": "id", "value": "(?<pid>[^&]+)" }],
+      "destination": "/item/$pid",
+      "permanent": true
+    }
+  ]
+}
