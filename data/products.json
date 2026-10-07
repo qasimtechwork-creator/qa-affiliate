@@ -35285,6 +35285,31 @@
    "affiliate_pending": false,
    "sample": false,
    "updated": "2026-10-07"
+  },
+  {
+   "id": "daraz-imported-kitchen-peeler-plastic-handle-fruit-veget",
+   "name": "Imported Kitchen Peeler Plastic Handle Fruit Vegetable",
+   "short_description": "Rs.207. Imported plastic handle fruit and vegetable peeler.",
+   "category": "home",
+   "subcategory": "Kitchen",
+   "merchant": "daraz",
+   "platform": "daraz",
+   "source": "owner",
+   "affiliate_url": "https://s.daraz.pk/s.XxYNx?cc",
+   "source_url": "https://www.daraz.pk/products/new-imported-peelers-kitchen-plastic-handle-fruit-vegetable-peeler-peeling-tool-cutter-peeler-filer-i130560648-s3884377841.html",
+   "image_url": "https://static-01.daraz.pk/p/783e6bc1b87d68852a99590fe5d9b102.png",
+   "badges": [
+    "trending"
+   ],
+   "rating": 4.5,
+   "sold_count": "",
+   "pros": [],
+   "cons": [],
+   "key_features": [],
+   "trend_status": "trending",
+   "affiliate_pending": false,
+   "sample": false,
+   "updated": "2026-10-07"
   }
  ]
 }
