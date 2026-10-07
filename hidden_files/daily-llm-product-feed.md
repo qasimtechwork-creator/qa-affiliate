@@ -1,7 +1,7 @@
 # QA Affiliate Product Feed
 
-Generated: 2026-10-06T01:44:14.634892
-Total: 876 products
+Generated: 2026-10-07T01:47:04.074156
+Total: 1256 products
 
 ## Women's Elegant Solid Color Openwork Jacket — 2026 Spring/Summer Cardigan
 - Price: USD None
@@ -5276,862 +5276,3522 @@ Total: 876 products
 
 ## Mimo Mini Hand Electric Body Massager For Women and Girls - Portable Triangle Vibrational Massager (USB/AAA)
 - Price: PKR 499
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwESq?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-mimo-mini-hand-electric-body-massager
 
 ## Volume Clubbing Mascara - Best Black Mascara For Girls and Women - For Events and Parties
 - Price: PKR 299
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEic?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-volume-clubbing-mascara-black
 
 ## Mutual Love Red Eau de Parfum 50ml - Long Lasting Fruity Floral Musky Fragrance, Unisex Perfume for Couples
 - Price: PKR 449
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEiF?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-mutual-love-red-eau-de-parfum-50ml
 
 ## Face Slimming Belt V Line Face Shaper - Double Chin Reducer, Anti-Wrinkle Reusable Face Lift Strap
 - Price: PKR 409
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwERh?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-face-slimming-belt-v-line-shaper
 
 ## Blue Lady Perfume for Women - Long Lasting Best Fragrance, Perfect Gift
 - Price: PKR 349
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwE8x?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-blue-lady-perfume-women
 
 ## Pack of 2 Perfumes - Shalis + Blue Lady for Women, Long Lasting Fragrance Gift Set
 - Price: PKR 696
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEjq?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-perfumes-shalis-blue-lady
 
 ## Pack of 2 - Blue Lady & Secret Perfume for Women, Best Quality Fragrance Gift Set
 - Price: PKR 799
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEQS?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-blue-lady-secret-perfume
 
 ## Blue Lady Perfume 40ml for Women - Long Lasting Luxury Floral Fragrance, Premium Designer Scent
 - Price: PKR 248
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEQG?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-blue-lady-perfume-40ml-luxury
 
 ## Dior Sauvage Impression Perfume 100ml - Long Lasting Fragrance for Men, Best Gift
 - Price: PKR 597
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwE9B?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-dior-sauvage-impression-perfume-men-100ml
 
 ## Arabic Pen Perfume Pack 35ml Each - Long Lasting Fragrance for Men & Women, Best Gift Set
 - Price: PKR 369
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEP1?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-arabic-pen-perfume-pack-men-women
 
 ## Ameer Al Oud Perfume For Men EDP 35ml - Long Lasting Arabian Fragrance
 - Price: PKR 299
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwElX?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-ameer-al-oud-perfume-men-35ml
 
 ## Oud Collection Perfume for Men 100ml - Long Lasting Arabic Oud Fragrance, Best Gift
 - Price: PKR 469
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEOW?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-oud-collection-perfume-men-100ml
 
 ## Joop Perfume Unisex 100ml - Long Lasting Premium Luxury Fragrance for Men & Women
 - Price: PKR 599
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEOo?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-joop-perfume-unisex-100ml
 
 ## Royal Ramba Impression 100ml for Women - Long Lasting Sweet Floral Musky Fragrance
 - Price: PKR 449
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEmq?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-royal-ramba-impression-women-100ml
 
 ## Impression Premium Long Lasting Perfume for Men 35ml - Strong Masculine Scent
 - Price: PKR 498
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwENq?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-impression-premium-perfume-men-35ml
 
 ## Luxury Couple Perfume Set - Royal Ramba + Bloom Pour Femme 100ml Each, BOGO Deal
 - Price: PKR 843
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEoK?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-luxury-couple-perfume-set-ramba-bloom
 
 ## Lord Perfume For Men EDP 50ml - Premium Long Lasting Fragrance
 - Price: PKR 1499
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEKX?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-lord-perfume-men-edp-50ml
 
 ## Body Spray Pack of 6 (200ml Each) - BigBoss, Dundill, One2One, Freshrite - Unisex Value Pack
 - Price: PKR 2195
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEqf?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-body-spray-pack-6-200ml-unisex
 
 ## Iqbal Perfume For Men 50ml - Oriental Woody, Best Selling by Scents N Stories
 - Price: PKR 4190
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEJ1?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-iqbal-perfume-men-scents-n-stories-50ml
 
 ## Creation Lamis Everyone Perfume for Men 100ml - Premium Long Lasting Fragrance
 - Price: PKR 2340
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwErn?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-creation-lamis-everyone-men-100ml
 
 ## Pack of 4 Refillable 5ml Mini Perfume Spray Bottles - Portable Travel Atomizer for Men & Women
 - Price: PKR 519
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEsP?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-refillable-perfume-spray-bottle-5ml
 
 ## Pack of 4 Mini Perfume Spray Bottles 5ml - Portable Refillable Travel Atomizer for Men Women Girls
 - Price: PKR 299
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEtV?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-mini-perfume-spray-bottle-5ml-v2
 
 ## Pack of 4 Refillable 5ml Mini Perfume Spray Bottles - Metal & Plastic Atomizer, Travel Fragrance Refill
 - Price: PKR 519
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEG1?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-refillable-spray-bottle-5ml-v3
 
 ## Aura Watch for Men - Original Arabic Dial Luxury Business Watch, Black & Blue with Box
 - Price: PKR 440
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwEua?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-aura-watch-men-arabic-dial
 
 ## Luxury Creed Aventus Impression EDP 100ml - Premium Men's Fragrance, Fresh Fruity Woody Scent
 - Price: PKR 849
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEFX?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-creed-aventus-impression-men-100ml
 
 ## Pack of 2 - Dior Sauvage + Davidoff Cool Water Impression for Men 100ml Each, BOGO Deal
 - Price: PKR 999
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEv8?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-dior-sauvage-davidoff-coolwater-men
 
 ## Creation Lamis Everyone Perfume for Men 100ml - Premium Long Lasting Fragrance
 - Price: PKR 2340
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEEi?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-creation-lamis-everyone-men-100ml-v2
 
 ## Hustle 22 Perfume for Men 50ml - Strong & Long Lasting Fragrance
 - Price: PKR 2202
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwEDU?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-hustle-22-perfume-men-50ml
 
 ## Sundown Noir 100ml Perfume For Men EDT - Dorall Collection, Long Lasting
 - Price: PKR 1340
-- Platform: None
+- Platform: daraz
 - Category: beauty
 - Buy: https://s.daraz.pk/s.XwECa?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-sundown-noir-men-100ml-dorall
 
 ## Trending Classic Luxury Wrist Watch for Men - Water Resistant, Stylish
 - Price: PKR 680
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xww1O?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-trending-classic-luxury-watch-men
 
 ## Aura Watch for Men - Original Arabic Dial Luxury Business Watch with Box
 - Price: PKR 440
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwc3?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-aura-watch-men-arabic-dial-v2
 
 ## Classic Luxury Watch for Men - Stylish Stainless Steel Arabic Dial
 - Price: PKR 399
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwXW?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-classic-luxury-watch-men-steel-arabic
 
 ## 100% Imported High Quality Watch for Men - New 2025 Design
 - Price: PKR 698
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwXA?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-imported-quality-watch-men-2025
 
 ## Twin Shop Rubber Strap Watch for Men - Quartz Casual Style, Multiple Colors
 - Price: PKR 699
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xww2N?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-twin-shop-rubber-strap-watch-men
 
 ## Pack of 4 Watch Set for Men - Stainless Steel Quartz with Chain Bracelet, Ring & Locket
 - Price: PKR 489
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwdV?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-watch-set-men-steel
 
 ## Pack of 4 Watch Set for Men - Stainless Steel Quartz with Bracelet, Ring & Locket
 - Price: PKR 479
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwdI?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-4-watch-set-men-v2
 
 ## Analog Watch for Men - Stainless Steel Quartz, Classic Fashion Style
 - Price: PKR 749
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwWW?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-analog-watch-men-steel-classic
 
 ## Analog Watch for Men - Stainless Steel Quartz Classic Style, Multiple Colors
 - Price: PKR 499
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwWK?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-analog-watch-men-steel-v2
 
 ## Luxury Watch for Men - Silicone Strap Quartz, Casual Fashion Style
 - Price: PKR 999
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xww3R?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-luxury-watch-men-silicone
 
 ## Watch for Men - Leather Strap Quartz, Casual Black Style
 - Price: PKR 700
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwed?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-watch-men-leather-strap-black
 
 ## Square Dial Watch with Rubber Strap for Men - High Quality Modern Design
 - Price: PKR 699
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwex?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-square-dial-watch-rubber-men
 
 ## Classic Analog Wrist Watch for Men - Stylish Dial with Comfortable Rubber Strap
 - Price: PKR 750
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwVF?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-classic-analog-wrist-watch-rubber
 
 ## Digital LED Sport Watch for Men - Water Resistant, Alarm Clock, Square Design
 - Price: PKR 1060
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xww4o?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-digital-led-sport-watch-men
 
 ## Handbag For Girls - Leather Shoulder Bag for Women, Casual with Phone Pouch
 - Price: PKR 449
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwQq?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-leather-shoulder
 
 ## New Shoulder Premium Quality Bag - Beautiful Multicolor for Girls, All Season
 - Price: PKR 1699
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xww9i?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-shoulder-premium-bag-multicolor
 
 ## Stylish Gift Bags for Girls - Trendy Leather Designs
 - Price: PKR 1999
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xww9D?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-stylish-gift-bags-girls-leather
 
 ## Premium Leather Hobo Multicolor Handbag for Girls - Shoulder Underarm Bag with Phone Pouch
 - Price: PKR 449
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwkd?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-premium-leather-hobo-handbag-multicolor
 
 ## Fashion Club Handbag for Girls - Leather Crossbody & Shoulder Bag with Phone Pouch
 - Price: PKR 499
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwku?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-fashion-club-handbag-girls
 
 ## Embroidery Multicolor Crossbody Bag - Korean Shoulder Bag for Girls, Classic Threadwork
 - Price: PKR 410
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwP7?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-embroidery-crossbody-bag-korean
 
 ## Stylish Leather Handbag for Women - Shoulder Crossbody Bag with Phone Pouch
 - Price: PKR 449
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwPz?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-stylish-leather-handbag-women
 
 ## Three Piece Premium Luxury Ladies Hand Bags - Top Handle Large Capacity Shoulder Bag Set
 - Price: PKR 1998.57
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwll?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-three-piece-luxury-handbags-ladies
 
 ## Hand Bag for Girls - Big Size Shoulder Crossbody Tote Bag for Women
 - Price: PKR 2399
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwOO?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-big-size-tote
 
 ## Hand Bags For Girls Pack of 5 Piece Set - Stylish with Long Strap, Multiple Colors
 - Price: PKR 2299
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwm8?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-handbags-girls-pack-5-piece
 
 ## Style Hub Classic Leather Handbag - Elegant Shoulder & Cross Body Bag for Women
 - Price: PKR 479
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwNg?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-style-hub-leather-handbag
 
 ## Handbag for Girls - Multicolor Leather Casual with Phone Pouch, Crossbody & Shoulder
 - Price: PKR 1249
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwn9?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-multicolor-leather-v2
 
 ## Two Piece Tote Bag for Girls - Stylish Purse and Shoulder Bag Set
 - Price: PKR 1845
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwMY?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-two-piece-tote-bag-girls
 
 ## Two Piece Tote Bag for Girls - Stylish Ladies Purse and Shoulder Bag
 - Price: PKR 1759
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwKg?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-two-piece-tote-bag-girls-v2
 
 ## Zushaam Hand Bag for Girls - Multicolor Leather Crossbody with Adjustable Strap
 - Price: PKR 994
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwqr?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zushaam-handbag-girls-multicolor
 
 ## Handbags For Girls New Design - Shoulder Bag with Long Belt
 - Price: PKR 1020
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwJo?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-handbags-girls-new-design-long-belt
 
 ## Zushaam Hand Bag - Black & White Leather Crossbody with Adjustable Strap for Women
 - Price: PKR 1050
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwrr?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zushaam-handbag-black-white
 
 ## Trendzio Multi Color Folding Umbrella - 8 Ribs Compact for Rain & Sun Protection
 - Price: PKR 1052
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwws4?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-trendzio-folding-umbrella-multicolor
 
 ## Cotton Non-Padded Bras for Women - Full Coverage, Chikan Embroidery, Sizes 32-42
 - Price: PKR 559
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwGE?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-cotton-nonpadded-bra-women
 
 ## Premium Capri Bra for Girls - 4 Hooks with Wide Support Belt
 - Price: PKR 799
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwuw?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-premium-capri-bra-4hooks
 
 ## Silk Wear Women 3 Piece Nighty Set - Satin Night Dress with Robe, Multicolor
 - Price: PKR 1044.05
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwFQ?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-silk-wear-3piece-nighty-women
 
 ## Front Open Padded Bra for Women - Easy Comfort Pushup, Random Color
 - Price: PKR 419
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwvJ?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-front-open-padded-bra-women
 
 ## Soft Cotton Bra for Girls - Embroidered Half Cup with Fancy Lace
 - Price: PKR 470
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwwW?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-soft-cotton-bra-embroidered
 
 ## Air Bra for Women & Girls - Non Padded Non Wired Adjustable Sports Bra
 - Price: PKR 599
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwwK?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-air-bra-women-sports
 
 ## Pack of 2 Soft Cotton Bra for Girls - VIP Quality, Assorted Colors & Design
 - Price: PKR 499
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwDN?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-soft-cotton-bra
 
 ## Soft Padded Push-Up Bra - Imported, Sizes 32-48 for Women & Girls
 - Price: PKR 495
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwxo?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-soft-padded-pushup-bra
 
 ## Pack of 3 Air Bra for Ladies & Girls - Multicolor
 - Price: PKR 1199
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwC0?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-3-air-bra-multicolor
 
 ## Nursing Maternity Front Open Bra for Girls - Sizes 34 to 42
 - Price: PKR 649
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwCo?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-nursing-maternity-bra-front-open
 
 ## Strapless Bra - Soft Non Padded Tube Bra for Girls & Women, Sizes 30-40
 - Price: PKR 399
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.Xwwyl?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-strapless-tube-bra-women
 
 ## Pack of 3 Cotton Bras for Girls - Comfortable Multicolor, Sizes 32-42
 - Price: PKR 890
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwBj?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-3-cotton-bras-girls
 
 ## Pack of 2 Women's Seamless Bra - Ultra Soft Wire-Free Sports Bra, Skin & Black
 - Price: PKR 999
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwzM?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-2-seamless-bra-women
 
 ## Net Bra for Girls - Half Cup Net Malai Jersey Bra for Women
 - Price: PKR 649
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwwAj?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-net-bra-half-cup-women
 
 ## Twin Shop Pack of 6 Cotton Bra - Non Padded for Women & Girls
 - Price: PKR 699
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwDag?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-pack-6-cotton-bra-twinshop
 
 ## Vintage Turkish PU Leather Luxury Purse - Multi-pocket, Laptop/Tablet Size for Women
 - Price: PKR 1799
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwD1B?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-vintage-turkish-pu-leather-purse
 
 ## Zero Luna Smart Watch - 1.39" TFT, Calling, 100+ Faces, IP67, SpO2 & Heart Rate
 - Price: PKR 5999
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD2t?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-luna-smart-watch
 
 ## T10 Ultra Smartwatch 2.09" HD - Magnetic Charging, Bluetooth Call, Sleep Monitor
 - Price: PKR 1599
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDdg?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-smartwatch
 
 ## Xiaomi Mi Band 7/6/5 - AMOLED Color Screen, Bluetooth 5.0, 5ATM Fitness Band
 - Price: PKR 4899
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDdE?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-xiaomi-mi-band-7-amoled
 
 ## S8 Max Ultra SIM Smart Watch PTA Approved - 1.99" Display, 24 Sports Modes, Waterproof
 - Price: PKR 1249
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDW6?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-s8-max-ultra-sim-smartwatch
 
 ## Zero Ignite Smart Watch - 1.83" IPS Curved, Calling, 100+ Faces, IP67, SpO2
 - Price: PKR 5999
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDWJ?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-ignite-smart-watch
 
 ## T800 Ultra Smart Watch Series 8 - 1.99" Bluetooth Call, Sleep Monitor, IP67
 - Price: PKR 1399
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD35?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-t800-ultra-smart-watch
 
 ## P9 Ultra Smart Watch - Heart Rate, Blood Oxygen, BP, Sleep Monitor, Waterproof Fitness Tracker
 - Price: PKR 1699
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD3r?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-p9-ultra-smart-watch-multi
 
 ## T10 Ultra Smartwatch 2.09" HD Big Screen - Magnetic Wireless Charging, Bluetooth Calling
 - Price: PKR 1299
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDeO?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-smartwatch-v2
 
 ## DZ09 Smart Watch - SIM Supported, Calling for Men & Women
 - Price: PKR 2619
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDVZ?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-dz09-smart-watch-sim
 
 ## T10 Ultra Smartwatch 2.09" HD - Magnetic Wireless Charging, Bluetooth Call, Sleep Monitor
 - Price: PKR 1499
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDVk?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-smartwatch-v3
 
 ## T10 Ultra 2 Smartwatch 2.09" HD - Magnetic Wireless Charging, Bluetooth Call
 - Price: PKR 1499
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD4V?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-t10-ultra-2-smartwatch
 
 ## Y99 Germany Ultra Smart Watch 10+1 Bundle - 8 Straps, 2.05" Display, 200mAh
 - Price: PKR 1689
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD4x?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-y99-germany-ultra-smart-watch
 
 ## Zero Elite Smart Watch - 2.04" AMOLED, Bluetooth 5.3, Health Monitoring, IP67
 - Price: PKR 9899
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDfm?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-elite-smart-watch-amoled
 
 ## Zero Bolt Pro Smart Watch 1.83" HD - Bluetooth Calling, 100+ Sports Modes, SpO2
 - Price: PKR 6999
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDUd?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-bolt-pro-smart-watch
 
 ## T900 Ultra Smartwatch Series 8 - 2.09" Full Touch, Bluetooth Call, Sleep Monitor
 - Price: PKR 1499
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDU9?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-t900-ultra-smartwatch
 
 ## Watch 9/10/11 Max Smartwatch - Bluetooth Calling, Wireless Charging, Full Touch
 - Price: PKR 1849
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDUu?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-watch-9-11-max-smartwatch
 
 ## Zero Qube Smartwatch 1.83" Fluid Display - Bluetooth Fitness Tracker, 1 Year Warranty
 - Price: PKR 6999
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD5g?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-zero-qube-smartwatch
 
 ## Ultra Smart Watch Bundle - DT900/Y60/T800/T900/T10 7 Straps with Earbuds, Low Rate
 - Price: PKR 1699
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDTw?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-dt900-y60-t800-ultra-watch-bundle
 
 ## i8 Pro Max Smart Watch Series 8 - 1.75" Full Screen, Bluetooth Call, Waterproof
 - Price: PKR 1049
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwD6v?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-i8-pro-max-smart-watch
 
 ## Bulls Pvt i20 Ultra Smart Watch - 100% Original Ultra Series
 - Price: PKR 1399
-- Platform: None
+- Platform: daraz
 - Category: electronics
 - Buy: https://s.daraz.pk/s.XwDhy?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-bulls-i20-ultra-smart-watch
 
 ## Swift Unbreakable Fridge Water Bottles 1000ml - Pack of 4, Food Grade PET
 - Price: PKR 799
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwD82?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-swift-unbreakable-fridge-bottles-4pack
 
 ## Manual Hand Press Water Dispenser Pump - for 19L / 5 Gallon Bottles
 - Price: PKR 1099
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDjJ?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-manual-water-dispenser-pump
 
 ## Wireless Automatic Electric Water Dispenser - USB Barrel Pump for Bottles
 - Price: PKR 1114
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDQr?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-wireless-electric-water-dispenser
 
 ## Electric Kettle 2.0 Litre - Stainless Steel, Hot Water & Tea/Coffee Maker
 - Price: PKR 1398
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwD9Q?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-electric-kettle-2l-stainless
 
 ## Original Stanley Tumbler with Straw 40oz - Insulated Stainless Steel Hot & Cold Cup
 - Price: PKR 2080
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDkz?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-stanley-tumbler-40oz-insulated
 
 ## USB Rechargeable Juicer Blender 6 Blades - Mini Portable 380ml Fruit Mixer
 - Price: PKR 1280
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDl3?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-usb-juicer-blender-6blades
 
 ## Stanley Tumbler 40oz 1200ml - 8H Vacuum Insulation, Leak Proof Handle Straw & Lid
 - Price: PKR 2599
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDOd?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-stanley-tumbler-40oz-vacuum
 
 ## Premium Stainless Steel Vacuum Insulated Sports Flask 1000ml - Double Wall with Strap
 - Price: PKR 1036
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDOr?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-stainless-vacuum-flask-1000ml
 
 ## Motivational Water Bottles 2pcs 750ml+300ml - Gradient, Straw & Cleaner, BPA Free
 - Price: PKR 859
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDmg?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-motivational-water-bottles-2pcs
 
 ## Motivational Water Bottle Set 2pcs 750ml+300ml - Straw, Cleaner, Gradient, BPA Free
 - Price: PKR 954
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDNO?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-motivational-water-bottles-2pcs-v2
 
 ## Star Print Temperature Smart Thermos 500ml - LED Display, Stainless Steel
 - Price: PKR 899
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDnG?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-star-print-temp-thermos-500ml
 
 ## Stainless Steel Vacuum Flask 500ml - Double Wall, Straw Tumbler, Hot n Cold
 - Price: PKR 999
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDL7?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-vacuum-flask-500ml-straw
 
 ## Stanley Style Plain Tumbler 1.18L - Heavy Duty Stainless Steel Travel Mug
 - Price: PKR 2499
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDpk?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-stanley-style-tumbler-1-18l
 
 ## Classic Blade Pendant Vintage Black with Ball Chain - Unisex Couple Necklace
 - Price: PKR 169
-- Platform: None
+- Platform: daraz
 - Category: fashion
 - Buy: https://s.daraz.pk/s.XwDtT?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-classic-blade-pendant-necklace
 
 ## 3D Butterfly Wooden Wall Clock - Laser Cut Stylish Design with Stars
 - Price: PKR 429
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDE3?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-butterfly-wall-clock
 
 ## Modern Stylish Pink Color Wall Clock - Lovely Design
 - Price: PKR 1650
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDEC?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-modern-pink-wall-clock
 
 ## 3D Wooden Wall Clock with 12 Imam Names - Laser Cut Design
 - Price: PKR 419
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDDS?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-clock-imam-names
 
 ## Wooden Mix 3D Modern Wall Clock - Deer, Family & Map Designs, Square DIY
 - Price: PKR 420
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDx3?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-wooden-mix-3d-wall-clock
 
 ## 3D Wooden Flower Wall Clock 12 Inch - Laser Cut MDF, Silent Movement
 - Price: PKR 389
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDC2?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-flower-wall-clock
 
 ## Family Wall Clock 3D Wooden - DIY Design with Birds, Home & Office Decor
 - Price: PKR 448
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDCE?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-family-3d-wooden-wall-clock
 
 ## Bird Cage Wall Clock - European Modern Wooden, Mute Luminous Quartz
 - Price: PKR 369
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDyN?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-bird-cage-wall-clock
 
 ## 3D Wooden Round Wall Clock 11.8 Inch - Raised Digits, With/Without Light
 - Price: PKR 359
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDBQ?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-round-wall-clock
 
 ## Wooden Flower Shaped Wall Clock - High Quality Decorative for Home
 - Price: PKR 369
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDzg?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-wooden-flower-shaped-clock
 
 ## Wooden Kitchen Wall Clock - Coffee Cup & Kettle Design, Stylish Home Decor
 - Price: PKR 389
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDA0?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-wooden-kitchen-wall-clock
 
 ## Bismillah Wooden Wall Clock 3D - DIY Design, Home & Office Decor Gift
 - Price: PKR 350
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.XwDAA?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-bismillah-wooden-wall-clock
 
 ## 3D Laser Cut Wooden Clock 12 Imam Names - Large Analog for Living Room Decor
 - Price: PKR 329
-- Platform: None
+- Platform: daraz
 - Category: home
 - Buy: https://s.daraz.pk/s.Xwxaw?cc
 - Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-clock-imam-names-large
+
+## Waterproof Makeup Storage Bag 2 in 1 - Brushes Bag & Toiletries Organizer for Travel
+- Price: PKR 599
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcMI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-waterproof-makeup-storage-bag
+
+## Mini Leather Jewellery Box Organizer with Zip - 2 Layers, Foldable
+- Price: PKR 345
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcJe?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-leather-jewellery-box
+
+## Professional Transparent Makeup Bag & Organizer with Zipper for Travel
+- Price: PKR 249
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcJP?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-transparent-makeup-bag-organizer
+
+## Professional Makeup Bag & Organizer - Spider Pattern, Zipper for Travel
+- Price: PKR 790
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcJG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-professional-makeup-bag-spider
+
+## SHERICE Acrylic Rotating Jewelry Organizer with Lid - Transparent Holder
+- Price: PKR 780
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcrc?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-sherice-rotating-jewelry-organizer
+
+## Premium PU Leather Travel Jewellery Box - Zippered Organizer for Earrings & Necklaces
+- Price: PKR 330
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcrT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pu-leather-travel-jewellery-box
+
+## Leather Jewellery Organizer with Locker - 3 Layers Drawers, Vanity Hanger Stand
+- Price: PKR 2299
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDctj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-leather-jewellery-organizer-locker
+
+## Soft Leather Jewellery Organizer Box with Locker - 2 Layers, Vanity Hanger Stand
+- Price: PKR 549
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcts?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-soft-leather-jewellery-box-locker
+
+## Waterproof Makeup Storage Bag - Brushes & Toiletries Organizer with Zipper
+- Price: PKR 499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDcGa?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-waterproof-makeup-bag-brushes
+
+## DIY Bracelet Kit for Girls & Kids - Jewellery Making Beads Box with Charms & Tools
+- Price: PKR 1439
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDcGO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-diy-bracelet-kit-girls-kids
+
+## DIY Bracelet Kit Round Box - Large Beads Kit, Multiple Designs for Girls & Kids
+- Price: PKR 2099
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDcGt?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-diy-bracelet-kit-round-box
+
+## DIY Pearls Kit for Girls - Pearls & Beads with Charms, Bracelet Making Box
+- Price: PKR 2238.99
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDcFW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-diy-pearls-kit-girls
+
+## Stylish Pearl Kundan Bangle Set for Women & Girls
+- Price: PKR 670
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDcFS?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pearl-kundan-bangle-set
+
+## DIY Bracelet Making Kit for Girls - Jewellery Making Bead Set, Multicolor
+- Price: PKR 1599
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDcFq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-diy-bracelet-making-kit-multicolor
+
+## Gold Chain with Pink Swan Pendant Necklace - Korean Jewellery for Women
+- Price: PKR 469
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDcvh?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-gold-chain-pink-swan-pendant
+
+## Gajra Bracelet Kit Crystal Diamond Pearls 4mm - DIY Making Set for Girls
+- Price: PKR 3749.25
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDcvz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-gajra-bracelet-kit-crystal
+
+## LED Jewelry Watch Gift Set - Locket, Bangle & Ring with Organizer Box
+- Price: PKR 3750
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDcEd?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-led-jewelry-watch-gift-set
+
+## Jewellery Set for Girls & Women - New Fashionable Design
+- Price: PKR 699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDcEl?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-jewellery-set-girls-fashion
+
+## Golden Twist Stud Earrings - Korean Crystal Design for Girls & Women
+- Price: PKR 399
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDcDy?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-golden-twist-stud-earrings
+
+## Home Gym Fitness Exercise Spin Bike - Professional Indoor Cycling
+- Price: PKR 46990
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDczb?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-home-gym-spin-bike
+
+## SNK Fitness Exercise Training Bicycle - Home Gym Cardio Machine
+- Price: PKR 26999
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDczh?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-snk-fitness-exercise-bicycle
+
+## JD Fitness Premium Exercise Cycle - Heavy Duty Stationary Bike, Adjustable Resistance
+- Price: PKR 16199
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDczm?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-jd-fitness-exercise-cycle
+
+## Exercise Cycle Magnetic Machine - Home Workout Bike
+- Price: PKR 14249.05
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDcAa?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-exercise-cycle-magnetic-machine
+
+## Dumbbells Set 3kg Pair with Yoga Mat - Home Gym Exercise
+- Price: PKR 6199
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDcA6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dumbbells-set-3kg-yoga-mat
+
+## Vibro Slimming Massage Belt - Electric Vibrating Fat Burning Belt for Men & Women
+- Price: PKR 5699
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDcAK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-vibro-slimming-massage-belt
+
+## Mini Exercise Bike - Compact Under Desk Pedal Bike for Work & Study
+- Price: PKR 4450
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXac?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-exercise-bike-under-desk
+
+## Mini Pedal Exerciser - Portable Under Desk Cycle for Leg & Arm Workout
+- Price: PKR 4178
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXaO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-pedal-exerciser-portable
+
+## Mini Exercise Bike Pedal Exerciser - Portable Under Desk, Adjustable Resistance
+- Price: PKR 3999
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXaB?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-bike-pedal-exerciser-physio
+
+## Gym Floor Mat 4 Pcs - Rubber Foam Interlocking Tiles for Home Workout
+- Price: PKR 3950
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXZf?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-gym-floor-mat-4pcs-foam
+
+## GENRIC Gym Mini Exercise Bike - Portable Foot Cycle for Under Desk
+- Price: PKR 3573
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDX07?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-genric-mini-exercise-bike
+
+## Mini Exercise Bike with Digital Monitor - Under Desk Fitness Cycle
+- Price: PKR 3799
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDX0I?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-bike-digital-monitor-usman
+
+## Mini Exercise Bike Pedal Exerciser - Durable, Easy to Use
+- Price: PKR 3699
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXb1?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-bike-pedal-exerciser-durable
+
+## Dazzin Portable Pedal Exerciser - Digital Display, Arm & Leg Workout
+- Price: PKR 3533
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXb8?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dazzin-portable-pedal-exerciser
+
+## Sasta Bazaar Exercise Cycle - Portable Pedal Exerciser, Digital Display
+- Price: PKR 3499
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXbJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-sasta-bazaar-exercise-cycle
+
+## Portable Mini Pedal Exercise Bike - Home Gym Cardio Machine
+- Price: PKR 3496
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXbz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-portable-mini-pedal-bike
+
+## Best Mini Exercise Bike UK - Portable Pedal Cycle Exerciser
+- Price: PKR 3490
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXYR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-best-mini-bike-uk
+
+## Weight Lifting Gloves - Anti Slip Padded Palm, Half Finger, Men & Women
+- Price: PKR 3200
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXYz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-weight-lifting-gloves-anti-slip
+
+## Mini Cycle Pedal Exerciser Machine - Portable Under Desk Bike
+- Price: PKR 3176
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDX1S?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-cycle-pedal-exerciser-portable
+
+## SNK Fitness Wall Mounting Bar - Dips, Leg Raise & Multiple Exercises
+- Price: PKR 2999
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDX1v?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-snk-wall-mounting-bar
+
+## Thigh Master Exercise Equipment - Inner Thigh & Leg Trainer
+- Price: PKR 1990
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXcP?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-thigh-master-exerciser
+
+## Hand Gripper 120kg - Adjustable Grip Strength Trainer, Forearm Exerciser
+- Price: PKR 1699
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDXcC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hand-gripper-120kg-adjustable
+
+## Resistance Bands Set - Elastic Bands with Handles & Ankle Straps
+- Price: PKR 999
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDX23?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-resistance-bands-set-handles
+
+## 2 in 1 Electric Eyebrow Trimmer & Facial Hair Remover - Rechargeable with LED
+- Price: PKR 887.25
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXry?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-2in1-eyebrow-trimmer-led
+
+## POUR FEMME 100ML Pink Perfume for Women & Girls - Best Gift
+- Price: PKR 484
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXtR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pour-femme-perfume-pink
+
+## Pack of 2 Watches for Men - Stainless Steel Strap, Quartz, Luminous Dial
+- Price: PKR 549
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDXu4?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack2-watches-men-steel
+
+## Professional Hair Dryer 2 in 1 - Hot & Cold Air, Ionic, Salon Quality
+- Price: PKR 1799
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXFG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-professional-hair-dryer-2in1
+
+## One Step 3 in 1 Hair Dryer Brush - Hot Air Volumizer, Straightener
+- Price: PKR 1799
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXv9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3in1-hair-dryer-brush-volumizer
+
+## Shaving Machine 3 in 1 - Rechargeable Clipper, Beard Styling Trimmer
+- Price: PKR 2499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXvD?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-shaving-machine-3in1-trimmer
+
+## Nova Hair Dryer & Mini Straightener Combo - 2 in 1 Styling Kit
+- Price: PKR 499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXE5?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-nova-hair-dryer-straightener-combo
+
+## Hair Dryer Hot Air Brush 3 in 1 - Smooth & Frizz Free Styling
+- Price: PKR 1639
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXEB?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hair-dryer-hot-air-brush-3in1-smooth
+
+## 3 in 1 Hair Dryer & Styler - Hot Air Brush Volumizer, Straightener & Curler
+- Price: PKR 1998
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXwQ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3in1-dryer-styler-brush-volumizer
+
+## 3 in 1 Hair Dryer Brush - Ionic Ceramic, 1000W, Anti-Frizz
+- Price: PKR 1799
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXDf?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3in1-hair-dryer-brush-ionic-1000w
+
+## BazaarHub Hair Straightener - Ceramic Tourmaline, Adjustable Temp, Swivel Cord
+- Price: PKR 1949
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXDw?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bazaarhub-hair-straightener
+
+## 3 in 1 Hair Dryer & Styler - Hot Air Brush, Straightener & Curler
+- Price: PKR 1599
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXxx?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3in1-dryer-styler-straightener-curler
+
+## Mini Professional Hair Straightener & Curling Iron - HANZLA'S TRADERS
+- Price: PKR 599
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXCh?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-hair-straightener-curling-hanzla
+
+## Transparent Trimmer For Men - Hair & Beard Shaver, Rechargeable
+- Price: PKR 1599
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXCK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-transparent-trimmer-men-bazaarhub
+
+## Mini Portable Hair Straightener - Crystal Flat Iron for Bangs & Short Hair
+- Price: PKR 699
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXy2?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mini-portable-straightener-crystal
+
+## 3 in 1 Hair Straightener & Dryer Brush - Powerful Airflow, Volumizer
+- Price: PKR 1198
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXy9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3in1-straightener-dryer-brush-airflow
+
+## 2 in 1 Hair Straightener and Curler - Professional Styling for All Hair Types
+- Price: PKR 599
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXys?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-2in1-straightener-curler-pro
+
+## Professional Hair Dryer and Volumizer 3 in 1 - Ionic Technology
+- Price: PKR 2099
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXBa?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pro-hair-dryer-volumizer-ionic
+
+## 2 in 1 Hair Straightener and Curler - Ceramic Plates, Fast Heating
+- Price: PKR 699
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXBg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-2in1-straightener-curler-ceramic
+
+## Hair Dryer & Volumizer Brush 1000W - Negative Ion, 3 Heat Settings
+- Price: PKR 2489
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXBr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hair-dryer-volumizer-1000w-ion
+
+## Hair Trimmer Wireless Cordless - Professional Barber Clipper for Men
+- Price: PKR 748
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXAa?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-hair-trimmer-wireless-cordless
+
+## Portable Mini Hair Straightener - Fast Heating, Travel-Friendly, Anti-Slip
+- Price: PKR 499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XDXAI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-portable-mini-straightener-antislip
+
+## Samsung Galaxy Watch 7 Classic 47mm - Classic Style, Latest Innovation
+- Price: PKR 7480
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XD20b?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-samsung-galaxy-watch7-classic-47mm
+
+## High Power Green Laser Pointer Pen 303 - Rechargeable, Long Range
+- Price: PKR 899
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XD208?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-green-laser-pointer-303
+
+## ZUSHAAM Shoulder Handbag for Girls - Premium Multicolor Crossbody
+- Price: PKR 893
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2bX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-zushaam-shoulder-handbag-girls
+
+## Chest Bag Women's Ethnic Style Shoulder Messenger Bag - Retro Oxford Cloth
+- Price: PKR 992
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2YX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-chest-bag-ethnic-shoulder
+
+## New Shoulder Bag Multicolor for Girls - Premium Quality, All Season
+- Price: PKR 1699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2Yu?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-multicolor-shoulder-bag-all-season
+
+## HandBag for Girls - Crossbody, Lightweight, for College & Office
+- Price: PKR 1799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD21R?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-girls-crossbody-college
+
+## HandBag Purse for Girls - Crossbody, Lightweight, New Fashion Design
+- Price: PKR 1499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD21E?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-handbag-purse-crossbody-new-design
+
+## 3 Levels Jewellery Organizer Stand - 3-in-1 Holder for Necklaces & Earrings
+- Price: PKR 594
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD2Wg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-jewellery-organizer-stand-3level
+
+## Pack of 4 Watch Set for Men & Boys - Steel Quartz, Bracelet, Ring & Locket
+- Price: PKR 489
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2WK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack4-watch-set-men-boys
+
+## Stainless Steel Bangles Set - Adjustable Openable, 3 Elegant Styles
+- Price: PKR 799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD23Y?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-steel-bangles-set-3styles
+
+## Wrist Watch for Men - Stainless Steel Quartz, Classic Luxury, Water Resistant
+- Price: PKR 899
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD23h?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-wrist-watch-men-steel-classic
+
+## Bestwear CLN Classic Sunglasses - Unisex Metal Frame, Retro Style
+- Price: PKR 899
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD23y?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bestwear-cln-sunglasses-unisex
+
+## Analog Watch for Men & Boys - Stainless Steel Quartz, Classic Style
+- Price: PKR 499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2eU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-analog-watch-men-boys-classic
+
+## Pack of 2 Watches for Men - Steel Quartz with Bracelet, Business Style
+- Price: PKR 699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2er?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack2-watches-bracelet-business
+
+## Analog Watch for Men & Boys - Steel Quartz, Classic Fashion, Multiple Colors
+- Price: PKR 699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2V3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-analog-watch-men-boys-variant2
+
+## Pack of 2 Watches for Men - Steel Strap, Calendar, Luminous Dial
+- Price: PKR 499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2VM?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack2-watches-calendar-luminous
+
+## Bestwear UV400 Oval Sunglasses - Unisex Retro Metal Alloy Eyewear
+- Price: PKR 749
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD24d?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bestwear-uv400-oval-sunglasses
+
+## Shining Heart Stone Bracelet for Girls - Trendy Ethnic Style
+- Price: PKR 318
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2fe?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-shining-heart-stone-bracelet
+
+## Watch for Men with Wrist Bracelet - Steel Quartz, Business Casual
+- Price: PKR 460
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2U5?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-watch-men-steel-bracelet-business
+
+## Watch Box for Men - PU Leather Organizer, Holds 12 Watches, Black
+- Price: PKR 1020
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2UL?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-watch-box-men-pu-leather-12
+
+## Pack of 4 Watch Set for Men & Boys - Steel Quartz, Bracelet, Ring & Locket
+- Price: PKR 479
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD25e?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-pack4-watch-set-bracelet-locket
+
+## Matha Patti Multi Colour for Women - Antique Afghani Traditional Style
+- Price: PKR 1499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD25o?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-matha-patti-multi-afghani
+
+## Bestwear Solar Magic Cheetah Transition Sunglasses - Photochromic Rimless
+- Price: PKR 1899
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2gX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bestwear-solar-cheetah-transition
+
+## UrbanHive Solar Magic Cheetah Photochromic Sunglasses - Rimless Unisex
+- Price: PKR 1749
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2gR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-urbanhive-solar-cheetah-photochromic
+
+## Premium Datejust Style Two Tone Watch - Olive Green Ombre Dial
+- Price: PKR 2999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2TZ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-datejust-two-tone-olive-watch
+
+## Watch for Men - Gold Steel Strap, Diamond Dial & Calendar
+- Price: PKR 3989
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2T9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-gold-diamond-dial-watch-men
+
+## Birds Style Big Wall Clock - Wooden Material, Beautiful for Bedroom
+- Price: PKR 399
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD26E?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-birds-style-wall-clock-wooden
+
+## Creative Home Living Room Decoration Wooden Wall Clock
+- Price: PKR 399
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD2h4?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-creative-home-wooden-wall-clock
+
+## 3D Wooden Wall Clock - DIY Family Love, Large Size, for Home & Gifts
+- Price: PKR 449
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD2hM?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-3d-wooden-wall-clock-family
+
+## Fancy Hijab for Muslim Women - Multicolor Turkish Bridal Style, Party Wear
+- Price: PKR 745
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2SG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-fancy-hijab-turkish-bridal
+
+## Women Slim Fit Deep V Halter Bodycon Short Dress
+- Price: PKR 2679
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD27k?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-women-halter-bodycon-dress
+
+## Hot Style Black Body Stocking Nighty for Women - Night Wear
+- Price: PKR 199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD27t?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-black-body-stocking-nighty
+
+## Dubai Style Abaya for Women - Elegant Long Sleeve Maxi Dress
+- Price: PKR 2299
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2iT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dubai-style-abaya-maxi
+
+## Abayas for Girls New Design 2025 - Stylish Printed Abaya
+- Price: PKR 2490
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2iE?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-abaya-girls-new-design-2025
+
+## Double Loop Hijab - Pure Chiffon, Instant Convenient Style
+- Price: PKR 450
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2RR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-double-loop-hijab-chiffon
+
+## Block Heel Sandals for Women - Faux Leather Strappy Party Wear
+- Price: PKR 2499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD28c?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-block-heel-sandals-summer
+
+## High Waist Wide Leg Denim Jeans for Women - Korean Baggy Style
+- Price: PKR 525.25
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD28p?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-high-waist-wide-leg-jeans
+
+## Front Open Abaya for Women - Elegant Modest Maxi with Button Style
+- Price: PKR 3344.69
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2jY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-front-open-abaya-button
+
+## Silk Wear Satin Silk Robe Nighty - Frilled V-Neck Sleepwear for Women
+- Price: PKR 699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2MM?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-silk-satin-robe-nighty
+
+## Abaya Front Open Crinkle Georgette - Maxi Style, AFH Collection
+- Price: PKR 2599
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2o8?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-abaya-crinkle-georgette-afh
+
+## Bloom 2Pc Lawn Cord Set - Short Kurti Flapper Style, Digital Print
+- Price: PKR 1937
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2oI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-bloom-lawn-cord-set
+
+## MK Garments Winter Fleece Cape Poncho - Korean Style for Girls
+- Price: PKR 1199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2Lg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-mk-winter-fleece-poncho
+
+## DAN TECHNOLOGY Makeup Organizer - Large Clear Cosmetic & Skincare Box
+- Price: PKR 9999
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2KU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-dan-makeup-organizer-box
+
+## VERTO Pack of 2 Perfume - Passion + Pure Million Men, 200ml Total
+- Price: PKR 4649
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2qU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-verto-passion-million-perfume
+
+## Saeed Ghani Haider Sports - Luxury Perfume for Him 100ml
+- Price: PKR 4242
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2qH?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-saeed-ghani-haider-sports
+
+## Arabiyat Lamsat Harir Perfume for Men & Women - 100ml EDP
+- Price: PKR 3100
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2Je?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-arabiyat-lamsat-harir-perfume
+
+## Fogg Paradise Body Spray + Charlie Blue Perfume Combo for Women
+- Price: PKR 999
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2Ib?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-fogg-charlie-perfume-combo
+
+## Romantic Seduction Body Mist 150ml - Long Lasting Floral Perfume
+- Price: PKR 846
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2IJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-romantic-seduction-body-mist
+
+## Pack of 3 Oud Collection Arabic Perfume Set - Dirham, Ameer Al Oud & Oud Al Layl
+- Price: PKR 799
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2sX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-oud-collection-pack3-arabic
+
+## Speed Racing 1:20 RC Sports Car - Remote Control Drifting, 2.4GHz
+- Price: PKR 1187
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XD2td?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-speed-racing-rc-sports-car
+
+## Teddy Bear Soft Plush Toy - Large Stuffed Bear for Kids, Gift
+- Price: PKR 1599
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XD2to?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-teddy-bear-soft-plush
+
+## Red Teddy Bear Couple with Love Heart - Soft Plush Pair, Gift
+- Price: PKR 300
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XD2uT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-red-teddy-bear-couple-heart
+
+## Sandal for Men - Stylish Trending, House Slippers for Boys
+- Price: PKR 389
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XD2FF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-sandal-men-stylish-trending
+
+## Shinon Facial Steamer & Inhaler - Nano Ionic Steam Vaporizer 2-in-1
+- Price: PKR 479
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2Ek?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-shinon-facial-steamer-inhaler
+
+## Telescopic Magic Hair Comb - Scalp Cleaning, Anti-Static Detangling
+- Price: PKR 325
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD2wc?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-real-telescopic-magic-hair-comb
+
+## Adjustable Bed Wedge Reading Pillow - Large Memory Foam Backrest for Sitting Up in Bed
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pbrpbmqtob7
+- Page: https://qa-affiliate.vercel.app/item/temu-adjustable-bed-wedge-reading-pillow-memory-foam
+
+## 3pcs Fashion Synthetic Zirconia Imitation Pendant Earrings and Necklace Set
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/pp9th5fhfgb
+- Page: https://qa-affiliate.vercel.app/item/temu-3pcs-fashion-synthetic-zirconia-jewelry-set
+
+## Fashionable Circular Sweater Chain Blue Eye Shaped Necklace, Long Versatile Pendant Necklace for Women
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/psoet2stiyt
+- Page: https://qa-affiliate.vercel.app/item/temu-blue-eye-sweater-chain-necklace
+
+## [Gift For Girls] Nashilanfu Professional Makeup Brush Set With Foundation, Blush, Eyeshadow Brushes
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/eywqp163v06
+- Page: https://qa-affiliate.vercel.app/item/temu-nashilanfu-professional-makeup-brush-set
+
+## Natural Style Half-Eye Fox Series Eyelashes, Set of 10 Pairs, Soft and Lightweight, Lengths 3-5-9mm
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ehp0x9p09sx
+- Page: https://qa-affiliate.vercel.app/item/temu-natural-fox-series-eyelashes-10pairs
+
+## Precision Eye Makeup Brush Set, 5pcs With Sickle-Shaped Eyeliner Brush, Angled Eyeliner Brush and Eyebrow Brush
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ey40xwjzoz5
+- Page: https://qa-affiliate.vercel.app/item/temu-precision-eye-makeup-brush-set-5pcs
+
+## [3D Fluffy Eyelashes] 10 Pairs 3D Fluffy False Eyelashes, Thick Volume Faux Mink Lashes
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/puhpclk99nf
+- Page: https://qa-affiliate.vercel.app/item/temu-3d-fluffy-eyelashes-10pairs
+
+## 1pc Waterproof Eyebrow Pen, 6 Colors, 4 Fork Tip for Eyebrow Tattoo, Black Liquid Makeup Pencil
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pnjk2r1rqwi
+- Page: https://qa-affiliate.vercel.app/item/temu-waterproof-eyebrow-pen-4fork
+
+## False Eyelash Glue, Non-Irritating Quick-Drying Black Glue
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ptlfq455guh
+- Page: https://qa-affiliate.vercel.app/item/temu-false-eyelash-glue
+
+## Koshi Meow Eyeliner Pens, Waterproof, 5-Pack, Black
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p5i1ejpslbh
+- Page: https://qa-affiliate.vercel.app/item/temu-koshi-meow-eyeliner-pens-5pack
+
+## Ultra Fine Extra Slim Eyebrow Pen, Waterproof, 2-in-1 Microblading Eyeliner
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p6b1yoi8enk
+- Page: https://qa-affiliate.vercel.app/item/temu-ultra-fine-eyebrow-pen-2in1
+
+## OSYA Waterproof Eyebrow Pen, Microblading Pencil with 4 Split Head, 3 Colors
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pvdy45b1hth
+- Page: https://qa-affiliate.vercel.app/item/temu-osya-waterproof-eyebrow-pen
+
+## Natural-Looking Wispy Cat Eye False Eyelashes, 5 Pairs, 3D Fluffy
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/piac7xa1zqx
+- Page: https://qa-affiliate.vercel.app/item/temu-wispy-cat-eye-eyelashes-5pairs
+
+## [Makeup Brushes & Sponges] 17Pcs Set: 15 Makeup Brushes + 2 Makeup Sponges
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pjltr4t6852
+- Page: https://qa-affiliate.vercel.app/item/temu-makeup-brushes-sponges-17pcs
+
+## 10 Pairs Natural Fluffy Half Lashes, Cat Eye Cluster Wispy False Eyelashes
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pefvv0m2xyi
+- Page: https://qa-affiliate.vercel.app/item/temu-natural-fluffy-half-lashes-10pairs
+
+## 0.008mm Ultra Fine Extra Slim Eyebrow Pen, Waterproof, 2-in-1
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ptq5mz7cmfc
+- Page: https://qa-affiliate.vercel.app/item/temu-ultra-fine-eyebrow-pen-0008mm
+
+## 10pcs Soft Hair Eyeshadow Brush Set
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pcu93924xj8
+- Page: https://qa-affiliate.vercel.app/item/temu-soft-hair-eyeshadow-brush-set-10pcs
+
+## The ShopMore Rechargeable 48V Cordless Pressure Washer Gun — Portable High Pressure Car Washer with Foam Bottle
+- Price: USD None
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD53g?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-shopmore-pressure-washer-gun-48v
+
+## 2-Pack Heatless Curling Ribbon Headband - No Heat Hair Curler
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/phfc5m73ka9
+- Page: https://qa-affiliate.vercel.app/item/temu-heatless-curling-ribbon-headband-2pack
+
+## Sleep Big Wave Curling Gift Set with Bow - Non-Heat Curling
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p4nw3a2k0ig
+- Page: https://qa-affiliate.vercel.app/item/temu-sleep-big-wave-curling-gift-set
+
+## 2pcs Soft Sleep Caps - Curly Hair Wrap
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p4pij086n44
+- Page: https://qa-affiliate.vercel.app/item/temu-soft-sleep-caps-2pcs
+
+## 3-Pack Matte Peelable Lip Tint Set
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pyx5bqzas1t
+- Page: https://qa-affiliate.vercel.app/item/temu-peelable-lip-tint-3pack
+
+## 4-Color Long-Lasting Tearable Lip Tint
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pmrtrnhsngv
+- Page: https://qa-affiliate.vercel.app/item/temu-tearable-lip-tint-4color
+
+## Pull-Off Lip Gloss - Long-Lasting Waterproof
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p07vuvoplhy
+- Page: https://qa-affiliate.vercel.app/item/temu-pull-off-lip-gloss
+
+## Eyebrow Stencil Set with Handle - 3 Styles
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p4la8x04cs5
+- Page: https://qa-affiliate.vercel.app/item/temu-eyebrow-stencil-set
+
+## Stamp-Style Eyebrow Shaper with Brushes
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p1kkydqtcul
+- Page: https://qa-affiliate.vercel.app/item/temu-stamp-eyebrow-shaper
+
+## 100% Mulberry Silk Pillowcase 22 Momme
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pmwvigwooax
+- Page: https://qa-affiliate.vercel.app/item/temu-mulberry-silk-pillowcase
+
+## 2pcs Satin Pillowcases - Silky Soft
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pjdipre4kn3
+- Page: https://qa-affiliate.vercel.app/item/temu-satin-pillowcases-2pcs
+
+## 5pcs Natural Hand-Carved Gua Sha Tools Set
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p7rxi5805np
+- Page: https://qa-affiliate.vercel.app/item/temu-gua-sha-tools-5pcs
+
+## Stainless Steel Facial Massage Roller Gua Sha Set
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/paz3oyhu65u
+- Page: https://qa-affiliate.vercel.app/item/temu-facial-massage-roller-set
+
+## LED Makeup Mirror - Foldable with 3 Light Modes
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pd7hdfg2ng1
+- Page: https://qa-affiliate.vercel.app/item/temu-led-makeup-mirror-foldable
+
+## LED Makeup Mirror with Touch Control
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/psoqzdssvmz
+- Page: https://qa-affiliate.vercel.app/item/temu-led-makeup-mirror-touch
+
+## 96pcs Almond Press-On Nails Set
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p58641qkqwd
+- Page: https://qa-affiliate.vercel.app/item/temu-almond-press-on-nails-96pcs
+
+## Hydrocolloid Pimple Patches - Invisible
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p7t5qoone75
+- Page: https://qa-affiliate.vercel.app/item/temu-hydrocolloid-pimple-patches
+
+## Women's Satin Floral Slip Nightgown
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3KPK9ZT
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-satin-floral-slip-nightgown
+
+## Pink Lace Corset Two-Piece Set
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4ESZZy1
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-pink-lace-corset-two-piece
+
+## Ruched Bustier Bodycon Midi Dress
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c2vR3OvX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-ruched-bustier-midi-dress
+
+## Linen Look Oversized Blazer + Wide Leg Pants Set
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3PJC7RX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-linen-blazer-pants-set
+
+## Gothic 3D Floral Oversized Blazer
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3pqzc3T
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-gothic-floral-blazer
+
+## Oversized Blazer with Lace Up Detail
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3wK4z1j
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-oversized-blazer-lace-up
+
+## Waffle Knit Cardigan Two-Piece Set
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3BCzJTr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-waffle-cardigan-two-piece
+
+## Knit Sweater + Wide Leg Pants Set
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c39EizBn
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-knit-sweater-pants-set
+
+## Beaded Mary Jane Ballet Flats
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c37Qtrm9
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-beaded-mary-jane-flats
+
+## Silver Mary Jane Flats with Buckle
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3iZyPOH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-silver-mary-jane-flats
+
+## Scrunchie Strap Mary Jane Flats
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3W3pFct
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-scrunchie-mary-jane-flats
+
+## Gold Plated Layered Necklace
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3XVi2Kh
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-gold-layered-necklace
+
+## Dainty 14k Gold Plated Necklace Set
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4M8MLsD
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-dainty-gold-necklace-set
+
+## Gold Paperclip Chain Necklace
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3lwcfQd
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-paperclip-chain-necklace
+
+## Oversized Gradient Sunglasses
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3VADPMZ
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-oversized-gradient-sunglasses
+
+## Rimless Square Sunglasses UV400
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3iWh8Zn
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-rimless-square-sunglasses
+
+## Satin Pleated Maxi Skirt
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c30pGXl3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-satin-pleated-maxi-skirt
+
+## Pleated Midi Skirt Plus Size
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3aTgNup
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-pleated-midi-skirt-plus
+
+## Long Sleeve Bodysuit
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c36n9Fpj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-long-sleeve-bodysuit
+
+## Glossy Long Sleeve Bodysuit
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4o6k6y5
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-glossy-bodysuit
+
+## Singing Songs and Poem Baby Girl Doll - 40cm Plush
+- Price: USD Rs.1,599
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDiBz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-singing-baby-girl-doll-40cm
+
+## Large Capacity Storage Bag 29x15x18 Foldable Closet Organizer
+- Price: USD Rs.548
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDizl?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-large-storage-bag-29x15x18
+
+## Electric Lint Remover Fabric Shaver for Clothing
+- Price: USD Rs.967
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDiA3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-electric-lint-remover-shaver
+
+## Mini Portable Handy Sewing Machine Battery Powered
+- Price: USD Rs.2,799
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDiAK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-mini-portable-sewing-machine
+
+## The Vintage Clothing Pack of 5 Premium Full Sleeve T-Shirts
+- Price: USD Rs.2,139
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRao?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-vintage-5pack-tshirts-full-sleeve
+
+## The Vintage Clothing Oversized Wide Leg Baggy Trousers for Men
+- Price: USD Rs.1,699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRZh?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-vintage-baggy-trousers-men
+
+## Hoodie For Men And Boys NEW Stylish Vertical Strip Printed Kangaroo Hoodie
+- Price: USD Rs.1,094
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRYg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-hoodie-vertical-strip-kangaroo
+
+## Muslim Women Namaz Scarf Makhna Ehram Hijab Soft Fabric
+- Price: USD Rs.780
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRYy?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-muslim-namaz-scarf-makhna
+
+## Chiffon Georgette Hijab Scarf Plus Tube Cap - Multicolor
+- Price: USD Rs.569
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR22?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-chiffon-georgette-hijab-tube-cap
+
+## Chiffon Georgette Hijab with Niqab Patti and Cap
+- Price: USD Rs.969
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR2E?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-chiffon-hijab-niqab-patti-cap
+
+## New Stylish Trendy Fleece YOU ARE OFFLINE Printed Winter Hoodie
+- Price: USD Rs.999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRVt?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-winter-hoodie-you-are-offline
+
+## Winters Premium Quality Copper Brown Printed Fleece Hoodie for Men
+- Price: USD Rs.1,199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR42?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-winter-hoodie-copper-brown-fleece
+
+## Winter Fleece Tracksuit Sarkaar Printed Zipper Hoodie Set
+- Price: USD Rs.1,849
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRf0?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-winter-fleece-tracksuit-sarkaar
+
+## Winters Premium Quality Copper Brown No Limits Printed Fleece Hoodie
+- Price: USD Rs.1,199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRfx?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-winter-hoodie-no-limits-copper
+
+## Winters Premium Quality Navy Good Things Printed Fleece Hoodie
+- Price: USD Rs.1,199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRUj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-winter-hoodie-navy-good-things
+
+## Ladies Shoulder Bag PU Leather Coach Style Handbag
+- Price: USD Rs.2,499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRh0?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ladies-shoulder-bag-pu-leather
+
+## Hand Bag for Girls Shoulder Tote Crossbody Bag Big Size
+- Price: USD Rs.2,399
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRhK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-hand-bag-girls-tote-crossbody
+
+## Cat Handle Leather Shoulder Handbag for Girls
+- Price: USD Rs.1,999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRSN?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-cat-handle-leather-handbag
+
+## Ladies Handbag 3 Piece Set PU Leather Crossbody
+- Price: USD Rs.1,799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR7S?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ladies-handbag-3piece-set
+
+## New Fashion Ladies Handbag Crossbody Shoulder Bag 2024
+- Price: USD Rs.1,799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR7C?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-fashion-ladies-handbag-crossbody-2024
+
+## Casual Shoulder Crossbody Bag for Girls Office Use
+- Price: USD Rs.1,799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRi7?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-casual-shoulder-bag-office-girls
+
+## Luxury Ladies Handbag 3 Piece Set PU Leather
+- Price: USD Rs.1,699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRiq?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-luxury-handbag-3piece-set-pu
+
+## Designer Shoulder Handbag with Long Belt for Girls
+- Price: USD Rs.1,399
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRRj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-designer-shoulder-bag-long-belt
+
+## Handbag New Design Shoulder Bag with Long Belt
+- Price: USD Rs.1,199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR8S?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-handbag-new-design-long-belt
+
+## Leather Shoulder Bag with Phone Pouch for Girls
+- Price: USD Rs.999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRjY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-leather-shoulder-bag-phone-pouch
+
+## Meerab Style Handbag PU Leather Crossbody Shoulder Bag
+- Price: USD Rs.449
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRQo?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-meerab-style-handbag-pu
+
+## Unicorn Bag Kids Crossbody Shoulder Handbag
+- Price: USD Rs.599
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDR9I?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-unicorn-bag-kids-crossbody
+
+## Genuine Leather Mens Zipper Coin Purse Wallet RFID Blocking
+- Price: USD Rs.1,399
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRP4?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-genuine-leather-mens-wallet-rfid
+
+## Best Genuine Pure Cow Leather Wallet for Men with Zipper
+- Price: USD Rs.1,299
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRPC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-cow-leather-wallet-zipper-coin
+
+## CHINONE RFID Protected Passport Cover Wallet Premium PU Leather
+- Price: USD Rs.1,249
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRlR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-rfid-passport-cover-wallet
+
+## Stylish PU Leather Wallet for Men with Zip and Coin Pocket
+- Price: USD Rs.1,199
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRlF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-pu-leather-wallet-zip-coin
+
+## PU Leather Personalized Wallet Gift Set with Keychain and Pen
+- Price: USD Rs.1,100
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRO3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-personalized-wallet-gift-set
+
+## Customize Name and Photo Engraved Genuine Leather Wallet with Keychain
+- Price: USD Rs.999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDROE?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-custom-name-photo-wallet-keychain
+
+## Genuine Leather Slim Vertical Wallet Card Holder
+- Price: USD Rs.999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRmO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-slim-vertical-leather-wallet
+
+## Leather Wallet for Men Classic
+- Price: USD Rs.799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRmC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-leather-wallet-men-classic
+
+## Baellerry Long Wallet Premium PU Leather Slim
+- Price: USD Rs.799
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRNU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-baellerry-long-wallet-pu
+
+## Imperial Horse Real Leather Wallet for Men
+- Price: USD Rs.658
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRnU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-imperial-horse-leather-wallet
+
+## Leather Wallet for Men Slim Matte Finish
+- Price: USD Rs.524
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRny?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-slim-matte-leather-wallet
+
+## Best Leather Wallet for Men Premium Quality Gift
+- Price: USD Rs.449
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDRMM?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-premium-leather-wallet-gift
+
+## Electric Hot Water Bottle Heat Pad (Heat Bag) For Pain Relief - Multicolour
+- Price: USD None
+- Platform: daraz
+- Category: health
+- Buy: https://s.daraz.pk/s.XD5WV?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-electric-hot-water-bottle-heat-pad-multicolour
+
+## Trending Luxury Transparent Block Heels Rhinestone Crystal
+- Price: USD Rs.2,399
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQKl?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-transparent-block-heels-rhinestone
+
+## Ravish Women Marigold Transparent Heels Party Sandals
+- Price: USD Rs.3,000
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQqS?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ravish-marigold-transparent-heels
+
+## Cinderella Heel Sandals for Women Peep Toe 3-inch
+- Price: USD Rs.2,699
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQqD?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-cinderella-heel-sandals-peep-toe
+
+## Block Heel Sandals Strappy Party Wear Beige Purple
+- Price: USD Rs.2,499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQJn?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-block-heel-sandals-strappy-party
+
+## NBH Multi Strap Comfortable Sandals for Girls
+- Price: USD Rs.2,198
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQrF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-nbh-multi-strap-sandals
+
+## Women Fashion Criss Cross Block Heels Bridal Party
+- Price: USD Rs.2,081
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQsc?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-criss-cross-block-heels-bridal
+
+## Women Luxury Rhinestone Block Heels Bridal Party
+- Price: USD Rs.2,081
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQsp?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-rhinestone-block-heels-glamours
+
+## Woman Heels Shoes Sandals White Brown Summer Party
+- Price: USD Rs.1,896
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQHc?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-white-brown-heels-summer
+
+## Women Luxury Crumples Mid Block Heels Golden Sea Green
+- Price: USD Rs.1,890
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQHI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-crumples-mid-block-heels
+
+## Glass Heel Sandals For Women
+- Price: USD Rs.1,499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQtU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-glass-heel-sandals-women
+
+## NBH Women Sandal Party Comfortable Slippers
+- Price: USD Rs.1,498
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQvL?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-nbh-women-sandal-party
+
+## NBH Women Pumpy Heel Sandal Party Slippers
+- Price: USD Rs.1,298
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQET?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-nbh-sandal-pumpy-1298
+
+## Elegant Heel Sandals for Women Casual Party Wear
+- Price: USD Rs.750
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQwa?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-elegant-heel-sandals-casual
+
+## NBH Comfortable Heels Fancy Chappal for Girls
+- Price: USD Rs.999
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQD2?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-nbh-comfortable-heels-fancy
+
+## Reflexology Acupressure Massage Slippers Foot Pain Relief
+- Price: USD Rs.699
+- Platform: daraz
+- Category: health
+- Buy: https://s.daraz.pk/s.XDQDt?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-reflexology-massage-slippers
+
+## Heel Care Slippers Soft Cushion EVA Anti-Crack
+- Price: USD Rs.699
+- Platform: daraz
+- Category: health
+- Buy: https://s.daraz.pk/s.XDQxT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-heel-care-slippers-eva
+
+## Vintage Rectangle Sunglasses UV400 Retro Square Frame
+- Price: USD Rs.217
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQCF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-vintage-rectangle-sunglasses-uv400
+
+## UV400 Half Frame Double Bridge Sunglasses Unisex
+- Price: USD Rs.1,499
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQyk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-uv400-half-frame-sunglasses
+
+## Leopard Print Sunglasses Gold Metal Frame Retro
+- Price: USD Rs.899
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQyD?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-leopard-print-sunglasses-gold
+
+## Retro Oval Metal Sunglasses UV400 Classic
+- Price: USD Rs.749
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQBo?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-retro-oval-sunglasses-metal
+
+## Hexagonal Metal Frame Sunglasses Retro Geometric
+- Price: USD Rs.519
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQzK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-hexagonal-metal-sunglasses
+
+## Folding Sunglasses Retro Square Frame UV400
+- Price: USD Rs.299
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQAi?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-folding-sunglasses-retro-square
+
+## Classic Rectangle Vintage Small Square Sunglasses
+- Price: USD Rs.220
+- Platform: daraz
+- Category: fashion
+- Buy: https://s.daraz.pk/s.XDQAx?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-classic-rectangle-sunglasses-vintage
+
+## Fleure Vitamin C Glow Kit Serum Cleanser Duo
+- Price: USD Rs.1,698
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9ZH?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-fleure-vitamin-c-glow-kit
+
+## Luxe Glow All In One Vitamin C Niacinamide Serum 30ml
+- Price: USD Rs.1,275.89
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD90U?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-luxe-glow-vitamin-c-serum
+
+## DR RASHEL Vitamin C Brightening Anti-Aging Face Serum 50ml
+- Price: USD Rs.999
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD90M?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-dr-rashel-vitamin-c-serum
+
+## FORT Vitamin C Serum Anti-Aging Dark Spot Correcting 30ML
+- Price: USD Rs.299
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9b3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-fort-vitamin-c-serum-30ml
+
+## BIOAQUA Vitamin C White Brightening Face Serum 30ml
+- Price: USD Rs.299
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9bL?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-bioaqua-vitamin-c-serum-30ml
+
+## KS-ONE 12-Piece Satin Matte Liquid Lipstick Set
+- Price: USD Rs.1,049
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD91n?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ks-one-12pc-matte-lipstick
+
+## KS-ONE 12 Colors Matte Liquid Lipstick Set ZH-504
+- Price: USD Rs.1,019
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9cZ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ks-one-12-colors-lipstick-zh504
+
+## Bob Matte Lipsticks Super Set
+- Price: USD Rs.999
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9cF?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-bob-matte-lipsticks-super-set
+
+## 5 in 1 Matte Lipstick Set Waterproof Long Lasting
+- Price: USD Rs.199
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD92g?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-5in1-matte-lipstick-waterproof
+
+## 3Q Beauty Matte Lipstick Set 3pcs Velvet Finish
+- Price: USD Rs.339
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9dY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3q-beauty-matte-lipstick-3pc
+
+## Sheglam Ember Rose Pack of 4 Mirror Lipstick Set
+- Price: USD Rs.519
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9dD?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-sheglam-ember-rose-lipstick-4pc
+
+## Hair Dryer Set 5 in 1 Hot Air Styler Brush
+- Price: USD Rs.3,499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9eZ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-hair-dryer-set-5in1-styler
+
+## 5 in 1 Hair Styler Hot Air Brush Professional
+- Price: USD Rs.2,899
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9eH?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-5in1-hair-styler-brush-pro
+
+## 3in1 Hot Air Brush Hair Dryer Volumizer Caviii
+- Price: USD Rs.2,383
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9Vk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3in1-hot-air-brush-caviii
+
+## 3 in 1 Hair Dryer Straightener Curler KK Traders
+- Price: USD Rs.2,299
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD94U?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3in1-hair-dryer-kk-traders
+
+## 3-in-1 Hair Dryer Straightener Curler Multi-Function
+- Price: USD Rs.2,199
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9fC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3in1-hair-dryer-multi-function
+
+## One Step Hair Dryer Styler Brush 3 in 1
+- Price: USD Rs.1,999
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9UI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-one-step-hair-dryer-styler
+
+## 3 in 1 Hair Dryer Brush Volumizer Styler
+- Price: USD Rs.1,998
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD95S?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3in1-hair-dryer-brush-volumizer
+
+## 3 in 1 Ionic Ceramic Hot Air Brush Hair Styler
+- Price: USD Rs.1,799
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9ge?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3in1-ionic-ceramic-hair-brush
+
+## Blow Hair Dryer Volumizer Brush 1000W
+- Price: USD Rs.1,749
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9T6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-blow-dryer-volumizer-1000w
+
+## 2-in-1 Electric Hair Straightener Curler Comb
+- Price: USD Rs.1,499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9hi?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-2in1-electric-straightener-curler
+
+## BASELINE 3 in 1 Blow Hair Dryer Volumizer Brush
+- Price: USD Rs.1,499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD97D?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-baseline-3in1-blow-dryer
+
+## 3 in 1 Hair Straightener Dryer Styler Powerful Airflow
+- Price: USD Rs.1,198
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9iO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3in1-hair-straightener-powerful
+
+## 909 Brush Hair Straightener Ionic Temperature Adjust
+- Price: USD Rs.699
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9R7?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-909-brush-hair-straightener
+
+## Electric Professional Hair Straightening Brush Girls
+- Price: USD Rs.1,099
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9RB?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-electric-pro-straightening-brush
+
+## Jade Roller Gua Sha Set Natural Face Massager
+- Price: USD Rs.359
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9Q4?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-jade-roller-gua-sha-set
+
+## Jade Roller Guasha Facial Beauty Roller Natural Stone
+- Price: USD Rs.339
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD99O?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-jade-roller-guasha-natural-stone
+
+## 2in1 Eyebrow Stamp Powder Gel Eyeliner Waterproof
+- Price: USD Rs.699
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9Pr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-2in1-eyebrow-stamp-eyeliner
+
+## CVB Paris Ultra Black Eyeliner Waterproof 2g
+- Price: USD Rs.514
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9MZ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-cvb-paris-ultra-black-eyeliner
+
+## Miss Rose Magic Eyeliner Stamp Seal Liner Waterproof
+- Price: USD Rs.549
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9M8?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-miss-rose-magic-eyeliner
+
+## Miss Rose Liquid Eyeliner Pencil Quick Dry Waterproof
+- Price: USD Rs.499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9oR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-miss-rose-liquid-eyeliner-stamp
+
+## Liquid Eyeliner Waterproof Mascara Set 2pc
+- Price: USD Rs.298
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9LE?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-liquid-eyeliner-mascara-set-2pc
+
+## Miss Rose Kathleen 12 Pcs Eyeliner Lip Liner Set
+- Price: USD Rs.499
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9K5?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-miss-rose-kathleen-12pc-liner
+
+## Miss Rose Under Eye Maker Waterproof Gel Eyeliner
+- Price: USD Rs.299
+- Platform: daraz
+- Category: beauty
+- Buy: https://s.daraz.pk/s.XD9qV?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-miss-rose-under-eye-maker
+
+## Smart WiFi Bluetooth RGBIC Neon LED Strip Lights
+- Price: USD Rs.3,999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9JB?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-smart-wifi-rgbic-neon-led-strip
+
+## 10M 5050 RGB LED Strip Light Bluetooth Control
+- Price: USD Rs.3,290
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9rn?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-10m-5050-rgb-led-strip-bluetooth
+
+## 10 Bulb LED Vanity Mirror Lights Hollywood Style
+- Price: USD Rs.1,499
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9IR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-10-bulb-led-vanity-mirror-lights
+
+## Galaxy RGB 5050 LED Strip Light 5 Meters 16 Color
+- Price: USD Rs.1,299
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9IC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-galaxy-rgb-5050-led-strip-5m
+
+## Twilight RGB 5050 LED Strip Light 2M Music Sync
+- Price: USD Rs.1,280
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9sP?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-twilight-rgb-5050-led-strip-2m
+
+## Rainbow RGB LED Strip Light 4.5 Meter Remote
+- Price: USD Rs.970
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Ho?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-rainbow-rgb-led-strip-45m
+
+## RGB Rope LED Light Waterproof with Adapter
+- Price: USD Rs.723.81
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Gf?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-rgb-rope-led-light-adapter
+
+## 5 Tier Kitchen Storage Rack Wooden Shelves Iron Frame
+- Price: USD Rs.10,192
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9vI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-5-tier-kitchen-storage-rack
+
+## Double Cabinet Dish Drying Rack Over Sink Steel
+- Price: USD Rs.9,349
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9ER?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-double-cabinet-dish-drying-rack
+
+## 5-Tier Kitchen Storage Rack Microwave Oven Stand
+- Price: USD Rs.8,445
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9we?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-5tier-kitchen-storage-organizer
+
+## Foldable Storage Cabinet 5 Tier Plastic Wardrobe
+- Price: USD Rs.28,589
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9wC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-foldable-storage-cabinet-5tier
+
+## 5 Tier Kitchen Storage Rack Heavy Duty Oven Stand
+- Price: USD Rs.6,555
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9D9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-5tier-kitchen-rack-heavy-duty
+
+## 360-Degree 5tier Rotating Round Basket Organizer Rack
+- Price: USD Rs.5,999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9xJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-360-rotating-5tier-basket-rack
+
+## Multi-Functional Kitchen Storage Rack Microwave Stand
+- Price: USD Rs.5,949
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Ce?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-multifunctional-kitchen-rack-microwave
+
+## 360 Rotating Kitchen Trolley Rack Stainless Steel Baskets
+- Price: USD Rs.5,440
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Co?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-360-rotating-trolley-rack-steel
+
+## Sunrise Mart Microwave Stand Kitchen Rack Organizer
+- Price: USD Rs.4,949
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9CA?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-sunrise-mart-microwave-stand
+
+## NEXT TAG Washroom Corner Cabinet 360 Rotating
+- Price: USD Rs.3,999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9yg?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-next-tag-washroom-corner-cabinet
+
+## Bathroom Corner Cabinet 360 Rotating Two Layer
+- Price: USD Rs.3,544
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9yC?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-bathroom-corner-cabinet-rotating
+
+## Drawer Organizer Expandable Kitchen Utensil Holder
+- Price: USD Rs.3,499
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Bf?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-drawer-organizer-expandable-kitchen
+
+## Wooden 4 Shelf Kitchen Storage Rack Microwave Stand
+- Price: USD Rs.3,297
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Bn?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wooden-4shelf-kitchen-storage
+
+## 3-Tier Kitchen Organizer Rolling Utility Cart
+- Price: USD Rs.2,999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9zY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3tier-kitchen-organizer-rolling
+
+## 4 Tier Slim Storage Cart Slide Out Shelves Rolling
+- Price: USD Rs.2,899
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9zi?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-4tier-slim-storage-cart
+
+## 3 Tier Plastic Rolling Storage Trolley with Wheels
+- Price: USD Rs.2,824
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9Ae?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3tier-plastic-rolling-trolley
+
+## Multi-Layer White Kitchen Storage Rack Microwave Stand
+- Price: USD Rs.2,771
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XD9AI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-multilayer-white-kitchen-rack
+
+## 3 Tier Slim Storage Cart Slide Out Shelves Rolling
+- Price: USD Rs.2,747
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkad?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3tier-slim-storage-cart
+
+## Wall Mounted Spice Jars 5 Grid Seasoning Box
+- Price: USD Rs.2,230
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkaL?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wall-mounted-spice-jars-5grid
+
+## Masala Box 6 Pcs Plastic Spice Organizer
+- Price: USD Rs.1,999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkZ3?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-masala-box-6pcs-spice
+
+## Airtight Food Storage Bowls Set 5 Pcs with Lids
+- Price: USD Rs.1,999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkZu?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-airtight-food-storage-bowls-5pc
+
+## HSM 3/4/5 Tier 360 Rotating Fruit Vegetable Rack
+- Price: USD Rs.1,569
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkbX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-hsm-rotating-fruit-veg-rack
+
+## Wooden Double Layer Shelf Spice Storage Rack
+- Price: USD Rs.1,478
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkbr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wooden-double-layer-shelf
+
+## Plate Dish Rack Water Drainer Kitchen Storage
+- Price: USD Rs.1,477
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkYW?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-plate-dish-rack-water-drainer
+
+## Multi-Layer Kitchen Drawer Organizer Cutlery Tray
+- Price: USD Rs.1,469.02
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkYt?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-multilayer-drawer-organizer-tray
+
+## Wall Hanger 5 in 1 Broom Mop Kitchen Tools Holder
+- Price: USD Rs.1,299
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDk18?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wall-hanger-5in1-broom-mop
+
+## Pyramid Jar Pack of 6 Kitchen Storage Masala Jar Set
+- Price: USD Rs.1,044.68
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDk1y?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-pyramid-jar-pack-6pcs
+
+## 2 Tier Spice Rack Folding Metal Kitchen Organizer
+- Price: USD Rs.999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkc5?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-2tier-spice-rack-folding
+
+## 360 Rotating Spice Storage Rack Organizer Tray
+- Price: USD Rs.999
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkcO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-360-rotating-spice-rack-tray
+
+## Tissue Box Desktop Organizer Multi-Purpose Holder
+- Price: USD Rs.902
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkXH?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-tissue-box-desktop-organizer
+
+## 3 Tier Wall Hanging Rope Shelf Wooden Floating Shelves
+- Price: USD Rs.890
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDk2l?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3tier-wall-hanging-rope-shelf
+
+## Titiz 3 in 1 Soap Dispenser Sponge Holder Caddy
+- Price: USD Rs.787
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDk3m?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-titiz-3in1-soap-dispenser
+
+## Plastic Kitchen Organizer Rack Crockery Storage Drainage
+- Price: USD Rs.749
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkVb?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-plastic-kitchen-organizer-crockery
+
+## Premium Metal Kitchen Organizer Rack Expandable Shelf
+- Price: USD Rs.579
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkvl?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-premium-metal-kitchen-organizer
+
+## Fridge Organizer Drawer Basket Pull-out Storage Box
+- Price: USD Rs.549
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkEU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-fridge-organizer-drawer-basket
+
+## Multi-Purpose Refrigerator Organizer Cheese Box Airtight
+- Price: USD Rs.515
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkwT?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-fridge-organizer-cheese-box
+
+## 304 Stainless Steel 6-Port Kitchen Sink Organizer Stand
+- Price: USD Rs.449
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkDV?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-304-steel-sink-organizer-6port
+
+## Fridge Food Storage Container Drain Tray 1500ml
+- Price: USD Rs.399
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkx2?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-fridge-storage-drain-tray-1500ml
+
+## Tissue Paper Holder Under Cabinet Roll Rack
+- Price: USD Rs.359
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkxG?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-tissue-paper-holder-under-cabinet
+
+## Multipurpose Spoon Utensil Holder Drain Box
+- Price: USD Rs.329
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDkCI?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-multipurpose-spoon-utensil-holder
+
+## Kitchen Organizer Baskets Pack Fridge Storage
+- Price: USD Rs.232
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDky6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-kitchen-organizer-baskets-pack
+
+## BazaarHub Electric Kettle 2.0L 2000W Fast Boil
+- Price: USD Rs.2,299
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP0x?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-bazaarhub-electric-kettle-2l
+
+## 2.2L Electric Kettle Fast Boil Stainless Steel
+- Price: USD Rs.2,299
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPb9?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-22l-electric-kettle-steel
+
+## Electric Kettle 2.0 Liter 1500W Stainless Steel
+- Price: USD Rs.1,799
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPby?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-electric-kettle-2l-1500w
+
+## Imported Electric Kettle 2L 1500W Rapid Boil Auto Shut-Off
+- Price: USD Rs.1,599
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPYJ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-imported-electric-kettle-2l
+
+## Multifunction Electric Kettle Egg Boiler Noodles Maker 1.2L
+- Price: USD Rs.1,362
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP1V?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-multifunction-kettle-egg-boiler
+
+## Imported Electric Kettle 2L 1500W Stainless Steel Auto Switch
+- Price: USD Rs.1,209
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP1w?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-imported-kettle-2l-1500w-gsn
+
+## Tabish Trader Electric Kettle 2.0L Stainless Steel Cordless
+- Price: USD Rs.1,678
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPcO?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-tabish-trader-kettle-2l
+
+## 3D DIY Acrylic Wall Clock Modern Quartz Design
+- Price: USD Rs.599
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP28?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3d-diy-acrylic-wall-clock
+
+## Wooden Wall Clock Modern Multi-Layer Organic Design
+- Price: USD Rs.509
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP2C?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wooden-wall-clock-organic
+
+## Home Comfort 3D DIY Acrylic Wall Clock Silver Black
+- Price: USD Rs.499
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPdN?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-home-comfort-3d-wall-clock
+
+## Bismilah Clock Butterfly Shelf Wooden 3D DIY
+- Price: USD Rs.350
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPWz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-bismilah-clock-butterfly-shelf
+
+## 3D Wooden Wall Clock Sticker Rectangular Modern
+- Price: USD Rs.399
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP3N?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3d-wooden-wall-clock-sticker
+
+## 3D Wooden Wall Clock Modern Quartz Design Gift
+- Price: USD Rs.339
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPeU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-3d-wooden-wall-clock-quartz
+
+## King Size Hotel Collection Sateen Stripe Bed Sheet Set
+- Price: USD Rs.1,695
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDPVu?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-king-size-sateen-bed-sheet
+
+## Terry Cotton Waterproof Mattress Cover King Size Fitted
+- Price: USD Rs.1,785
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP42?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-terry-cotton-mattress-cover
+
+## Premium Striped Cotton Bedsheet Set with Pillow Covers
+- Price: USD Rs.1,199
+- Platform: daraz
+- Category: home
+- Buy: https://s.daraz.pk/s.XDP4m?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-premium-striped-cotton-bedsheet
+
+## Zero Nexus Pro Wireless ANC Earbuds Bluetooth 5.4
+- Price: USD Rs.5,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPUs?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-nexus-pro-anc-earbuds
+
+## Zero Wave ANC Wireless Earbuds Bluetooth 5.4 Gaming
+- Price: USD Rs.5,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDP52?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-wave-anc-earbuds
+
+## Zero Wave Pro Wireless Earbuds Bluetooth 5.3 Gaming
+- Price: USD Rs.4,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDP5p?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-wave-pro-earbuds
+
+## Zero Wave Elite Wireless Earbuds Bluetooth 5.4
+- Price: USD Rs.4,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPgX?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-wave-elite-earbuds
+
+## Zero Flow Wireless Earbuds Bluetooth 5.4 150H Playtime
+- Price: USD Rs.4,499
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPgr?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-flow-earbuds-150h
+
+## BASEUS Bowie WM01 Wireless Earbuds TWS Bluetooth 5.3
+- Price: USD Rs.4,950
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPTV?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-baseus-bowie-wm01-earbuds
+
+## Zero Rover Elite Wireless Earbuds Bluetooth 5.4
+- Price: USD Rs.4,499
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPTt?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-rover-elite-earbuds
+
+## Zero Aura Wireless Earbuds Bluetooth 5.3 Gaming
+- Price: USD Rs.3,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDP63?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-aura-earbuds
+
+## Pro 2 TWS Wireless Bluetooth Earbuds ANC White
+- Price: USD Rs.2,700
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDP6K?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-pro2-tws-anc-earbuds
+
+## Lenovo XT88 Wireless Earbuds Bluetooth 5.3 Touch Control
+- Price: USD Rs.2,400
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPh4?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-lenovo-xt88-earbuds
+
+## Buds 3 Pro ANC True Wireless Earbuds Gaming
+- Price: USD Rs.2,150
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPhz?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-buds-3-pro-anc
+
+## Wireless Earbuds 5.4 TWS Gaming LED ENC Waterproof
+- Price: USD Rs.1,558
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPSU?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wireless-earbuds-54-led-enc
+
+## Bluetooth 5.4 Ear Hook Headphones LED Display HiFi
+- Price: USD Rs.1,452
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPSn?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ear-hook-headphones-54-led
+
+## TWS Wireless Earbuds 2nd Generation Titanium Bluetooth 5.0
+- Price: USD Rs.1,249
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDP7b?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-tws-earbuds-2nd-gen-titanium
+
+## Wireless Earbuds Bluetooth High Bass Waterproof
+- Price: USD Rs.1,099
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDP7n?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wireless-earbuds-high-bass
+
+## U39 Wireless Earbuds Gaming Beast Bluetooth 5.4 TWS
+- Price: USD Rs.1,049
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPRm?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-u39-wireless-earbuds-gaming
+
+## Wireless Bluetooth Earbuds HD Sound Long Battery
+- Price: USD Rs.999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPQY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-wireless-bt-earbuds-hd-999
+
+## Zero Bolt Pro Smart Watch 1.83 Inch Bluetooth Calling
+- Price: USD Rs.5,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPE6?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-bolt-pro-smartwatch
+
+## Zero Qube Smartwatch 1.83 Inch Fluid Display
+- Price: USD Rs.6,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPwS?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-zero-qube-smartwatch
+
+## I20 Ultra Smart Watch Fitness Tracker Bluetooth Calling
+- Price: USD Rs.2,199
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPDi?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-i20-ultra-smartwatch
+
+## GT1 Smart Watch Bluetooth Call Fitness Tracker Waterproof
+- Price: USD Rs.1,999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPxY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-gt1-smartwatch
+
+## D20 Bluetooth Smart Watch Waterproof Fitness Tracker
+- Price: USD Rs.750
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPyD?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-d20-smartwatch-men
+
+## M3 Smart Bracelet Color Screen IP68 Fitness Tracker
+- Price: USD Rs.1,399
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDPBK?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-m3-smart-bracelet
+
+## Energy Aluminium Tripod Stand 4.5 Feet Mobile Holder
+- Price: USD Rs.2,069
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlaY?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-energy-tripod-45ft
+
+## 4 in 1 Wireless Selfie Stick Tripod with LED Light Bluetooth
+- Price: USD Rs.1,358
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlan?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-selfie-stick-tripod-led
+
+## Selfie Ring Light 7 Feet Tripod Stand 3 Shades Adjustable
+- Price: USD Rs.1,399
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlZi?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-selfie-ring-light-tripod
+
+## Mini Air Cooler Fan Rechargeable USB with Water Mist
+- Price: USD Rs.1,733.32
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlbR?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-mini-air-cooler-fan
+
+## 2-in-1 Mini Handheld Fan with Mobile Stand USB Rechargeable
+- Price: USD Rs.1,499
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlY1?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-mini-handheld-fan-stand
+
+## Portable Bladeless Neck Fan USB Rechargeable 360 Cooling
+- Price: USD Rs.1,304.13
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlYp?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-bladeless-neck-fan
+
+## Neck Fan Hands Free Rechargeable Dual Adjustable Heads
+- Price: USD Rs.999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDl12?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-neck-fan-dual-head
+
+## Portable Air Conditioner Mist Fan 3-in-1 Mini AC 10 inches
+- Price: USD Rs.999
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDl1s?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-portable-ac-mist-fan
+
+## Rechargeable Fan Portable Mini Desk Fan USB Battery
+- Price: USD Rs.745
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlcu?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-rechargeable-desk-fan
+
+## K.A Mini Fan Rechargeable Handheld Desktop USB Fan
+- Price: USD Rs.477
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlXj?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-ka-mini-fan-handheld
+
+## Rechargeable Mini Fan Portable Handheld USB Charging
+- Price: USD Rs.448
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDl2Y?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-rechargeable-mini-fan-usb
+
+## 5.6ft Gimbal Selfie Stick Tripod with LED Light Bluetooth
+- Price: USD Rs.2,497
+- Platform: daraz
+- Category: electronics
+- Buy: https://s.daraz.pk/s.XDlVc?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-gimbal-selfie-stick-led
+
+## Large Size Teddy Bear 40 inch Premium Plush Washable
+- Price: USD Rs.8,999
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDlgk?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-teddy-bear-40inch
+
+## Teddy Bear 18 inch Premium Plush Soft Washable
+- Price: USD Rs.2,999
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDlT5?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-teddy-bear-18inch
+
+## Cute Panda Teddy Bear Stitch Transforming Plush Toy
+- Price: USD Rs.2,999
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDlTw?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-panda-teddy-stitch
+
+## Cutest Love Teddy Bear Imported Soft Stuffed Toy
+- Price: USD Rs.1,890
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDl6n?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-love-teddy-bear-imported
+
+## Zipper Reversible Strawberry Bunny Soft Toy
+- Price: USD Rs.1,650
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDlh7?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-strawberry-bunny-toy
+
+## Soft Cuddly Teddy Bear 1ft Premium Plush Gift
+- Price: USD Rs.933
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDlS1?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-teddy-bear-1ft
+
+## SR Traders Teddy Bear 8 inch Premium Plush
+- Price: USD Rs.1,050
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDlSw?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-sr-teddy-bear-8inch
+
+## Teddy Bear 12 inch Premium Plush Soft Washable
+- Price: USD Rs.1,181
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDl7h?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-teddy-bear-12inch
+
+## Teddy Bear Soft Plush Toy Large 1ft to 5.5ft
+- Price: USD Rs.1,599
+- Platform: daraz
+- Category: toys
+- Buy: https://s.daraz.pk/s.XDli0?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-teddy-bear-large-55ft
+
+## Resistance Loop Band Set of 5 Elastic Workout Bands
+- Price: USD Rs.899
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDl82?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-resistance-loop-band-5
+
+## 11 Piece Gym Power Resistance Band Set with Door Anchor
+- Price: USD Rs.799
+- Platform: daraz
+- Category: fitness
+- Buy: https://s.daraz.pk/s.XDljZ?cc
+- Page: https://qa-affiliate.vercel.app/item/daraz-gym-resistance-band-11pc
 
