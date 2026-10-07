@@ -35410,6 +35410,31 @@
    "affiliate_pending": false,
    "sample": false,
    "updated": "2026-10-07"
+  },
+  {
+   "id": "daraz-automatic-soap-dispenser-with-sponge-holder-kitche",
+   "name": "Automatic Soap Dispenser with Sponge Holder Kitchen",
+   "short_description": "Rs.779 (was Rs.857). Automatic soap dispenser with sponge holder refillable.",
+   "category": "home",
+   "subcategory": "Kitchen",
+   "merchant": "daraz",
+   "platform": "daraz",
+   "source": "owner",
+   "affiliate_url": "https://s.daraz.pk/s.XxYId?cc",
+   "source_url": "https://www.daraz.pk/products/automatic-soap-dispenser-with-sponge-holder-for-kitchen-refillable-soap-container-with-drain-convenient-cleaning-tool-i1963961341-s14042478954.html",
+   "image_url": "https://pk-live-21.slatic.net/kf/S8e6c240abb9e4f718958c74bbaeeb95eP.png",
+   "badges": [
+    "trending"
+   ],
+   "rating": 4.5,
+   "sold_count": "",
+   "pros": [],
+   "cons": [],
+   "key_features": [],
+   "trend_status": "trending",
+   "affiliate_pending": false,
+   "sample": false,
+   "updated": "2026-10-07"
   }
  ]
 }
