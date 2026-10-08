@@ -172,6 +172,7 @@ def item_page(p):
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{esc(title)}</title>
 <meta name="description" content="{esc(desc)}">
+<meta name="keywords" content="temu finds, aliexpress trending products, tiktok viral products 2026, best temu products 2026, {esc(title)}">
 <link rel="canonical" href="{url}">
 <meta name="robots" content="index, follow">
 <meta property="og:type" content="product">
