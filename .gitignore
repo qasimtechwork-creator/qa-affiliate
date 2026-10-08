@@ -1,2 +1,12 @@
 .vercel
 .env*
+
+# Working files - never commit (pin images, batches, ledgers bloat the repo)
+hidden_files/pin-images-*/
+hidden_files/*.jpg
+hidden_files/*.jpeg
+hidden_files/*.png
+hidden_files/*.avif
+hidden_files/*.mp4
+hidden_files/*batch*.json
+hidden_files/sourcing-batch-*.json
