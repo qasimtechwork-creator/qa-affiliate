@@ -10,3 +10,5 @@ hidden_files/*.avif
 hidden_files/*.mp4
 hidden_files/*batch*.json
 hidden_files/sourcing-batch-*.json
+hidden_files/*-work/
+hidden_files/*.html
