@@ -107,6 +107,55 @@ Fixed IDs by mapping:
 - Duplicates: 17 hard-duplicate pairs and 100 exact-name groups — lists only, nothing deleted or merged.
 
 ---
+## Addendum 2026-10-09 (P1 closing run — Health Part A mapping APPLIED)
+
+Authorized by Qasim 2026-10-09. Applied Part A of `p1-health-mapping-proposal-20261009.md`.
+
+### Backup (before any write)
+- `~/workspace/affiliate-site/backups/products-20261009-p1health-bak.json` — exact pre-mapping copy of `data/products.json`, **6,718 records verified**, sha256 `a13bc092c1b7075fd606990105d2e0f488f0758fbffc5ef5f31333c20c35f645`, byte-identical to the working file before the edit. Prior backups (`products-20261009-expansion-bak.json` 6,640, `products-20261009-p1mapping-bak.json` 6,718, `products-20261009-p1electronics-toys-bak.json` 6,718) untouched; pin ledger untouched (`next_index` 225).
+
+### Mapping applied: 23 Part A products → `fitness` (Fitness & Lifestyle)
+`category` field only — zero non-category field changes; verified by full deep-compare against the backup (23 records changed, every change `category → fitness`; order and all other fields identical).
+
+1. daraz-posture-corrector-belt-back-support (Health → fitness)
+2. daraz-real-posture-belt-posture-corrector-belt-back
+3. temu-back-posture-support-clavicle-support-new
+4. temu-hunchback-posture-support-chest-shoulder-neck
+5. temu-cintura-supporto-lombare-e-donne-posteriore
+6. temu-8x-powerful-lumbar-support-back-brace-massage-pad-breathable
+7. daraz-electric-hot-water-bottle-heat-pad-multicolour
+8. temu-heating-pad-a-3d-kneading-back-massager-designed
+9. temu-heating-massage-chair-cushion-adjustable-lumbar-support-9
+10. temu-vibration-massage-seat-cushion-car-w-10-vibration-motors-seat-back-mas
+11. temu-hand-massager-heat-compression-3-finger-wrist-relax
+12. temu-portable-deep-tissue-massage-gun-with-9-massage-heads-handheld-suitabl
+13. temu-1pc-hand-massager-cordless-electric
+14. temu-1pc-2pcs-portable-cordless-heated-knee-massager-usb
+15. temu-rechargeable-electric-leg-massager-a-calf-air-pressure
+16. temu-masaj-electric-de-acas-instrument-gua-sha-cu
+17. temu-1-2pcs-luxury-neck-massager-experience-pillow-support
+18. temu-pair-supportive-knee-sleeves-weightlifting-squats
+19. temu-1pc-sports-wrist-support-relieve-compression
+20. temu-1pc-small-size-3d-knitted-elastic-breathable-unisex
+21. daraz-reflexology-massage-slippers
+22. daraz-heel-care-slippers-eva
+23. temu-1-reusable-ice-pack-cold-wisdom-teeth
+
+### Before/after category counts (verified in data/products.json after edit)
+- Total products: **6,718 → 6,718** (unchanged)
+- `fitness`: **182 → 205**
+- `health`: 35 → 13 (`Health` 1 → 0; its lone product was Part A #1)
+- `electronics` 534, `toys` 96: unchanged
+- `toys-wellness` raw category: no longer present (both products split to `toys`/`fitness` in the earlier P1 landing-pages run — see the addendum below)
+
+### The 13 Part B products: untouched
+All 13 Part-B records verified byte-for-byte unchanged in `data/products.json` (deep-compare against backup); they remain `category: health`, unmapped, no Wellness page created. Their static item pages only re-render the auto-generated "You may also like" block under gen_seo (their former health siblings changed), which is the established generator behavior — no product data was edited for any Part-B item.
+
+### Deployment
+- gen_seo.py re-run: 6,718 item pages regenerated, sitemap 6,750 URLs (unchanged count — no new pages).
+- Committed + pushed to `main` (see git log); Vercel auto-deploy. Live verification of counts and item pages performed against https://qa-affiliate.vercel.app (results in the P1 closing report).
+
+---
 ## Addendum 2026-10-09 (follow-through run)
 - Live verification passed: 31/31 sampled category mappings and 25/25 sampled Daraz image fixes confirmed on the live site (item page 200, live category correct, image 200 image/*). See `p1-live-verification-20261009.md`.
 - Temu 27 missing images re-attempted via public GET: generic verification shell (no product JSON extractable; no CAPTCHA shown, none attempted) — **0 fixed, 27 blocked (needs browser session)**. No data was modified for these products in this run; no new backup was created (nothing changed). Known 404 mascara image re-verified: still 404.

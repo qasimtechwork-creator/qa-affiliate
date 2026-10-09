@@ -1,9 +1,11 @@
-# P1 — Health/Wellness 36 → proposed mapping into existing "Fitness & Lifestyle" (`fitness`)
+# P1 — Health/Wellness 36 → mapping into existing "Fitness & Lifestyle" (`fitness`)
 
-Date: 2026-10-09 · Authorized: P1 Health group (prepare only)
-**STATUS: PREPARED ONLY — NOT APPLIED.** No data changes were made for these 36 products.
-Their live raw `category` values are still `health` (35) + `Health` (1) and they remain
-unmapped to any landing page, pending Qasim's decision.
+Date: 2026-10-09 · Authorized: P1 Health group
+**STATUS — UPDATED 2026-10-09 (P1 closing run):** Part A (23 products) **APPLIED** — those 23
+products now carry `category: fitness` and appear on the Fitness & Lifestyle landing page.
+Part B (13 products) remains exactly as below: `category: health`, unmapped, **no Wellness
+page created**, **not applied** — still pending Qasim's decision. Their live raw `category`
+values remain unchanged.
 
 Decision in play (Qasim 2026-10-09): prepare the proposed mapping into the existing
 `fitness` landing category ("Fitness & Lifestyle"), but first list every product that does
