@@ -137,3 +137,14 @@ Note: $99.63 platform slippers (goods 610520119778417) ACCEPTED — plausible br
 - goods 606524676129303 | 4-in-1 facial serum | shared: [['1', 'facial', 'serum']]
 - goods 606419919204012 | open-toe flat shoes | shared: [['open', 'toe', 'flat'], ['toe', 'flat', 'shoes']]
 - goods 606322158326789 | chunky heel sandals | shared: [['chunky', 'heel', 'sandals']]
+
+## Publish + live verification (2026-10-09)
+- gen_seo.py: 6,813 item pages generated; sitemap 6,750 → 6,845 URLs (+95).
+- Commit c20bef17 pushed to master; Vercel auto-deployed.
+- LIVE https://qa-affiliate.vercel.app/data/products.json = 6,813 products (6,718 + 95); all 95 staged ids present.
+- 6 sampled new item pages: HTTP 200, unique titles, product image present — /item/temu-5-in-1-facial-essence-set, /item/temu-backless-camisole-mini-dress, /item/temu-grandmother-granddaughter-journal, /item/temu-sparkly-mid-calf-boots, /item/temu-large-dark-hair-accessory-set, /item/temu-branded-unisex-club-cap.
+- Live sitemap: 6,845 <loc> entries (+95 vs 6,750); all 6 sampled items present.
+- Live category counts: skincare 127 (+11), fashion 2,012 (+20), home 1,207 (+25), shoes 408 (+16), accessories 396 (+2), jewelry 525 (+20), lingerie 54 (+1).
+- 3 affiliate URLs spot-checked (goods 606246392443318, 605857882446941, 606172773980069): HTTP 200, final URL preserves _x_cid=6013029639kol_affiliate; no CAPTCHA/verification encountered.
+- No regression: pre-existing 6,718 records unchanged (count/id integrity verified live); rollback backup intact at backups/products-20261009-harvest120-bak.json + backups/products-20261009-harvest120-bak-rerun.json.
+- Pins: pin ledger untouched (next_index 225). The 95 new products queue automatically into the standing daily backlog pin cron (backlog = catalog minus pinned ledgers). Pins queued: 95.
