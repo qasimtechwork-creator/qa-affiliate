@@ -1,0 +1,317 @@
+{
+ "count_declared": 120,
+ "harvest_date": "2026-10-09",
+ "harvested_by": "main agent browser task (live storefront/search cards, signed-in browser; user solved verification wall manually)",
+ "items": [
+  {
+   "goods_id": "605608117562199",
+   "image_url": "https://img.kwcdn.com/product/fancy/968838b7-39e5-4ea0-871b-4fd1de1c812a.jpg",
+   "price": "$10.12",
+   "source_page": "homepage",
+   "title_card": "off-shoulder polka dot long dress"
+  },
+  {
+   "goods_id": "606302073993332",
+   "image_url": "https://img.kwcdn.com/product/fancy/b365868b-68a1-465d-bd59-476c126d1ee9.jpg",
+   "price": "$22.22",
+   "source_page": "homepage",
+   "title_card": "long sleeveless floral dress"
+  },
+  {
+   "goods_id": "602026092539737",
+   "image_url": "https://img.kwcdn.com/product/fancy/4e1f445b-7ece-4c98-b39c-7afa6dbaba1a.jpg",
+   "price": "$10.25",
+   "source_page": "homepage",
+   "title_card": "long sleeveless square-neck dress"
+  },
+  {
+   "goods_id": "601099937643665",
+   "image_url": "https://img.kwcdn.com/product/fancy/cb78f99a-a6ff-4cee-ae92-215d86843d40.jpg",
+   "price": "$2.71",
+   "source_page": "homepage",
+   "title_card": "slip dress"
+  },
+  {
+   "goods_id": "601104447507199",
+   "image_url": "https://img.kwcdn.com/product/open/a4d04a86a4c74accbd35f1d2e2a24ac-goods.jpeg",
+   "price": "$2.14",
+   "source_page": "homepage",
+   "title_card": "tiny tin vase decor"
+  },
+  {
+   "goods_id": "601104992687726",
+   "image_url": "https://img.kwcdn.com/product/open/523dfd70bacf407480d95bcd878c0d0f-goods.jpeg",
+   "price": "$23.03",
+   "source_page": "homepage",
+   "title_card": "miniature amber glass vase set 9"
+  },
+  {
+   "goods_id": "601106127997339",
+   "image_url": "https://img.kwcdn.com/product/fancy/a80376e0-09e5-43c18-40fc-0baa3cf40db9.jpg",
+   "price": "$11.87",
+   "source_page": "homepage",
+   "title_card": "asymmetrical-ruffle maxi cover-up dress"
+  },
+  {
+   "goods_id": "606273843926751",
+   "image_url": "https://img.kwcdn.com/product/open/69efb40b32ec49099eb481e6f03e9289-goods.jpeg",
+   "price": "$2.90",
+   "source_page": "homepage",
+   "title_card": "mini crystal perfume bottle photo prop"
+  },
+  {
+   "goods_id": "606004683921180",
+   "image_url": "https://img.kwcdn.com/product/fancy/aebcfd09-0b28-495b-8e27-92184e1d55e2.jpg",
+   "price": "$14.12",
+   "source_page": "homepage",
+   "title_card": "lace-trim cardigan"
+  },
+  {
+   "goods_id": "601101352368654",
+   "image_url": "https://img.kwcdn.com/product/fancy/fcfdbdbc-630e-44ee-48a0-46f4ae93d6ea.jpg",
+   "price": "$6.89",
+   "source_page": "homepage",
+   "title_card": "pearl necklace"
+  },
+  {
+   "goods_id": "601099586450544",
+   "image_url": "https://img.kwcdn.com/product/open/eae6d1be5d53747c0e09f462b26ebdd1-goods.jpeg",
+   "price": "$3.13",
+   "source_page": "homepage",
+   "title_card": "personalized crystal perfume bottle"
+  },
+  {
+   "goods_id": "601101427350025",
+   "image_url": "https://img.kwcdn.com/product/fancy/becdbf53-1f90-484f-a64e-a4d8ee4e13eb.jpg",
+   "price": "$8.17",
+   "source_page": "homepage",
+   "title_card": "boho leaf charm bracelet watch"
+  },
+  {
+   "goods_id": "601104393000616",
+   "image_url": "https://img.kwcdn.com/product/open/67b1d168226c467dafaebdb895ccb0bc-goods.jpeg",
+   "price": "$5.37",
+   "source_page": "homepage",
+   "title_card": "realistic chicken model decor"
+  },
+  {
+   "goods_id": "601099631743809",
+   "image_url": "https://img.kwcdn.com/product/fancy/1f1f45afd600419bbdcf207b0dfd0c44eae63a.jpg",
+   "price": "$2.38",
+   "source_page": "homepage",
+   "title_card": "silicone-free hyaluronic acid mist"
+  },
+  {
+   "goods_id": "601101496872821",
+   "image_url": "https://img.kwcdn.com/product/fancy/7371c400-19d1-4741-a7b5-5710b30c8dfd.jpg",
+   "price": "$4.00",
+   "source_page": "homepage",
+   "title_card": "floral pendant necklace set"
+  },
+  {
+   "goods_id": "601107696355837",
+   "image_url": "https://img.kwcdn.com/product/fancy/155985e5-dbb8-4d2c-991d-15658156aee9.jpg",
+   "price": "$17.09",
+   "source_page": "homepage",
+   "title_card": "hanging wind chime decor"
+  },
+  {
+   "goods_id": "601100585675317",
+   "image_url": "https://img.kwcdn.com/product/fancy/aa11f794-e29b-47d3-bca8-6bee84b5aa7b.jpg",
+   "price": "$2.60",
+   "source_page": "homepage",
+   "title_card": "vintage metal candlestick"
+  },
+  {
+   "goods_id": "601101708536693",
+   "image_url": "https://img.kwcdn.com/product/fancy/de0eae07-744b-4b4f-a85b-0e27d64f82b3.jpg",
+   "price": "$11.29",
+   "source_page": "homepage",
+   "title_card": "vintage-inspired daisy floral dress"
+  },
+  {
+   "goods_id": "601099582689526",
+   "image_url": "https://img.kwcdn.com/product/fancy/c9d7b919-...",
+   "price": "$10.27",
+   "source_page": "homepage",
+   "title_card": "floral one-shoulder ruffle top"
+  },
+  {
+   "goods_id": "601099708623808",
+   "image_url": "https://img.kwcdn.com/product/fancy/813d4105-a15a-4830-8371-802d6ee4916b.jpg",
+   "price": "$5.72",
+   "source_page": "homepage",
+   "title_card": "halter neck slip dress"
+  },
+  {
+   "goods_id": "606349533481584",
+   "image_url": "https://img.kwcdn.com/product/fancy/fcc85b79-cbbd-45c4-a467-a83699ccb622.jpg",
+   "price": "$11.39",
+   "source_page": "homepage",
+   "title_card": "vintage floral tapestry"
+  },
+  {
+   "goods_id": "601099799449679",
+   "image_url": "https://img.kwcdn.com/product/fancy/e376f6c3-e6a3-49a4-aaa9-124e177ad997.jpg",
+   "price": "$7.06",
+   "source_page": "homepage",
+   "title_card": "boho rattan pendant light"
+  },
+  {
+   "goods_id": "606475790515582",
+   "image_url": "https://img.kwcdn.com/product/fancy/2ad32876-0d2c-4604-b213-9442ea42a045.jpg",
+   "price": "$12.70",
+   "source_page": "homepage",
+   "title_card": "floral ceramic plate set 16"
+  },
+  {
+   "goods_id": "601099507756911",
+   "image_url": "https://img.kwcdn.com/product/open/3e752b357e2641d70ba111d6cf92f367-goods.jpeg",
+   "price": "$85,524.70",
+   "source_page": "homepage",
+   "title_card": "autographed collectible shoes"
+  },
+  {
+   "goods_id": "601101863291037",
+   "image_url": "https://img.kwcdn.com/product/fancy/0a9cf994-a6fc-49e6-92b7-6400ad8b62c0.jpg",
+   "price": "$11.06",
+   "source_page": "homepage",
+   "title_card": "glass floral wall art panel"
+  },
+  {
+   "goods_id": "601100551495441",
+   "image_url": "https://img.kwcdn.com/product/open/e50b568f27cf4ac0b124f9b738436be1-goods.jpeg",
+   "price": "$26,195.20",
+   "source_page": "homepage",
+   "title_card": "autographed collectible shoes"
+  },
+  {
+   "goods_id": "601101899790551",
+   "image_url": "https://img.kwcdn.com/product/fancy/6bf26e65-e94e-4a91-8673-8f9f7310c7d9.jpg",
+   "price": "$13.34",
+   "source_page": "homepage",
+   "title_card": "nude strappy heeled sandals"
+  },
+  {
+   "goods_id": "601099610893711",
+   "image_url": "https://img.kwcdn.com/product/fancy/a1666287-0735-4b5a-8b6d-3df22951f488.jpg",
+   "price": "$34.00",
+   "source_page": "homepage",
+   "title_card": "sweater-knit long dress"
+  },
+  {
+   "goods_id": "601101793707590",
+   "image_url": "https://img.kwcdn.com/product/fancy/224052d6-829c-4a09-4ae92e63cd7bf27ed.jpg",
+   "price": "$5.46",
+   "source_page": "homepage",
+   "title_card": "hair accessory set 18 pcs"
+  },
+  {
+   "goods_id": "601099750008718",
+   "image_url": "https://img.kwcdn.com/product/fancy/9c5abb20-210c-4d56-90c6-71bc40e7e9e26.jpg",
+   "price": "$1.58",
+   "source_page": "homepage",
+   "title_card": "mini star crystal stud earrings"
+  },
+  {
+   "goods_id": "601099839462017",
+   "image_url": "https://img.kwcdn.com/product/fancy/53de70a6-e0c7-4fed-987c-817f7ae81d724d.jpg",
+   "price": "$2.76",
+   "source_page": "homepage",
+   "title_card": "personalized tooth storage box"
+  },
+  {
+   "goods_id": "601099773166637",
+   "image_url": "https://img.kwcdn.com/product/fancy/56067d4d-831c-4e8a-a493-25a5e8f7ab44.jpg",
+   "price": "$3.20",
+   "source_page": "homepage",
+   "title_card": "eye-care cream"
+  },
+  {
+   "goods_id": "601099762544027",
+   "image_url": "https://img.kwcdn.com/product/fancy/472f293f-125c-401b-88bf-6ae93e7ba26d.jpg",
+   "price": "$5.71",
+   "source_page": "homepage",
+   "title_card": "metallic-wire globe paperweight"
+  },
+  {
+   "goods_id": "601099663074905",
+   "image_url": "https://img.kwcdn.com/product/fancy/58e2649e-2e1f-4b3d-8c5e-c369213b1612.jpg",
+   "price": "$8.59",
+   "source_page": "homepage",
+   "title_card": "live-laugh-love framed sign"
+  },
+  {
+   "goods_id": "601099591021711",
+   "image_url": "https://img.kwcdn.com/product/fancy/c9b03cbd-02b5-465b-acdb-90e0ea7f446f.jpg",
+   "price": "$7.55",
+   "source_page": "homepage",
+   "title_card": "wood desk lamp"
+  },
+  {
+   "goods_id": "601099649290566",
+   "image_url": "https://img.kwcdn.com/product/fancy/bab24bc1-eeb2-4ba3-84e3-4031e8c3a9ba.jpg",
+   "price": "$2.99",
+   "source_page": "homepage",
+   "title_card": "hair styling pins set"
+  },
+  {
+   "goods_id": "601100675847718",
+   "image_url": "https://img.kwcdn.com/product/fancy/261a2d93-ad52-436d-933f-35e8c74220c2.jpg",
+   "price": "$1.94",
+   "source_page": "homepage",
+   "title_card": "floral petal-drop earrings"
+  },
+  {
+   "goods_id": "601101506822588",
+   "image_url": "https://img.kwcdn.com/product/fancy/9d1a04ea-06d6-4a69-991d-7e664c68c35d.jpg",
+   "price": "$2.86",
+   "source_page": "homepage",
+   "title_card": "garden floral tapestry"
+  },
+  {
+   "goods_id": "601099952541703",
+   "image_url": "https://img.kwcdn.com/product/fancy/d361b917-b6d4-4cda-871a-2e283ef2d828.jpg",
+   "price": "$14.97",
+   "source_page": "homepage",
+   "title_card": "cloud pendant light"
+  },
+  {
+   "goods_id": "601102362483343",
+   "image_url": "https://img.kwcdn.com/product/fancy/f10e07c3-4ca3-4836-a8b7-31dd9d2e0b9b.jpg",
+   "price": "$6.85",
+   "source_page": "homepage",
+   "title_card": "ribbed long-sleeve top"
+  },
+  {
+   "goods_id": "601100551483332",
+   "image_url": "https://img.kwcdn.com/product/fancy/87e91f6b-f44c-4cdc-94f6-61f2cb419273.jpg",
+   "price": "$21.07",
+   "source_page": "homepage",
+   "title_card": "green floral-print maxi dress"
+  },
+  {
+   "goods_id": "601099566732636",
+   "image_url": "https://img.kwcdn.com/product/open/07e16772b1924700a8383a02abcc3acf-goods.jpeg",
+   "price": "$4.69",
+   "source_page": "homepage",
+   "title_card": "mini white vase set"
+  },
+  {
+   "goods_id": "601099568185705",
+   "image_url": "https://img.kwcdn.com/product/fancy/5e5d7a99-9bb0-4b44-8c39-17555eb9ce98.jpg",
+   "price": "$22.03",
+   "source_page": "homepage",
+   "title_card": "knitted winter dress"
+  },
+  {
+   "goods_id": "601106024516674",
+   "image_url": "https://img.kwcdn.com/product/fancy/6d7d73bc-5fb0-4dda-94e9-311b9ee4c612.jpg",
+   "price": "$8.86",
+   "source_page": "homepage",
+   "title_card": "sheer tulle skirt"
+  }
+ ],
+ "integrity_note": "UNVERIFIED TRANSCRIPTION — DO NOT STAGE FROM THIS FILE. Entries were transcribed from forked conversation text (no on-disk harvest exists). Verification 2026-10-09: all 28 candidates reaching the image gate returned HTTP 404 HEAD+GET, while a control catalog image HEADs 200. Identifiers (goods_id, image URLs) are unreliable. Re-harvest with file-sourced data required.",
+ "verification_status": "FAILED — wave aborted, 0 staged (see harvest-120-staging-log-20261009.md)"
+}
