@@ -92,6 +92,26 @@ QA.productCard = function(p){
     '<div class="product-cta"><a class="btn btn-rose btn-block" data-aff data-id="'+esc(p.id)+'" href="'+esc(p.affiliate_url)+'" target="_blank" rel="nofollow sponsored noopener">View Deal</a></div>'+
     '</div></article>';
 };
+/* Deals page card: same visual component as QA.productCard, but every link
+   stays on-site to the canonical /item/<id> page (never a direct merchant
+   link); the affiliate CTA lives on the item page. */
+QA.dealCard = function(p){
+  var url='/item/'+esc(p.id);
+  var img=p.image_url ?
+    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" loading="lazy" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
+    imgFallback(p);
+  return '<article class="product-card">'+
+    '<div class="product-media"><a href="'+url+'" aria-label="'+esc(p.name)+'">'+
+    img+'</a>'+
+    '<div class="badge-row">'+badges(p)+'</div>'+sampleTag(p)+'</div>'+
+    '<div class="product-body">'+
+    '<div class="product-merchant">'+esc(categoryName(p.category))+' · '+esc(merchantName(p))+'</div>'+
+    '<h3 class="product-name"><a href="'+url+'">'+esc(p.name)+'</a></h3>'+
+    stars(p.rating)+soldNote(p)+
+    priceRow(p)+
+    '<div class="product-cta"><a class="btn btn-rose btn-block" href="'+url+'">View Deal</a></div>'+
+    '</div></article>';
+};
 function renderGrid(el, list){
   if(!list.length){ el.innerHTML='<div class="empty-state"><h3>Nothing found</h3><p>Try adjusting your search or filters.</p></div>'; return; }
   el.innerHTML=list.map(QA.productCard).join("");
@@ -358,6 +378,19 @@ trending:function(){
   list.sort(function(a,b){return (b.trend_status==="viral")-(a.trend_status==="viral");});
   renderGrid(document.getElementById("trend-grid"),list);
   document.getElementById("trend-count").textContent=list.length+" trending finds";
+},
+deals:function(){
+  var el=document.getElementById("deals-grid");
+  if(!el) return;
+  var ids=window.QA_DEAL_IDS||[];
+  var byId={};
+  state.products.forEach(function(p){ byId[p.id]=p; });
+  var list=ids.map(function(id){return byId[id];}).filter(Boolean);
+  if(!list.length){
+    el.innerHTML='<div class="empty-state"><h3>Deal picks are being refreshed</h3><p>Please check back shortly.</p></div>';
+    return;
+  }
+  el.innerHTML=list.map(QA.dealCard).join("");
 },
 product:function(){
   var id=new URLSearchParams(location.search).get("id");
