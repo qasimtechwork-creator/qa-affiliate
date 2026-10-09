@@ -257,7 +257,8 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
 /* ================= CATEGORY BANNER ================= */
 .cat-banner{position:relative;overflow:hidden;background:var(--plum);color:#F7EFE5;border-bottom:1px solid rgba(212,175,55,.28)}
 .cat-banner-bg{position:absolute;inset:0;z-index:0}
-.cat-banner-bg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:65% 0%}
+.cat-banner-bg img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:65% 0%;animation:cat-banner-zoom 22s ease-in-out infinite alternate;will-change:transform}
+@keyframes cat-banner-zoom{from{transform:scale(1)}to{transform:scale(1.12)}}
 .cat-banner-bg .gif-fallback{display:none}
 .cat-banner-overlay{position:absolute;inset:0;z-index:1;background:linear-gradient(100deg,rgba(26,15,20,.96) 0%,rgba(26,15,20,.82) 36%,rgba(26,15,20,.38) 60%,rgba(26,15,20,.08) 80%)}
 .cat-banner-inner{position:relative;z-index:2;padding:60px 0 68px}
@@ -301,6 +302,7 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
   .cat-banner-overlay{background:linear-gradient(100deg,rgba(26,15,20,.95) 0%,rgba(26,15,20,.80) 48%,rgba(26,15,20,.40) 78%,rgba(26,15,20,.15) 100%)}
 }
 @media (prefers-reduced-motion:reduce){
+  .cat-banner-bg img{animation:none}
   .cat-banner-bg .gif-anim{display:none}
   .cat-banner-bg .gif-fallback{display:block}
 }

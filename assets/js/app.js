@@ -308,7 +308,9 @@ var CATEGORY_ICONS={
   "lingerie":"/assets/images/categories/icon-lingerie.webp",
   "fitness":"/assets/images/categories/icon-fitness.webp",
   "trending":"/assets/images/categories/icon-trending.webp",
-  "home":"/assets/images/categories/icon-home.webp"
+  "home":"/assets/images/categories/icon-home.webp",
+  "electronics":"/assets/images/categories/icon-electronics.webp",
+  "toys":"/assets/images/categories/icon-toys.webp"
 };
 var pages={
 home:function(){
