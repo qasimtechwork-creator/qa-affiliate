@@ -109385,6 +109385,26 @@
    "trend_status": "new",
    "sample": false,
    "updated": "2026-10-09"
+  },
+  {
+   "id": "temu-1pc-gym-mens-outdoor-gloves-touchscreen-gloves",
+   "name": "1pc gym mens outdoor gloves touchscreen gloves",
+   "goods_id": "601104154630854",
+   "affiliate_url": "https://www.temu.com/goods.html?goods_id=601104154630854&_x_cid=6013029639kol_affiliate",
+   "image_url": "https://img.kwcdn.com/product/open/b2acc724c73c48b18eef6bc9fda36499-goods.jpeg",
+   "merchant": "temu",
+   "category": "fashion",
+   "source": "assistant-sourced",
+   "short_description": "1pc gym mens outdoor gloves touchscreen gloves.",
+   "price": "",
+   "old_price": "",
+   "badges": [
+    "new"
+   ],
+   "rating": 4.5,
+   "trend_status": "new",
+   "sample": false,
+   "updated": "2026-10-09"
   }
  ]
 }
