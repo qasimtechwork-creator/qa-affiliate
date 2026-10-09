@@ -105,3 +105,37 @@ Fixed IDs by mapping:
 - Category: `electronics` 525, `toys` 95, `health` 35, `Phone Accessories` 3, `Electronics` 3, `Mobile Accessories` 3, `toys-wellness` 2, `Health` 1 → 667 products with no landing page (new pages = plan-only, approval required).
 - Images: 27 Temu products with no image_url (Temu goods HTML carries no static product image; needs browser session) — list in the P1 audit file.
 - Duplicates: 17 hard-duplicate pairs and 100 exact-name groups — lists only, nothing deleted or merged.
+
+---
+## Addendum 2026-10-09 (follow-through run)
+- Live verification passed: 31/31 sampled category mappings and 25/25 sampled Daraz image fixes confirmed on the live site (item page 200, live category correct, image 200 image/*). See `p1-live-verification-20261009.md`.
+- Temu 27 missing images re-attempted via public GET: generic verification shell (no product JSON extractable; no CAPTCHA shown, none attempted) — **0 fixed, 27 blocked (needs browser session)**. No data was modified for these products in this run; no new backup was created (nothing changed). Known 404 mascara image re-verified: still 404.
+
+---
+## Addendum 2026-10-09 (P1 landing pages run — Electronics + Toys & Kids)
+
+Authorized by Qasim 2026-10-09. Changes applied and live-verified (see final report).
+
+### Backup (before any write)
+- `~/workspace/affiliate-site/backups/products-20261009-p1electronics-toys-bak.json` = exact pre-change copy of `data/products.json` (verified **6,718** records before any write). Existing backups (`products-20261009-expansion-bak.json` 6,640, `products-20261009-p1mapping-bak.json`) preserved untouched; pin ledger untouched (`next_index` 225).
+
+### A. Electronics landing page + mapping (534)
+- `data/categories.json`: added category **Electronics** (`id: electronics`, 🔌 icon) following the exact 12-entry pattern (id/name/subcategories/tagline/description/related_guides). Slug/title/meta per blueprint `/category?cat=electronics` — "Electronics Deals — Best Gadgets, Smartwatches & Phone Accessories | QA Affiliate" naming surfaced via app.js `document.title` + category banner (title tag pattern identical to existing pages).
+- `data/products.json` category normalization into `electronics`:
+  - `Electronics` → `electronics` (3): daraz-zero-evo-wireless-earbuds-bluetooth-5-4, daraz-air31-wireless-earbuds-bluetooth-5-3, daraz-m10-tws-wireless-bluetooth-earbuds
+  - `Phone Accessories` → `electronics` (3): temu-3-in-1-magnetic-phone-holder-for-magsafe-iphone-12-17-foldab, temu-15w-fast-wireless-charging-phone-mount-vacuum-suction-magnet, temu-360-adjustable-vacuum-magnetic-car-phone-holder-for-magsafe
+  - `Mobile Accessories` → `electronics` (3): daraz-remax-rpp-87-20000mah-power-bank, daraz-mi-power-bank-3-20000mah, daraz-r1s-bluetooth-selfie-stick-3-in-1-tripod
+  - `electronics` 525: value already equal to the new id — no rename needed, now backed by a real landing category.
+- **Electronics count after remap: 534** (525 + 3 + 3 + 3).
+
+### B. Toys & Kids landing page + mapping (95 + 1)
+- `data/categories.json`: added category **Toys & Kids** (`id: toys`, 🧸 icon), same data pattern; slug `/category?cat=toys` per blueprint.
+- `data/products.json`:
+  - `toys` 95: value already equal to the new id — now backed by a real landing category.
+  - `daraz-real-magic-color-changeable-grape-mesh-squish-ball-stress-relief` `toys-wellness` → `toys` (per blueprint split).
+  - `daraz-real-hand-exercise-stress-relief-smiley-emoji-physio-ball-yellow` `toys-wellness` → `fitness` (per blueprint split).
+- **Toys count after remap: 96** (95 + 1 wellness split). `fitness` 181 → 182.
+
+### Nothing-else note
+- Totals unchanged: **6,718** products. No deletions, no merges, no duplicate changes (17 pairs / 100 groups retained as lists). No image edits — 27 Temu missing images + the known 404 mascara record were NOT touched (still unresolved, blocked on one browser session). Health/Wellness 36 NOT applied — proposal prepared in `p1-health-mapping-proposal-20261009.md`.
+- gen_seo.py re-run after data edits: 6,718 item pages regenerated, sitemap 6,748 → **6,750 URLs** (+ Electronics, + Toys). New pages use the same shell/canonical/BreadcrumbList pattern as existing pages (gen_seo `cat_name` lookup + breadcrumb).

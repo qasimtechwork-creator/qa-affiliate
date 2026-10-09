@@ -52,3 +52,17 @@ Site: https://qa-affiliate.vercel.app · Repo: `~/workspace/affiliate-site` · A
 ## 5. Statement of state
 
 **No changes were made by this plan.** The only production writes in this P1 run were the permitted category/image fixes documented in the audit file and change log (backup: `~/workspace/affiliate-site/backups/products-20261009-p1mapping-bak.json`; commit `196149e` on `qa-affiliate`, verified live: 6,718 products, missing-image count 27, changed pages HTTP 200). Everything in section 3 awaits Qasim's explicit approval.
+
+
+---
+
+## Verified this run (2026-10-09, later run — curl from this VM, gzip honored)
+| Metric | Verified value |
+|---|---|
+| products.json | **200 · 5,303,893 B raw · 678,656 B gzip · TTFB 0.58 s · full download 0.92 s** |
+| `/category?cat=beauty` | **200 · 1,261 B shell · TTFB 0.48 s** |
+| `sitemap.xml` | **200 · 6,748 URLs · 1,342,256 B · TTFB 0.39 s** |
+| `/item/<id>` sample | **200 · 2,550 B · TTFB 0.33 s** |
+| app.js / main.css / categories.json (gzip) | 9,450 B / 7,411 B / 2,080 B |
+
+The earlier plan figures (5,295,187 B raw / ≈700 KB gzip / TTFB ~0.9 s) are confirmed to the same magnitude; the +8.7 KB raw delta is the applied image fixes. All recommendations remain **plan-only — nothing implemented** without Qasim's approval.

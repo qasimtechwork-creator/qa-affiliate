@@ -177,6 +177,34 @@
       "tagline": "Decor, lighting and little upgrades for your space",
       "description": "Small, affordable pieces that change how a room feels — accent lighting, wall decor, organizers and decorative touches. We pick items with strong buyer feedback and real-room appeal, verified live on AliExpress.",
       "related_guides": []
+    },
+    {
+      "icon": "🔌",
+      "id": "electronics",
+      "name": "Electronics",
+      "subcategories": [
+        "smartwatches",
+        "earbuds",
+        "phone-accessories",
+        "gadgets"
+      ],
+      "tagline": "Best Gadgets, Smartwatches & Phone Accessories",
+      "description": "Affordable gadgets, smartwatches, earbuds and phone accessories — trending tech picks with honest pros and cons.",
+      "related_guides": []
+    },
+    {
+      "icon": "🧸",
+      "id": "toys",
+      "name": "Toys & Kids",
+      "subcategories": [
+        "plush",
+        "craft-kits",
+        "learning",
+        "games"
+      ],
+      "tagline": "Viral Play, Learning & Gift Ideas",
+      "description": "Trending toys and kid-friendly finds — squishies, learning toys and gift ideas parents actually rebuy.",
+      "related_guides": []
     }
   ]
 }

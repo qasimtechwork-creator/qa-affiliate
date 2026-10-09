@@ -976,3 +976,12 @@ Recommendation: (1) Qasim approves removing the 17 B-records above; (2) one brow
 | Price/rating correctness of any listing | NOT VERIFIED | out of scope; prices not shown or asserted anywhere in this run |
 
 **Bottom line:** the catalog is structurally clean enough to resume controlled expansion once Qasim decides the two plan-only items (new Electronics/Toys pages; 17-pair dedup approvals). Remaining catalog hygiene backlog: 27 Temu images (browser pass), 1 known 404 image, 100 name groups pending adjudication, ≈22 stale item pages from Phase A (prune only with approval).
+
+---
+# E. Follow-through addendum (2026-10-09, later run)
+
+- **Live verification of all permitted fixes completed**: 31/31 sampled category-mapped products live-verified at their new landing ids with item page 200 + image; 25/25 sampled Daraz image fixes live-verified (page 200, correct image URL, image HEAD 200). Full evidence: [p1-live-verification-20261009.md](sandbox://workspace/affiliate-site/hidden_files/p1-live-verification-20261009.md).
+- **667 unmapped products recounted live** (electronics 525 · toys 95 · health 35 · Phone Accessories 3 · Electronics 3 · Mobile Accessories 3 · toys-wellness 2 · Health 1) with per-group landing-page recommendations in [p1-unmapped-recommendations-20261009.md](sandbox://workspace/affiliate-site/hidden_files/p1-unmapped-recommendations-20261009.md). **No new pages created; no structural SEO change made.**
+- **Duplicate reconciliation (99 vs 100)**: both counts correct for their catalog states — 99 groups / 351 records at 6,640 (Phase A) → 100 groups / 353 records at 6,718. Batch 1 created the extra group: `temu-platform-loafers-for-women` (batch-1 addition) pairs with pre-existing `temu-platform-loafers-for-women-543696`; distinct affiliate URLs → genuine seller variant, joins the 98 adjudication groups above. Evidence: expansion backup vs p1mapping backup, identical grouping method. No grouping-method change; no deletion or merge anywhere.
+- **Temu 27 missing images**: re-attempted via the established public-GET recipe this run; Temu served a generic verification shell (no product JSON extractable; no CAPTCHA presented, none attempted). **0 fixed; all 27 remain "blocked — needs one browser session."** No data was modified for these products. Known 404 mascara image independently re-verified: **still 404**.
+- **Nothing new deleted, merged, or repointed; no new landing pages; no structural changes.** Expansion remains paused pending Qasim's decision on the plan-only items.
