@@ -15,7 +15,10 @@ function esc(s){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
   });
 }
-function money(n){ return "$"+Number(n).toFixed(2); }
+function money(n, cur){
+  if(cur==="PKR") return "Rs "+Math.round(Number(n)).toLocaleString("en-US");
+  return "$"+Number(n).toFixed(2);
+}
 function hasPrice(p){ return p && p.price!=null && !isNaN(Number(p.price)); }
 function discountPct(p){
   if(!hasPrice(p) || !p.original_price || p.original_price<=p.price) return 0;
@@ -24,8 +27,8 @@ function discountPct(p){
 function priceRow(p){
   if(hasPrice(p)){
     var off=discountPct(p);
-    return '<div class="price-row"><span class="price">'+money(p.price)+'</span>'+
-      (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price)+'</span>':'')+
+    return '<div class="price-row"><span class="price">'+money(p.price, p.currency)+'</span>'+
+      (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price, p.currency)+'</span>':'')+
       (off>0?'<span class="price-off">-'+off+'%</span>':'')+'</div>';
   }
   return '<div class="price-row"><span class="price-na">Price varies — see live '+esc(merchantName(p))+' deal</span></div>';
@@ -177,7 +180,7 @@ function initAnalytics(){
   window.gtag("config",id,{anonymize_ip:true});
 }
 function trackAffiliateClick(p){
-  var payload={event:"affiliate_click",product_id:p.id,product_name:p.name,merchant:p.merchant,category:p.category,value:p.price,currency:"USD"};
+  var payload={event:"affiliate_click",product_id:p.id,product_name:p.name,merchant:p.merchant,category:p.category,value:p.price,currency:(p.currency||"USD")};
   if(window.gtag) window.gtag("event","affiliate_click",payload);
   try{
     var log=JSON.parse(localStorage.getItem("qa_aff_clicks")||"[]");
@@ -408,7 +411,7 @@ product:function(){
     '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
     imgFallback(p);
   var pdPrice=hasPrice(p)
-    ? '<div class="pd-price">'+money(p.price)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
+    ? '<div class="pd-price">'+money(p.price, p.currency)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price, p.currency)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
     : '<div class="pd-price"><span class="price-na">Price varies — see live '+esc(merchantName(p))+' deal</span></div>';
   var keyFeatures=(p.key_features&&p.key_features.length)?'<h3>Key features</h3><ul class="spec-list">'+p.key_features.map(function(f){return "<li>"+esc(f)+"</li>";}).join("")+'</ul>':'';
   var prosCons=((p.pros&&p.pros.length)||(p.cons&&p.cons.length))?
