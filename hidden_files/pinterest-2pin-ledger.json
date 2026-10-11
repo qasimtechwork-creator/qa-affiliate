@@ -1,7 +1,7 @@
 {
  "system": "Two pins per product (website pin + affiliate pin), published immediately, never scheduled. Resume in exact product order when daily limit hit.",
  "catalog_size_at_batch1": 226,
- "next_index": 275,
+ "next_index": 300,
  "products": [
   {
    "id": "temu-openwork-jacket",
@@ -45749,6 +45749,240 @@
    "done": true,
    "system": "one-pin (2026-10-03 revision: website /item/ page only)",
    "note": "pre-existing on board, verified duplicate skipped 2026-10-10; ledger backfilled"
+  },
+  {
+   "id": "aliexpress-french-romantic-pink-bowknot-heart-pendant-pearl-necklace",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171504/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-freshwater-pearl-yellow-pendant-necklace-earring-ring-set",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171511/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-personalized-custom-name-freshwater-pearl-necklace",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171516/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-professional-aluminum-makeup-brush-set-synthetic-hair",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171520/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-mini-dual-eye-shadow-brush-eyebrow-set-double-ended-sponge",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171524/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-makeup-brush-set-chic-fragrance-style-with-travel-cosmetic-b",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171528/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-100pcs-disposable-eyeliner-brushes-thin-tip-fiber-applicator",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171539/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-6pcs-professional-dual-ended-makeup-brush-set-travel-beauty",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171547/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11)"
+  },
+  {
+   "id": "aliexpress-dachshund-embroidered-sweater-coat-loose-knit-cardigan",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423171553/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)",
+   "duplicate_note": "pre-existing (on board, website destination; skipped-duplicate 2026-10-11; destination URL verified canonical)"
+  },
+  {
+   "id": "aliexpress-women-knit-cardigan-2-piece-set-sweater-coat-wide-leg-pants",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208170/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-yoga-stand-up-collar-jacket-slim-quick-dry-zipper-cardigan",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208176/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-100-pure-wool-cardigan-sweater-o-neck-loose-knit",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208179/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-autumn-winter-3-piece-set-cardigan-knitted-pant-suit",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208182/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-women-color-block-fake-two-piece-knit-cardigan",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208184/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-cute-amusement-park-stud-earrings-for-women-girls",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208187/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-personalized-portable-button-jewelry-box-travel-storage",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208189/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-luxury-wedding-tiara-crown-necklace-earrings-set",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208191/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-vintage-green-rhinestone-crown-crystal-necklace-earrings-set",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208194/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-metal-diamond-shaped-sunglasses-trendy-hip-hop",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208197/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-large-curved-retro-style-fashion-glasses",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208199/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-unisex-oversized-pilot-sunglasses-gradient-lenses",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208201/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-cycling-windproof-sunglasses-outdoor-sports",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208203/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-summer-women-pajamas-top-two-piece-set-knit-lounge-wear",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208204/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-u-neck-short-sleeve-t-shirt-slim-fit-casual",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208205/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-sunkta-fashion-casual-quartz-woman-watch-ceramic-diamond",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423208206/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
   }
  ],
  "last_run": "2026-10-10",
