@@ -286,11 +286,11 @@ function artClass(url){
 }
 /* ---------- guide cover photos (real merchant photography) ---------- */
 var GUIDE_PHOTOS={
-  "ga-skincare":{src:"/assets/images/guides/glass-skin.jpg",alt:"Jade roller and gua sha skincare tools"},
-  "ga-wardrobe":{src:"/assets/images/guides/capsule-wardrobe.jpg",alt:"Elegant open-front fashion jacket"},
-  "ga-curls":{src:"/assets/images/guides/heatless-curls.jpg",alt:"Heatless curling rod set"},
-  "ga-jewelry":{src:"/assets/images/guides/jewelry.jpg",alt:"Gold jewelry set"},
-  "ga-brushes":{src:"/assets/images/guides/makeup-brushes.jpg",alt:"Professional makeup brush set"}
+  "ga-skincare":{src:"/assets/images/guides/glass-skin.webp",alt:"Jade roller and gua sha skincare tools"},
+  "ga-wardrobe":{src:"/assets/images/guides/capsule-wardrobe.webp",alt:"Elegant open-front fashion jacket"},
+  "ga-curls":{src:"/assets/images/guides/heatless-curls.webp",alt:"Heatless curling rod set"},
+  "ga-jewelry":{src:"/assets/images/guides/jewelry.webp",alt:"Gold jewelry set"},
+  "ga-brushes":{src:"/assets/images/guides/makeup-brushes.webp",alt:"Professional makeup brush set"}
 };
 function enhanceGuideArt(){
   var els=document.querySelectorAll(".guide-art");
@@ -355,7 +355,7 @@ category:function(){
   var crumb=document.getElementById("crumb-cat"); if(crumb) crumb.textContent=c.name;
   var bi=document.getElementById("cat-banner-img"), bf=document.getElementById("cat-banner-fallback");
   if(bi){ bi.src="/assets/images/categories/banners/"+c.id+".gif?v=7"; bi.alt=c.name; }
-  if(bf){ bf.src="/assets/images/categories/banners/"+c.id+".jpg?v=7"; bf.alt=c.name; }
+  if(bf){ bf.src="/assets/images/categories/banners/"+c.id+".webp?v=7"; bf.alt=c.name; }
   /* 3D parallax: banner bg drifts slightly, foreground petals drift more */
   (function(){
     var banner=document.querySelector(".cat-banner"); if(!banner) return;
@@ -416,7 +416,7 @@ product:function(){
   var metaD=document.querySelector('meta[name="description"]');
   if(metaD){ metaD.setAttribute('content', p.name+" — "+(cat?cat.name:"product")+" pick from "+merchantName(p)+", curated by QA Affiliate. Price varies; see the live deal for today's price."); }
   var pdImg=p.image_url ?
-    '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
+    '<img loading="lazy" src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
     imgFallback(p);
   var pdPrice=hasPrice(p)
     ? '<div class="pd-price">'+money(p.price, p.currency)+(numPrice(p.original_price)>numPrice(p.price)?' <span class="price-old">'+money(p.original_price, p.currency)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
