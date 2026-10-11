@@ -246,6 +246,7 @@ function initNewsletter(){
 /* ---------- filters ---------- */
 function applyFilters(list,f){
   return list.filter(function(p){
+    if(p.status==="dead") return false;
     if(f.q && (p.name+" "+p.short_description+" "+p.category+" "+p.subcategory).toLowerCase().indexOf(f.q.toLowerCase())<0) return false;
     if(f.cat && p.category!==f.cat) return false;
     if(f.sub && p.subcategory!==f.sub) return false;
@@ -386,7 +387,7 @@ category:function(){
   initFilterPage({cat:cat});
 },
 trending:function(){
-  var list=state.products.filter(function(p){return p.trend_status;});
+  var list=state.products.filter(function(p){return p.trend_status && p.status!=="dead";});
   list.sort(function(a,b){return (b.trend_status==="viral")-(a.trend_status==="viral");});
   renderGrid(document.getElementById("trend-grid"),list);
   document.getElementById("trend-count").textContent=list.length+" trending finds";
@@ -426,7 +427,7 @@ product:function(){
     (p.pros&&p.pros.length?'<div><h4>What we like</h4><ul class="pros">'+p.pros.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div>':'')+
     (p.cons&&p.cons.length?'<div><h4>Keep in mind</h4><ul class="cons">'+p.cons.map(function(x){return "<li>"+esc(x)+"</li>";}).join("")+'</ul></div>':'')+
     '</div>':'';
-  var related=state.products.filter(function(x){return x.id!==p.id&&x.category===p.category;}).slice(0,4);
+  var related=state.products.filter(function(x){return x.status!=="dead"&&x.id!==p.id&&x.category===p.category;}).slice(0,4);
   var relHtml=related.length?
     '<section class="related-section"><h2 class="section-title">You may also like</h2><p class="section-sub">More picks from '+esc(cat?cat.name:"this category")+'.</p><div class="product-grid">'+related.map(QA.productCard).join("")+'</div></section>':'';
   var rguides=((cat&&cat.related_guides)||[]).map(function(slug){return GUIDES[slug];}).filter(Boolean);
