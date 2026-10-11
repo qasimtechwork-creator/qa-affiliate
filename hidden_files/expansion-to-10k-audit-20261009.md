@@ -96,3 +96,18 @@ The 287 name-rejections are Temu's seller-variant reality: the catalog already h
 **Pin ledger:** 78 new entries appended (5,646 → 5,724), each `{id, merchant: temu, done: false, note: "Expansion to 10k batch 1 staged 2026-10-09, pin pending"}`. `next_index` left untouched at **225** (pre-existing pinned progress 471 done / 5,175 pending preserved; note the ledger already lagged the catalog by 994 products before this batch — the 78 join the pending queue in catalog order at the end).
 
 **Remaining to 10,000:** 3,282 products (6,718 → 10,000). Next batch needs a browser-extracted candidate pool (the on-disk verified pool is now exhausted by dedup).
+
+---
+
+## Owner batch 2026-10-09 (5 links sent by Qasim, ~07:28 UTC)
+
+**Verification (done 2026-10-09 run):**
+- All 5 short links resolve; each carries `_x_cid=2056251191` (Qasim's Pakistani account) after redirect. cid verified: 5/5.
+- Goods IDs: 605539736116047, 605712390390884, 607449687913326, 607400631345367, 606682230950099. Link 5's pasted variant carried a trailing underscore; the base short link resolves identically (same goods_id + cid). No duplicates: 0 of 5 goods_ids or short links appear in the current 6,718-product catalog (of the 4,900 affiliate URLs carrying a discoverable goods_id).
+- Backup created before any staging: `~/workspace/affiliate-site/backups/products-20261009-owner-batch-bak.json` (6,718 records ✓).
+- Intake file: `~/workspace/affiliate-site/hidden_files/owner-batch-20261009-intake.json` (resolved final URLs recorded there).
+
+**Added: 0 so far / Rejected: 0 / Pending: 5.**
+Product data (real name, price, main image) is extractable ONLY via the signed-in Temu browser session — Temu product pages are bot-gated (generic shell to desktop-UA curl, bare shell to crawler-UA curl, and text fetch redirects to the home/recommendations page); search indexing does not contain these goods_ids. Prior rounds all staged from browser-extracted intermediate files for the same reason, and no record is ever fabricated. Staging, gen_seo, live verification, Pinterest pins and pin-ledger appends are all PENDING the browser extraction pass. Next step per intake file: one browser task extracts name/price/image for the 5 goods, then name-overlap dedupe (3+ consecutive distinctive words) runs before any staging; pins follow only for staged products.
+
+**Live total after this batch entry: 6,718 (unchanged — nothing staged yet).**

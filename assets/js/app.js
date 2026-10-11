@@ -15,20 +15,27 @@ function esc(s){
     return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
   });
 }
-function money(n, cur){
-  if(cur==="PKR") return "Rs "+Math.round(Number(n)).toLocaleString("en-US");
-  return "$"+Number(n).toFixed(2);
+function numPrice(v){
+  if(v==null) return NaN;
+  var n=Number(String(v).replace(/[^0-9.\-]/g,""));
+  return isNaN(n)?NaN:n;
 }
-function hasPrice(p){ return p && p.price!=null && !isNaN(Number(p.price)); }
+function money(n, cur){
+  n=numPrice(n); if(isNaN(n)) n=0;
+  if(cur==="PKR") return "Rs "+Math.round(n).toLocaleString("en-US");
+  return "$"+n.toFixed(2);
+}
+function hasPrice(p){ var n=p?numPrice(p.price):NaN; return !isNaN(n)&&n>0; }
 function discountPct(p){
-  if(!hasPrice(p) || !p.original_price || p.original_price<=p.price) return 0;
-  return Math.round((1-p.price/p.original_price)*100);
+  var pr=p?numPrice(p.price):NaN, op=p?numPrice(p.original_price):NaN;
+  if(isNaN(pr)||isNaN(op)||op<=pr) return 0;
+  return Math.round((1-pr/op)*100);
 }
 function priceRow(p){
   if(hasPrice(p)){
     var off=discountPct(p);
     return '<div class="price-row"><span class="price">'+money(p.price, p.currency)+'</span>'+
-      (p.original_price&&p.original_price>p.price?'<span class="price-old">'+money(p.original_price, p.currency)+'</span>':'')+
+      (numPrice(p.original_price)>numPrice(p.price)?'<span class="price-old">'+money(p.original_price, p.currency)+'</span>':'')+
       (off>0?'<span class="price-off">-'+off+'%</span>':'')+'</div>';
   }
   return '<div class="price-row"><span class="price-na">Price varies — see live '+esc(merchantName(p))+' deal</span></div>';
@@ -180,7 +187,7 @@ function initAnalytics(){
   window.gtag("config",id,{anonymize_ip:true});
 }
 function trackAffiliateClick(p){
-  var payload={event:"affiliate_click",product_id:p.id,product_name:p.name,merchant:p.merchant,category:p.category,value:p.price,currency:(p.currency||"USD")};
+  var payload={event:"affiliate_click",product_id:p.id,product_name:p.name,merchant:p.merchant,category:p.category,value:(function(){var n=numPrice(p.price);return isNaN(n)?0:n;})(),currency:(p.currency||"USD")};
   if(window.gtag) window.gtag("event","affiliate_click",payload);
   try{
     var log=JSON.parse(localStorage.getItem("qa_aff_clicks")||"[]");
@@ -242,8 +249,8 @@ function applyFilters(list,f){
     if(f.q && (p.name+" "+p.short_description+" "+p.category+" "+p.subcategory).toLowerCase().indexOf(f.q.toLowerCase())<0) return false;
     if(f.cat && p.category!==f.cat) return false;
     if(f.sub && p.subcategory!==f.sub) return false;
-    if(f.minPrice!=null && hasPrice(p) && p.price<f.minPrice) return false;
-    if(f.maxPrice!=null && hasPrice(p) && p.price>f.maxPrice) return false;
+    if(f.minPrice!=null && hasPrice(p) && numPrice(p.price)<f.minPrice) return false;
+    if(f.maxPrice!=null && hasPrice(p) && numPrice(p.price)>f.maxPrice) return false;
     if(f.minRating!=null && (p.rating==null||p.rating<f.minRating)) return false;
     if(f.minDiscount!=null && discountPct(p)<f.minDiscount) return false;
     if(f.store && p.merchant!==f.store) return false;
@@ -253,8 +260,8 @@ function applyFilters(list,f){
 }
 function sortList(list,sort){
   var l=list.slice();
-  if(sort==="price-asc") l.sort(function(a,b){return (a.price==null?Infinity:+a.price)-(b.price==null?Infinity:+b.price);});
-  else if(sort==="price-desc") l.sort(function(a,b){return (b.price==null?-Infinity:+b.price)-(a.price==null?-Infinity:+a.price);});
+  if(sort==="price-asc") l.sort(function(a,b){var x=numPrice(a.price),y=numPrice(b.price);return (isNaN(x)?Infinity:x)-(isNaN(y)?Infinity:y);});
+  else if(sort==="price-desc") l.sort(function(a,b){var x=numPrice(a.price),y=numPrice(b.price);return (isNaN(y)?-Infinity:y)-(isNaN(x)?-Infinity:x);});
   else if(sort==="rating") l.sort(function(a,b){return (b.rating||0)-(a.rating||0);});
   else if(sort==="discount") l.sort(function(a,b){return discountPct(b)-discountPct(a);});
   else if(sort==="newest") l.sort(function(a,b){return (b.badges||[]).indexOf("new")-(a.badges||[]).indexOf("new");});
@@ -411,7 +418,7 @@ product:function(){
     '<img src="'+esc(p.image_url)+'" alt="'+esc(p.name)+'" data-pid="'+esc(p.id)+'" onerror="qaImgErr(this)">' :
     imgFallback(p);
   var pdPrice=hasPrice(p)
-    ? '<div class="pd-price">'+money(p.price, p.currency)+(p.original_price&&p.original_price>p.price?' <span class="price-old">'+money(p.original_price, p.currency)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
+    ? '<div class="pd-price">'+money(p.price, p.currency)+(numPrice(p.original_price)>numPrice(p.price)?' <span class="price-old">'+money(p.original_price, p.currency)+'</span> <span class="price-off">Save '+off+'%</span>':'')+'</div>'
     : '<div class="pd-price"><span class="price-na">Price varies — see live '+esc(merchantName(p))+' deal</span></div>';
   var keyFeatures=(p.key_features&&p.key_features.length)?'<h3>Key features</h3><ul class="spec-list">'+p.key_features.map(function(f){return "<li>"+esc(f)+"</li>";}).join("")+'</ul>':'';
   var prosCons=((p.pros&&p.pros.length)||(p.cons&&p.cons.length))?
