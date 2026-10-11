@@ -361,3 +361,11 @@ table.compare th{background:var(--plum);color:#fff;font-weight:600}
   .hero-bg .gif-anim{display:none}
   .hero-bg .gif-fallback{display:block}
 }
+
+/* ---------- pagination (chunked listing pages) ---------- */
+.pager{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;align-items:center;margin:28px 0 8px}
+.pg-btn{min-width:40px;height:40px;padding:0 12px;border:1px solid var(--line);background:#fff;border-radius:10px;font:600 14px/1 Inter,system-ui,sans-serif;color:var(--ink);cursor:pointer}
+.pg-btn:hover:not(:disabled){border-color:var(--rose);color:var(--rose)}
+.pg-btn.active{background:var(--rose);border-color:var(--rose);color:#fff}
+.pg-btn:disabled{opacity:.35;cursor:default}
+.pg-gap{color:var(--muted);padding:0 2px}

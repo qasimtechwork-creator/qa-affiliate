@@ -5,7 +5,14 @@
 (function(){
 "use strict";
 var QA = window.QA = {};
-var state = { site:null, affiliates:null, categories:null, products:[] };
+var state = { site:null, affiliates:null, categories:null, products:[], index:{}, full:null, fullPromise:null, sections:null };
+var PAGE_SIZE = 48;
+/* Product lookup across everything loaded so far (chunked pages accumulate
+   here, so image fallbacks and click tracking keep working in paged mode). */
+function indexProducts(list){
+  for(var i=0;i<list.length;i++){ var p=list[i]; if(p&&p.id) state.index[p.id]=p; }
+}
+function findProduct(id){ return state.index[id]||null; }
 
 function getJSON(path){
   return fetch(path).then(function(r){ if(!r.ok) throw new Error("load failed: "+path); return r.json(); });
@@ -81,9 +88,8 @@ function imgFallback(p){
 /* Swap a dead merchant image for the branded placeholder (never a broken-image icon). */
 window.qaImgErr=function(el){
   el.onerror=null;
-  var p=(state.products||[]).find(function(x){return x.id===el.getAttribute('data-pid');});
-  if(!p){ el.style.display='none'; return; }
-  var d=document.createElement('div'); d.innerHTML=imgFallback(p);
+  var p=findProduct(el.getAttribute('data-pid'));
+  var d=document.createElement('div'); d.innerHTML=imgFallback(p||{});
   el.replaceWith(d.firstChild);
 };
 QA.productCard = function(p){
@@ -198,7 +204,7 @@ function trackAffiliateClick(p){
 document.addEventListener("click",function(e){
   var a=e.target.closest("[data-aff]");
   if(!a) return;
-  var p=state.products.find(function(x){return x.id===a.getAttribute("data-id");});
+  var p=findProduct(a.getAttribute("data-id"));
   if(p) trackAffiliateClick(p);
 });
 /* ---------- promo links (config-driven, never hardcoded in HTML) ---------- */
@@ -325,15 +331,12 @@ var CATEGORY_ICONS={
 };
 var pages={
 home:function(){
-  var P=state.products;
-  var trending=P.filter(function(p){return p.trend_status;}).slice(0,8);
-  var best=P.filter(function(p){return (p.badges||[]).indexOf("best-seller")>=0;}).slice(0,4);
-  var top=P.slice().sort(function(a,b){return (b.rating||0)-(a.rating||0);}).slice(0,4);
-  var editors=P.slice().sort(function(a,b){return (b.rating||0)-(a.rating||0);}).slice(0,4);
-  renderGrid(document.getElementById("sec-trending"),trending);
-  renderGrid(document.getElementById("sec-best"),best);
-  renderGrid(document.getElementById("sec-top"),top);
-  renderGrid(document.getElementById("sec-editors"),editors);
+  var s=state.sections||{trending:[],best:[],top:[],editors:[]};
+  indexProducts(s.trending.concat(s.best,s.top,s.editors));
+  renderGrid(document.getElementById("sec-trending"),s.trending);
+  renderGrid(document.getElementById("sec-best"),s.best);
+  renderGrid(document.getElementById("sec-top"),s.top);
+  renderGrid(document.getElementById("sec-editors"),s.editors);
   var cg=document.getElementById("cat-tiles");
   cg.innerHTML=state.categories.categories.map(function(c){
     var href=c.special?"/trending.html":"/category.html?cat="+c.id;
@@ -387,18 +390,28 @@ category:function(){
   initFilterPage({cat:cat});
 },
 trending:function(){
-  var list=state.products.filter(function(p){return p.trend_status && p.status!=="dead";});
-  list.sort(function(a,b){return (b.trend_status==="viral")-(a.trend_status==="viral");});
-  renderGrid(document.getElementById("trend-grid"),list);
-  document.getElementById("trend-count").textContent=list.length+" trending finds";
+  var grid=document.getElementById("trend-grid"),
+      count=document.getElementById("trend-count"),
+      pagerEl=document.getElementById("pager");
+  function load(p){
+    grid.innerHTML='<div class="empty-state"><h3>Loading…</h3></div>';
+    if(pagerEl) pagerEl.innerHTML="";
+    getChunk("trending",p).then(function(d){
+      state.products=d.products; indexProducts(d.products);
+      renderGrid(grid,d.products);
+      count.textContent=d.total.toLocaleString("en-US")+" trending finds · page "+d.page+" of "+d.pages;
+      renderPager(pagerEl,d.page,d.pages,function(n){ load(n); scrollToGrid(grid); });
+      setPageURL(d.page);
+    }).catch(function(){
+      grid.innerHTML='<div class="empty-state"><h3>Could not load products</h3><p>Please check your connection and reload.</p></div>';
+    });
+  }
+  load(pageFromURL());
 },
 deals:function(){
   var el=document.getElementById("deals-grid");
   if(!el) return;
-  var ids=window.QA_DEAL_IDS||[];
-  var byId={};
-  state.products.forEach(function(p){ byId[p.id]=p; });
-  var list=ids.map(function(id){return byId[id];}).filter(Boolean);
+  var list=state.products||[];
   if(!list.length){
     el.innerHTML='<div class="empty-state"><h3>Deal picks are being refreshed</h3><p>Please check back shortly.</p></div>';
     return;
@@ -452,9 +465,76 @@ product:function(){
   relHtml+rguidesHtml;
 }
 };
+/* ---------- pagination + chunked data loading ----------
+   Listing pages render 48 products at a time from precomputed chunk files
+   (data/pages/<base>/page-N.json, ~27KB each) instead of the full ~4MB
+   products-lite.json. Search/filter/sort fetches the full lite file once
+   (browser-cached 1h via vercel.json) and then paginates client-side. */
+function pageFromURL(){
+  var p=parseInt(new URLSearchParams(location.search).get("page"),10);
+  return (p>=1)?p:1;
+}
+function setPageURL(p){
+  try{
+    var u=new URL(location.href);
+    if(p<=1) u.searchParams.delete("page"); else u.searchParams.set("page",p);
+    history.replaceState(null,"",u.pathname+u.search);
+  }catch(e){}
+}
+function getChunk(base,page){
+  return getJSON("/data/pages/"+base+"/page-"+page+".json");
+}
+/* Full catalog, fetched at most once per page view. */
+function ensureFull(){
+  if(state.full) return Promise.resolve(state.full);
+  if(!state.fullPromise){
+    state.fullPromise=getJSON("/data/products-lite.json").then(function(d){
+      state.full=d.products; indexProducts(state.full); return state.full;
+    });
+  }
+  return state.fullPromise;
+}
+function renderPager(el,page,pages,onGo){
+  if(!el) return;
+  if(pages<=1){ el.innerHTML=""; return; }
+  var h='<nav class="pager" aria-label="Product pages">';
+  h+='<button class="pg-btn" data-pg="'+(page-1)+'"'+(page<=1?' disabled':'')+' aria-label="Previous page">‹ Prev</button>';
+  var start=Math.max(1,Math.min(page-3,pages-6));
+  var end=Math.min(pages,start+6);
+  start=Math.max(1,end-6);
+  if(start>1){ h+='<button class="pg-btn" data-pg="1">1</button>'; if(start>2) h+='<span class="pg-gap">…</span>'; }
+  for(var p=start;p<=end;p++){
+    h+='<button class="pg-btn'+(p===page?' active':'')+'" data-pg="'+p+'"'+(p===page?' aria-current="page"':'')+'>'+p+'</button>';
+  }
+  if(end<pages){ if(end<pages-1) h+='<span class="pg-gap">…</span>'; h+='<button class="pg-btn" data-pg="'+pages+'">'+pages+'</button>'; }
+  h+='<button class="pg-btn" data-pg="'+(page+1)+'"'+(page>=pages?' disabled':'')+' aria-label="Next page">Next ›</button>';
+  h+='</nav>';
+  el.innerHTML=h;
+  var btns=el.querySelectorAll("button[data-pg]");
+  for(var i=0;i<btns.length;i++){
+    (function(b){
+      b.addEventListener("click",function(){
+        var n=parseInt(b.getAttribute("data-pg"),10);
+        if(n>=1&&n<=pages&&n!==page) onGo(n);
+      });
+    })(btns[i]);
+  }
+}
+function scrollToGrid(grid){
+  try{
+    var y=grid.getBoundingClientRect().top+window.pageYOffset-90;
+    window.scrollTo({top:Math.max(0,y),behavior:"smooth"});
+  }catch(e){}
+}
 function initFilterPage(preset){
   var grid=document.getElementById("filter-grid"), count=document.getElementById("filter-count");
+  var pagerEl=document.getElementById("pager");
   var subSel=document.getElementById("f-sub");
+  var base=preset.cat?("cat-"+preset.cat):"all";
+  var mode="chunk"; /* "chunk" | "filter" */
+  var chunkPage=pageFromURL(), chunkPages=1;
+  var filtered=null, filterPage=1, filterPages=1;
+  var typeTimer=null;
   function subcats(){
     var cat=(document.getElementById("f-cat")||{}).value||preset.cat||"";
     var c=state.categories.categories.find(function(x){return x.id===cat;});
@@ -475,27 +555,96 @@ function initFilterPage(preset){
       store:val("f-store"), trendingOnly:document.getElementById("f-trend")?document.getElementById("f-trend").checked:false,
       sort:val("f-sort") };
   }
+  function showLoading(msg){
+    grid.innerHTML='<div class="empty-state"><h3>'+esc(msg||"Loading…")+'</h3></div>';
+  }
+  function loadFail(){
+    grid.innerHTML='<div class="empty-state"><h3>Could not load products</h3><p>Please check your connection and reload.</p></div>';
+  }
+  /* Chunk mode: one 48-product page from the precomputed files. */
+  function loadChunk(p,scroll){
+    if(p<1) p=1;
+    if(chunkPages>1&&p>chunkPages) p=chunkPages;
+    showLoading();
+    if(pagerEl) pagerEl.innerHTML="";
+    getChunk(base,p).then(function(d){
+      chunkPage=d.page; chunkPages=d.pages;
+      state.products=d.products; indexProducts(d.products);
+      renderGrid(grid,d.products);
+      count.textContent=d.total.toLocaleString("en-US")+" products · page "+d.page+" of "+d.pages;
+      renderPager(pagerEl,d.page,d.pages,function(n){ loadChunk(n,true); });
+      setPageURL(d.page);
+      if(scroll) scrollToGrid(grid);
+    }).catch(loadFail);
+  }
+  /* Filter mode: full catalog filtered/sorted, paginated client-side. */
+  function renderFilterPage(scroll){
+    filterPages=Math.max(1,Math.ceil(filtered.length/PAGE_SIZE));
+    if(filterPage>filterPages) filterPage=filterPages;
+    var slice=filtered.slice((filterPage-1)*PAGE_SIZE,filterPage*PAGE_SIZE);
+    state.products=slice; indexProducts(slice);
+    renderGrid(grid,slice);
+    count.textContent=filtered.length.toLocaleString("en-US")+" result"+(filtered.length===1?"":"s")+" · page "+filterPage+" of "+filterPages;
+    renderPager(pagerEl,filterPage,filterPages,function(n){ filterPage=n; renderFilterPage(true); });
+    if(scroll) scrollToGrid(grid);
+  }
+  function plainFilters(f){
+    return !f.q&&!f.sub&&f.minPrice==null&&f.maxPrice==null&&f.minRating==null&&
+           f.minDiscount==null&&!f.store&&!f.trendingOnly&&!f.sort;
+  }
   function run(){
     var f=current();
-    var list=sortList(applyFilters(state.products,f),f.sort);
-    renderGrid(grid,list);
-    count.textContent=list.length+" result"+(list.length===1?"":"s");
+    if(plainFilters(f)){
+      /* No active search/filter/sort: stay on cheap chunk mode.
+         A lone category selection also uses precomputed category chunks. */
+      var wantBase=f.cat?("cat-"+f.cat):"all";
+      var needLoad=(mode!=="chunk")||(wantBase!==base);
+      base=wantBase; mode="chunk";
+      loadChunk(needLoad?1:chunkPage,false);
+      return;
+    }
+    mode="filter";
+    showLoading("Searching…");
+    count.textContent="Searching…";
+    if(pagerEl) pagerEl.innerHTML="";
+    ensureFull().then(function(all){
+      filtered=sortList(applyFilters(all,f),f.sort);
+      filterPage=1;
+      renderFilterPage(false);
+    }).catch(loadFail);
   }
-  ["f-q","f-cat","f-sub","f-minp","f-maxp","f-rating","f-discount","f-store","f-sort"].forEach(function(id){
+  ["f-cat","f-sub","f-minp","f-maxp","f-rating","f-discount","f-store","f-sort"].forEach(function(id){
     var el=document.getElementById(id); if(el) el.addEventListener("input",run);
   });
+  var fq=document.getElementById("f-q");
+  if(fq) fq.addEventListener("input",function(){ clearTimeout(typeTimer); typeTimer=setTimeout(run,300); });
   var ft=document.getElementById("f-trend"); if(ft) ft.addEventListener("change",run);
-  var fc=document.getElementById("f-cat"); if(fc){ fc.addEventListener("change",function(){refreshSubs();run();}); }
+  var fc=document.getElementById("f-cat");
+  if(fc){ fc.addEventListener("change",function(){refreshSubs();}); }
   if(preset.cat&&fc){ fc.value=preset.cat; }
   refreshSubs(); run();
 }
-/* ---------- boot ---------- */
+/* ---------- boot ----------
+   Product detail pages load the full products.json. The home page loads the
+   precomputed home.json (~12KB). The deals page loads deals.json (~37KB).
+   Browse/category/trending pages fetch 48-product chunks on demand
+   (data/pages/<base>/page-N.json, ~27KB each); the full lite catalog is
+   fetched lazily only when the visitor searches, filters or sorts. */
 function boot(){
   var page=document.body.getAttribute("data-page");
-  var productsUrl = (page==="product") ? "/data/products.json" : "/data/products-lite.json";
-  Promise.all([getJSON("/config/site.json"),getJSON("/config/affiliates.json"),getJSON("/data/categories.json"),getJSON(productsUrl)])
+  var dataUrl=null;
+  if(page==="product") dataUrl="/data/products.json";
+  else if(page==="home") dataUrl="/data/home.json";
+  else if(page==="deals") dataUrl="/data/deals.json";
+  var loads=[getJSON("/config/site.json"),getJSON("/config/affiliates.json"),getJSON("/data/categories.json")];
+  if(dataUrl) loads.push(getJSON(dataUrl));
+  Promise.all(loads)
   .then(function(r){
-    state.site=r[0]; state.affiliates=r[1]; state.categories=r[2]; state.products=r[3].products;
+    state.site=r[0]; state.affiliates=r[1]; state.categories=r[2];
+    if(dataUrl){
+      if(page==="home"){ state.sections=r[3]; }
+      else { state.products=(r[3].products||[]); indexProducts(state.products); }
+    }
     renderChrome(); initAnalytics(); initNewsletter(); initPromoLinks(); setCanonical();
     if(page&&pages[page]) pages[page]();
     enhanceGuideArt();
