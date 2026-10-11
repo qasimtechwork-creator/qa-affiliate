@@ -491,11 +491,12 @@ function initFilterPage(preset){
 }
 /* ---------- boot ---------- */
 function boot(){
-  Promise.all([getJSON("/config/site.json"),getJSON("/config/affiliates.json"),getJSON("/data/categories.json"),getJSON("/data/products.json")])
+  var page=document.body.getAttribute("data-page");
+  var productsUrl = (page==="product") ? "/data/products.json" : "/data/products-lite.json";
+  Promise.all([getJSON("/config/site.json"),getJSON("/config/affiliates.json"),getJSON("/data/categories.json"),getJSON(productsUrl)])
   .then(function(r){
     state.site=r[0]; state.affiliates=r[1]; state.categories=r[2]; state.products=r[3].products;
     renderChrome(); initAnalytics(); initNewsletter(); initPromoLinks(); setCanonical();
-    var page=document.body.getAttribute("data-page");
     if(page&&pages[page]) pages[page]();
     enhanceGuideArt();
   }).catch(function(err){

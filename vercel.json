@@ -1,16 +1,48 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/data/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=86400, must-revalidate"
+        }
+      ]
+    }
+  ],
   "redirects": [
     {
       "source": "/product.html",
-      "has": [{ "type": "query", "key": "id", "value": "(?<pid>[^&]+)" }],
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "(?<pid>[^&]+)"
+        }
+      ],
       "destination": "/item/$pid",
       "permanent": true
     },
     {
       "source": "/product",
-      "has": [{ "type": "query", "key": "id", "value": "(?<pid>[^&]+)" }],
+      "has": [
+        {
+          "type": "query",
+          "key": "id",
+          "value": "(?<pid>[^&]+)"
+        }
+      ],
       "destination": "/item/$pid",
       "permanent": true
     }
