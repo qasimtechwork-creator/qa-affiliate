@@ -1,7 +1,7 @@
 {
  "system": "Two pins per product (website pin + affiliate pin), published immediately, never scheduled. Resume in exact product order when daily limit hit.",
  "catalog_size_at_batch1": 226,
- "next_index": 300,
+ "next_index": 325,
  "products": [
   {
    "id": "temu-openwork-jacket",
@@ -45979,6 +45979,231 @@
    "id": "aliexpress-sunkta-fashion-casual-quartz-woman-watch-ceramic-diamond",
    "merchant": "aliexpress",
    "website_pin": "https://www.pinterest.com/pin/608830443423208206/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-hannah-martin-womens-watch-silver-mesh-minimalist",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221697/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-korean-fashion-plus-size-ruffle-collar-chiffon-blouse",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221711/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-summer-fresh-floral-v-neck-vest-ruffle-collar-chiffon",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221725/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-elegant-long-sleeve-velvet-shirt-slim-velour-blouse",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221740/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-england-style-square-collar-velour-shirt-lantern-sleeve-blou",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221737/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-cute-mushroom-table-lamp-touch-control-dimmable-rechargeable",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221748/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-personalized-custom-diving-wooden-base-wall-decor",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221756/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-cute-mini-resin-house-fairy-garden-landscape-decor",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221760/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-custom-acrylic-photo-standee-personalized-desktop-decor",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221771/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-custom-flamingo-metal-art-ornament-wooden-base",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221779/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-custom-imitation-hemp-door-curtain-cute-pet-design",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221789/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-custom-alphabet-wooden-name-plaque-kids-room-decor",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221797/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "aliexpress-see-through-mesh-beach-bag-quick-dry-swim-gym-duffle-with-cr",
+   "merchant": "aliexpress",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221804/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-2026-summer-new-arrival-casual-simple-loose-v-neck-three-quarter-s",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221825/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-popular-womens-skirt-with-a-slit-and-pleated-design",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221830/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-womens-black-high-waist-pleated-maxi-skirt-stylish-french-loose-fi",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221836/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-womens-elegant-solid-color-satin-back-zipper-dress-backless-satin",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221845/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-elegant-green-satin-maxi-dress-for-women-high-neck-one-shoulder-as",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221857/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-11pcs-push-up-board-set-portable-foldable-with-resistance-bands",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221863/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-full-body-workout-resistance-bands-set-for-yoga-pilates-strength-t",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221871/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-breathable-lightweight-weight-lifting-gloves-full-palm-grip",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221881/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-half-finger-fitness-gloves-with-wrist-support",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221892/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-silent-ab-roller-wheel-with-ergonomic-handles",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221899/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-11pcs-multifunctional-resistance-band-tension-rope-set",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221913/",
+   "affiliate_pin": null,
+   "affiliate_pin_used_fallback": false,
+   "done": true,
+   "system": "one-pin (2026-10-03 revision: website /item/ page only)"
+  },
+  {
+   "id": "temu-pull-up-assist-bands-3-4-5pcs-training-bands-for-full-body-workout",
+   "merchant": "temu",
+   "website_pin": "https://www.pinterest.com/pin/608830443423221932/",
    "affiliate_pin": null,
    "affiliate_pin_used_fallback": false,
    "done": true,
