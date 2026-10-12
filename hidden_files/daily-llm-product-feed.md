@@ -1,7 +1,7 @@
 # QA Affiliate Product Feed
 
-Generated: 2026-10-11T01:44:10.282514
-Total: 6824 products
+Generated: 2026-10-12T01:44:11.441967
+Total: 6805 products
 
 ## Women's Elegant Solid Color Openwork Jacket — 2026 Spring/Summer Cardigan
 - Price: USD None
@@ -12519,27 +12519,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601103042232929&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-womens-full-zip-leather-jacket-elegant-brown-winter-tem
 
-## luxury 20pcs makeup skincare gift set perfect valentines day - Temu Saudi Arabia
-- Price: USD $15.00
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601099642007451&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-luxury-20pcs-makeup-skincare-gift-set-perfect-valentine
-
-## Cosplay Set High End Makeup Skincare Gift Boxes
-- Price: USD $15.00
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601099561128632&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-cosplay-set-high-end-makeup-skincare-gift-boxes-temu-al
-
-## Premium Makeup Skincare Gift Set for Girls
-- Price: USD $15.00
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601100673165434&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-temu-ukraine
-
 ## In One Makeup Kit Aluminum Travel Case Full Set Eyeshadow
 - Price: USD $15.00
 - Platform: temu
@@ -12581,20 +12560,6 @@ Total: 6824 products
 - Category: home
 - Buy: https://www.temu.com/goods.html?goods_id=601104554062349&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-1pc-heavy-duty-iron-2-tier-storage-rack-slatted-shelves
-
-## Usb Powered Led Strip Lights Warm White A Switch
-- Price: USD $15.00
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601100120373339&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-usb-powered-led-strip-lights-warm-white-a-switch
-
-## 3.2Ft Rgb Led Strip Lights With Usb Cable & Mini Controller - Color Changing , Led Lights For Bedroo
-- Price: USD $15.00
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601099649903080&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-3-2ft-rgb-led-strip-lights-with-usb-cable-mini-controll
 
 ## Women's Vintage Winter Handbag
 - Price: USD $18.00
@@ -12792,13 +12757,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=604208128478506&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-bo-te-rangement-en-plastique-jouets-livres-documents-te
 
-## Table Lamps Set 2 Dual Usb Charging Ports Modern Bedside
-- Price: USD $20.00
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=601099641937992&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-table-lamps-set-2-dual-usb-charging-ports-modern-bedsid
-
 ## Pleated Modern Vintage Led Desk Lamp Portable Rechargeable
 - Price: USD $20.00
 - Platform: temu
@@ -12925,26 +12883,12 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099514823247&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-women-faux-leather-handbags-tote-bag-soft-retro-designe
 
-## 24 Golden Womens Perfume A Lasting Fruity
-- Price: USD $15.00
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601103523372234&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-24-golden-womens-perfume-a-lasting-fruity
-
 ## 3 0Fl Oz Bottle Valuable Women Eau De Parfum A Floral
 - Price: USD $15.00
 - Platform: temu
 - Category: beauty
 - Buy: https://www.temu.com/goods.html?goods_id=601099613848806&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-3-0fl-oz-bottle-valuable-women-eau-de-parfum-a-floral
-
-## Fragrance Perfume Gift Long Lasting Light
-- Price: USD $15.00
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601099738733973&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-fragrance-perfume-gift-long-lasting-light
 
 ## Perfume Floral Fragrance
 - Price: USD $15.00
@@ -13016,26 +12960,12 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099512520449&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-1pc-white-hexagon-motion-sensor-night-light-without-bat
 
-## Led Night Lights Project Wall Perfect
-- Price: USD $12.00
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=601099713901315&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-led-night-lights-project-wall-perfect
-
 ## 1Pc 3D Night Light Monochrome Warm Light
 - Price: USD $12.00
 - Platform: temu
 - Category: home
 - Buy: https://www.temu.com/goods.html?goods_id=601101355388582&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-hunt-1pc-3d-night-light-monochrome-warm-light
-
-## 1 Lamp Decorative Night Light Suitable Festive
-- Price: USD $12.00
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=601103961923401&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-hunt-1-lamp-decorative-night-light-suitable-festive
 
 ## 5 Led Night Lights 7 Color Rgb V
 - Price: USD $12.00
@@ -13559,13 +13489,6 @@ Total: 6824 products
 - Price: USD $9.99
 - Platform: temu
 - Category: jewelry
-- Buy: https://www.temu.com/goods.html?goods_id=601099515816450&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-womens-jewelry-necklace
-
-## Women's Jewelry Necklace
-- Price: USD $9.99
-- Platform: temu
-- Category: jewelry
 - Buy: https://www.temu.com/goods.html?goods_id=601100833081146&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-womens-jewelry-necklace-1146
 
@@ -13603,13 +13526,6 @@ Total: 6824 products
 - Category: jewelry
 - Buy: https://www.temu.com/goods.html?goods_id=601099730483961&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-a-vintage-metal-diamond-shaped-necklace-intricate-designs
-
-## 10Pcs Ladies Necklace Set Fashion
-- Price: USD $9.99
-- Platform: temu
-- Category: jewelry
-- Buy: https://www.temu.com/goods.html?goods_id=601103943369734&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-10pcs-ladies-necklace-set-fashion
 
 ## A Pair Geometric Stylish Charm Earrings Jewelry Accessories
 - Price: USD $9.99
@@ -13750,13 +13666,6 @@ Total: 6824 products
 - Category: skincare
 - Buy: https://www.temu.com/goods.html?goods_id=601102848795031&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-skincare-set-serum-5031
-
-## 7Pcs Facial Skincare Gift Set An Essential Daily
-- Price: USD $14.99
-- Platform: temu
-- Category: skincare
-- Buy: https://www.temu.com/goods.html?goods_id=601105550637776&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-7pcs-facial-skincare-gift-set-an-essential-daily
 
 ## Sakura Skincare Set 60In 1 Moisturizing Facial Care Kit
 - Price: USD $14.99
@@ -13960,13 +13869,6 @@ Total: 6824 products
 - Category: home
 - Buy: https://www.temu.com/goods.html?goods_id=601101683840726&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-2-4pcs-foldable-plastic-storage-baskets-stackable-durable
-
-## Led Lamp Light Decor
-- Price: USD $19.99
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=606100162209195&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-led-lamp-light-decor
 
 ## Led Lamp Light Decor
 - Price: USD $19.99
@@ -14289,13 +14191,6 @@ Total: 6824 products
 - Category: beauty
 - Buy: https://www.temu.com/goods.html?goods_id=601102299802985&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-lip-makeup-portable-travel-makeup-sparkle-lip
-
-## Valentines Day Gift Women's Nude Lipstick
-- Price: USD $13.99
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601099686105057&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-valentines-day-gift-womens-nude-lipstick
 
 ## Lipstick Makeup Beauty
 - Price: USD $13.99
@@ -14639,13 +14534,6 @@ Total: 6824 products
 - Category: fashion
 - Buy: https://www.temu.com/goods.html?goods_id=601099669299733&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-pleated-skirt-half-skirt-new-style-pocket-high-waist-casual
-
-## Led Strip Lights Room
-- Price: USD $19.99
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=601099527123250&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-led-strip-lights-room
 
 ## Led Strip Lights Room
 - Price: USD $19.99
@@ -18200,13 +18088,6 @@ Total: 6824 products
 - Price: USD $9.99
 - Platform: temu
 - Category: jewelry
-- Buy: https://www.temu.com/goods.html?goods_id=601099876286022&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-pearl-necklace-jewelry-set
-
-## Pearl Necklace Jewelry Set
-- Price: USD $9.99
-- Platform: temu
-- Category: jewelry
 - Buy: https://www.temu.com/goods.html?goods_id=601102367834235&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-pearl-necklace-jewelry-set-4235
 
@@ -18910,13 +18791,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601103130649368&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-an-elegant-evening-gown-featuring-a-high-neckline-3d
 
-## Elegant Fashionable Womens Dress Long Evening Gown Host
-- Price: USD 
-- Platform: temu
-- Category: fashion
-- Buy: https://www.temu.com/goods.html?goods_id=601102438265588&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-elegant-fashionable-womens-dress-long-evening-gown-host
-
 ## Autumn Womens Clothing Winter Attire Guest Dresses Weddings
 - Price: USD 
 - Platform: temu
@@ -19000,13 +18874,6 @@ Total: 6824 products
 - Category: hair
 - Buy: https://www.temu.com/goods.html?goods_id=601099903464481&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-28-mm-automatischer-lockenstab-4-temperaturstufen
-
-## 10qt 10 in 1 Dual Air Fryer Fresh Meals Family
-- Price: USD 
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=601100361524382&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-10qt-10-in-1-dual-air-fryer-fresh-meals-family
 
 ## 2l Glass Electric Kettle Quick Cooking 1800w Processor
 - Price: USD 
@@ -19190,13 +19057,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601100084699423&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-30-compartment-clear-plastic-organizer-bonus-mini-storage
 
-## Multifunctional Foldable Storage Box Clothes Bedroom
-- Price: USD 
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=601101450870584&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-multifunctional-foldable-storage-box-clothes-bedroom
-
 ## Storage Box Desk Perfect Displaying
 - Price: USD 
 - Platform: temu
@@ -19301,13 +19161,6 @@ Total: 6824 products
 - Category: electronics
 - Buy: https://www.temu.com/goods.html?goods_id=601100972583298&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-adjustable-universal-metal-phone-stand-multi-angle-desktop
-
-## Adjustable Fold Desktop Phone Tablet Stand Universal Holder
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601099561277765&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-adjustable-fold-desktop-phone-tablet-stand-universal-holder
 
 ## An Office Organizer Wooden Desktop Phone Stands Featuring A
 - Price: USD 
@@ -22480,13 +22333,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601103701536454&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-reading-light-adjustable-bedside-night-light-dimmable-clip
 
-## 1pc Mini Usb Rechargeable Reading Light - Portable Foldable, Warm & , Eye Protection, 3 Adjustable Brightness Levels, Clip-on Book Light, Space-saving Design, Ideal for Readers, Rechargeable for Reading, Work, Bedroom, Dorm Night Light - Tools & Home Improvement
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601102612190548&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-1pc-mini-usb-rechargeable-reading-light-portable-foldable-wa
-
 ## 2025 Newly Hd Projector 1080p Compatible Hdtv
 - Price: USD 
 - Platform: temu
@@ -22864,13 +22710,6 @@ Total: 6824 products
 - Category: home
 - Buy: https://www.temu.com/goods.html?goods_id=601100647260770&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-kitchen-cooking-apron-100-polyester-adjustable-neck-strap
-
-## 1pc cotton apron thickened cute Algeria
-- Price: USD 
-- Platform: temu
-- Category: fashion
-- Buy: https://www.temu.com/goods.html?goods_id=601099591447240&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-1pc-cotton-apron-thickened-cute-algeria
 
 ## Stylish Kitchen Apron Back Tie Pockets Fashionable Casual
 - Price: USD 
@@ -23368,13 +23207,6 @@ Total: 6824 products
 - Category: fashion
 - Buy: https://www.temu.com/goods.html?goods_id=601099709099209&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-womens-elegant-cargo-pants-multiple-pockets
-
-## Style Casual Cargo Pants Women Comfortable
-- Price: USD 
-- Platform: temu
-- Category: fashion
-- Buy: https://www.temu.com/goods.html?goods_id=601101038137727&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-style-casual-cargo-pants-women-comfortable
 
 ## Womens High Waisted Cargo Pants Elastic Drawstring Waist
 - Price: USD 
@@ -23879,13 +23711,6 @@ Total: 6824 products
 - Category: electronics
 - Buy: https://www.temu.com/goods.html?goods_id=605621407568311&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-wireless-bluetooth-charging-silent-1000hz
-
-## T Wireless Mouse Free Office Voice
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=606183511447875&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-t-wireless-mouse-free-office-voice
 
 ## 2 4g Bt Wireless Mouse Portable Rechargeable
 - Price: USD 
@@ -25497,13 +25322,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099596230591&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-elastic-invisible-wig-caps-breathable-nylon-hair-netting
 
-## Wig Grip Cap Women Non Slip Adjustable Wig Caps Holds
-- Price: USD 
-- Platform: temu
-- Category: fashion
-- Buy: https://www.temu.com/goods.html?goods_id=601102246531181&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-wig-grip-cap-women-non-slip-adjustable-wig-caps-holds
-
 ## curly wig synthetic hair | temu Temu
 - Price: USD 
 - Platform: temu
@@ -26980,13 +26798,6 @@ Total: 6824 products
 - Category: skincare
 - Buy: https://www.temu.com/goods.html?goods_id=601099672059486&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-50-capsules-hyaluronic-acid-facial-essence-lotion-fragrance
-
-## Mini Fridge Bedroom Skincare Led
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601101786107669&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-mini-fridge-bedroom-skincare-led
 
 ## 15l 22l 15 8qt 23 3qt Mini Fridge Bedroom Car Office
 - Price: USD 
@@ -28892,13 +28703,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099548583221&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-summer-womens-flats-toe-featuring-a
 
-## Womens Square Toe Slip Flat Shoes Women Shoes Women'S Shoes
-- Price: USD 
-- Platform: temu
-- Category: shoes
-- Buy: https://www.temu.com/goods.html?goods_id=601100072533766&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-womens-square-toe-slip-flat-shoes-women-shoes-women-s-shoes
-
 ## Womens Comfortable Flats Ladies Breathable Cutout Casual
 - Price: USD 
 - Platform: temu
@@ -30033,13 +29837,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099924207010&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-universal-201-17cm-usb-c-charger-cable-with-adapter-for-ipho
 
-## 240W Usb A Type C Fast Charging Cable Led Display Iphone 17
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=605636439954430&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-240w-usb-a-type-c-fast-charging-cable-led-display-iphone-17
-
 ## 240W Fast Charging Type C Type C Lanyard Data Cable Supports
 - Price: USD 
 - Platform: temu
@@ -30291,13 +30088,6 @@ Total: 6824 products
 - Category: bags
 - Buy: https://www.temu.com/goods.html?goods_id=601099527378705&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-2pcs-set-wallet-backpack-womens-fashion-print-new-large
-
-## minimalist flap small wallet ultra-thin small wallet women's wallet white-collar women college students commuting office office family anniversary birthday gift valentine's day gift 1pc set transparent small card holder, convenient storage | Today's Deals | Temu
-- Price: USD 
-- Platform: temu
-- Category: bags
-- Buy: https://www.temu.com/goods.html?goods_id=601099791494424&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-minimalist-flap-small-wallet-ultra-thin-small-wallet-women-s
 
 ## Vintage Womens Clutch Wallet Card Holder Mini Wallet
 - Price: USD 
@@ -30830,13 +30620,6 @@ Total: 6824 products
 - Category: beauty
 - Buy: https://www.temu.com/goods.html?goods_id=601105026295883&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-luxury-transparent-makeup-organizer-suitable
-
-## Acrylic Cosmetics Organizer 4 Compartments Storage Space
-- Price: USD 
-- Platform: temu
-- Category: beauty
-- Buy: https://www.temu.com/goods.html?goods_id=601102539331460&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-acrylic-cosmetics-organizer-4-compartments-storage-space
 
 ## Luksuzna Kozmetička Kutija Za Pohranu Otporna Na Prašinu S
 - Price: USD 
@@ -31537,13 +31320,6 @@ Total: 6824 products
 - Category: electronics
 - Buy: https://www.temu.com/goods.html?goods_id=601099514061526&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-portable-electric-water-flosser-rechargeable-oral-irrigator
-
-## aura bracelet chakra lotus jewelry featuring 6mm rose quartz
-- Price: USD 
-- Platform: temu
-- Category: jewelry
-- Buy: https://www.temu.com/goods.html?goods_id=601099816750402&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-aura-bracelet-chakra-lotus-jewelry-featuring-6mm-rose-quartz
 
 ## a layered beaded anklet summer perfect women
 - Price: USD 
@@ -32756,13 +32532,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099533943268&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-women-s-watch-luminous-business-fashion-quartz-watch-wr-cale
 
-## Aura Bracelet Chakra Lotus Jewelry Featuring 6Mm Rose Quartz
-- Price: USD 
-- Platform: temu
-- Category: jewelry
-- Buy: https://www.temu.com/goods.html?goods_id=601099816750402&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-aura-bracelet-chakra-lotus-jewelry-featuring-6mm-rose-quartz-0402
-
 ## a vintage bohemian style women's bracelet made of metal with artificial turquoise inlay and an | Shop Trends | Temu Australia
 - Price: USD 
 - Platform: temu
@@ -33273,13 +33042,6 @@ Total: 6824 products
 - Category: home
 - Buy: https://www.temu.com/goods.html?goods_id=606132173119885&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-printed-oxford-cloth-storage-box-a-multifunctional-space
-
-## 1 Pièce Rangement Sous Lit Convient
-- Price: USD 
-- Platform: temu
-- Category: home
-- Buy: https://www.temu.com/goods.html?goods_id=605787837561562&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-1-pi-ce-rangement-sous-lit-convient
 
 ## Bedding Drawer Organization Bundle 4 Pack Sheet Organizer
 - Price: USD 
@@ -41562,13 +41324,6 @@ Total: 6824 products
 - Buy: https://www.temu.com/goods.html?goods_id=601099524907052&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-chain-phone-case-iphone14-14plus-14pro-14pro-max
 
-## 1 pack compatible for 3rd gen case with keychain & shockproof cover - soft protective cover compatible for 3, wireless charging, front display window, scratch/drop - electronics
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601100054624252&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-1-pack-compatible-for-3rd-gen-case-with-keychain-shockproof-cover-soft
-
 ## professional portable earbud holder lightweight silicone
 - Price: USD 
 - Platform: temu
@@ -41701,13 +41456,6 @@ Total: 6824 products
 - Category: electronics
 - Buy: https://www.temu.com/goods.html?goods_id=606081841511730&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-12-filmdiscs-multicolor-led-astronaut-projector-powered
-
-## super dual 4 inch outdoor speakers led lights
-- Price: USD 
-- Platform: temu
-- Category: electronics
-- Buy: https://www.temu.com/goods.html?goods_id=601099720628987&_x_cid=6013029639kol_affiliate
-- Page: https://qa-affiliate.vercel.app/item/temu-super-dual-4-inch-outdoor-speakers-led-lights
 
 ## sound bar subwoofer soundbar smart tv wireless speaker deep
 - Price: USD 
@@ -47770,4 +47518,123 @@ Total: 6824 products
 - Category: bags
 - Buy: https://www.temu.com/goods.html?goods_id=607636317635260&_x_cid=6013029639kol_affiliate
 - Page: https://qa-affiliate.vercel.app/item/temu-wrist-strap-commuter-tote
+
+## Adjustable Dumbbells 44lbs Free Weight Set, 4-in-1 with Connector
+- Price: USD $39.26
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4sd7ezj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-adjustable-dumbbells-44lbs-free-weight-set-4-in-1-with-conne
+
+## Adjustable Dumbbells 44/66/88Lbs Free Weight Set with Connector
+- Price: USD $47.36
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3OwG9Ml
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-adjustable-dumbbells-44-66-88lbs-free-weight-set-with-connec
+
+## Pack of 2 6.61LB Stylish Dumbbells, Non-Slip Coating
+- Price: USD $24.97
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3ejpUa5
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-pack-of-2-6-61lb-stylish-dumbbells-non-slip-coating
+
+## 2pcs 1kg Coated Dumbbells for Home Arm Training
+- Price: USD $30.37
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3FaPAqH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2pcs-1kg-coated-dumbbells-for-home-arm-training
+
+## Ergonomic Hand Shaped Dumbbell for Cardio Walking
+- Price: USD $11.59
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c2I7SYuv
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-ergonomic-hand-shaped-dumbbell-for-cardio-walking
+
+## Yoga Mat EVA 4mm Thick for Yoga and Pilates
+- Price: USD $1.09
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c2QNNY3X
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-yoga-mat-eva-4mm-thick-for-yoga-and-pilates
+
+## 8mm NBR Anti-Slip Yoga Mat for Beginners
+- Price: USD $9.14
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3r8yp49
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-8mm-nbr-anti-slip-yoga-mat-for-beginners
+
+## Tension Rope Resistance Band with Non-Slip Handle
+- Price: USD $1.09
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4qDTstT
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-tension-rope-resistance-band-with-non-slip-handle
+
+## TPE Resistance Bands 5 Levels Non-Slip Booty Bands
+- Price: USD $1.09
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4MqYb5B
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-tpe-resistance-bands-5-levels-non-slip-booty-bands
+
+## Akluer Walking Pad Treadmill 2.5HP Under Desk
+- Price: USD $86.92
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3fD7GSd
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-akluer-walking-pad-treadmill-2-5hp-under-desk
+
+## 2in1 Walking Pad Mini Treadmill for Home and Office
+- Price: USD $88.65
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3gJvdOZ
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2in1-walking-pad-mini-treadmill-for-home-and-office
+
+## Superun 2-in-1 Walking Treadmill 2.5HP with APP Control
+- Price: USD $88.89
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4pbFzqZ
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-superun-2-in-1-walking-treadmill-2-5hp-with-app-control
+
+## Muscle Relaxation Mini Massage Gun, Portable Type-C
+- Price: USD $19.84
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3KgNlnx
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-muscle-relaxation-mini-massage-gun-portable-type-c
+
+## 24-Heads Fascia Gun High-Frequency Vibration Massager
+- Price: USD $23.90
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c2RaZwd3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-24-heads-fascia-gun-high-frequency-vibration-massager
+
+## Hot Selling Hollow Water Drop Heart Necklace, Brass Gold-Plated Water Wave Chain
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/peys51wdppa
+- Page: https://qa-affiliate.vercel.app/item/temu-hot-selling-hollow-water-drop-heart-necklace-brass-gold-plat
+
+## Golden Plated Hoop Earrings Set for Women - 6pcs Fashion Copper Cartilage Jewelry
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/pd03knkjyda
+- Page: https://qa-affiliate.vercel.app/item/temu-golden-plated-hoop-earrings-set-for-women-6pcs-fashion-coppe
+
+## Women'S Slip-On Shoes - Plush Indoor/Outdoor Slippers with Non-Slip EVA Sole
+- Price: USD None
+- Platform: temu
+- Category: shoes
+- Buy: https://temu.to/k/p4epxzoxcxy
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-slip-on-shoes-plush-indoor-outdoor-slippers-with-non
 
