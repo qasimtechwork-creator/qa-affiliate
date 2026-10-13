@@ -1,7 +1,7 @@
 # QA Affiliate Product Feed
 
-Generated: 2026-10-12T01:44:11.441967
-Total: 6805 products
+Generated: 2026-10-13T01:44:10.212622
+Total: 6964 products
 
 ## Women's Elegant Solid Color Openwork Jacket — 2026 Spring/Summer Cardigan
 - Price: USD None
@@ -47637,4 +47637,1117 @@ Total: 6805 products
 - Category: shoes
 - Buy: https://temu.to/k/p4epxzoxcxy
 - Page: https://qa-affiliate.vercel.app/item/temu-women-s-slip-on-shoes-plush-indoor-outdoor-slippers-with-non
+
+## Square Neck Sleeveless Contrast Trim Mermaid Dress With Pockets Fashion Elegant
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4kk1GfB
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-square-neck-sleeveless-contrast-trim-mermaid
+
+## Summer Plastic Hollow Bag Countryside Style Large Capacity Beach Tote Bag Bucket Bag Bohemian Style Woman PVC Handbag
+- Price: USD None
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c4M3PPEp
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-summer-plastic-hollow-bag-countryside-style
+
+## Tummy Control Seamless Sweat Pants Woman Outdoor Sports Fitness Gym Workout Pants Women's Scrunch Butt Lifting Yoga Leggings
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c2QIjTNr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-tummy-control-seamless-sweat-pants-woman
+
+## Women's White Cheerleading Shoes, Professional Breathable Dance Sneakers for Girls, Lightweight Aerobics Training Footwear 612
+- Price: USD None
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c45TQQMp
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-women-s-white-cheerleading-shoes-professional
+
+## Vintage Tassels Print Women's Print Cardigan V-Neck Lace Up Full Sleeve Spliced Sweaters 2025 Autumn Lady All-match Kintwears
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3dlTNyN
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-vintage-tassels-print-women-s-print
+
+## American Retro Plum Blossom Embroidery Design Blue Women's Loose Wide-Leg Jeans Y2K Street Fashion Versatile Straight Trousers
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3wD2yq9
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-american-retro-plum-blossom-embroidery-design
+
+## 2027 Patchwork Sport One Piece Swimsuit Plus Size Swimwear Women Professional Sport Bathing Suit Surfing Swimsuits Swimming Suit
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4LKjlMl
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2027-patchwork-sport-one-piece-swimsuit
+
+## 2025 Women Woolen coat Fashion Solid Open Stitch Long Trench Coats Vintage V-Neck Full Sleeves Female Chic Lady Outfits
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3DTZ3sl
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2025-women-woolen-coat-fashion-solid
+
+## 7 Colors Photon Face Neck Beauty Mask Wireless Facial LED Mask Repair Skin Wrinkle Remover Skin Rejuvenation Tighten Skin Care
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3r5hAa5
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-7-colors-photon-face-neck-beauty
+
+## 8 Pcs Small Eye Brush Set, Natural Goat Hair Pencil Detail Concealer Crease Eyeliner Lip Brush
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c4UE2Vb3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-8-pcs-small-eye-brush-set
+
+## 3set DIY Hairstyling Tools Satin Heatless Curling Rod with Hair Caps, Soft Overnight Curling Rod Headband for Long Hair
+- Price: USD None
+- Platform: aliexpress
+- Category: hair
+- Buy: https://s.click.aliexpress.com/e/_c3wvqbhX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-3set-diy-hairstyling-tools-satin-heatless
+
+## 12pcs/set Facial Mask Brushes Soft bristle Transparent Crystal Rod Face Applicator Brush DIY Skincare Salon Spa Makeup Tools
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c4LOpkIH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-12pcs-set-facial-mask-brushes-soft
+
+## LIMEGIRL Gel Nail Polish Kit UV Soaking Gel Primer Polish Manicure Kit with UV LED Lamp Dryer Semi-Permanent Gel Varnish Kit
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c4aOX1cl
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-limegirl-gel-nail-polish-kit-uv
+
+## Heating Beard Straightener Brush, Hair Straightening Comb for Men, Electric Smoothing Iron Quick Styling Hair Beard Styling Tools
+- Price: USD None
+- Platform: aliexpress
+- Category: hair
+- Buy: https://s.click.aliexpress.com/e/_c3wq2U4v
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-heating-beard-straightener-brush-hair-straighten
+
+## Arencia Vitamin C Booster Shot Brightening Firming Care
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3VrXWNx
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-arencia-vitamin-c-booster-shot-brightening
+
+## Winsleter,100%Real Silk Turban Bonnets Female Double Layered Sleeping Night Wrap Cap For Curly Ladies A34317M
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3dL3n1R
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-winsleter-100-real-silk-turban-bonnets
+
+## Thermos Bottle Stainless Steel Thermal Water Bottle Cup Thermal Coffee Mug Insulated Vacuum Tumbler Rubber Paint Sports Kettle
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3Y425ZR
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-thermos-bottle-stainless-steel-thermal-water
+
+## Handheld Turbo Fan, 5-Speed USB-C Rechargeable Fan, Portable Pocket Fan with Long Battery Life, Mini Cooling Fan for Travel Office Outdoor
+- Price: USD None
+- Platform: aliexpress
+- Category: electronics
+- Buy: https://s.click.aliexpress.com/e/_c3iuChNX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-handheld-turbo-fan-5-speed-usb
+
+## 3 Drawer Dustproof Anti-Oxidation Large Capacity Jewelry Storage Box For Earrings Rings Bracelets
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c4C8sDMd
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-3-drawer-dustproof-anti-oxidation-large
+
+## Touch LED Magnifying Makeup Mirror Double Sided 10X Magnification Desk Vanity Mirror Bathroom Cosmetic Mirror
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3iIgISz
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-touch-led-magnifying-makeup-mirror-double
+
+## Posture Back Brace Adjustable Back Support Strap to Prevent Spinal Distortion and Hunchback Suitable for Men and Women
+- Price: USD None
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4eyvceH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-posture-back-brace-adjustable-back-support
+
+## 3pcs/4pcs/8pcs Facial Beauty Cleansing Tools Set, Gua Sha Board Roller Massage Stick
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pbur08580nd
+- Page: https://qa-affiliate.vercel.app/item/temu-3pcs-4pcs-8pcs-facial-beauty-cleansing
+
+## 6pcs Women's Satin Bonnet with Elasticated Wide Brim Breathable Sleep Cap
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pi8sor3hsvt
+- Page: https://qa-affiliate.vercel.app/item/temu-6pcs-women-s-satin-bonnet-with
+
+## 2pcs Bonnet for Sleeping, Satin Hair Bonnets, Soft Elastic Band Sleep Cap
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pnp21ck3eiv
+- Page: https://qa-affiliate.vercel.app/item/temu-2pcs-bonnet-for-sleeping-satin-hair
+
+## LED Makeup Mirror, Portable Travel Mirror Folding with Lights, 3 Light Modes
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/puywnuyjk0q
+- Page: https://qa-affiliate.vercel.app/item/temu-led-makeup-mirror-portable-travel-mirror
+
+## French-Style Elegant Satin Midi Skirt Flowy A-Line
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pq3kz25fok8
+- Page: https://qa-affiliate.vercel.app/item/temu-french-style-elegant-satin-midi-skirt
+
+## Women's Stretch Satin Texture Midi Skirt
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pyuot53ezz8
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-stretch-satin-texture-midi
+
+## 2-in-1 Women's Tummy Trimmer & Waist Trainer Shapewear
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pv3pwm2xdrm
+- Page: https://qa-affiliate.vercel.app/item/temu-2-in-1-women-s-tummy
+
+## Women's Flat Sole Rhinestone Classic Ballet Flats Shoes
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p5uvh58z4oj
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-flat-sole-rhinestone-classic
+
+## Premium Large Capacity Double-Layer Toiletry Bag Cosmetic Bag
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pjc7jtwjr0g
+- Page: https://qa-affiliate.vercel.app/item/temu-premium-large-capacity-double-layer-toiletry
+
+## Travel Bag for Toiletries, Hanging Toiletry Bag Multi-compartment
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p5hcukjw1sk
+- Page: https://qa-affiliate.vercel.app/item/temu-travel-bag-for-toiletries-hanging-toiletry
+
+## Rainbow Color Water Bottle, Motivational Tracking with Time Marker
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pe9728mculx
+- Page: https://qa-affiliate.vercel.app/item/temu-rainbow-color-water-bottle-motivational-tracking
+
+## 1 Pair of Latex Shoe Covers Waterproof Reusable Non-Slip
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p37eua0r8nu
+- Page: https://qa-affiliate.vercel.app/item/temu-1-pair-of-latex-shoe-covers
+
+## Premium Satin Pillowcase Envelope Closure for Hair and Skin
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/ppz1ey581cx
+- Page: https://qa-affiliate.vercel.app/item/temu-premium-satin-pillowcase-envelope-closure-for
+
+## Luxury Pillowcase for Hair and Skin, Soft and Cooling
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p7swrin8zu5
+- Page: https://qa-affiliate.vercel.app/item/temu-luxury-pillowcase-for-hair-and-skin
+
+## 2pcs Satin Pillowcase Set for Skin and Hair, Breathable
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/poh8vctbh41
+- Page: https://qa-affiliate.vercel.app/item/temu-2pcs-satin-pillowcase-set-for-skin
+
+## Ladies Elegant Glittering Embellished Pointed Toe Slingback Mules
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pftpmsnvstb
+- Page: https://qa-affiliate.vercel.app/item/temu-ladies-elegant-glittering-embellished-pointed-to
+
+## 20 Count TPE Resistance Bands Fitness Set Elastic Exercise Loops for Strength Workout Muscle Stretching Yoga Gym Equipment Elastic Rubber
+- Price: USD None
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4Bk9LG5
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-20-count-tpe-resistance-bands-fitness
+
+## 4pcs/set Christmas Scented candles Soy Wax Candles Aromatherapie Geurkaars Gift Set, Luxe Santa Claus, Snowman Decoratie
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3CT53mt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-4pcs-set-christmas-scented-candles-soy
+
+## SK Ultra-thin Sleep Headphones 5.3 Wireless Bluetooth Headset Invisible Earbuds Hidden In Ear Button Sports Earphones Waterproof
+- Price: USD None
+- Platform: aliexpress
+- Category: electronics
+- Buy: https://s.click.aliexpress.com/e/_c3laiO0Z
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-sk-ultra-thin-sleep-headphones-5
+
+## LED Foldable USB Clip-on Desk Lamp Long Arm 3-Color Temperature Dimmabl Reading Study Portabl Light for Bedroom Office Dormitory
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3Td4cBR
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-led-foldable-usb-clip-on-desk
+
+## Trendy 18K Gold Plated Metal Strawberry Shape Piercing Huggie Earrings Hammered Texture Hollow Ball for Irregular Female Jewelry
+- Price: USD None
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c3iU3iid
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-trendy-18k-gold-plated-metal-strawberry
+
+## Womens Bohemian Tropical Floral Print Deep V-Neck Tie-Waist Batwing Sleeve Smock Mini Dress, Casual Beach Holiday Dress
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3CUdMjf
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-womens-bohemian-tropical-floral-print-deep
+
+## 2024 Newest Women Wide Leg High Stretch Yoga Leggings Naked Feeling Compression Fitness Workwear with pockets Yoga Pant ﻿
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4EAiPVn
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2024-newest-women-wide-leg-high
+
+## D25 Women Lightweight White Mesh Sneakers Breathable Cheerleading Shoes For Aerobics Gym Sports Training Dancing Shoes
+- Price: USD None
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c3Pj8OCv
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-d25-women-lightweight-white-mesh-sneakers
+
+## VIMLY Satin A Line Skirt Women 2026 Spring New Minimalist Elegant Mustard Green Flowy High Waist Casual Daily Midi Skirt A5381
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3QKZPVB
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-vimly-satin-a-line-skirt-women
+
+## Womens Oversized Loose Fall Sweater Cardigans Long Lantern Sleeve Button Down Chunky Knit Coats
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3oW3Z5n
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-womens-oversized-loose-fall-sweater-cardigans
+
+## Swimming Suit for Women Solid Color Slimming One-piece Dress Style Conservative Waist Tightening Slimming Vacation Swimsuit
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4KheXxF
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-swimming-suit-for-women-solid-color
+
+## Women's Elegant Camel Wool Blend Long Coat with Belted Waist Notch Lapel and Single Breasted Buttons for Winter Fashion
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3DxSIjP
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-women-s-elegant-camel-wool-blend
+
+## Cool Facial Eye Massage Face Ice Roller Double Roller Relieve Fatigue Pain Redness Skin Tighten Face Lift Reduce Swell Iceroller
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3PiOx05
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-cool-facial-eye-massage-face-ice
+
+## Silicone LED Face Neck Mask 7 Colors Red Light Infrared Photon Therapy Mask Flexible Wireless LED Beauty Mask for Skin Repair Rejuvenation
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c33YMo4v
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-silicone-led-face-neck-mask-7
+
+## Hourglass Makeup Brush Set & Kit Include Powder Foundation Concealer Lip Blusher Bronzer Eyeshadow Eyeliner Highlight Brush
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3xhXUYt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-hourglass-makeup-brush-set-kit-include
+
+## Metal Headband for Men, Adjustable Wavy Zigzag Hair Bands, Non-Slip Elastic Metal Hair Band for Sports, Workout, Running Yoga,
+- Price: USD None
+- Platform: aliexpress
+- Category: hair
+- Buy: https://s.click.aliexpress.com/e/_c318FWHL
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-metal-headband-for-men-adjustable-wavy
+
+## 8Pcs Resin Massage Tool Set,Face Body Gua Sha Scraping Massage Comb,Portable Skincare Massage Kit for Face Neck Head Relaxation
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3WK62OH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-8pcs-resin-massage-tool-set-face
+
+## Full Acrylic Powder Set, 15ml Gel Manicure Kit With And 6W LED Light For Nail Extension DIY Complete Starter Kit
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3RqMhQZ
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-full-acrylic-powder-set-15ml-gel
+
+## New Dual-Purpose Heated Straightening And Curling Comb With Negative Ions That Won’T Damage Your Hair Hair Straightenercomb
+- Price: USD None
+- Platform: aliexpress
+- Category: hair
+- Buy: https://s.click.aliexpress.com/e/_c3ac4973
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-new-dual-purpose-heated-straightening-and
+
+## New Silicone Electric Massage Cleanser Face Washer Skin Face Makeup Remover Rechargeable Face Brush Face Exfoliating Tool
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3L3ZH3L
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-new-silicone-electric-massage-cleanser-face
+
+## QUIYUM 13Pcs Turmeric Vitamin C Facial Skincare Set, Soap Cleanser Toner Mud Mask Serum Oil Eye Cream Face Cream 5 Sheet Masks
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3wTqiNb
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-quiyum-13pcs-turmeric-vitamin-c-facial
+
+## 100% Natural Mulberry Silk Bonnet Sleeping Cap for Women Night Sleeping Hats Adjustable Triangle Bud Style Headwrap 16 Momme
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c41vEn1J
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-100-natural-mulberry-silk-bonnet-sleeping
+
+## Camo Camouflage 18OZ Sports Insulated Kettle Thermal Cup Stainless Steel Outdoor Mugs Water Bottle
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3X8C71X
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-camo-camouflage-18oz-sports-insulated-kettle
+
+## Handheld & Desktop Folding Fan, USB-C Rechargeable with Digital Display, 5-Speed Adjustable Portable Fan, Wearable Cooling Fan Summer Gift
+- Price: USD None
+- Platform: aliexpress
+- Category: electronics
+- Buy: https://s.click.aliexpress.com/e/_c3fw5Tjj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-handheld-desktop-folding-fan-usb-c
+
+## 1pc Drawer Style Acrylic Multifunctional Nail Diamond Decoration Storage Box desktop Jewelry Bead Stackable Organizer
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3S7P0HT
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-1pc-drawer-style-acrylic-multifunctional-nail
+
+## Smart Makeup Mirror UV Sunscreen Testing Camera Visual Face with 3 Colors Led Light Mirror Travel Portable
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c4EujvEv
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-smart-makeup-mirror-uv-sunscreen-testing
+
+## Back Corrector Corset Magnetic Posture Corrector Straight Shoulder Brace Lumbar Support Pain Relief For Children Adult Women Men
+- Price: USD None
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4oKZsQH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-back-corrector-corset-magnetic-posture-corrector
+
+## 12 piece high-strength tension rope training set - environmentally friendly TPE latex anti breakage elastic band/resistance band
+- Price: USD None
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3Cto11P
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-12-piece-high-strength-tension-rope
+
+## Christmas Themed Cute Scented Candle Set Santa Claus Tree Snowman Gloves New Year Kerzen Room Table Decoration Atmosphere Items
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c459TMRX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-christmas-themed-cute-scented-candle-set
+
+## TWS Sports Earbuds Bluetooth 5.4 HIFI Bass Wireless Headphones LED Touch Hands-free Earphone Noise Cancelling Waterproof Headset
+- Price: USD None
+- Platform: aliexpress
+- Category: electronics
+- Buy: https://s.click.aliexpress.com/e/_c4LeVNvr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-tws-sports-earbuds-bluetooth-5-4
+
+## Women's Summer Short Sleeve Sundress ZANZEA Woman Floral Printed Dress Bohemian Elegant Casual Oversized Holiday Long Dresses
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c43Qer6t
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-women-s-summer-short-sleeve-sundress
+
+## 2026 New Style Advanced Women's Handbag Light Luxury Portable Bucket Bag Versatile Fashionable Commuting Shoulder Crossbody Bag
+- Price: USD None
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c3TCe0Bn
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2026-new-style-advanced-women-s
+
+## Xl Workout Leggings For Women Tights Seamless Gym Leggings Sport High Waist Push Up Leggings 2021 Fitness Pants Yoga Clothes
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4Xrx4Gp
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-xl-workout-leggings-for-women-tights
+
+## Womens White Leather Platform Sneakers Hidden Heel Lift Casual Low Top Lace Up Shoes With Black Accent For Daily Street Style
+- Price: USD None
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c4shI465
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-womens-white-leather-platform-sneakers-hidden
+
+## Satin Lace Patchwork Midi Skirt 2025 Women A-line Elegant Smooth Skirt Women Clothing
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4Oh5W4t
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-satin-lace-patchwork-midi-skirt-2025
+
+## Elegant Hollow Out Knit Cardigan for Women, Summer Vacation Sweater, Pure Color, Stylish and Comfortable, Perfect for Casual Wea
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3S4f7u9
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-elegant-hollow-out-knit-cardigan-for
+
+## Casual Womens Y2K Loose Baggy Jeans Blue Washed High Street Vintage Cargo Pants Wide Leg Oversized Trousers Y2K Pants
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3KuTVpr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-casual-womens-y2k-loose-baggy-jeans
+
+## Women's 1-Piece Floral Swimsuit - Sexy V-Neck, Ruffle Sleeve Bathing Suit for Sports & Outdoor Use
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4T75U93
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-women-s-1-piece-floral-swimsuit
+
+## Womens Wool Cardigan Coats With Pockets Ladies Lapel Long Jacket Coat Fashion Solid Casual Winter Jackets for Women Plus Coat
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4WqNUFR
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-womens-wool-cardigan-coats-with-pockets
+
+## Portable Face Bowl for Ice With Built-in Ice Tray Collapsible Silicone Facial Face Ice Bath Bowl Small Reusable Cold Face Bowl
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c4cop9ep
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-portable-face-bowl-for-ice-with
+
+## 7 Colors Led Facial Mask With Neck Red Light Therapy Mask For Skin Tightening Lifting Anti-aging Bio-Light Beauty Whitening Home
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c4KQ8LnT
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-7-colors-led-facial-mask-with
+
+## Jessup Eye Makeup Brushes Set Professional Eye Blending Brush Synthetic Blends Shadow Crease Pencil Smoky T338
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c45cWwJB
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-jessup-eye-makeup-brushes-set-professional
+
+## 10 Pcs/Set Face Gua Sha Tool Natural Rose Quartz Skin Health Care Massager Body Eye Head Crystal Mineral Stone Beauty Product
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c3vdoWlb
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-10-pcs-set-face-gua-sha
+
+## New Rechargeable Nail Lamp Cordless Gel Polish Dryer UV Light for Nails Manicure Light Large Capacity Wireless Nail LED Lamp
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3xkWGyZ
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-new-rechargeable-nail-lamp-cordless-gel
+
+## 3 In 1 Ionic Hair Curler Straightener Professional Curling Iron Heated Hair Styling Brush Anti-Scald Thermal Brush Curl Wand
+- Price: USD None
+- Platform: aliexpress
+- Category: hair
+- Buy: https://s.click.aliexpress.com/e/_c3zH6Y25
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-3-in-1-ionic-hair-curler
+
+## Ultrasonic Skin Scrubber Blackhead Remover Deep Pore Cleaner Facial Cleansing Device Exfoliator
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c4VDX5dn
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-ultrasonic-skin-scrubber-blackhead-remover-deep
+
+## Winsleter,Women Double Layer Sleeping Night Cap 100% Real Silk Bonnet,Pure Hair Wrap Elastic Headwrap 2024 Summer A43753JC
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3xKyhIt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-winsleter-women-double-layer-sleeping-night
+
+## X&W Cartoon Insulated Cup 700ML Thermal Mug with Carrying Loop＆Cup Sleeve 316 Stainless Steel Sports Water Bottle for Students
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c41mCOvF
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-x-w-cartoon-insulated-cup-700ml
+
+## Portable Handheld Fan Mini Pocket Fan 3 In 1 Neck Fan Powerful 15000 RPM Turbo Airflow Travel Cooling Fan for Women
+- Price: USD None
+- Platform: aliexpress
+- Category: electronics
+- Buy: https://s.click.aliexpress.com/e/_c3O5KBM9
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-portable-handheld-fan-mini-pocket-fan
+
+## 7-Tier Dustproof Acrylic Jewelry Storage Box Modern Desktop Display Organizer
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c3Rc5Czj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-7-tier-dustproof-acrylic-jewelry-storage
+
+## Hump back corrector for men and women, adult posture correction with back to improve posture
+- Price: USD None
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c4e0eIdj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-hump-back-corrector-for-men-and
+
+## 10Pcs Resistance Bands Set Pull Straps Assistive Pull-Up Bands Exercise Straps Leg Exercise Bands for Gym Fitness Home Workout
+- Price: USD None
+- Platform: aliexpress
+- Category: fitness
+- Buy: https://s.click.aliexpress.com/e/_c3tbwEPX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-10pcs-resistance-bands-set-pull-straps
+
+## White Tearing Aromatherapy Candle Set, Christmas Home Decoration Candle Center, Wine Red Cylindrical Aromatherapy Candles
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c4lBSbMz
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-white-tearing-aromatherapy-candle-set-christmas
+
+## 2026 New Bluetooth 5.3 Bone Conduction Headphones Open-Ear Wireless Earphones, 20H Long Battery ENC Mic, Lightweight Sweatproof for Running
+- Price: USD None
+- Platform: aliexpress
+- Category: electronics
+- Buy: https://s.click.aliexpress.com/e/_c4l8mmKN
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2026-new-bluetooth-5-3-bone
+
+## Retro Desk Lamp Warm White Light USB-C Fast Charge USB-C Fast Charge Waterproof Dimmable Gift Idea Table Bedside Lamp Home Decor
+- Price: USD None
+- Platform: aliexpress
+- Category: home
+- Buy: https://s.click.aliexpress.com/e/_c2RZgMGt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-retro-desk-lamp-warm-white-light
+
+## Sexy Tight Half High Collar Pleated Waist Mini Dress Spicy Girls Slim Dresses Bodycon Women Vestidos Cortos Party Mujer Clothin
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c2zWSExf
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-sexy-tight-half-high-collar-pleated
+
+## Vintage Underarm Shoulder Bag for Women, Suede Faux Leather Baguette Purse with Gold Toggle Lock, Retro Handbag for Daily Commute Party,
+- Price: USD None
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c2Jl2nit
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-vintage-underarm-shoulder-bag-for-women
+
+## Yoga Leggings Back V Butt Sexy Leggings Women Yoga Pants Fitness Workout Gym Running Legging High Waist Active Wear Tights Pants
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3i16RDX
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-yoga-leggings-back-v-butt-sexy
+
+## SG06 Youth Breathable Mesh Women Cheerleading Shoes White Lightweight Sneakers For Aerobics Fitness Sports Training
+- Price: USD None
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c38AoVL3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-sg06-youth-breathable-mesh-women-cheerleading
+
+## Juakoso Women Satin Half Slip Skirts Lace Trim Elastic Waist Midi Skirt Elegant Silky Bodycon Knee Length Underskirts
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3N6NV4l
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-juakoso-women-satin-half-slip-skirts
+
+## Fair Island Pattern French Retro Jacquard Knitted Cardigan 2025 Early Spring Loose Fluffy Wool Sweater Coat
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3EP5NSt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-fair-island-pattern-french-retro-jacquard
+
+## Gothic Buddha Head Womens Jeans Y2K Clothes Hip Hop Pocket Embroidery Vintage Blue Baggy Jeans Low Waist Wide Leg Trousers
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4e7ChGd
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-gothic-buddha-head-womens-jeans-y2k
+
+## 2026 Printed One Piece Swimsuit Women Racing Padded Swimwear Sleeveless Conservative Style Bathers Bathing Swim Suit Beachwear
+- Price: USD None
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3xb7tf3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-2026-printed-one-piece-swimsuit-women
+
+## 8 Colors LED Face Mask PDT Equipment SPA Facial Spray Device Skin Rejuvenation Light Facial Body Beauty Machines For Skin Care
+- Price: USD None
+- Platform: aliexpress
+- Category: skincare
+- Buy: https://s.click.aliexpress.com/e/_c4WH63qh
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-8-colors-led-face-mask-pdt
+
+## Professional 9Pcs Eyeshadow Brush Set Premium Synthetic Brushes for Liquid Cream Powder Makeup Tools
+- Price: USD None
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3icbl5P
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-professional-9pcs-eyeshadow-brush-set-premium
+
+## Women's 100% Pure Mulberry Silk Hand-Painted Small Square Scarf
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p6l3qhcq8h3
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-100-pure-mulberry-silk
+
+## Women's Vintage Beret Hat Soft Warm Lightweight Winter Hat
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p22fk32mrm8
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-vintage-beret-hat-soft
+
+## Autumn/Winter Women's Fashion Sweatshirt and Pants 2pcs Set
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p8lrkup5a1v
+- Page: https://qa-affiliate.vercel.app/item/temu-autumn-winter-women-s-fashion-sweatshirt
+
+## Backpack Purse For Women Fashion Tassel Ladies Shoulder Bag
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p8dzu6t71c6
+- Page: https://qa-affiliate.vercel.app/item/temu-backpack-purse-for-women-fashion-tassel
+
+## Premium Texture Women's Printed Practical Handbag
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pt8he22xkpe
+- Page: https://qa-affiliate.vercel.app/item/temu-premium-texture-women-s-printed-practical
+
+## Pleather Solid Lychee Texture Medium Structured Women's Handbag
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pvt7gaax5rg
+- Page: https://qa-affiliate.vercel.app/item/temu-pleather-solid-lychee-texture-medium-structured
+
+## Pleated Athletic Tennis Skort 2-In-1 Skirt Shorts
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pfa4ebuq92o
+- Page: https://qa-affiliate.vercel.app/item/temu-pleated-athletic-tennis-skort-2-in
+
+## 2-Pack Fluffy Claw Clips for Women, Plush Shark Clip Hair Accessories
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ps1hffup1qg
+- Page: https://qa-affiliate.vercel.app/item/temu-2-pack-fluffy-claw-clips-for
+
+## Essential Oil Aromatherapy Mist Diffuser Humidifier with Night Light
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p4iywe3001o
+- Page: https://qa-affiliate.vercel.app/item/temu-essential-oil-aromatherapy-mist-diffuser-humidif
+
+## Thick Ultra-Soft Flannel Throw Blanket Cozy Plush Warm
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pt4a85ghluj
+- Page: https://qa-affiliate.vercel.app/item/temu-thick-ultra-soft-flannel-throw-blanket
+
+## Elegant Plus Size Women's Long Kimono Robe, Black Satin
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p2g1491w9es
+- Page: https://qa-affiliate.vercel.app/item/temu-elegant-plus-size-women-s-long
+
+## Women's Satin Bridal Robe Long Sleeve Loose Fit Kimono Bathrobe
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pymddxrxi1m
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-satin-bridal-robe-long
+
+## Tummy Control Butt Lift Daily Women's Bodysuit
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pxfhxg87mam
+- Page: https://qa-affiliate.vercel.app/item/temu-tummy-control-butt-lift-daily-women
+
+## Elegant Evening Clutch with Textured Patterns, Detachable Shoulder Strap
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p29nicwwh5p
+- Page: https://qa-affiliate.vercel.app/item/temu-elegant-evening-clutch-with-textured-patterns
+
+## 8pcs Wide African Turban Headbands for Women, Vintage Wrap
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pruuxzgaagx
+- Page: https://qa-affiliate.vercel.app/item/temu-8pcs-wide-african-turban-headbands-for
+
+## Winter Knitted Fleece Hat, Thickened Warm Ear Protection
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pjl22636foz
+- Page: https://qa-affiliate.vercel.app/item/temu-winter-knitted-fleece-hat-thickened-warm
+
+## Automatic Folding Umbrella Heavy-Duty Windproof, Compact
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p0uzcix5qmi
+- Page: https://qa-affiliate.vercel.app/item/temu-automatic-folding-umbrella-heavy-duty-windproof
+
+## Compact Mini Folding Umbrella Portable Pocket
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p0630905mf9
+- Page: https://qa-affiliate.vercel.app/item/temu-compact-mini-folding-umbrella-portable-pocket
+
+## Windproof Compact Umbrella Ultra-Light Mini Capsule
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p274iirqzw9
+- Page: https://qa-affiliate.vercel.app/item/temu-windproof-compact-umbrella-ultra-light-mini
+
+## Wall-Mounted Square Photo Frame and Candy Dispenser
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/psbqdabsrzj
+- Page: https://qa-affiliate.vercel.app/item/temu-wall-mounted-square-photo-frame-and
+
+## Women's Mid-Length Cardigan Coat, Elegant Daily Commute
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p5lr0sbtpar
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-mid-length-cardigan-coat
+
+## Women's Pullover Long Sleeve Sweater, Trendy Digital Print
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/psqnusbj7gs
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-pullover-long-sleeve-sweater
+
+## Adjustable Sports Jump Rope for Fitness Workouts
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p31mdjyiwvd
+- Page: https://qa-affiliate.vercel.app/item/temu-adjustable-sports-jump-rope-for-fitness
+
+## Fitness Jump Rope for Indoor and Outdoor Workouts
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p9ivanvv0ql
+- Page: https://qa-affiliate.vercel.app/item/temu-fitness-jump-rope-for-indoor-and
+
+## 5pcs Women's Satin Bonnets, Elastic Wide Edge
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pv24gsmqlfq
+- Page: https://qa-affiliate.vercel.app/item/temu-5pcs-women-s-satin-bonnets-elastic
+
+## Foldable Exercise Mat with Non-Slip PU Surface, Portable for Yoga
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pj3kc743y13
+- Page: https://qa-affiliate.vercel.app/item/temu-foldable-exercise-mat-with-non-slip
+
+## 2/4pcs Body Sponge Silicone Bath Brush Set, Shower Scrub
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p5f7u06pyx1
+- Page: https://qa-affiliate.vercel.app/item/temu-2-4pcs-body-sponge-silicone-bath
+
+## 4pcs Body Sponge Silicone Brush Set, Pink Blue Green Purple
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ph98tkt3uw7
+- Page: https://qa-affiliate.vercel.app/item/temu-4pcs-body-sponge-silicone-brush-set
+
+## Massage Bath Brush Long Handled Soft Bristled Back Rub
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/pjt5u92udrj
+- Page: https://qa-affiliate.vercel.app/item/temu-massage-bath-brush-long-handled-soft
+
+## 12-Pack Women's Candle Set, Small Soy Candles
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pi5t31uo8g2
+- Page: https://qa-affiliate.vercel.app/item/temu-12-pack-women-s-candle-set
+
+## Face Vitamin C Serum with Collagen and Vitamin E
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/p6d17xfvlwm
+- Page: https://qa-affiliate.vercel.app/item/temu-face-vitamin-c-serum-with-collagen
+
+## Makeup Setting Spray, Light Hydrating Long-Lasting
+- Price: USD None
+- Platform: temu
+- Category: beauty
+- Buy: https://temu.to/k/ppovocw2pub
+- Page: https://qa-affiliate.vercel.app/item/temu-makeup-setting-spray-light-hydrating-long
+
+## Women's Warm Fluffy Slippers, Home Comfort Bedroom
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pdushoeiamh
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-warm-fluffy-slippers-home
+
+## Women's Cute Cartoon Big Eyes Slippers, Four Seasons
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pr8m9jvxxlu
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-cute-cartoon-big-eyes
+
+## Retro Oversized Oval Gradient Fashion Glasses
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p9l00r7jo4o
+- Page: https://qa-affiliate.vercel.app/item/temu-retro-oversized-oval-gradient-fashion-glasses
+
+## Women's Large Canvas Tote Bag, Laptop Crossbody Hobo
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pn0bxk6yah9
+- Page: https://qa-affiliate.vercel.app/item/temu-women-s-large-canvas-tote-bag
+
+## Elegant Women's Midi Dress with Geometric Print, Puff Sleeves & Bow Detail
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pz2v0xynnot
+- Page: https://qa-affiliate.vercel.app/item/temu-elegant-midi-dress-geometric-print
+
+## 20pcs Orange Pumpkin String Lights with Timer — 11ft Battery Operated LED
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pxfds41m4z5
+- Page: https://qa-affiliate.vercel.app/item/temu-pumpkin-string-lights-20pcs
+
+## Halloween Ghost Bat Pumpkin String Lights — 10/20 LED Decorative String
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/prc5lotovj5
+- Page: https://qa-affiliate.vercel.app/item/temu-halloween-ghost-bat-lights
+
+## Halloween String Lights 2pcs — 20 LEDs, Pumpkins Witches Ghosts, 3m/9.84ft
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pgv7om5qpl9
+- Page: https://qa-affiliate.vercel.app/item/temu-halloween-string-lights-20led
+
+## 3pcs Abdominal Roller Set — Four-Wheel Ab Roller with Elbow Support
+- Price: USD None
+- Platform: temu
+- Category: fitness
+- Buy: https://temu.to/k/pfbjp81nhpd
+- Page: https://qa-affiliate.vercel.app/item/temu-abdominal-roller-set-3pcs
+
+## Multifunctional Fitness Training Set — Ab Roller, Push-up Bars, Resistance Bands & Jump Rope
+- Price: USD None
+- Platform: temu
+- Category: fitness
+- Buy: https://temu.to/k/pox4diyxwiy
+- Page: https://qa-affiliate.vercel.app/item/temu-fitness-training-set-multifunctional
+
+## Set of 4 Wireless Lace Bralettes — Full Coverage, Seamless
+- Price: USD None
+- Platform: temu
+- Category: lingerie
+- Buy: https://temu.to/k/pb90l2c2wg4
+- Page: https://qa-affiliate.vercel.app/item/temu-wireless-lace-bralettes-4pcs
+
+## 2pcs Halloween Witch Costume — Velvet Cape & Feather Shawl Set
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pnpzdhb0lio
+- Page: https://qa-affiliate.vercel.app/item/temu-halloween-witch-costume-velvet-cape
+
+## Halloween Witch Costume 4pcs Set — Dress, Hat, Stockings & Broom
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pmgnbpv2mdx
+- Page: https://qa-affiliate.vercel.app/item/temu-halloween-witch-costume-4pcs
+
+## Velvet Jewelry Organizer Roll — Travel Pouch for Rings, Earrings & Necklaces
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/pa4377ld7mx
+- Page: https://qa-affiliate.vercel.app/item/temu-velvet-jewelry-organizer-roll
+
+## Travel Jewelry Case — Zippered Velvet Organizer Pouch Bag
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/pp8ap4qijuq
+- Page: https://qa-affiliate.vercel.app/item/temu-travel-jewelry-case-velvet
+
+## Women's Elegant Leopard Print Satin Button-Front Collar Blouse Top
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/p9f6tuooewl
+- Page: https://qa-affiliate.vercel.app/item/temu-leopard-print-satin-blouse
+
+## Women's Elegant Red Satin Button-Front Long Sleeve Blouse
+- Price: USD None
+- Platform: temu
+- Category: fashion
+- Buy: https://temu.to/k/pgw21091zud
+- Page: https://qa-affiliate.vercel.app/item/temu-red-satin-button-blouse
+
+## 3 Layered Golden Plated Layering Necklaces — Cuban Link & Snake Chain
+- Price: USD None
+- Platform: temu
+- Category: jewelry
+- Buy: https://temu.to/k/p55jxlfudoh
+- Page: https://qa-affiliate.vercel.app/item/temu-golden-layering-necklaces-set
+
+## Electric Milk Frother and Whisk 2-in-1 Handheld — USB Rechargeable
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/p2t2ag8056r
+- Page: https://qa-affiliate.vercel.app/item/temu-electric-milk-frother-2in1
+
+## Fall Maple Leaf Garland with LED Pumpkin Lights — 3-Pack
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/ptp5z20j4l8
+- Page: https://qa-affiliate.vercel.app/item/temu-fall-maple-leaf-garland-lights
+
+## Ab Roller Wheel 10-in-1 Kit with Resistance Bands, Knee Mat & Jump Rope
+- Price: USD None
+- Platform: temu
+- Category: fitness
+- Buy: https://temu.to/k/pvfpl38yjiq
+- Page: https://qa-affiliate.vercel.app/item/temu-ab-roller-kit-10in1
+
+## Snowflake Projector — Indoor Decoration for Parties & Holidays
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/pbaqlzsvqpf
+- Page: https://qa-affiliate.vercel.app/item/temu-snowflake-projector
+
+## Elegant Black Lace-Trimmed Wireless Bralette — Seamless Comfort
+- Price: USD None
+- Platform: temu
+- Category: lingerie
+- Buy: https://temu.to/k/pxoc462llz1
+- Page: https://qa-affiliate.vercel.app/item/temu-lace-trimmed-wireless-bralette
+
+## 2pcs Women's Push-Up Wireless Lace Bralette — Seamless Everyday
+- Price: USD None
+- Platform: temu
+- Category: lingerie
+- Buy: https://temu.to/k/pk5khogtie3
+- Page: https://qa-affiliate.vercel.app/item/temu-wireless-lace-bralette-2pcs
+
+## 2pcs Satin Pillowcase Set — Soft Satin, Gentle on Skin & Hair
+- Price: USD None
+- Platform: temu
+- Category: home
+- Buy: https://temu.to/k/ptuvozp936g
+- Page: https://qa-affiliate.vercel.app/item/temu-satin-pillowcase-set-2pcs
 
