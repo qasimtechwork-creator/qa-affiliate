@@ -1,0 +1,54 @@
+{
+ "date": "2026-10-13",
+ "batch": "aliexpress round 2 batch 2 (tracking default)",
+ "staged": [
+  {
+   "id": "aliexpress-healing-crystal-chakra-bead-ring",
+   "name": "Healing Crystal Chakra Bead Ring — Natural Stone Bohemian Meditation Jewelry",
+   "affiliate_url": "https://s.click.aliexpress.com/e/_c3bY6Fbj",
+   "price": 1.03,
+   "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S660acd3c6bd542bcb0e492f33f4fa6ccH.jpg",
+   "source_url": "https://www.aliexpress.com/item/1005005472769839.html"
+  },
+  {
+   "id": "aliexpress-retro-candy-coin-purse",
+   "name": "Retro Candy-Colored Coin Purse — Ladies Short Buckle Change Purse",
+   "affiliate_url": "https://s.click.aliexpress.com/e/_c3XearF3",
+   "price": 1.09,
+   "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S9b48ab9e1e8d4b9ea7c7b45cfdff56457.jpg",
+   "source_url": "https://www.aliexpress.com/item/1005006885924884.html"
+  },
+  {
+   "id": "aliexpress-heart-cat-eye-sunglasses",
+   "name": "Heart-Shaped Cat Eye Sunglasses — Retro UV400 Protection for Women",
+   "affiliate_url": "https://s.click.aliexpress.com/e/_c3mi4nvP",
+   "price": 1.09,
+   "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S7cd092e34ca74be5853ab05ef1380d0cQ.jpg",
+   "source_url": "https://www.aliexpress.com/item/1005002617574662.html"
+  },
+  {
+   "id": "aliexpress-arabic-lace-wedding-dress",
+   "name": "Arabic Lace Wedding Dress — V-Neck Ivory Satin Applique Bridal Gown, Long Sleeves",
+   "affiliate_url": "https://s.click.aliexpress.com/e/_c4KiCrj3",
+   "price": 114.36,
+   "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/Sd270e8c40c774049a9241c1251164195p.jpg",
+   "source_url": "https://www.aliexpress.com/item/1005011546768255.html"
+  },
+  {
+   "id": "aliexpress-plaid-top-handle-bag",
+   "name": "Plaid PU Leather Top-Handle Bag — Casual Crossbody Shoulder Bag for Women",
+   "affiliate_url": "https://s.click.aliexpress.com/e/_c3sLymLr",
+   "price": 4.99,
+   "image_url": "https://ae-pic-a1.aliexpress-media.com/kf/S7e8f33ab60a947a4a2718e25276a93a82.jpg",
+   "source_url": "https://www.aliexpress.com/item/1005006183019197.html"
+  }
+ ],
+ "rejected": [
+  {
+   "name": "Fashion Vintage Flower Women Tote Cosmetic Bag Portable Pillow Makeup Organizer Pouch Washbag Large Capacity Travel Zipper Bag",
+   "affiliate_url": "https://s.click.aliexpress.com/e/_c3VniBpf",
+   "reason": "3-word overlap 'cosmetic bag portable' with existing temu-large-capacity-pu-transparent-cosmetic-bag-portable-zip (same product type) — probable near-duplicate per dedupe rule"
+  }
+ ],
+ "notes": "Staged 5 of 6. Overlaps 'natural stone bead' (ring vs bracelet vs anklet — different product types, material descriptor only) and 'crossbody shoulder bag' (shared across 5 catalog bags — generic category phrase) judged non-distinctive; staged with overlap noted."
+}
