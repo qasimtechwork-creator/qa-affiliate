@@ -6,4 +6,4 @@ Disallow: /data/
 Disallow: /admin/
 Disallow: /go/
 
-Sitemap: https://qa-affiliate.vercel.app/sitemap.xml
+Sitemap: https://qa-affiliate-blush.vercel.app/sitemap.xml
