@@ -27,7 +27,7 @@
   "demo_mode": false,
   "domain": {
     "_comment": "Current live URL on Vercel (verified 2026-09-28). Replace with the final custom domain when selected, and update sitemap.xml + robots.txt to match.",
-    "canonical": "https://qa-affiliate.vercel.app",
+    "canonical": "https://qa-affiliate-blush.vercel.app",
     "placeholder": true
   },
   "newsletter": {
