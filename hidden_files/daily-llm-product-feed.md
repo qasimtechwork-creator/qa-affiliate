@@ -1,7 +1,7 @@
 # QA Affiliate Product Feed
 
-Generated: 2026-10-13T01:44:10.212622
-Total: 6964 products
+Generated: 2026-10-14T01:44:12.292942
+Total: 7005 products
 
 ## Women's Elegant Solid Color Openwork Jacket — 2026 Spring/Summer Cardigan
 - Price: USD None
@@ -48750,4 +48750,291 @@ Total: 6964 products
 - Category: home
 - Buy: https://temu.to/k/ptuvozp936g
 - Page: https://qa-affiliate.vercel.app/item/temu-satin-pillowcase-set-2pcs
+
+## Chunky Cuban Chain Anklet with Rhinestones — Gold and Silver Foot Bracelet
+- Price: USD 5.41
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c3us2Fqt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-chunky-cuban-chain-anklet
+
+## 925 Silver Geometric Anklet for Women (A001)
+- Price: USD 3.4
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c3ygRYMt
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-925-silver-geometric-anklet
+
+## Boho Natural Stone Bead Anklet — Tiger Eye and White Howlite, 4mm
+- Price: USD 1.09
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c4PjTOmH
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-boho-tiger-eye-anklet
+
+## 925 Sterling Silver Star Pendant for Women — Vintage Style
+- Price: USD 1.49
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c3q1bWMh
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-925-silver-star-pendant
+
+## Healing Crystal Chakra Bead Ring — Natural Stone Bohemian Meditation Jewelry
+- Price: USD 1.03
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c3bY6Fbj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-healing-crystal-chakra-bead-ring
+
+## Retro Candy-Colored Coin Purse — Ladies Short Buckle Change Purse
+- Price: USD 1.09
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c3XearF3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-retro-candy-coin-purse
+
+## Heart-Shaped Cat Eye Sunglasses — Retro UV400 Protection for Women
+- Price: USD 1.09
+- Platform: aliexpress
+- Category: sunglasses
+- Buy: https://s.click.aliexpress.com/e/_c3mi4nvP
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-heart-cat-eye-sunglasses
+
+## Arabic Lace Wedding Dress — V-Neck Ivory Satin Applique Bridal Gown, Long Sleeves
+- Price: USD 114.36
+- Platform: aliexpress
+- Category: dresses
+- Buy: https://s.click.aliexpress.com/e/_c4KiCrj3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-arabic-lace-wedding-dress
+
+## Plaid PU Leather Top-Handle Bag — Casual Crossbody Shoulder Bag for Women
+- Price: USD 4.99
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c3sLymLr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-plaid-top-handle-bag
+
+## New Fall Vintage Embroidery Dress Loose Solid White Black Cotton Linen Dress Long Maxi Robe Plus Size One Piece Vestido
+- Price: USD 30.06
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4FqYTBF
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-new-fall-vintage-embroidery-dress-loose-solid-white-bla
+
+## Pit Drawstring Wrapped Short Vest Skirt Hip-covering Dress for Women Summer New European American Clothing
+- Price: USD 20.75
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3IooD1X
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-pit-drawstring-wrapped-short-vest-skirt-hip-covering-dr
+
+## Wedding Party Prom Dress Dubai African Women Luxury Ruffle Pleated Long Dress Ankara Dashiki Turkey Clothes Formal Occas
+- Price: USD 39.22
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3tzMssD
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-wedding-party-prom-dress-dubai-african-women-luxury-ruf
+
+## Off Shoulder Party Dress, Women‘s Sleeveless Sexy Bodycon Midi Dress, Elegant Bandage Cocktail Dress for Night Out
+- Price: USD 6.34
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3Mq3O0D
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-off-shoulder-party-dress-women-s-sleeveless-sexy-bodyco
+
+## GLCMYAYA Women Sleevelss Halter V-neck Ruffles Ball Gown Smock A-line Mini Midi Dress 2025 Summer Vacation Holiday Party
+- Price: USD 23.95
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://www.aliexpress.com/item/3256809296447325.html
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-glcmyaya-women-sleevelss-halter-v-neck-ruffles-ball-gow
+
+## Womens Stripe Blouse Cute Puff Sleeve with Adjustable Tie Cuffs Blouses Sexy V Neck Lapel Shirt Business Casual Blouses
+- Price: USD 14.39
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3PtCayD
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-womens-stripe-blouse-cute-puff-sleeve-with-adjustable-t
+
+## Plus Size Women’s Tops 2025 Summer Breathable and Sun-Proof Ice Silk Button Thin Loose Sheer Chiffon Blouses Shirts Long
+- Price: USD 9.45
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4s96385
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-plus-size-women-s-tops-2025-summer-breathable-and-sun-p
+
+## Summer Blouse Women Korean Style False Two-piece Polo Collar Blouses Y2k Tops Streetwear Loose Youth Pullovers Elegant S
+- Price: USD 11.25
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c4MxYXYl
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-summer-blouse-women-korean-style-false-two-piece-polo-c
+
+## Women Autumn Winter Blouses T Shirt Geometric Contrast Long Full Sleeve Print Loose Women Shirts Spring Autumn Elegant L
+- Price: USD 8.06
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://www.aliexpress.com/item/3256802604989519.html
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-women-autumn-winter-blouses-t-shirt-geometric-contrast
+
+## Plus Size Women Party Blouse Scallop V‑Neck Mesh Bell Sleeve Pearl Beaded Glitter Trim Burgundy Evening Clubwear Top
+- Price: USD 6.47
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c44wgqbr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-plus-size-women-party-blouse-scallop-v-neck-mesh-bell-s
+
+## Mini Box Crossbody Bag, Silver Quilted Metallic Purse with Chain Strap, Top Handle & Heart Charm, Women's Evening Clutch
+- Price: USD 12.55
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c30iTDFj
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-mini-box-crossbody-bag-silver-quilted-metallic-purse-wi
+
+## Women Genuine Leather Hobo Bag Soft Curved Shoulder Purse Large Capacity Casual Daily Outdoor Shopping Handbag
+- Price: USD 154.39
+- Platform: aliexpress
+- Category: bags
+- Buy: https://www.aliexpress.com/item/3256812847435374.html
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-women-genuine-leather-hobo-bag-soft-curved-shoulder-pur
+
+## Soft Interior Compartment Shoulder Bags High Quality Contrasting Colors Crossbody Bags for Women Fashion Pu Leather Hand
+- Price: USD 12.42
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c3izutxF
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-soft-interior-compartment-shoulder-bags-high-quality-co
+
+## Tassels Design Women Chest Bag Leather Ladies Crossbody Bags for Ladies 2026 New Female Waist Pack Fanny Packs Phone Pur
+- Price: USD 25.57
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c44cec53
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-tassels-design-women-chest-bag-leather-ladies-crossbody
+
+## Love and Deepspace Shoulder Bag For Woman Transparent Moli Ita Bag Floral Embroidery Bolsos Mujer Square Sac Femme Bolsa
+- Price: USD 10.41
+- Platform: aliexpress
+- Category: bags
+- Buy: https://s.click.aliexpress.com/e/_c2JX6q6d
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-love-and-deepspace-shoulder-bag-for-woman-transparent-m
+
+## Shoes Ladies Pumps Medium Heel Nude Sexy High Heels Weeding Shoes Women Office Work White Pumps Party Shoes
+- Price: USD 10.95
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c3DS4qTr
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-shoes-ladies-pumps-medium-heel-nude-sexy-high-heels-wee
+
+## Black Women's Elegant High Heels Red Shiny Bottoms Luxury Brand Women Heels 2025 Trend Pointed Toe Sexy Party Pumps Shoe
+- Price: USD 56.76
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c3JmS75r
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-black-women-s-elegant-high-heels-red-shiny-bottoms-luxu
+
+## LOSLANDIFEN Women Pumps Sexy Peep Toe Platform 14cm Super High Heels Patent Leather Shoes Red Wedding Stilettos Large Si
+- Price: USD 27.24
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c43dFfmp
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-loslandifen-women-pumps-sexy-peep-toe-platform-14cm-sup
+
+## Black Super High Heels Mary Jane Shoes Women 2026 Goth Chunky Platform Pumps Woman Plus Size Ankle Buckle Party Lolita S
+- Price: USD 16.82
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c4kbxw5j
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-black-super-high-heels-mary-jane-shoes-women-2026-goth
+
+## Spring & Autumn Fashion Crystal Bow Bridesmaid Shoes, Wedding Shoes With Strap Buckle, Banquet & Party Thick Heel Pumps,
+- Price: USD 45.89
+- Platform: aliexpress
+- Category: shoes
+- Buy: https://s.click.aliexpress.com/e/_c4dJZ3sV
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-spring-autumn-fashion-crystal-bow-bridesmaid-shoes-wedd
+
+## ASNORA Fashion CZ Bride Indian Jewelry Set for Women Water Drop Wedding Design Choker Necklace Girlfriend birthday Gifts
+- Price: USD 29.02
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://www.aliexpress.com/item/3256807743890830.html
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-asnora-fashion-cz-bride-indian-jewelry-set-for-women-wa
+
+## ASNORA Gorgeous Cubic Zirconia Stone Choker Fashion Pearl Necklace for Women Wedding Bridal Costume Jewelry Set X0620
+- Price: USD 42.39
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://www.aliexpress.com/item/3256808892783748.html
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-asnora-gorgeous-cubic-zirconia-stone-choker-fashion-pea
+
+## Huitan Delicate Small Round Stud Earrings Women with Shiny Cubic Zirconia Simple Versatile Accessories for Teens Fashion
+- Price: USD 1.09
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c4Muwhiv
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-huitan-delicate-small-round-stud-earrings-women-with-sh
+
+## Accessories for Women Crystal Charm Bracelets for Women Gold Color Beaded Chain Double Layered Adjustable Bracelet Jewel
+- Price: USD 2.64
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://s.click.aliexpress.com/e/_c2yHeSJn
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-accessories-for-women-crystal-charm-bracelets-for-women
+
+## Rose Gold Silver Plated Diamond Studded Bangle Bracelet for Women 16 17 18 19 Size Fashion Jewelry Bracelets
+- Price: USD 17.12
+- Platform: aliexpress
+- Category: jewelry
+- Buy: https://www.aliexpress.com/item/3256812015300356.html
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-rose-gold-silver-plated-diamond-studded-bangle-bracelet
+
+## Revlon Super Lustrous Lipstick Creme 777 Vampire Love
+- Price: USD 7.27
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3rvW5kl
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-revlon-super-lustrous-lipstick-creme-777-vampire-love
+
+## Revlon Super Lustrous Lipstick Matte 018 Rhythm & Blues
+- Price: USD 7.54
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3Kl99Bx
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-revlon-super-lustrous-lipstick-matte-018-rhythm-blues
+
+## Revlon Colorstay Satin Ink Liquid Lipstick 002 Wild Ride
+- Price: USD 6.78
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3vg34vT
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-revlon-colorstay-satin-ink-liquid-lipstick-002-wild-rid
+
+## Revlon Super Lustrous Matte Lipstick 017 Crushed Rubies
+- Price: USD 6.03
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c36FlxCV
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-revlon-super-lustrous-matte-lipstick-017-crushed-rubies
+
+## ZaiDoc 3pcs Flower Jelly Crystal Lipstick with Gift Fruit Lip Balm PH Color Changing Moisturizing Lip Gloss Balm Long La
+- Price: USD 10.65
+- Platform: aliexpress
+- Category: beauty
+- Buy: https://s.click.aliexpress.com/e/_c3w3N43r
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-zaidoc-3pcs-flower-jelly-crystal-lipstick-with-gift-fru
+
+## 2026 Brand Design Shiny Diamond Women's Hollow Out Woven Shell Handbag
+- Price: USD $52.69
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3DhCdX3
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-1005012699011676
+
+## Speciality Carbon Plate Sports Running Shoes Marathon Air Cushion
+- Price: USD $60.09
+- Platform: aliexpress
+- Category: fashion
+- Buy: https://s.click.aliexpress.com/e/_c3c1Alkl
+- Page: https://qa-affiliate.vercel.app/item/aliexpress-1005009214617486
 

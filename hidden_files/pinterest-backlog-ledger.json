@@ -307,7 +307,26 @@
   "temu-sunset-lamp-projector-with-adjustable-stand-led-ambient-nigh",
   "temu-20v-wireless-multifunctional-cleaning-brush-set-electric-wit",
   "temu-6-in-1-multifunctional-electric-cleaning-brush-cordless-rech",
-  "temu-16-in-1-manual-vegetable-chopper-set-8-blades-with-container"
+  "temu-16-in-1-manual-vegetable-chopper-set-8-blades-with-container",
+  "temu-16-in-1-manual-vegetable-chopper-with-8-blades-container-pee",
+  "temu-peel-off-lip-liner-tattoo-long-lasting-waterproof-lip-stain",
+  "temu-6-color-peel-off-lip-stain-liquid-long-lasting-transfer-resi",
+  "temu-3-in-1-magnetic-phone-holder-for-magsafe-iphone-12-17-foldab",
+  "temu-15w-fast-wireless-charging-phone-mount-vacuum-suction-magnet",
+  "temu-360-adjustable-vacuum-magnetic-car-phone-holder-for-magsafe",
+  "daraz-zero-evo-wireless-earbuds-bluetooth-5-4",
+  "daraz-m10-tws-wireless-bluetooth-earbuds",
+  "daraz-remax-rpp-87-20000mah-power-bank",
+  "daraz-mi-power-bank-3-20000mah",
+  "daraz-r1s-bluetooth-selfie-stick-3-in-1-tripod",
+  "daraz-saeed-ghani-vitamin-c-rose-water-120ml",
+  "daraz-saeed-ghani-onion-hair-growth-oil-140ml",
+  "daraz-saeed-ghani-rose-water-spray-120ml",
+  "daraz-saeed-ghani-hair-growth-water",
+  "daraz-t9-dragon-vintage-trimmer-for-men",
+  "daraz-chiffon-pinless-ready-to-wear-hijab",
+  "daraz-rukhyy-georgette-hijabs-bundle-with-pins",
+  "daraz-vagile-designer-printed-tote-bag"
  ],
  "last_run": {
   "date_utc": "2026-10-13T02:04:00Z",
@@ -315,5 +334,12 @@
   "stopped_on_limit": false,
   "note": "slow-pace rule (2026-10-12): max 20/day, no early stop, no warnings. Title for pin 1 trimmed to fit Pinterest 100-char limit (others fit). 1 image failed to download: temu-universal-mobile-phone-holder-for-car-dashboard (retries in backlog order next run).",
   "board": "Temu Women's Finds \u2014 Fashion, Beauty & Lifestyle"
- }
+ },
+ "runs": [
+  {
+   "date": "2026-10-13",
+   "pinned": 19,
+   "skipped": "temu-universal-mobile-phone-holder-for-car-dashboard (dead image URL)"
+  }
+ ]
 }
