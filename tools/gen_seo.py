@@ -21,7 +21,7 @@ import json, os, re, html, sys
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DOMAIN = "https://qa-affiliate.vercel.app"
+DOMAIN = "https://qa-affiliate-blush.vercel.app"
 TODAY = date.today().isoformat()
 
 def esc(s):
