@@ -1,0 +1,79 @@
+{
+  "auditor": "Sohail",
+  "date": "2026-10-14T05:24:30.562619Z",
+  "scope": "AliExpress products only",
+  "total": 295,
+  "correct": 289,
+  "correct_format": "s.click.aliexpress.com/e/_xxxxx (all 289 verified: 0 malformed, 0 duplicates, 0 empty URLs, 0 missing images, 0 missing names)",
+  "wrong_count": 6,
+  "wrong_products": [
+    {
+      "id": "aliexpress-glcmyaya-women-sleevelss-halter-v-neck-ruffles-ball-gow",
+      "name": "GLCMYAYA Women Sleevelss Halter V-neck Ruffles Ball Gown Smock A-line Mini Midi Dress 2025 Summer Vacation Holiday Party",
+      "price": 23.95,
+      "category": "fashion",
+      "affiliate_url": "https://www.aliexpress.com/item/3256809296447325.html",
+      "reason": "Plain aliexpress.com/item URL with zero affiliate tracking parameters - earns NO commission",
+      "product_healthy": true,
+      "recommendation": "REMOVE",
+      "note": "As a generic subagent I cannot access the live browser to regenerate affiliate links via the AliExpress portal (portals.aliexpress.com Link Generator). Product data is otherwise healthy (name, price, image present). Parent can optionally regenerate proper s.click links for these 6 item IDs via the portal instead of removing them."
+    },
+    {
+      "id": "aliexpress-women-autumn-winter-blouses-t-shirt-geometric-contrast",
+      "name": "Women Autumn Winter Blouses T Shirt Geometric Contrast Long Full Sleeve Print Loose Women Shirts Spring Autumn Elegant L",
+      "price": 8.06,
+      "category": "fashion",
+      "affiliate_url": "https://www.aliexpress.com/item/3256802604989519.html",
+      "reason": "Plain aliexpress.com/item URL with zero affiliate tracking parameters - earns NO commission",
+      "product_healthy": true,
+      "recommendation": "REMOVE",
+      "note": "As a generic subagent I cannot access the live browser to regenerate affiliate links via the AliExpress portal (portals.aliexpress.com Link Generator). Product data is otherwise healthy (name, price, image present). Parent can optionally regenerate proper s.click links for these 6 item IDs via the portal instead of removing them."
+    },
+    {
+      "id": "aliexpress-women-genuine-leather-hobo-bag-soft-curved-shoulder-pur",
+      "name": "Women Genuine Leather Hobo Bag Soft Curved Shoulder Purse Large Capacity Casual Daily Outdoor Shopping Handbag",
+      "price": 154.39,
+      "category": "bags",
+      "affiliate_url": "https://www.aliexpress.com/item/3256812847435374.html",
+      "reason": "Plain aliexpress.com/item URL with zero affiliate tracking parameters - earns NO commission",
+      "product_healthy": true,
+      "recommendation": "REMOVE",
+      "note": "As a generic subagent I cannot access the live browser to regenerate affiliate links via the AliExpress portal (portals.aliexpress.com Link Generator). Product data is otherwise healthy (name, price, image present). Parent can optionally regenerate proper s.click links for these 6 item IDs via the portal instead of removing them."
+    },
+    {
+      "id": "aliexpress-asnora-fashion-cz-bride-indian-jewelry-set-for-women-wa",
+      "name": "ASNORA Fashion CZ Bride Indian Jewelry Set for Women Water Drop Wedding Design Choker Necklace Girlfriend birthday Gifts",
+      "price": 29.02,
+      "category": "jewelry",
+      "affiliate_url": "https://www.aliexpress.com/item/3256807743890830.html",
+      "reason": "Plain aliexpress.com/item URL with zero affiliate tracking parameters - earns NO commission",
+      "product_healthy": true,
+      "recommendation": "REMOVE",
+      "note": "As a generic subagent I cannot access the live browser to regenerate affiliate links via the AliExpress portal (portals.aliexpress.com Link Generator). Product data is otherwise healthy (name, price, image present). Parent can optionally regenerate proper s.click links for these 6 item IDs via the portal instead of removing them."
+    },
+    {
+      "id": "aliexpress-asnora-gorgeous-cubic-zirconia-stone-choker-fashion-pea",
+      "name": "ASNORA Gorgeous Cubic Zirconia Stone Choker Fashion Pearl Necklace for Women Wedding Bridal Costume Jewelry Set X0620",
+      "price": 42.39,
+      "category": "jewelry",
+      "affiliate_url": "https://www.aliexpress.com/item/3256808892783748.html",
+      "reason": "Plain aliexpress.com/item URL with zero affiliate tracking parameters - earns NO commission",
+      "product_healthy": true,
+      "recommendation": "REMOVE",
+      "note": "As a generic subagent I cannot access the live browser to regenerate affiliate links via the AliExpress portal (portals.aliexpress.com Link Generator). Product data is otherwise healthy (name, price, image present). Parent can optionally regenerate proper s.click links for these 6 item IDs via the portal instead of removing them."
+    },
+    {
+      "id": "aliexpress-rose-gold-silver-plated-diamond-studded-bangle-bracelet",
+      "name": "Rose Gold Silver Plated Diamond Studded Bangle Bracelet for Women 16 17 18 19 Size Fashion Jewelry Bracelets",
+      "price": 17.12,
+      "category": "jewelry",
+      "affiliate_url": "https://www.aliexpress.com/item/3256812015300356.html",
+      "reason": "Plain aliexpress.com/item URL with zero affiliate tracking parameters - earns NO commission",
+      "product_healthy": true,
+      "recommendation": "REMOVE",
+      "note": "As a generic subagent I cannot access the live browser to regenerate affiliate links via the AliExpress portal (portals.aliexpress.com Link Generator). Product data is otherwise healthy (name, price, image present). Parent can optionally regenerate proper s.click links for these 6 item IDs via the portal instead of removing them."
+    }
+  ],
+  "products_json_modified": false,
+  "summary": "289/295 AliExpress products (98%) have correct affiliate tracking. 6 have plain product URLs with no tracking and earn zero commission. Recommended action: remove the 6 (or regenerate links via affiliate portal)."
+}
