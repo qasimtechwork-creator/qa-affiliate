@@ -1,1 +1,640 @@
-{"checked":{},"dead_hidden":[],"last_index":0,"runs":[{"batch":"catalog indices 0-141, first 120 temu products (all temu.to short links, no goods_id)","blocker":"security_challenge: Temu 'Security Verification' puzzle CAPTCHA triggered on first product-detail navigation; batch stopped per never-solve rule; 0 products classified","checked":0,"date":"2026-10-12"}]}
+{
+ "checked": {
+  "temu-openwork-jacket": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 0
+  },
+  "temu-shorts-3pack": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 1
+  },
+  "temu-openwork-cropped-jacket": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 2
+  },
+  "temu-white-sneakers": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 3
+  },
+  "temu-platform-shoes": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 4
+  },
+  "temu-jewelry-set-4pcs": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 5
+  },
+  "temu-sophisticated-jewelry-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 6
+  },
+  "temu-elegant-tote": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 7
+  },
+  "temu-large-handbag": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 8
+  },
+  "temu-makeup-brush-set-15": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 9
+  },
+  "temu-golden-brush-set-14": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 10
+  },
+  "temu-jade-roller-gua-sha": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 11
+  },
+  "temu-beauty-tool-set-3pcs": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 12
+  },
+  "temu-heatless-curlers": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 13
+  },
+  "temu-heatless-curling-rod": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 14
+  },
+  "temu-square-sunglasses": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 15
+  },
+  "temu-lace-bra-3pcs": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 16
+  },
+  "temu-yoga-bands": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 17
+  },
+  "temu-full-makeup-gift-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 18
+  },
+  "temu-open-front-jacket": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 19
+  },
+  "temu-women-s-floral-print-strapless-bodycon-midi-dress": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 32
+  },
+  "temu-2-piece-women-s-seamless-yoga-sportswear-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 33
+  },
+  "temu-11-piece-women-s-layered-necklace-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 34
+  },
+  "temu-plus-size-women-s-lace-sleeve-satin-robe": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 35
+  },
+  "temu-set-of-three-high-waisted-tie-dye-leggings-with-pockets": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 36
+  },
+  "temu-elegant-women-s-v-neck-floral-print-dress": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 37
+  },
+  "temu-red-satin-two-piece-pajama-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 38
+  },
+  "temu-4-piece-high-waisted-breathable-yoga-leggings-set": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 39
+  },
+  "temu-collagen-and-hyaluronic-acid-cream-with-vitamin-c-60g": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 40
+  },
+  "temu-6-piece-women-s-satin-hair-bandana-and-scarf-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 41
+  },
+  "temu-elegant-women-s-sequined-evening-clutch-with-chain-shoulder-": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 42
+  },
+  "temu-two-piece-silicone-scalp-massager-hair-care-set": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 43
+  },
+  "temu-burgundy-french-tip-press-on-nails-with-golden-bows": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 44
+  },
+  "temu-seven-in-one-electric-facial-cleansing-brush-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 45
+  },
+  "temu-reusable-ice-roller-for-face-and-eye": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 46
+  },
+  "temu-2026-womens-pocket-pleated-skirt": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 56
+  },
+  "temu-3pcs-womens-pearl-necklace-bracelet-and-earrings-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 57
+  },
+  "temu-mermaid-tail-glass-jewelry-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 58
+  },
+  "temu-2026-womens-summer-3pcs-handbag-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 59
+  },
+  "temu-12-color-smokey-eyeshadow-palette": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 60
+  },
+  "temu-30-pairs-natural-wispy-false-eyelashes": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 61
+  },
+  "temu-vitamin-c-and-niacinamide-hyaluronic-acid-face-serum": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 62
+  },
+  "temu-6-pack-satin-scrunchies-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 63
+  },
+  "temu-12-pack-35-inch-satin-square-scarves": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 64
+  },
+  "temu-7pcs-wire-free-bralette-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 65
+  },
+  "temu-3-pack-womens-high-waisted-full-length-leggings": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 66
+  },
+  "temu-womens-satin-lace-trim-midi-skirt-with-front-slit": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 68
+  },
+  "temu-hydrocolloid-pimple-patch-multipack": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 69
+  },
+  "temu-womens-geometric-cable-cardigan-with-buttons": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 70
+  },
+  "temu-womens-slip-on-canvas-loafers": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 71
+  },
+  "temu-personalized-heart-initial-pendant-necklace": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 72
+  },
+  "temu-bohemian-beaded-anklet-set-with-pearl-and-shell": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 73
+  },
+  "temu-led-vanity-makeup-mirror": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 74
+  },
+  "temu-portable-nano-facial-steamer": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 75
+  },
+  "temu-large-matte-claw-clips-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 76
+  },
+  "temu-bohemian-straw-sun-hat": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 77
+  },
+  "temu-pashmina-shawl-wrap": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 78
+  },
+  "temu-high-waist-tummy-control-shapewear-shorts": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 79
+  },
+  "temu-pilates-bar-resistance-kit": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 80
+  },
+  "temu-satin-cowl-neck-midi-dress": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 81
+  },
+  "temu-boho-floral-strapless-maxi-dress": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 82
+  },
+  "temu-quilted-crossbody-bag-with-adjustable-strap": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 83
+  },
+  "temu-layered-gold-tone-pendant-necklace": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 84
+  },
+  "temu-3-piece-layered-golden-necklace-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 85
+  },
+  "temu-boho-beaded-statement-necklace": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 86
+  },
+  "temu-silvery-platform-running-shoes": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 87
+  },
+  "temu-casual-wedge-sneakers": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 88
+  },
+  "temu-cat-paw-silicone-facial-cleanser": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 89
+  },
+  "temu-3-piece-vitamin-c-retinol-serum-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 90
+  },
+  "temu-heated-curling-brush-styler": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 91
+  },
+  "temu-2-piece-seamless-high-waist-workout-leggings": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 92
+  },
+  "temu-high-density-yoga-block-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 93
+  },
+  "temu-satin-v-neck-spaghetti-strap-nightgown": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 94
+  },
+  "temu-cat-eye-retro-sunglasses": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 95
+  },
+  "temu-portable-usb-rechargeable-blender": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 96
+  },
+  "temu-elegant-womens-bow-decor-thick-sole-loafers": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 97
+  },
+  "temu-lace-mesh-ballet-flats-for-women": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 98
+  },
+  "temu-womens-bow-detail-single-flat-shoes": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 99
+  },
+  "temu-pointed-flat-sequin-loafers": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 100
+  },
+  "temu-platform-loafers-for-women": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 101
+  },
+  "temu-lightweight-canvas-loafers-for-women": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 102
+  },
+  "temu-flat-mule-loafers-for-women": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 103
+  },
+  "temu-luxury-womens-jewelry-bundle-with-gift-box": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 104
+  },
+  "temu-y2k-luminous-glow-hair-extension-pieces": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 105
+  },
+  "temu-straight-ponytail-hair-extension-clip-in": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 106
+  },
+  "temu-adjustable-jump-rope-with-high-speed-bearings-heavy-duty-pvc": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 107
+  },
+  "temu-ladies-black-satin-spaghetti-strap-backless-maxi-dress": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 108
+  },
+  "temu-womens-oversized-red-and-black-color-block-jacket": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 109
+  },
+  "temu-womens-plus-size-autumn-winter-ankle-boots": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 110
+  },
+  "temu-womens-crisscross-strap-block-heel-sandals": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 111
+  },
+  "temu-8pcs-colorful-heart-artificial-pearl-beaded-bracelet-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 112
+  },
+  "temu-3pcs-18k-gold-plated-bamboo-pattern-stackable-bracelet-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 113
+  },
+  "temu-8pcs-stainless-steel-stud-earrings-set-3-4-5-6mm": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 114
+  },
+  "temu-4pcs-flower-stud-earrings-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 115
+  },
+  "temu-elegant-genuine-leather-bucket-bag": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 116
+  },
+  "temu-elegant-black-sequin-evening-bag": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 117
+  },
+  "temu-camellia-quilted-chain-mini-bag": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 118
+  },
+  "temu-elegant-quilted-mini-chain-shoulder-bag": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 119
+  },
+  "temu-womens-metal-fashion-golden-wide-waistband-elastic-pu-leather-belt": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 120
+  },
+  "temu-5-pack-womens-pu-leather-belts-with-golden-tone-letter-buckles": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 121
+  },
+  "temu-4pcs-8pcs-medium-claw-hair-clips-for-women": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 122
+  },
+  "temu-set-of-25-creamy-yellow-hair-clips": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 123
+  },
+  "temu-73pcs-hair-clip-and-hair-tie-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 124
+  },
+  "temu-5pcs-womens-viscose-camisoles-with-built-in-bra-non-removable-padd": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 125
+  },
+  "temu-portable-mini-skincare-refrigerator-1-06-gallon-for-bedroom-and-of": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 126
+  },
+  "temu-womens-casual-knit-mary-jane-flats": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 127
+  },
+  "temu-womens-embellished-pu-evening-clutch": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 128
+  },
+  "temu-bohemian-floral-embroidery-straw-hat": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 129
+  },
+  "temu-12-piece-eva-yoga-blocks": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 130
+  },
+  "temu-24-pack-eva-yoga-blocks": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 131
+  },
+  "temu-5-piece-makeup-sponge-pack": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 132
+  },
+  "temu-white-knit-cardigan": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 133
+  },
+  "temu-womens-oversized-denim-jacket": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 134
+  },
+  "temu-geometric-pattern-turtleneck-sweater": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 135
+  },
+  "temu-colorful-cufflink-bracelet-set": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 136
+  },
+  "temu-bow-and-pearl-mary-jane-flats": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 137
+  },
+  "temu-natural-amethyst-chip-bracelet": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 138
+  },
+  "temu-3pcs-plus-size-black-lace-babydoll-bralette": {
+   "date": "2026-10-15",
+   "status": "dead",
+   "index": 139
+  },
+  "temu-summer-womens-casual-floral-print-dress": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 140
+  },
+  "temu-womens-floral-print-shirt-dress": {
+   "date": "2026-10-15",
+   "status": "purchasable",
+   "index": 141
+  }
+ },
+ "dead_hidden": [
+  "temu-white-sneakers",
+  "temu-4-piece-high-waisted-breathable-yoga-leggings-set",
+  "temu-two-piece-silicone-scalp-massager-hair-care-set",
+  "temu-12-color-smokey-eyeshadow-palette",
+  "temu-silvery-platform-running-shoes",
+  "temu-elegant-womens-bow-decor-thick-sole-loafers",
+  "temu-pointed-flat-sequin-loafers",
+  "temu-ladies-black-satin-spaghetti-strap-backless-maxi-dress",
+  "temu-womens-oversized-red-and-black-color-block-jacket",
+  "temu-camellia-quilted-chain-mini-bag",
+  "temu-24-pack-eva-yoga-blocks",
+  "temu-white-knit-cardigan",
+  "temu-bow-and-pearl-mary-jane-flats",
+  "temu-3pcs-plus-size-black-lace-babydoll-bralette"
+ ],
+ "last_index": 142,
+ "runs": [
+  {
+   "batch": "catalog indices 0-141, first 120 temu products (all temu.to short links, no goods_id)",
+   "blocker": "security_challenge: Temu 'Security Verification' puzzle CAPTCHA triggered on first product-detail navigation; batch stopped per never-solve rule; 0 products classified",
+   "checked": 0,
+   "date": "2026-10-12"
+  },
+  {
+   "date": "2026-10-15",
+   "batch": "catalog indices 0-141, 120 temu products",
+   "checked": 120,
+   "purchasable": 106,
+   "sold_out": 11,
+   "discontinued": 3,
+   "dead_hidden": 14,
+   "active_catalog_total": 6951,
+   "blocker": "Vercel deployment BLOCKED ('Account is blocked' on commit status for both author identities tried); live site still serves pre-run build. Commit 2c7e06e3 pushed to origin/master; needs Qasim to check Vercel dashboard (team hiddentry)."
+  }
+ ]
+}
