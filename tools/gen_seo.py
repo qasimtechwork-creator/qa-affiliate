@@ -93,10 +93,31 @@ for p in products:
     by_cat.setdefault(p.get("category"), []).append(p)
 
 def related(p, n=4):
-    out = [x for x in by_cat.get(p.get("category"), []) if x.get("id") != p.get("id")]
+    out = [x for x in by_cat.get(p.get("category"), []) if x.get("id") != p.get("id") and x.get("status") != "dead"]
     return out[:n]
 
+def dead_redirect_page(p):
+    pid = p["id"]
+    cat = p.get("category") or "products"
+    cat_url = f"/category?cat={esc(cat)}"
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0;url={cat_url}">
+<link rel="canonical" href="{DOMAIN}{cat_url}">
+<title>This item is no longer available | {esc(BRAND_NAME)}</title>
+</head>
+<body>
+<p>This item is no longer available. <a href="{cat_url}">Continue shopping</a>.</p>
+</body>
+</html>
+"""
+
 def item_page(p):
+    if p.get("status") == "dead":
+        return dead_redirect_page(p)
     pid = p["id"]
     url = f"{DOMAIN}/item/{pid}"
     name = p.get("name", pid)
@@ -231,7 +252,7 @@ def main():
             if fn.endswith(".html"):
                 add(f"{DOMAIN}/guides/{fn[:-5]}", "monthly", "0.7")
     for p in products:
-        if p.get("id"):
+        if p.get("id") and p.get("status") != "dead":
             add(f"{DOMAIN}/item/{p['id']}", "weekly", "0.8")
     for c in categories:
         if c.get("id"):
